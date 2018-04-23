@@ -1,0 +1,20 @@
+[Event "London"]
+[Site "London ENG"]
+[Date "1899.06.03"]
+[EventDate "1899.05.30"]
+[Round "4"]
+[Result "1-0"]
+[White "David Janowski"]
+[Black "Carl Schlechter"]
+[ECO "C78"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Nc3 b5 7.Bb3
+d6 8.d3 Na5 9.Ne2 O-O 10.Ng3 c6 11.c3 Nxb3 12.axb3 Re8 13.d4
+Qc7 14.Re1 c5 15.d5 Nd7 16.Nf5 Nf8 17.g4 Bf6 18.c4 b4 19.h3
+Ng6 20.g5 Bd8 21.Nh2 f6 22.gxf6 Bxf6 23.Qh5 Rf8 24.Ng4 Qd8
+25.Kh1 Nf4 26.Bxf4 exf4 27.Rg1 Ra7 28.f3 Kh8 29.Nxf6 Qxf6
+30.Nh4 Kg8 31.Rg2 Re7 32.Rg5 Qxb2 33.Rag1 Rff7 34.Qxh7+ Kxh7
+35.Rh5+ Kg8 36.Ng6 1-0

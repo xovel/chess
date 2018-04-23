@@ -1,0 +1,21 @@
+[Event "WMCCC"]
+[Site "Maastricht NED"]
+[Date "2001.08.19"]
+[EventDate "2001.08.19"]
+[Round "1"]
+[Result "1-0"]
+[White "Gandalf (Computer)"]
+[Black "XINIX (Computer)"]
+[ECO "C45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Qh4 5. Nb5 Kd8 6. N1c3
+Bb4 7. Bd2 Nge7 8. a3 Bc5 9. g3 Qf6 10. Bf4 Ne5 11. Nd5 Nxd5
+12. Qxd5 Nf3+ 13. Ke2 Nd4+ 14. Kd3 Ne6 15. Nxc7 Nxc7 16. Qxc5
+Ne6 17. Qe5 Nxf4+ 18. gxf4 Qa6+ 19. Kd2 f6 20. Qd4 Qa5+ 21. c3
+Re8 22. Re1 Qc7 23. e5 fxe5 24. fxe5 Qb6 25. Qh4+ Kc7 26. Kc1
+Rf8 27. Re2 Qg6 28. Bh3 Rf3 29. e6 d5 30. Rd1 Rf6 31. Qb4 Qg5+
+32. Rdd2 Kc6 33. c4 d4 34. f4 Rxf4 35. Bg2+ Kc7 36. e7 Rf1+
+37. Kc2 Qf5+ 38. Rd3 a5 39. e8=N+ 1-0

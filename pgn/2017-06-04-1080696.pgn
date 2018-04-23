@@ -1,0 +1,17 @@
+[Event "Simul"]
+[Site "Ciudad Guatamala"]
+[Date "1940.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Georges Koltanowski"]
+[Black "J Salazar"]
+[ECO "D05"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "39"]
+
+1.d4 Nf6 2.Nf3 e6 3.e3 d5 4.Bd3 Be7 5.Nbd2 Nbd7 6.O-O O-O
+7.Qe2 Re8 8.e4 dxe4 9.Nxe4 c5 10.c3 b6 11.Ne5 Bb7 12.Nxf7 Qc7
+13.Nfg5 Bxe4 14.Bxe4 Nxe4 15.Qxe4 Nf6 16.Qxe6+ Kh8 17.Nf7+ Kg8
+18.Nh6+ Kh8 19.Qg8+ Rxg8 20.Nf7# 1-0

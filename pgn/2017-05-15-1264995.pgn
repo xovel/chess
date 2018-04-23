@@ -1,0 +1,22 @@
+[Event "Nova Gorica"]
+[Site "Nova Gorica"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Adrian Mikhalchishin"]
+[Black "Dusko Pavasovic"]
+[ECO "D45"]
+[WhiteElo "2518"]
+[BlackElo "2539"]
+[PlyCount "59"]
+
+1.d4 {Notes by Adrian Mikhalchishin} d5 2.c4 e6 3.Nc3 c6 4.e3
+Nf6 5.Nf3 Nbd7 6.Qc2 Bd6 7.e4 Nxe4 8.Nxe4 dxe4 9.Qxe4 e5
+10.dxe5 O-O 11.exd6 Re8 12.Qxe8+ Qxe8 13.Be3 b5 14.O-O-O Nf6
+15.Bd4 Be6 16.Bxf6 gxf6 17.c5 b4 {A bad move, but also
+unsatisfactory is 17...Bxa2 18.Bd3 Bd5 19.Rhe1 Qd7 20.Be4!
+--Mikhalchishin} 18.Kb1 Qd8 19.Nd4 Bd5 20.Rc1 Qa5 21.Nb3 Qd8
+{What else is there to do? --Mikhalchishin} 22.Bc4 Be4+ 23.Ka1
+Qd7 24.f3 Bf5 25.Nd4 Re8 26.Rhe1 Re5 27.Rxe5 fxe5 28.Nxf5 Qxf5
+29.Rd1 Qd7 30.Bb5 {!} 1-0

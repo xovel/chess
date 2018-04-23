@@ -1,0 +1,17 @@
+[Event "Southsea"]
+[Site "Southsea ENG"]
+[Date "1950.04.??"]
+[EventDate "?"]
+[Round "10"]
+[Result "1-0"]
+[White "A H Trott"]
+[Black "Henry Holwell Cole"]
+[ECO "B00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1.d4 d6 2.e4 Nc6 3.d5 Ne5 4.f4 Nd7 5.Nf3 e5 6.dxe6 fxe6 7.c4
+e5 8.f5 Be7 9.Nc3 Bf6 10.Be2 a5 11.Be3 b6 12.Qd5 Rb8 13.Ng5
+Bxg5 14.Bh5+ g6 15.fxg6 Bh4+ 16.g3 Qe7 17.g7 Kd8 18.gxh8=Q Nf6
+19.Qhxg8+ Nxg8 20.Qxg8+ Kd7 21.Bg4+ Kc6 22.Qd5# 1-0

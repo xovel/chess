@@ -1,0 +1,17 @@
+[Event "cr"]
+[Site "cr"]
+[Date "1896.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "B Mikyska"]
+[Black "Karel Traxler"]
+[ECO "C57"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "36"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 Bc5 5.Nxf7 Bxf2+ 6.Kf1 Qe7
+7.Nxh8 d5 8.exd5 Nd4 9.c3 Bg4 10.Qa4+ Nd7 11.Kxf2 Qh4+ 12.Ke3
+Qg5+ 13.Kf2 Qf5+ 14.Kg1 O-O-O 15.cxd4 Rf8 16.h3 Qf2+ 17.Kh2
+Bxh3 18.Kxh3 g5 0-1

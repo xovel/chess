@@ -1,0 +1,19 @@
+[Event "NED-ch internet"]
+[Site "playchess.com INT"]
+[Date "2011.06.18"]
+[EventDate "?"]
+[Round "2.4"]
+[Result "0-1"]
+[White "Jan Smeets"]
+[Black "Daan Brandenburg"]
+[ECO "C02"]
+[WhiteElo "2647"]
+[BlackElo "2535"]
+[PlyCount "52"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 Nh6
+7. b4 cxd4 8. cxd4 Nf5 9. Be3 Bd7 10. Nc3 Rc8 11. Na4 Qd8
+12. Bd3 Nxe3 13. fxe3 Be7 14. O-O O-O 15. e4 Nxd4 16. Nxd4
+Bxa4 17. Qxa4 dxe4 18. Nxe6 fxe6 19. Be2 Qd4+ 20. Kh1 Qxe5
+21. Qxa7 Bd6 22. g3 Rc2 23. Qe3 Rf3 24. Bxf3 Rxh2+ 25. Kxh2
+Qxg3+ 26. Kh1 Qh2# 0-1

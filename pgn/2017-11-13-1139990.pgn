@@ -1,0 +1,17 @@
+[Event "Moscow"]
+[Site "Moscow URS"]
+[Date "1971.11.30"]
+[EventDate "1971.11.24"]
+[Round "6"]
+[Result "1-0"]
+[White "Mikhail Tal"]
+[Black "Wolfgang Uhlmann"]
+[ECO "C07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.Ngf3 Nc6 5.Bb5 dxe4 6.Nxe4 Bd7
+7.Bg5 Qa5+ 8.Nc3 cxd4 9.Nxd4 Bb4 10.O-O Bxc3 11.bxc3 Qxc3
+12.Nf5 exf5 13.Re1+ Be6 14.Qd6 a6 15.Bd2 Qxc2 16.Bb4 axb5
+17.Qf8+ Kd7 18.Red1+ Kc7 19.Qxa8 1-0

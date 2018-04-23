@@ -1,0 +1,18 @@
+[Event "ICC 55 0 u"]
+[Site "Internet Chess Club"]
+[Date "2004.02.24"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Grigor Minchev"]
+[Black "Attila Turzo"]
+[ECO "C46"]
+[WhiteElo "2331"]
+[BlackElo "2372"]
+[PlyCount "41"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Nxe5 Nxe5 5. d4 Ng6 6. e5
+Ng8 7. Bc4 d6 8. Qf3 Qd7 9. O-O dxe5 10. dxe5 c6 11. Re1 Qc7
+12. Bg5 h6 13. Rad1 hxg5 14. Nb5 cxb5 15. Bxb5+ Bd7 16. Rxd7
+Qxd7 17. Bxd7+ Kxd7 18. Qxb7+ Ke6 19. Qc6+ Kf5 20. Qd7+ Kf4
+21. g3+ 1-0

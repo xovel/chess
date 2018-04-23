@@ -1,0 +1,15 @@
+[Event "New Orleans, USA"]
+[Site "New Orleans USA"]
+[Date "1927.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Dupre"]
+[Black "Carlos Torre Repetto"]
+[ECO "C41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "20"]
+
+1. e4 e5 2. Nf3 d6 3. d4 f5 4. Bc4 exd4 5. exf5 Qe7+ 6. Kd2 g6
+7. Re1 Bh6+ 8. Kd3 Bxf5+ 9. Kxd4 Bg7+ 10. Kd5 c6# 0-1

@@ -1,0 +1,22 @@
+[Event "Dortmund"]
+[Site "Dortmund GER"]
+[Date "2013.07.28"]
+[EventDate "2013.07.26"]
+[Round "3.4"]
+[Result "0-1"]
+[White "Fabiano Caruana"]
+[Black "Michael Adams"]
+[ECO "C67"]
+[WhiteElo "2796"]
+[BlackElo "2740"]
+[PlyCount "82"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6
+dxc6 7. dxe5 Nf5 8. Qxd8+ Kxd8 9. h3 Bd7 10. Rd1 Kc8 11. g4
+Ne7 12. Ng5 Be8 13. f4 h5 14. Kf2 b6 15. f5 Kb7 16. Nc3 hxg4
+17. hxg4 Rh2+ 18. Kg3 Rxc2 19. Nh7 c5 20. Nxf8 Bc6 21. f6 Rg2+
+22. Kf4 gxf6 23. exf6 Rf2+ 24. Ke3 Rxf6 25. Nh7 Rf3+ 26. Kd2
+Rd8+ 27. Kc2 Rxc3+ 28. bxc3 Ba4+ 29. Kb2 Rxd1 30. Bg5 Nc6
+31. Rxd1 Bxd1 32. Bf4 Bxg4 33. Nf6 Bf3 34. Ne8 Na5 35. Nxc7
+Bc6 36. Kc2 Kc8 37. Kd3 Kd7 38. Kc2 Nc4 39. Na6 Bb7 40. Nb8+
+Kc8 41. Kd3 b5 0-1

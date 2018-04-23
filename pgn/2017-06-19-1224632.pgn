@@ -1,0 +1,17 @@
+[Event "Simul, 30b"]
+[Site "Breslau (Wroclaw) GER"]
+[Date "1909.10.07"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Alfons Lasker"]
+[Black "Edward Lasker"]
+[ECO "C50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "40"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.Bg5 d6 6.h3 Be6 7.Bb5
+a6 8.Bxc6+ bxc6 9.d4 exd4 10.Nxd4 Bxd4 11.Qxd4 c5 12.Qc3 Nxe4
+13.Qxg7 Qxg5 14.Qxh8+ Kd7 15.Qxa8 Qc1+ 16.Ke2 Qxc2+ 17.Ke3
+Qxf2+ 18.Kd3 c4+ 19.Kxe4 Bf5+ 20.Kd5 Qc5# 0-1

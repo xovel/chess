@@ -1,0 +1,23 @@
+[Event "casual odds game"]
+[Site "?"]
+[Date "1821.??.??"]
+[EventDate "?"]
+[Round "-"]
+[Result "0-1"]
+[White "John Cochrane"]
+[Black "Alexandre Louis Honore Lebreton Deschapelles"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "54"]
+[SetUp "1"]
+[FEN "r1bqkbnr/ppppp1pp/2n5/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 1"]
+
+1. f4 { Black removes f7 and White has first 2 moves in this
+odds game: 1.e4..., 2.d4 Nc6 giving the starting position
+shown here } 1... d5 2. e5 Bf5 3. c3 e6 4. Bd3 Nh6 5. Ne2 Qh4+
+6. g3 Qh3 7. Kd2 Bxd3 8. Kxd3 Qf5+ 9. Kd2 Ng4 10. Ke1 Qe4
+11. Rg1 Nxh2 12. Nd2 Qd3 13. Kf2 Ng4+ 14. Ke1 Qe3 15. Nf1 Qf2+
+16. Kd2 Qf3 17. Kc2 Nf2 18. Qd2 Qe4+ 19. Kb3 Na5+ 20. Ka4 Nc4
+21. Qe1 Qc2+ 22. b3 Nd3 23. Ne3 Nxe3 24. Qd2 Nb2+ 25. Kb5 c6+
+26. Ka5 Nec4+ 27. bxc4 Qa4# 0-1

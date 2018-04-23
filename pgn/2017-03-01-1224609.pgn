@@ -1,0 +1,25 @@
+[Event "Hostoun"]
+[Site "Hostoun AUH"]
+[Date "1890.03.20"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "J Reinisch"]
+[Black "Karel Traxler"]
+[ECO "C57"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "34"]
+
+1.e4 {Notes by Karel Traxler} e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 Bc5
+{An original combination that is better than it looks. A small
+mistake by white can give black a decisive attack. It is not
+easy to find the best defense against it in a practical game
+and it is probably theoretically correct. ... It somewhat
+resembles the Blackmar-Jerome gambit: 1.e4 e5 2.Nf3 Nc6 3.Bc4
+Bc5 4.Bxf7+?! Kxf7 5.Nxe5+?!} 5.Nxf7 Bxf2+ 6.Ke2 {The best
+defense is 6.Kf1! although after 6...Qe7 7.Nxh8 d5 8.exd5 Nd4
+Black gets a strong attack.} Nd4+ 7.Kd3 b5 8.Bb3 Nxe4 9.Nxd8
+{White has no defense; the mating finale is pretty.} Nc5+
+10.Kc3 Ne2+ 11.Qxe2 Bd4+ 12.Kb4 a5+ 13.Kxb5 Ba6+ 14.Kxa5 Bd3+
+15.Kb4 Na6+ 16.Ka4 Nb4+ 17.Kxb4 c5# 0-1

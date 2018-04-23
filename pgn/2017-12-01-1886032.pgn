@@ -1,0 +1,18 @@
+[Event "World Cup"]
+[Site "Tbilisi GEO"]
+[Date "2017.09.21"]
+[EventDate "2017.09.03"]
+[Round "6.4"]
+[Result "1-0"]
+[White "Levon Aronian"]
+[Black "Maxime Vachier-Lagrave"]
+[ECO "D70"]
+[WhiteElo "2799"]
+[BlackElo "2789"]
+[PlyCount "51"]
+
+1. d4 Nf6 2. c4 g6 3. f3 c5 4. d5 d6 5. Nc3 e6 6. e4 Bg7
+7. Nge2 O-O 8. Ng3 a6 9. a4 h5 10. Bg5 Qc7 11. Qd2 exd5
+12. cxd5 Nh7 13. Bh6 h4 14. Bxg7 Kxg7 15. Bc4 hxg3 16. hxg3
+Rh8 17. e5 Qe7 18. O-O-O Nd7 19. exd6 Qxd6 20. Ne4 Qe5 21. d6
+g5 22. Rhe1 b5 23. Bd5 Rb8 24. f4 Qd4 25. Qe2 Qb4 26. Qh5 1-0

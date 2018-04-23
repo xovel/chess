@@ -1,0 +1,25 @@
+[Event "World Cup"]
+[Site "Tbilisi GEO"]
+[Date "2017.09.04"]
+[EventDate "2017.09.03"]
+[Round "1.2"]
+[Result "1-0"]
+[White "Le Quang Liem"]
+[Black "Vitaly Kunin"]
+[ECO "A10"]
+[WhiteElo "2739"]
+[BlackElo "2551"]
+[PlyCount "119"]
+
+1. d4 e6 2. c4 b6 3. a3 Bb7 4. Nc3 f5 5. d5 Nf6 6. g3 Na6
+7. Bg2 Nc5 8. Nh3 Bd6 9. Nb5 Be5 10. Bf4 Bxf4 11. Nxf4 O-O
+12. b4 Nce4 13. dxe6 g5 14. Nd5 Nxd5 15. cxd5 a6 16. d6 dxe6
+17. Nxc7 Nc3 18. Bxb7 Nxd1 19. Rxd1 Rb8 20. Bxa6 b5 21. Bxb5
+Rb6 22. O-O Rxd6 23. Nxe6 Rxd1 24. Nxd8 Rfxd8 25. Bd3 Rxf1+
+26. Kxf1 f4 27. gxf4 gxf4 28. Kg2 Ra8 29. b5 Rxa3 30. Kf3 Ra4
+31. Kg4 h6 32. f3 Kf7 33. Kf5 Rb4 34. h4 Ra4 35. Ke5 Ke7
+36. Kf5 Kf7 37. Ke5 Ke7 38. Kd5 Kd7 39. Bf5+ Kc7 40. Ke5 Rb4
+41. Bd3 Kd7 42. Kf6 Rd4 43. Kg7 Rd6 44. Bg6 Ke7 45. Kxh6 Kf6
+46. Be4 Re6 47. Bd3 Re5 48. b6 Re8 49. Kh5 Rb8 50. Kg4 Ke5
+51. h5 Rxb6 52. Kg5 Rb8 53. h6 Rg8+ 54. Bg6 Rf8 55. h7 Ke6
+56. Bd3 Kf7 57. Kh6 Rc8 58. Bc4+ Kf6 59. Bg8 Kf5 60. h8=Q 1-0

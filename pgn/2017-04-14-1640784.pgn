@@ -1,0 +1,17 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1976.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "M Stock"]
+[Black "Valer-Vasile Demian"]
+[ECO "D97"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "36"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3 dxc4 6.Qxc4 O-O 7.e4
+a6 8.Qb3 b5 9.e5 Ng4 10.a4 c5 11.dxc5 Be6 12.Qc2 b4 13.Qe4
+bxc3 14.Qxa8 Qa5 15.Nd2 Rd8 16.Bd3 cxd2+ 17.Bxd2 Qxc5 18.Be3
+Nxe3 0-1

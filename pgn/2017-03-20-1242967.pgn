@@ -1,0 +1,15 @@
+[Event "Casual game"]
+[Site "?"]
+[Date "1847.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Ernst Falkbeer"]
+[Black "NN"]
+[ECO "C44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "19"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 d6 5.c3 dxc3 6.Nxc3 Bg4
+7.O-O Ne5 8.Nxe5 Bxd1 9.Bxf7+ Ke7 10.Nd5# 1-0

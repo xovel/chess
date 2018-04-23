@@ -1,0 +1,17 @@
+[Event "Banter Blitz"]
+[Site "chessclub.com"]
+[Date "2015.04.28"]
+[EventDate "2015.04.28"]
+[Round "?"]
+[Result "0-1"]
+[White "Maxim Dlugy"]
+[Black "NN"]
+[ECO "A51"]
+[WhiteElo "?"]
+[BlackElo "1400"]
+[PlyCount "32"]
+
+1.d4 Nf6 2.c4 e5 3.dxe5 Ne4 4.Nf3 b6 5.Qd5 Bb7 6.Qxb7 Nc6
+7.Qa6 Bb4+ 8.Bd2 Nc5 9.Qb5 Bxd2+ 10.Nbxd2 a6 11.Qxc6 dxc6
+12.O-O-O Qe7 13.g3 O-O-O 14.Bg2 f6 15.exf6 Qxf6 16.Rhe1 Na4
+0-1

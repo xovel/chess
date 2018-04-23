@@ -1,0 +1,32 @@
+[Event "Nuremberg"]
+[Site "Nuremberg GER"]
+[Date "1888.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Hermann von Gottschall"]
+[Black "Siegbert Tarrasch"]
+[ECO "C16"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "200"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 Ne7 5.f4 c5 6.a3 Bxc3+ 7.bxc3
+c4 8.Nf3 Qa5 9.Qd2 Nd7 10.Nh4 Nb6 11.Qe3 Na4 12.Bd2 Qb5 13.Be2
+Ng6 14.Nf3 Ne7 15.Nh4 Ng6 16.Nf3 Ne7 17.Nh4 Ng6 18.Nf3 Qa5
+19.O-O Qd8 20.Qf2 Ne7 21.Nh4 Ng6 22.Nf3 Ne7 23.Nh4 Ng6 24.Nf3
+Bd7 25.Kh1 Nb6 26.Rae1 Qe7 27.Bc1 Na4 28.Qe3 h6 29.g3 Rc8
+30.Ng1 h5 31.Nh3 Qf8 32.Bf3 Ne7 33.Bg2 Nf5 34.Qd2 Qe7 35.Ng5
+Qd8 36.Bh3 g6 37.Bxf5 gxf5 38.Re3 Qe7 39.Qg2 Kd8 40.Bd2 Kc7
+41.Ra1 Kb8 42.h4 Rc6 43.Ree1 Rb6 44.Kg1 Be8 45.Kh1 Rb5 46.Kg1
+Nb6 47.Qe2 Ra5 48.Bc1 Ra4 49.Bb2 Na8 50.Reb1 Nc7 51.Ra2 Nb5
+52.Rba1 Bd7 53.Kg2 Kc8 54.Qe3 Kd8 55.Kf2 Ke8 56.Kg2 Kf8 57.Kf2
+Kg7 58.Kg2 Kg6 59.Nf3 Rc8 60.Nd2 Rc6 61.Nb1 Rc8 62.Nd2 Kh6
+63.Nf3 Nc7 64.Kf2 Nb5 65.Kg2 Rc6 66.Nd2 Rca6 67.Nb1 R4a5
+68.Kf2 Nc7 69.Nd2 Ba4 70.Bc1 Nb5 71.Kg2 Bxc2 72.Rxc2 Nxa3
+73.Bxa3 Rxa3 74.Rxa3 Qxa3 75.Qe1 b5 76.Nb1 Qb3 77.Qc1 Ra2
+78.Rxa2 Qxa2+ 79.Kf3 Kg7 80.Qa3 Qxb1 81.Qe7 Qf1+ 82.Ke3 Qe1+
+83.Kf3 Qxc3+ 84.Kg2 Qd2+ 85.Kh3 Qa5 86.Qf6+ Kf8 87.Qh8+ Ke7
+88.Qf6+ Ke8 89.Qh8+ Kd7 90.Qf8 Qd8 91.Qc5 Qb8 92.Qb4 Ke8
+93.Qc5 Qb7 94.Qa3 b4 95.Qf3 b3 96.Qxh5 b2 97.Qh8+ Kd7 98.Qf8
+b1=Q 99.Qxf7+ Kc6 100.Qxe6+ Kb5 0-1

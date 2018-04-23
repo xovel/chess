@@ -1,0 +1,17 @@
+[Event "Berlin"]
+[Site "Berlin GER"]
+[Date "1850.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Jean Dufresne"]
+[Black "Baron Tassilo von Heydebrand und der Lasa"]
+[ECO "C58"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "39"]
+
+1.e4 e5 2.Nf3 Nf6 3.Bc4 Nc6 4.Ng5 d5 5.exd5 Na5 6.Bb5+ c6
+7.dxc6 bxc6 8.Ba4 h6 9.Nf3 e4 10.Qe2 Be6 11.Ne5 Qd4 12.Bxc6+
+Nxc6 13.Qb5 Bc5 14.Qxc6+ Ke7 15.Qb7+ Kd6 16.f4 Qf2+ 17.Kd1
+Qxf4 18.Qc6+ Kxe5 19.d4 Bxd4 20.Qc7+ 1-0

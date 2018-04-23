@@ -1,0 +1,17 @@
+[Event "Vienna"]
+[Site "Vienna AUH"]
+[Date "1917.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Helmer"]
+[Black "Josef Emil Krejcik"]
+[ECO "A52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "34"]
+
+1.d4 Nf6 2.c4 e5 3.dxe5 Ng4 4.f4 Bc5 5.Nh3 Nxh2 6.Rxh2 Qh4+
+7.Kd2 d5 8.Qb3 Bxh3 9.Qxh3 Qxf4+ 10.Kc2 Qxf1 11.Qc8+ Ke7
+12.Qxh8 Qxe2+ 13.Bd2 Nc6 14.Qxa8 Nb4+ 15.Kb3 Qxc4+ 16.Ka4 b5+
+17.Ka5 Bb6# 0-1

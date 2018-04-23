@@ -1,0 +1,16 @@
+[Event "Lindau"]
+[Site "Lindau"]
+[Date "1948.??.??"]
+[EventDate "1948.??.??"]
+[Round "?"]
+[Result "1-0"]
+[White "Emil Joseph Diemer"]
+[Black "Portz"]
+[ECO "D00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "25"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Qxf3 Qxd4 6. Be3
+Qe5 7. O-O-O c6 8. h3 Be6 9. Bd3 Nbd7 10. Nge2 O-O-O 11. Bf4
+Qh5 12. Qxc6+ bxc6 13. Ba6# 1-0

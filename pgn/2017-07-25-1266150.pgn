@@ -1,0 +1,18 @@
+[Event "Berlin"]
+[Site "Berlin GER"]
+[Date "1839.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Otto"]
+[Black "Baron Tassilo von Heydebrand und der Lasa"]
+[ECO "C23"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "48"]
+
+1.e4 e5 2.Bc4 f5 3.Bxg8 Rxg8 4.exf5 d5 5.Qh5+ g6 6.fxg6 Rxg6
+7.Ne2 Bg4 8.Qxh7 Qf6 9.Qxc7 Nc6 10.Qxb7 Rb8 11.Qa6 Rb6 12.Qd3
+Nb4 13.Qb3 Bc5 14.d4 exd4 15.Qa4+ Bd7 16.Qb3 d3 17.cxd3 Qxf2+
+18.Kd2 Rxg2 19.Re1 Bg4 20.Nbc3 Nxd3 21.Qxd5 Qxe1+ 22.Kxd3
+Bxe2+ 23.Nxe2 Qxe2+ 24.Kc3 Qc2# 0-1

@@ -1,0 +1,22 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1862.10.21"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Paul Morphy"]
+[Black "Aureliano Medina"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1.e4 e6 2.f4 d5 3.e5 Bc5 4.d4 Bb6 5.Be3 Ne7 6.Nf3 Nf5 7.Bf2
+Qe7 8.c3 c5 9.g4 Nh6 10.Bh4 Qc7 11.h3 Nc6 12.Be2 cxd4 13.cxd4
+Ba5+ 14.Kf2 Bd7 15.a3 Qc8 16.b4 Bd8 17.Bg3 Bb6 18.Rc1 Qd8
+19.Kg2 f6 20.Bh4 Qe7 21.Rf1 Qf7 22. Kh2 Ng8 23.Qd2 Nge7 24.g5
+f5 25.g6 Nxg6 26.Ng5 Qg8 27.Bh5 Kf8 28.Rxc6 bxc6 29.b5 c5
+30.dxc5 Bxc5 31.Rc1 Be7 32.Rc7 Be8 33.Bxg6 hxg6 34.Rxe7 Rxh4
+35.Qb4 Rxh3+ 36.Nxh3 1-0

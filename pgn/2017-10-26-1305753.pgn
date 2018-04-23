@@ -1,0 +1,20 @@
+[Event "?"]
+[Site "?"]
+[Date "1770.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Mephisto (Automaton)"]
+[Black "NN"]
+[ECO "C45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "55"]
+
+1.e4 {Source: "A Breviary of Chess" by Tartakower (1942). The
+year 1770 is speculative.} e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Qh4
+5.Nf3 Qxe4+ 6.Be2 d5 7.O-O Be6 8.Nc3 Qf5 9.Bb5 Nge7 10.Nd4 Qg6
+11.f4 f5 12.Re1 Bd7 13.Nxd5 O-O-O 14. Bxc6 Nxc6 15.Nb5 Bc5+
+16.Be3 Be6 17.Nbxc7 Bxe3+ 18.Rxe3 Bxd5 19.Nxd5 Qf7 20.c4 Rhe8
+21.Ra3 Kb8 22.Rb1 Qf8 23.b4 Nxb4 24.Qd4 Nc6 25.Rxb7+ Kxb7
+26.Rxa7+ Nxa7 27.Qb6+ Ka8 28.Nc7# 1-0

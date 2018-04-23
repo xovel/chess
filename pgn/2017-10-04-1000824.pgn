@@ -1,0 +1,46 @@
+[Event "Karlsbad"]
+[Site "Karlsbad (Karlovy Vary) AUH"]
+[Date "1911.09.12"]
+[EventDate "1911.08.21"]
+[Round "17"]
+[Result "1-0"]
+[White "Akiba Rubinstein"]
+[Black "Grigory Levenfish"]
+[ECO "C14"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "57"]
+
+1.d4 {Notes by Nimzowitsch} e6 2.e4 d5 3.Nc3 Nf6 4.Bg5 Be7
+5.e5 Nfd7 6.Bxe7 Qxe7 7.Qd2 O-O 8.f4 c5 9.Nf3 f6 {It would be
+more in the spirit of a corrct attack on a pawn-chain first to
+play 9...cxd4 10 Nxd4, and not till then 10...f6. But after
+10...f6 11 exf6 Qxf6, the position arrived at is after all
+similar to that of the text.} 10.exf6 Qxf6 11.g3 Nc6 12.O-O-O
+a6 13.Bg2 Nb6 {The diagonal attacking range g2 to d5 is a
+necessary element in White's plan of operations; for this,
+after exf6, hols up the freeing thrust ...e5 better than any
+other possible disposition could.} 14.Rhe1 Nc4 15.Qf2 b5
+16.dxc5 {! Bravo! the flank attack ...Nxb2 has no terrors for
+him, since a flank attack by itself can never ruin a strongly
+centralized game. And White's game is centralized, for he
+holds the center files and pressure in them is already making
+itself felt, and further he has the prospect of occupying the
+central points d4 and e5. Observe now how Black's attack is
+thrown back by action in the center.} Nxb2 17.Kxb2 b4 18.Nd4
+{!} bxc3 19.Ka1 {The c-pawn will be gobbled up presently by a
+rook.} Nxd4 {If 19...Bd7 then 20 Nxe6 Bxe6 21 Rxe6 followed by
+Bxd5.} 20.Qxd4 Rb8 21.Re3 g5 {Now he has a go on the other
+wing.} 22.Rxc3 gxf4 23.gxf4 Bd7 24.c6 Qxd4 25.Rxd4 Be8 26.Bh3
+Rf6 27.c7 {It would have pleased me even better if the
+decision had been brought about in a bishop ending instead of
+through the somewhat "tacked on" action of the passed pawn at
+c7; for instance from such a position as White: King at e5,
+bishop at h3, pawns at a2, c3, f4, h2. Black: King at e7,
+Bishop atf7, pawns at a6, d5, e6, h7; with the continuation
+f5, ...exf5, Bxf5 and white wins the d-pawn and the game. We
+should then have the general idea more markedly broughtout,
+namely first to keep the e-pawn and the d-pawn under
+restraint, then to blockade them and only at the end to
+destroy them. But as played the game was instructive enough!
+(e.g., moves 13, 16, and 18). } Rc8 28.Rxd5 Rxc7 29.Bxe6+ 1-0

@@ -1,0 +1,24 @@
+[Event "New York"]
+[Site "New York, NY USA"]
+[Date "1924.04.10"]
+[EventDate "1924.03.16"]
+[Round "18"]
+[Result "1-0"]
+[White "Fred Dewhirst Yates"]
+[Black "Savielly Tartakower"]
+[ECO "B43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "99"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 Nc6
+7. Be3 Nf6 8. Nb3 b5 9. Qe2 Ne5 10. f4 Nxd3+ 11. cxd3 Bb7
+12. O-O Be7 13. Rac1 Qd8 14. h3 O-O 15. Qf2 b4 16. Na4 Bc6
+17. Nb6 Rb8 18. Nc4 d5 19. Nca5 Ba8 20. e5 Nd7 21. Nc6 Bxc6
+22. Rxc6 a5 23. Rfc1 g5 24. Qg3 Kh8 25. fxg5 Rb5 26. Nd4 Rc5
+27. R6xc5 Bxc5 28. Nb3 Be7 29. h4 a4 30. Nd4 Bc5 31. Ne2 Bxe3+
+32. Qxe3 Qb8 33. d4 b3 34. axb3 axb3 35. Rc3 Qb4 36. Nf4 Ra8
+37. Kh2 Qb5 38. Nh5 Qf1 39. Qc1 Qf2 40. Rc8+ Nf8 41. Rxa8
+Qxh4+ 42. Kg1 Qxd4+ 43. Kf1 Qd3+ 44. Kf2 Kg8 45. Rxf8+ Kxf8
+46. Qc8+ Ke7 47. Qc7+ Ke8 48. Nf6+ Kf8 49. Qd8+ Kg7 50. Qg8#
+1-0

@@ -1,0 +1,17 @@
+[Event "Izt"]
+[Site "Stockholm SWE"]
+[Date "1908.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Paul Saladin Leonhardt"]
+[Black "Fritz Englund"]
+[ECO "C57"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "36"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Nd4 6.c3 b5 7.Bf1
+Nxd5 8.cxd4 Qxg5 9.Bxb5+ Kd8 10.Qf3 Bb7 11.O-O Rb8 12.d3 Qg6
+13.Qg3 exd4 14.Na3 Bxa3 15.bxa3 Nc3 16.Qxg6 hxg6 17.Bc4 Ne2+
+18.Kh1 Ke7 0-1
