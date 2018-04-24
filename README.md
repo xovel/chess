@@ -14,28 +14,29 @@ All data in this project was gathered from <http://www.chessgames.com>. Just for
 ## File
 
 ```
-├─assets/                     #
-├─cache/                      #
-├─node_modules/               #
-├─pgn/                        #
-├─template/                   #
-│  ├─chess.html               #
-│  └─index.html               #
-├─util/                       #
-│  ├─dateFormat.js            #
-│  ├─genIndexHTML.js          #
-│  ├─getHTML.js               #
-│  └─wFile.js                 #
-├─.gitignore                  #
-├─.npmrc                      #
-├─app.js                      #
-├─LICENSE                     #
-├─list.js                     #
-├─main.js                     #
-├─package.json                #
-├─parse.js                    #
-├─pgn.json                    #
-└─README.md                   #
+├─ assets/                     #
+├─ cache/                      #
+├─ node_modules/               #
+├─ pgn/                        #
+├─ template/                   #
+│  ├─ chess.html               #
+│  └─ index.html               #
+├─ util/                       #
+│  ├─ dateFormat.js            #
+│  ├─ genIndexHTML.js          #
+│  ├─ getHTML.js               #
+│  ├─ parsePGN.js              #
+│  └─ wFile.js                 #
+├─ .gitignore                  #
+├─ .npmrc                      #
+├─ app.js                      #
+├─ LICENSE                     #
+├─ list.js                     #
+├─ main.js                     #
+├─ package.json                #
+├─ parse.js                    #
+├─ pgn.json                    #
+└─ README.md                   #
 ```
 
 ## Run
@@ -48,9 +49,9 @@ All data in this project was gathered from <http://www.chessgames.com>. Just for
 
 ## TODO
 
-- [ ] Add notes from `.pgn` files.
+- [x] Add notes from `.pgn` files.
 - [ ] Use canvas to render board.
-- [ ] Mobile visit.
+- [x] Mobile visit.
 - [ ] Generate static html files.
 
 ## Lisence
