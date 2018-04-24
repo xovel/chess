@@ -46,7 +46,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <div id="olga-data" sessid="1" color_light="#FFCC99" color_dark="#CC9966" labels="Y" pgn='${pgn}'
-    ratio="80" notes='[]'>
+    ratio="80" notes='${notes}'>
   </div>
   <script src="./assets/chess.js"></script>
   <link href="./assets/jquery-ui.min.css" rel="stylesheet">
@@ -103,9 +103,7 @@
     <font face="georgia,palatino,times new roman,times" size=-1>
       <B>"${note}"</B>
       <font size=-2>(game of the day ${date})</font>
-      <!-- <br> 17th Lloyds Bank Masters Open (1993), London ENG, rd 1, Aug-21
-      <br> Carr Defense: General (B00) &nbsp;
-      <B>&#183;</B>&nbsp; 0-1 -->
+      <br> ${info} <B>&#183;</B>&nbsp; ${opening} <B>&#183;</B>&nbsp; ${result}
       <br>
     </font>
   </CENTER>

@@ -21,6 +21,7 @@ const chessTemplate = fs.readFileSync(path.join(__dirname, 'template', 'chess.ht
 const indexTemplate = fs.readFileSync(path.join(__dirname, 'template', 'index.html'), 'utf-8');
 
 const genIndexHTML = require('./util/genIndexHTML');
+const parsePGN = require('./util/parsePGN');
 
 const strIndexHTML = genIndexHTML(list);
 
@@ -31,7 +32,8 @@ app.get('/:date', (req, res) => {
     const pgnPath = path.join(__dirname, 'pgn', `${item.date}-${item.id}.pgn`);
 
     if (fs.existsSync(pgnPath)) {
-      const pgncontent = fs.readFileSync(pgnPath);
+      const pgnContent = fs.readFileSync(pgnPath);
+      const pgnObj = parsePGN(pgnContent.toString());
       const players = item.players.split(' vs ');
       const data = {
         title: `${item.players} (${item.year}) ${item.note}`,
@@ -39,7 +41,11 @@ app.get('/:date', (req, res) => {
         player2: players[1],
         note: item.note,
         date: item.date,
-        pgn: pgncontent.toString() // 读取出来的结果是一个 Buffer 对象，转为字符串
+        pgn: pgnObj.pgnText,
+        notes: pgnObj.notes,
+        opening: pgnObj.ECO,
+        result: pgnObj.Result,
+        info: `${pgnObj.Event} (${pgnObj.Date}), ${pgnObj.Site}`
       };
 
       const ret = chessTemplate.replace(/\${([^}]*)}/g, (content, name) => {
