@@ -50,8 +50,8 @@ All data in this project was gathered from <http://www.chessgames.com>. Just for
 ## TODO
 
 - [x] Add notes from `.pgn` files.
-- [ ] Use canvas to render board.
-- [x] Mobile visit.
+- [x] Mobile visit. ~~?~~
+- [ ] ECO openings.
 - [ ] Generate static html files.
 
 ## Lisence
