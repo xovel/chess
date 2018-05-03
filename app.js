@@ -23,6 +23,8 @@ const indexTemplate = fs.readFileSync(path.join(__dirname, 'template', 'index.ht
 const genIndexHTML = require('./util/genIndexHTML');
 const parsePGN = require('./util/parsePGN');
 
+const eco = require('./eco.json');
+
 const strIndexHTML = genIndexHTML(list);
 
 app.get('/:date', (req, res) => {
@@ -47,6 +49,10 @@ app.get('/:date', (req, res) => {
         result: pgnObj.Result,
         info: `${pgnObj.Event} (${pgnObj.Date}), ${pgnObj.Site}`
       };
+
+      if (eco[pgnObj.ECO]) {
+        data.opening = `${eco[pgnObj.ECO].name}(${pgnObj.ECO})`;
+      }
 
       const ret = chessTemplate.replace(/\${([^}]*)}/g, (content, name) => {
         // pgn 需要替换单引号，避免解析错误
