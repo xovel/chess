@@ -1,6 +1,78 @@
 {
-  "update": "2018-04-23",
+  "update": "2018-05-02",
   "list": [
+    {
+      "date": "2018-05-02",
+      "year": "1971",
+      "players": "Larry Evans vs Lombardy",
+      "link": "/perl/chessgame?gid=1092818",
+      "id": "1092818",
+      "note": "Breaking Evans"
+    },
+    {
+      "date": "2018-05-01",
+      "year": "1907",
+      "players": "J Lansing vs R Hart",
+      "link": "/perl/chessgame?gid=1077561",
+      "id": "1077561",
+      "note": "Lansing the Knight Away"
+    },
+    {
+      "date": "2018-04-30",
+      "year": "2010",
+      "players": "S Shankland vs C Holt",
+      "link": "/perl/chessgame?gid=1587222",
+      "id": "1587222",
+      "note": "Holt Your Horses"
+    },
+    {
+      "date": "2018-04-29",
+      "year": "1925",
+      "players": "Nenarokov vs V Sozin",
+      "link": "/perl/chessgame?gid=1076259",
+      "id": "1076259",
+      "note": "Reap What You Sozin"
+    },
+    {
+      "date": "2018-04-28",
+      "year": "1990",
+      "players": "D King vs Larsen",
+      "link": "/perl/chessgame?gid=1318897",
+      "id": "1318897",
+      "note": "King&apos;s English"
+    },
+    {
+      "date": "2018-04-27",
+      "year": "1925",
+      "players": "Yates vs A Haida",
+      "link": "/perl/chessgame?gid=1007381",
+      "id": "1007381",
+      "note": "Haida Go Seek"
+    },
+    {
+      "date": "2018-04-26",
+      "year": "2004",
+      "players": "T Barendse vs Bosboom-Lanchava",
+      "link": "/perl/chessgame?gid=1272637",
+      "id": "1272637",
+      "note": "Tea Time"
+    },
+    {
+      "date": "2018-04-25",
+      "year": "1993",
+      "players": "A Kovacevic vs Tringov",
+      "link": "/perl/chessgame?gid=1305613",
+      "id": "1305613",
+      "note": "Copacetic Kovacevic"
+    },
+    {
+      "date": "2018-04-24",
+      "year": "1946",
+      "players": "Ragozin vs E E Book",
+      "link": "/perl/chessgame?gid=1283538",
+      "id": "1283538",
+      "note": "Read the Book"
+    },
     {
       "date": "2018-04-23",
       "year": "1873",
