@@ -46,13 +46,14 @@ All data in this project was gathered from <http://www.chessgames.com>. Just for
 3. `node list`. Fetch `pgn` file.
 4. `node app`. Run a local `express` instance.
 5. Open a mordern browser and visit `http://localhost:2000/`
+6. `node gen`. Generate static html files to the folder `dist`.
 
 ## TODO
 
 - [x] Add notes from `.pgn` files.
 - [x] Mobile visit. ~~?~~
-- [ ] ECO openings.
-- [ ] Generate static html files.
+- [x] ECO openings.
+- [x] Generate static html files.
 
 ## Lisence
 
