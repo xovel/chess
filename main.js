@@ -18,9 +18,9 @@ if (!fs.existsSync('cache')) {
   fs.mkdirSync('cache');
 }
 
-function fetchHTML(url) {
+function fetchHTML(url, name) {
   getHTML(url).then((data) => {
-    wFile(path.join(__dirname, 'cache', getName(url)), data);
+    wFile(path.join(__dirname, 'cache', name || getName(url)), data);
   });
 }
 
