@@ -5,6 +5,11 @@
   "main": "main.js",
   "private": true,
   "scripts": {
+    "update": "node update && node list",
+    "dev": "npm run update && node app",
+    "start": "npm run dev",
+    "gen": "node gen",
+    "generate": "node gen",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
