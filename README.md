@@ -8,16 +8,18 @@ All data in this project was gathered from <http://www.chessgames.com>. Just for
 
 ## Dependencies
 
-- [`express`](https://expressjs.com)
-- [`cheerio`](https://cheerio.js.org/)
+- [`express`](https://expressjs.com), run a local server.
+- [`cheerio`](https://cheerio.js.org/), load content as a jQuery-DOM-like object.
+- [`copy`](https://github.com/jonschlinkert/copy), copy assets files.
+- [`del`](https://github.com/sindresorhus/del), delete distribute folder.
 
-## Run
+## CLI
 
 1. `node main`. Fetch the source code of <http://www.chessgames.com/perl/gamesoftheday>.
 2. `node parse`. Parse the source code, you may need to **change** the file name if necessary.
 3. `node list`. Fetch `pgn` file.
 4. `node app`. Run a local `express` instance.
-5. Open a mordern browser and visit `http://localhost:2000/`
+5. Open a modern browser and visit `http://localhost:2000/`
 6. `node gen`. Generate static html files to the specified folder.
 7. `node update`. Update `pgn.json` directly.
 
