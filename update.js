@@ -42,8 +42,11 @@ const update = prePGN.update;
 const curDate = dateFormat(now);
 const yesterday = dateFormat(now.getTime() - 24 * 60 * 60 * 1000);
 
-if (curDate === update || yesterday === update) {
-  console.log('Neither yesterday nor today would be ignored.');
+const args = process.argv.slice(2);
+const yFlag = args.indexOf('-y') === -1;
+
+if (curDate === update || (yFlag && yesterday === update)) {
+  console.log(`Ignored ${update}, quit.`);
   process.exit(0);
 }
 
