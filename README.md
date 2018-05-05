@@ -11,11 +11,27 @@ All data in this project was gathered from <http://www.chessgames.com>. Just for
 - [`express`](https://expressjs.com)
 - [`cheerio`](https://cheerio.js.org/)
 
+## Run
+
+1. `node main`. Fetch the source code of <http://www.chessgames.com/perl/gamesoftheday>.
+2. `node parse`. Parse the source code, you may need to **change** the file name if necessary.
+3. `node list`. Fetch `pgn` file.
+4. `node app`. Run a local `express` instance.
+5. Open a mordern browser and visit `http://localhost:2000/`
+6. `node gen`. Generate static html files to the specified folder.
+7. `node update`. Update `pgn.json` directly.
+
+## Scripts
+
+- `npm run update`, update `pgn.json` and fetch new `pgn` file.
+- `npm run dev`, run `update` and start a local server.
+
 ## File
 
 ```
 ├─ assets/                     #
 ├─ cache/                      #
+├─ docs/                       #
 ├─ node_modules/               #
 ├─ pgn/                        #
 ├─ template/                   #
@@ -30,23 +46,18 @@ All data in this project was gathered from <http://www.chessgames.com>. Just for
 ├─ .gitignore                  #
 ├─ .npmrc                      #
 ├─ app.js                      #
+├─ eco.js                      #
+├─ eco.json                    #
+├─ gen.js                      #
 ├─ LICENSE                     #
 ├─ list.js                     #
 ├─ main.js                     #
 ├─ package.json                #
 ├─ parse.js                    #
 ├─ pgn.json                    #
-└─ README.md                   #
+├─ README.md                   #
+└─ update.js                   #
 ```
-
-## Run
-
-1. `node main`. Fetch the source code of <http://www.chessgames.com/perl/gamesoftheday>.
-2. `node parse`. Parse the source code, you may need to **change** the file name if necessary.
-3. `node list`. Fetch `pgn` file.
-4. `node app`. Run a local `express` instance.
-5. Open a mordern browser and visit `http://localhost:2000/`
-6. `node gen`. Generate static html files to the folder `dist`.
 
 ## TODO
 
