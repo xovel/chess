@@ -22,21 +22,23 @@ const eco = require('./eco.json');
 
 const strIndexHTML = genIndexHTML(list);
 
-if (!fs.existsSync('dist')) {
-  fs.mkdirSync('dist');
+const distFolder = 'docs';
+
+if (!fs.existsSync(distFolder)) {
+  fs.mkdirSync(distFolder);
 }
 
 const del = require('del');
 const copy = require('copy');
 
-del('dist/**/*').then(() => {
+del(distFolder + '/**/*').then(() => {
   // 复制资源文件
-  copy('assets/**', './dist/assets', () => {
+  copy('assets/**', './' + distFolder + '/assets', () => {
     console.log('copy assets done!')
   });
 
   // 生成首页
-  wFile(path.join(__dirname, 'dist', 'index.html'), indexTemplate.replace('${content}', strIndexHTML.replace(/href="\/(\d{4}-\d{2}-\d{2})"/g, (a, b) => {
+  wFile(path.join(__dirname, distFolder, 'index.html'), indexTemplate.replace('${content}', strIndexHTML.replace(/href="\/(\d{4}-\d{2}-\d{2})"/g, (a, b) => {
     return `href="./${b}.html"`;
   })));
 
@@ -70,7 +72,7 @@ del('dist/**/*').then(() => {
         return data[name] || '';
       });
 
-      wFile(path.join(__dirname, 'dist', `${item.date}.html`), ret);
+      wFile(path.join(__dirname, distFolder, `${item.date}.html`), ret);
     }
   });
 })
