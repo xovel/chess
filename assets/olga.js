@@ -671,25 +671,25 @@ function setLightColor(color)
 
 function synchronizeOLGA()
 {
-    if(OLGA_MAIN.updateTimer){
-       clearTimeout(OLGA_MAIN.updateTimer);
-       OLGA_MAIN.updateTimer = null;
-    }
-    if(OLGA_MAIN.sessionID !== ""){
-        // check session is valid, if so send color change, else send to reconnect with redirect
-        var data_str = "session_id=" + OLGA_MAIN.sessionID;
-        data_str += "&color_light=" + OLGA_MAIN.lightColor.substr(1);
-        data_str += "&color_dark=" + OLGA_MAIN.darkColor.substr(1);
-        data_str += "&labels=";
-        if(OLGA_MAIN.coords){
-            data_str += 'Y';
-        }
-        else{
-            data_str += 'N';
-        }
-        data_str += "&ratio=" + BOARD_RATIO;
-        $.get("http://www.chessgames.com/perl/user_api",data_str,function(reply){console.log(reply);},"json");
-    }
+    // if(OLGA_MAIN.updateTimer){
+    //    clearTimeout(OLGA_MAIN.updateTimer);
+    //    OLGA_MAIN.updateTimer = null;
+    // }
+    // if(OLGA_MAIN.sessionID !== ""){
+    //     // check session is valid, if so send color change, else send to reconnect with redirect
+    //     var data_str = "session_id=" + OLGA_MAIN.sessionID;
+    //     data_str += "&color_light=" + OLGA_MAIN.lightColor.substr(1);
+    //     data_str += "&color_dark=" + OLGA_MAIN.darkColor.substr(1);
+    //     data_str += "&labels=";
+    //     if(OLGA_MAIN.coords){
+    //         data_str += 'Y';
+    //     }
+    //     else{
+    //         data_str += 'N';
+    //     }
+    //     data_str += "&ratio=" + BOARD_RATIO;
+    //     $.get("http://www.chessgames.com/perl/user_api",data_str,function(reply){console.log(reply);},"json");
+    // }
 }
 
 
