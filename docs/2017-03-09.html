@@ -1,0 +1,208 @@
+<html>
+
+<head>
+  <meta name="keywords" content="chess, chess games, ajedrez, scacchi, schach, PGN">
+  <title>Robert E Byrne vs Fischer (1963) The Brilliancy Prize</title>
+
+  <style type="text/css">
+    HR {
+      size: 1
+    }
+
+    A {
+      text-decoration: none
+    }
+
+    A:hover {
+      color: #FF0000;
+      text-decoration: underline
+    }
+
+    SELECT {
+      background: #DDDDDD;
+      font-family: Verdana, Arial, Helvetica;
+      font-size: 8pt;
+      border-color: #FFFFFF #777777 #777777 #FFFFFF;
+    }
+
+    .fixedText {
+      width: 344px;
+      padding: 1px;
+      border-style: solid;
+      border-color: #996633;
+      border-width: 1px;
+      background-color: #FFFFDD;
+      font-family: Verdana, Arial, Helvetica, sans-serif;
+      font-size: 9px
+    }
+  </style>
+
+
+
+
+  <!-- start OLGA header -->
+  <!-- meta charset="utf-8" -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <div id="olga-data" sessid="1" color_light="#FFCC99" color_dark="#CC9966" labels="Y" pgn='[Event "US Championship 1963/64"]
+[Site "New York, NY USA"]
+[Date "1963.12.18"]
+[EventDate "1963.??.??"]
+[Round "3"]
+[Result "0-1"]
+[White "Robert Eugene Byrne"]
+[Black "Robert James Fischer"]
+[ECO "E60"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1. d4 Nf6 2. c4 g6 3. g3 c6 4. Bg2 d5 5. cxd5 cxd5 6. Nc3 Bg7 7. e3 O-O 8. Nge2 Nc6 9. O-O b6 10. b3 Ba6 11. Ba3 Re8 12. Qd2 e5 13. dxe5 Nxe5 14. Rfd1 Nd3 15. Qc2 Nxf2 16. Kxf2 Ng4+ 17. Kg1 Nxe3 18. Qd2 Nxg2 19. Kxg2 d4 20. Nxd4 Bb7+ 21. Kf1 Qd7 0-1'
+    ratio="80" notes='[0,"Notes from various sources.",8,"5.Qb3 maintains more tension. -- Fischer",18,"It&rsquo;s hard for either side to introduce an imbalance into this essentially symmetrical variation. Deadeye equality also ensues afer 10.Nf4 e6 11.b3 Ba6 12.Re1 Rc8 13.Ba3 Re8 14.Rc1 (Stahlberg-Flohr, Kemeri 1937) -- Fischer",20,"After White&rsquo;s 11th move I should adjudicate his position as slightly superior, and at worst completely safe. To turn this into a mating position in eleven more moves is more witchcraft than chess! Quite honestly, I do not see the man who can stop Bobby at this time. -- K.F. Kirby, South African Chess Quarterly",23,"! I was a bit worried about weakening my QP, but felt that the tremendous activity obtained by my minor pieces would permit White no time to exploit it. 12...e6 would probably lead to a draw. -- Fischer",26,"\"Add another to those melancholy case histories entitled: The Wrong Rook.\" -- Fischer ~ \"This is very much a case of &rsquo;the wrong rook&rsquo;. One can understand Byrne&rsquo;s desire to break the pin on the e2-knight, but this turns out to be less important than other considerations. Fischer spends a lot of time and energy analysing the superior 14. Rad1!, but still comes to the conclusion that Black can keep the advantage.\" -- John Nunn",27,"Now it&rsquo;s all systems go for the Fischer rocket. -- Robert Wade",28,"There is hardly any other defense to the threat of ...Ne4. -- Fischer",29,"! The key to Black&rsquo;s previous play. The complete justification for this sac does not become apparent until White resigns! -- Fischer",34,"Byrne: As I sat pondering why Fischer would choose such a line, because it was so obviously lost for Black, there suddenly comes...",35,"!! This dazzling move came as the shocker... the culminating combination is of such depth that, even at the very moment at which I resigned, both grandmasters who were commenting on the play for the spectators in a separate room believed I had a won game! -- Robert Byrne",37,"!",39,"The King is at Black&rsquo;s mercy. -- Fischer",40,"In a room set aside for commentaries on the games in progress, two grandmasters were stating, for the benefit of the spectators, that Byrne had a won game. Byrne&rsquo;s reply to Fischer&rsquo;s next move must have been jaw dropping! -- Wade",41,"And White resigns. Fischer writes: \"A bitter disappointment. I&rsquo;d hoped for 22.Qf2 Qh3+ 23.Kg1 Re1+!! 24.Rxe1 Bxd4 with mate to follow shortly.\""]'>
+  </div>
+  <script src="./assets/chess.js"></script>
+  <link href="./assets/jquery-ui.min.css" rel="stylesheet">
+  <link href="./assets/chessboard.min.css" rel="stylesheet">
+  <script src="./assets/jquery-3.2.1.min.js"></script>
+  <script src="./assets/jquery-ui.min.js"></script>
+  <script src="./assets/chessboard.min.js"></script>
+  <script src="./assets/olga.js"></script>
+  <link rel="stylesheet" href="./assets/olga.css">
+  <style>
+    .ui-widget-content {
+      background: #cedc98;
+      border: 1px solid #DDDDDD;
+      color: #333333;
+    }
+  </style>
+  <script type="text/javascript">
+    var startLoading = function () {
+      $.prototype.offset = function () {
+        return {
+          left: this[0].offsetLeft,
+          top: this[0].offsetTop
+        };
+      };
+      var board = ChessBoard("board", { draggable: false, position: '' });
+      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status', 'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
+    }
+  </script>
+  <!-- end OLGA header -->
+
+
+
+  <script type="text/javascript">
+    function OpenWin(pagename) {
+      SmallWin = window.open(pagename, 'popup', 'scrollbars,resizable,toolbar=no,height=394,width=412,left=200,top=200');
+      if (window.focus) {
+        SmallWin.focus();
+      }
+    }
+  </script>
+</head>
+
+<body bgcolor="#FFFFFF" vlink="#9900FF" link="#0000FF" onload="startLoading();">
+
+
+
+  <CENTER>
+    <font face="verdana,arial,helvetica" size=+1>
+      <B>Robert E Byrne</B>
+      <font color=#333333>vs</font>
+      <B>Fischer</B>
+    </font>
+    <br>
+    <font face="georgia,palatino,times new roman,times" size=-1>
+      <B>"The Brilliancy Prize"</B>
+      <font size=-2>(game of the day 2017-03-09)</font>
+      <br> US Championship 1963/64 (1963.12.18), New York, NY USA
+      <br> King's Indian Defense(E60) <B>&#183;</B>&nbsp; 0-1
+    </font>
+  </CENTER>
+  <font size="2">
+
+    <!--beginolga-->
+    <div id="board_container" class="totem">
+      <div id="board" style="margin:auto;"></div>
+      <div id="pgn_buttons" class="button_row">
+        <button id="startB" type="button" class="pgn_buttonc">&#171;</button>
+        <button id="prevB" type="button" class="pgn_buttona">&lt;</button>
+        <button id="nextB" type="button" class="pgn_buttonb">&gt;</button>
+        <button id="endB" type="button" class="pgn_buttonc">&#187;</button>
+        <button id="autoB" type="button" class="pgn_buttonc">+</button>
+      </div>
+      <div id="status_t"></div>
+    </div>
+    <div id="variations" class="totem-toggle variations">
+      <div class="analysis_t">ANALYSIS
+        <a id="ab" onclick="exitVariation();">[
+          <font style="color:#0000ff;font-weight:bold;">x</font>]</a>
+      </div>
+      <div id="vb" class="variation_box" tabindex="0" onmouseup="disableShortcutKeysAndStoreStatus();" onblur="restoreShortcutKeysStatus();"
+        onfocusout="restoreShortcutKeysStatus();"></div>
+    </div>
+    <div id="lower_container" class="totem">
+      <div id="notes" class="note_box"></div>
+      <div id="score_box" class="score_box"></div>
+      <br/>
+      <div id="board-options" style="display:none">
+        <div class="col-1" style="width:14%;float:left;margin-left: 4%;">
+          <p style="text-align: center; font-size:1.0em; margin-bottom: 2px;">Light
+            <br/>Squares</p>
+          <input type='color' id='lightColor' class="option_item" onInput="setLightColor(this.value);delayedNotify();" />
+        </div>
+        <div class="col-2" style="width:14%;float:left; margin-left:1%;">
+          <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">Dark
+            <br/>Squares</p>
+          <input type='color' id='darkColor' class="option_item" onInput="setDarkColor(this.value);delayedNotify();" />
+        </div>
+        <div class="col-3" style="width:13%;float:left; margin-left:1%;">
+          <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">Flip
+            <br/>
+            </b>Board</p>
+          <input type="image" src="./assets/img/orientation.png" class="option_item" onclick="flipOrientation();" />
+        </div>
+        <div class="col-4" style="width:32px; height:32px;float:left; margin-left: 2%;">
+          <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">&nbsp;
+            <br>Labels</p>
+          <button name="notation" class="option_item" id="notation" onclick="toggleNotation();delayedNotify();">&nbsp;ON&nbsp;</button>
+        </div>
+        <div class="col-5" style="width:8%;float:left; margin-left:4%;">
+          <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">&nbsp;
+            <br>Shrink</p>
+          <input type="image" src="./assets/img/Pawn_sm.png" class="option_item" onclick="downscaleOLGA();delayedNotify();" />
+        </div>
+        <div class="col-6" style="width:8%;float:left; margin-left:4%;">
+          <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">&nbsp;
+            <br>Grow</p>
+          <input type="image" src="./assets/img/Pawn_big.png" class="option_item" onclick="upscaleOLGA();delayedNotify();" />
+        </div>
+        <div class="col-6" style="width:13%;float:left; margin-left:3%;">
+          <p style="text-align: center;font-size:1.0em;margin-bottom:2px;">&nbsp;
+            <br>Copy</p>
+          <input id="cpy_fen_btn" type="image" src="./assets/img/fen.png" class="option_item" style="border:solid black 1px;" onclick="copyFEN();"
+          />
+        </div>
+      </div>
+
+    </div>
+
+    <div id="status" class="status_toggle">
+      <button class="options_link" onclick="toggleOptions();">
+        <img id="cog_img" src="./assets/img/cog.png" />&nbsp;SETTINGS</button>
+
+      <button class="engine_button" onclick="sendForAnalysis();">
+        <img id="cog_img" src="./assets/img/new_window.png" />&nbsp;ENGINE&nbsp;&nbsp;&nbsp;&nbsp;</button>
+      <div id="fb" class="fen_box"></div>
+    </div>
+    <div id="snackbar">FEN COPIED</div>
+    <!--endolga-->
+
+  </font>
+  <CENTER>
+
+
+</body>
+
+</html>
