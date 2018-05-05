@@ -9,11 +9,14 @@ const parsePGN = require('./util/parsePGN');
 const list = require('./pgn.json').list;
 const pgn = {};
 
+const args = process.argv.splice(2);
+const useCDN = args.indexOf('--cdn') >= 0;
+
 list.forEach(item => {
   pgn[item.date] = item;
 });
 
-const chessTemplate = fs.readFileSync(path.join(__dirname, 'template', 'chess.html'), 'utf-8');
+const chessTemplate = fs.readFileSync(path.join(__dirname, 'template', useCDN ? 'chess.cdn.html' : 'chess.html'), 'utf-8');
 const indexTemplate = fs.readFileSync(path.join(__dirname, 'template', 'index.html'), 'utf-8');
 
 const genIndexHTML = require('./util/genIndexHTML');
