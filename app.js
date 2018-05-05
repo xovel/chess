@@ -5,9 +5,9 @@ const path = require('path');
 // const os = require('os');
 
 const express = require('express');
-const app = express(); // express 实例
+const app = express(); // express instance
 
-// 静态页面
+// static assets
 app.use('/assets', express.static(path.join(__dirname, 'assets')));
 
 const list = require('./pgn.json').list;
@@ -55,14 +55,14 @@ app.get('/:date', (req, res) => {
       }
 
       const ret = chessTemplate.replace(/\${([^}]*)}/g, (content, name) => {
-        // pgn 需要替换单引号，避免解析错误
+        // replace sigle quote to avoid parse error
         if (name === 'pgn') return data.pgn.replace(/'/g, '&rsquo;');
         return data[name] || '';
       });
 
       res.send(ret)
     } else {
-      res.send('文件不存在');
+      res.send('PGN file not found.');
     }
   } else {
     res.send('404');
@@ -70,13 +70,11 @@ app.get('/:date', (req, res) => {
 });
 
 app.get('/', (req, res) => {
-  // TODO 首页日期入口
   let ret = indexTemplate.replace('${content}', strIndexHTML);
-
   res.send(ret);
 });
 
-// 监听本机 2000 端口
+// listen local port 2000
 const server = app.listen(2000, function () {
   const port = server.address().port;
   console.log('Project listening at http://localhost:%s', port);

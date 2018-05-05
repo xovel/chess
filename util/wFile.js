@@ -6,9 +6,9 @@ const log = console.log;
 module.exports = function wFile(filePath, content, cb) {
   fs.writeFile(filePath, content, (err) => {
     if (err) {
-      log(`${filePath} 写入失败 ${err}`);
+      log(`${filePath} write failed, ${err}`);
     } else {
-      log(`${filePath} 写入成功`);
+      log(`${filePath} write success`);
       if (cb) {
         cb();
       }

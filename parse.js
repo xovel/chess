@@ -64,7 +64,7 @@ $list.each((index, item) => {
   const curMonth2 = curMonth < 9 ? '0' + (curMonth + 1) : (curMonth + 1);
   let curYear = nowYear;
 
-  // 迷之算法，解决日期丢失和年份指定的问题
+  // [FIX] some special date is not exist.
   if (curMonth === 11 && prevMonth === 0 && !yearFlag) {
     diffYear++;
     yearFlag = true;
@@ -96,9 +96,9 @@ if (ret.length > 0) {
     list: ret.concat(prePGN.list || [])
   };
   wFile('pgn.json', JSON.stringify(pgn, null, '  '), () => {
-    console.log(`本次记录数据 ${ret.length} 条`);
+    console.log(`Record data(s): ${ret.length}`);
   });
 
 } else {
-  console.log('已是最新记录。')
+  console.log('No need to update.')
 }

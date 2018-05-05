@@ -2,7 +2,7 @@
 
 const pgn = {};
 
-// 生成首页静态日历表格
+// Generate static files
 function genListHTML(list) {
   const first = {};
   const last = {};
@@ -42,7 +42,7 @@ function genMonthHTML(year, month) {
   const date = new Date();
   date.setFullYear(year);
   date.setMonth(month);
-  date.setDate(0); // 黑科技获取本月天数
+  date.setDate(0); // Get days in specified month, ~~it's a black tech~~.
 
   const days = date.getDate();
 
@@ -50,7 +50,7 @@ function genMonthHTML(year, month) {
   date.setDate(1);
   const startDay = date.getDay();
 
-  // 生成月份基本日历表数据
+  // Calender of month
   const weeks = [];
   let curIndex = 0;
   while (curIndex < days) {

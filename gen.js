@@ -32,17 +32,17 @@ const del = require('del');
 const copy = require('copy');
 
 del(distFolder + '/**/*').then(() => {
-  // 复制资源文件
+  // Copy assets.
   copy('assets/**', './' + distFolder + '/assets', () => {
     console.log('copy assets done!')
   });
 
-  // 生成首页
+  // Generate index page.
   wFile(path.join(__dirname, distFolder, 'index.html'), indexTemplate.replace('${content}', strIndexHTML.replace(/href="\/(\d{4}-\d{2}-\d{2})"/g, (a, b) => {
     return `href="./${b}.html"`;
   })));
 
-  // 生成页面文件
+  // Generate static files.
   list.forEach(item => {
     const pgnPath = path.join(__dirname, 'pgn', `${item.date}-${item.id}.pgn`);
     if (fs.existsSync(pgnPath)) {
@@ -67,7 +67,7 @@ del(distFolder + '/**/*').then(() => {
       }
 
       const ret = chessTemplate.replace(/\${([^}]*)}/g, (content, name) => {
-        // pgn 需要替换单引号，避免解析错误
+        // replace sigle quote to avoid parse error
         if (name === 'pgn') return data.pgn.replace(/'/g, '&rsquo;');
         return data[name] || '';
       });

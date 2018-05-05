@@ -10,7 +10,7 @@ module.exports = function getHTML(url) {
       var html = '';
 
       res.on('data', function (chunk) {
-        // chunk 是一个 Buffer 类的实例，为请求获得的数据，使用 toString 方法可以直接得到对应的字符串
+        // chunk is a Buffer instance, use the method toString to get the string
         html += chunk;
       });
 

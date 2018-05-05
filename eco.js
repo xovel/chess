@@ -23,6 +23,4 @@ $('tr').each((index, item) => {
 
 });
 
-wFile('eco.json', JSON.stringify(eco, null, '  '), () => {
-  // console.log(`eco.json 写入成功`);
-});
+wFile('eco.json', JSON.stringify(eco, null, '  '));
