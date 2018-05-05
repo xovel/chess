@@ -1,0 +1,17 @@
+[Event "Rome"]
+[Site "Rome ITA"]
+[Date "1610.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Giulio Cesare Polerio"]
+[Black "Domenico"]
+[ECO "C57"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "41"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Nxd5 6.Nxf7 Kxf7
+7.Qf3+ Ke6 8.Nc3 Ne7 9.d4 c6 10.Bg5 h6 11.Bxe7 Bxe7 12.O-O-O
+Rf8 13.Qe4 Rxf2 14.dxe5 Bg5+ 15.Kb1 Rd2 16.h4 Rxd1+ 17.Rxd1
+Bxh4 18.Nxd5 cxd5 19.Rxd5 Qg5 20.Rd6+ Ke7 21.Rg6 1-0

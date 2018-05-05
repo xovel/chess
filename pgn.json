@@ -1,6 +1,22 @@
 {
-  "update": "2018-05-02",
+  "update": "2018-05-04",
   "list": [
+    {
+      "date": "2018-05-04",
+      "year": "1858",
+      "players": "Morphy vs Anderssen",
+      "link": "/perl/chessgame?gid=1019059",
+      "id": "1019059",
+      "note": "Paulitically Correct"
+    },
+    {
+      "date": "2018-05-03",
+      "year": "1610",
+      "players": "Polerio vs Domenico",
+      "link": "/perl/chessgame?gid=1224683",
+      "id": "1224683",
+      "note": "Old Fried Liver"
+    },
     {
       "date": "2018-05-02",
       "year": "1971",
