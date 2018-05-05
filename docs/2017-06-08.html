@@ -37,9 +37,6 @@
     }
   </style>
 
-
-
-
   <!-- start OLGA header -->
   <!-- meta charset="utf-8" -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -58,14 +55,13 @@
 [BlackElo "?"]
 [PlyCount "106"]
 
-1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Bxc6 bxc6 6.Nc3 d6 7.d4 Nd7 8.dxe5 dxe5 9.O-O Bd6 10.Ne2 O-O 11.Ng3 Rb8 12.b3 Re8 13.Be3 g6 14.c3 a5 15.Qc2 Qe7 16.Rfd1 Nc5 17.Ne1 Ne6 18.Nd3 Nf4 19.f3 Ba6 20.c4 c5 21.Qd2 Nxd3 22.Qxd3 Red8 23.Ne2 c6 24.Nc3 Bc7 25.Qc2 Rd4 26.Ne2 Bc8 27.Nxd4 cxd4 28.Bf2 c5 29.Rf1 f5 30.Bg3 Bd7 31.Rad1 f4 32.Bf2 g5 33.g4 fxg3 34.Bxg3 Bh3 35.Rf2 h5 36.Rfd2 h4 37.Bf2 Rf8 38.Rd3 Rf4 39.Kh1 Kh7 40.Rg1 Bd8 41.Qe2 Qf7 42.Qd1 Qh5 43.Be3 Qxf3+ 44.Qxf3 Rxf3 45.Bxg5 Rxd3 46.Bxd8 Re3 47.Bb6 Rxe4 48.Bxc5 Re2 49.Rd1 Bg4 50.h3 Bxh3 51.b4 Bf5 52.Bd6 d3 53.bxa5 h3 0-1'
-    ratio="80" notes='[]'>
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Bxc6 bxc6 6.Nc3 d6 7.d4 Nd7 8.dxe5 dxe5 9.O-O Bd6 10.Ne2 O-O 11.Ng3 Rb8 12.b3 Re8 13.Be3 g6 14.c3 a5 15.Qc2 Qe7 16.Rfd1 Nc5 17.Ne1 Ne6 18.Nd3 Nf4 19.f3 Ba6 20.c4 c5 21.Qd2 Nxd3 22.Qxd3 Red8 23.Ne2 c6 24.Nc3 Bc7 25.Qc2 Rd4 26.Ne2 Bc8 27.Nxd4 cxd4 28.Bf2 c5 29.Rf1 f5 30.Bg3 Bd7 31.Rad1 f4 32.Bf2 g5 33.g4 fxg3 34.Bxg3 Bh3 35.Rf2 h5 36.Rfd2 h4 37.Bf2 Rf8 38.Rd3 Rf4 39.Kh1 Kh7 40.Rg1 Bd8 41.Qe2 Qf7 42.Qd1 Qh5 43.Be3 Qxf3+ 44.Qxf3 Rxf3 45.Bxg5 Rxd3 46.Bxd8 Re3 47.Bb6 Rxe4 48.Bxc5 Re2 49.Rd1 Bg4 50.h3 Bxh3 51.b4 Bf5 52.Bd6 d3 53.bxa5 h3 0-1' ratio="80" notes='[]'>
   </div>
-  <script src="./assets/chess.js"></script>
-  <link href="./assets/jquery-ui.min.css" rel="stylesheet">
+  <script src="https://cdn.bootcss.com/chess.js/0.10.2/chess.js"></script>
+  <link href="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.css" rel="stylesheet">
   <link href="./assets/chessboard.min.css" rel="stylesheet">
-  <script src="./assets/jquery-3.2.1.min.js"></script>
-  <script src="./assets/jquery-ui.min.js"></script>
+  <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.js"></script>
+  <script src="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.js"></script>
   <script src="./assets/chessboard.min.js"></script>
   <script src="./assets/olga.js"></script>
   <link rel="stylesheet" href="./assets/olga.css">
@@ -84,14 +80,15 @@
           top: this[0].offsetTop
         };
       };
-      var board = ChessBoard("board", { draggable: false, position: '' });
-      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status', 'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
+      var board = ChessBoard("board", {
+        draggable: false,
+        position: ''
+      });
+      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status',
+        'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
     }
   </script>
   <!-- end OLGA header -->
-
-
-
   <script type="text/javascript">
     function OpenWin(pagename) {
       SmallWin = window.open(pagename, 'popup', 'scrollbars,resizable,toolbar=no,height=394,width=412,left=200,top=200');
@@ -103,10 +100,7 @@
 </head>
 
 <body bgcolor="#FFFFFF" vlink="#9900FF" link="#0000FF" onload="startLoading();">
-
-
-
-  <CENTER>
+  <center>
     <font face="verdana,arial,helvetica" size=+1>
       <B>V Liublinsky</B>
       <font color=#333333>vs</font>
@@ -117,9 +111,10 @@
       <B>"Urra!"</B>
       <font size=-2>(game of the day 2017-06-08)</font>
       <br> Russia (1943.??.??), Tournament, Moscow
-      <br> Ruy Lopez(C77) <B>&#183;</B>&nbsp; 0-1
+      <br> Ruy Lopez(C77)
+      <B>&#183;</B>&nbsp; 0-1
     </font>
-  </CENTER>
+  </center>
   <font size="2">
 
     <!--beginolga-->
@@ -159,8 +154,7 @@
         </div>
         <div class="col-3" style="width:13%;float:left; margin-left:1%;">
           <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">Flip
-            <br/>
-            </b>Board</p>
+            <br/>Board</p>
           <input type="image" src="./assets/img/orientation.png" class="option_item" onclick="flipOrientation();" />
         </div>
         <div class="col-4" style="width:32px; height:32px;float:left; margin-left: 2%;">
@@ -200,8 +194,6 @@
     <!--endolga-->
 
   </font>
-  <CENTER>
-
 
 </body>
 

@@ -37,9 +37,6 @@
     }
   </style>
 
-
-
-
   <!-- start OLGA header -->
   <!-- meta charset="utf-8" -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -58,14 +55,13 @@
 [BlackElo "?"]
 [PlyCount "99"]
 
-1.e4 g6 2.d4 Bg7 3.Nc3 c6 4.Be3 d5 5.Qd2 dxe4 6.Nxe4 Nd7 7.O-O-O Ngf6 8.f3 Nxe4 9.fxe4 Nf6 10.e5 Nd5 11.Bh6 Bxh6 12.Qxh6 Bf5 13.Nf3 Qa5 14.Bc4 O-O-O 15.Bb3 Bg4 16.Rhf1 f6 17.c4 Nc7 18.exf6 exf6 19.Qf4 f5 20.d5 cxd5 21.cxd5 Qc5+ 22.Kb1 Qd6 23.Qd4 Bxf3 24.Rxf3 Kb8 25.h3 Rhe8 26.g4 fxg4 27.hxg4 Ne6 28.Qf2 Ng5 29.Re3 Ne4 30.Qe2 Ng3 31.Qf3 Rxe3 32.Qxe3 h5 33.gxh5 gxh5 34.Qg5 Rh8 35.Re1 h4 36.a3 a6 37.Re6 Qd8 38.Qe5+ Ka8 39.d6 Rf8 40.Re7 Nf5 41.Re6 h3 42.Bd5 Ka7 43.Be4 h2 44.Qxh2 Nd4 45.Qg1 Qb6 46.Re7 Nc6 47.Rxb7+ Kxb7 48.Qg7+ Kb8 49.Qxf8+ Nd8 50.Ka2 1-0'
-    ratio="80" notes='[]'>
+1.e4 g6 2.d4 Bg7 3.Nc3 c6 4.Be3 d5 5.Qd2 dxe4 6.Nxe4 Nd7 7.O-O-O Ngf6 8.f3 Nxe4 9.fxe4 Nf6 10.e5 Nd5 11.Bh6 Bxh6 12.Qxh6 Bf5 13.Nf3 Qa5 14.Bc4 O-O-O 15.Bb3 Bg4 16.Rhf1 f6 17.c4 Nc7 18.exf6 exf6 19.Qf4 f5 20.d5 cxd5 21.cxd5 Qc5+ 22.Kb1 Qd6 23.Qd4 Bxf3 24.Rxf3 Kb8 25.h3 Rhe8 26.g4 fxg4 27.hxg4 Ne6 28.Qf2 Ng5 29.Re3 Ne4 30.Qe2 Ng3 31.Qf3 Rxe3 32.Qxe3 h5 33.gxh5 gxh5 34.Qg5 Rh8 35.Re1 h4 36.a3 a6 37.Re6 Qd8 38.Qe5+ Ka8 39.d6 Rf8 40.Re7 Nf5 41.Re6 h3 42.Bd5 Ka7 43.Be4 h2 44.Qxh2 Nd4 45.Qg1 Qb6 46.Re7 Nc6 47.Rxb7+ Kxb7 48.Qg7+ Kb8 49.Qxf8+ Nd8 50.Ka2 1-0' ratio="80" notes='[]'>
   </div>
-  <script src="./assets/chess.js"></script>
-  <link href="./assets/jquery-ui.min.css" rel="stylesheet">
+  <script src="https://cdn.bootcss.com/chess.js/0.10.2/chess.js"></script>
+  <link href="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.css" rel="stylesheet">
   <link href="./assets/chessboard.min.css" rel="stylesheet">
-  <script src="./assets/jquery-3.2.1.min.js"></script>
-  <script src="./assets/jquery-ui.min.js"></script>
+  <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.js"></script>
+  <script src="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.js"></script>
   <script src="./assets/chessboard.min.js"></script>
   <script src="./assets/olga.js"></script>
   <link rel="stylesheet" href="./assets/olga.css">
@@ -84,14 +80,15 @@
           top: this[0].offsetTop
         };
       };
-      var board = ChessBoard("board", { draggable: false, position: '' });
-      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status', 'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
+      var board = ChessBoard("board", {
+        draggable: false,
+        position: ''
+      });
+      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status',
+        'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
     }
   </script>
   <!-- end OLGA header -->
-
-
-
   <script type="text/javascript">
     function OpenWin(pagename) {
       SmallWin = window.open(pagename, 'popup', 'scrollbars,resizable,toolbar=no,height=394,width=412,left=200,top=200');
@@ -103,10 +100,7 @@
 </head>
 
 <body bgcolor="#FFFFFF" vlink="#9900FF" link="#0000FF" onload="startLoading();">
-
-
-
-  <CENTER>
+  <center>
     <font face="verdana,arial,helvetica" size=+1>
       <B>Kupreichik</B>
       <font color=#333333>vs</font>
@@ -117,9 +111,10 @@
       <B>"Crossing Jordan"</B>
       <font size=-2>(game of the day 2017-05-28)</font>
       <br> Lvov (1986.??.??), Lvov
-      <br> Robatsch(B06) <B>&#183;</B>&nbsp; 1-0
+      <br> Robatsch(B06)
+      <B>&#183;</B>&nbsp; 1-0
     </font>
-  </CENTER>
+  </center>
   <font size="2">
 
     <!--beginolga-->
@@ -159,8 +154,7 @@
         </div>
         <div class="col-3" style="width:13%;float:left; margin-left:1%;">
           <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">Flip
-            <br/>
-            </b>Board</p>
+            <br/>Board</p>
           <input type="image" src="./assets/img/orientation.png" class="option_item" onclick="flipOrientation();" />
         </div>
         <div class="col-4" style="width:32px; height:32px;float:left; margin-left: 2%;">
@@ -200,8 +194,6 @@
     <!--endolga-->
 
   </font>
-  <CENTER>
-
 
 </body>
 

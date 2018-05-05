@@ -37,9 +37,6 @@
     }
   </style>
 
-
-
-
   <!-- start OLGA header -->
   <!-- meta charset="utf-8" -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -58,14 +55,13 @@
 [BlackElo "?"]
 [PlyCount "76"]
 
-1.d4 d5 2.Nf3 e6 3.Bf4 c5 4.e3 Nc6 5.c3 Nf6 6.Nbd2 Be7 7.Bd3 O-O 8.h3 Bd6 9.Ne5 Bxe5 10.dxe5 Nd7 11.Nf3 f6 12.exf6 Nxf6 13.O-O Qe7 14.Ne5 Nxe5 15.Bxe5 Bd7 16.c4 Bc6 17.Rc1 b6 18.b3 Rad8 19.Qe2 Qf7 20.Rfd1 Rd7 21.Bb1 Rfd8 22.Qc2 Qh5 23.Qb2 dxc4 24.Rxd7 Nxd7 25.Bg3 cxb3 26.axb3 Nf6 27.f3 Qd5 28.Re1 Be8 29.Bh4 e5 30.Bc2 Qe6 31.Qc3 Bf7 32.Ra1 Rd7 33.g4 Bg6 34. Bd1 Bd3 35.Bg3 e4 36.f4 Nd5 37.Qe1 Qf6 38.Rc1 Qb2 0-1'
-    ratio="80" notes='[0,"Notes by Lasker.",8,"If White had to make such a narrowing move, his opening would not be commendable; the move, however, is not necessary. The threat of Qb6 can also be met by 5.c4 after ...Qb6, White has then the choice of 6.Qb3,Qd2 and even Qc1.",14,"Before Castling, he wishes to provide a retreat for the Bishop against Black&rsquo;s Nh5; but the move deprives the Bishop of the strong foothold at g3.",16,"White&rsquo;s position is no longer favorable. Relatively best was 9.Bxd6 Qxd6 10.Rc1, followed by Bb1 and c4. The move played gives Black the superiority on the Queen&rsquo;s wing, without obtaining any sufficient compensation for it.",21,"Black now obtains an excellent development.",44,"White wants to avoid Bxf6, which would open the g-file for Black, whose Bishop aims already at White&rsquo;s g2 square; but now Black obtains other advantages.",48,"After 25.Bxg7 Black would win by 25...e5.",50,"If 26.Qxb3, Black would force the exchange of Queens by Qd5.",65,"By driving White&rsquo;s KB from the diagonal or exchanging it for his Bishop, Black is enabled to bring his Knight into play with decisive effect at d5, or (if e4 ) at d4. The finish is vigorously played by Black."]'>
+1.d4 d5 2.Nf3 e6 3.Bf4 c5 4.e3 Nc6 5.c3 Nf6 6.Nbd2 Be7 7.Bd3 O-O 8.h3 Bd6 9.Ne5 Bxe5 10.dxe5 Nd7 11.Nf3 f6 12.exf6 Nxf6 13.O-O Qe7 14.Ne5 Nxe5 15.Bxe5 Bd7 16.c4 Bc6 17.Rc1 b6 18.b3 Rad8 19.Qe2 Qf7 20.Rfd1 Rd7 21.Bb1 Rfd8 22.Qc2 Qh5 23.Qb2 dxc4 24.Rxd7 Nxd7 25.Bg3 cxb3 26.axb3 Nf6 27.f3 Qd5 28.Re1 Be8 29.Bh4 e5 30.Bc2 Qe6 31.Qc3 Bf7 32.Ra1 Rd7 33.g4 Bg6 34. Bd1 Bd3 35.Bg3 e4 36.f4 Nd5 37.Qe1 Qf6 38.Rc1 Qb2 0-1' ratio="80" notes='[0,"Notes by Lasker.",8,"If White had to make such a narrowing move, his opening would not be commendable; the move, however, is not necessary. The threat of Qb6 can also be met by 5.c4 after ...Qb6, White has then the choice of 6.Qb3,Qd2 and even Qc1.",14,"Before Castling, he wishes to provide a retreat for the Bishop against Black&rsquo;s Nh5; but the move deprives the Bishop of the strong foothold at g3.",16,"White&rsquo;s position is no longer favorable. Relatively best was 9.Bxd6 Qxd6 10.Rc1, followed by Bb1 and c4. The move played gives Black the superiority on the Queen&rsquo;s wing, without obtaining any sufficient compensation for it.",21,"Black now obtains an excellent development.",44,"White wants to avoid Bxf6, which would open the g-file for Black, whose Bishop aims already at White&rsquo;s g2 square; but now Black obtains other advantages.",48,"After 25.Bxg7 Black would win by 25...e5.",50,"If 26.Qxb3, Black would force the exchange of Queens by Qd5.",65,"By driving White&rsquo;s KB from the diagonal or exchanging it for his Bishop, Black is enabled to bring his Knight into play with decisive effect at d5, or (if e4 ) at d4. The finish is vigorously played by Black."]'>
   </div>
-  <script src="./assets/chess.js"></script>
-  <link href="./assets/jquery-ui.min.css" rel="stylesheet">
+  <script src="https://cdn.bootcss.com/chess.js/0.10.2/chess.js"></script>
+  <link href="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.css" rel="stylesheet">
   <link href="./assets/chessboard.min.css" rel="stylesheet">
-  <script src="./assets/jquery-3.2.1.min.js"></script>
-  <script src="./assets/jquery-ui.min.js"></script>
+  <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.js"></script>
+  <script src="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.js"></script>
   <script src="./assets/chessboard.min.js"></script>
   <script src="./assets/olga.js"></script>
   <link rel="stylesheet" href="./assets/olga.css">
@@ -84,14 +80,15 @@
           top: this[0].offsetTop
         };
       };
-      var board = ChessBoard("board", { draggable: false, position: '' });
-      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status', 'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
+      var board = ChessBoard("board", {
+        draggable: false,
+        position: ''
+      });
+      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status',
+        'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
     }
   </script>
   <!-- end OLGA header -->
-
-
-
   <script type="text/javascript">
     function OpenWin(pagename) {
       SmallWin = window.open(pagename, 'popup', 'scrollbars,resizable,toolbar=no,height=394,width=412,left=200,top=200');
@@ -103,10 +100,7 @@
 </head>
 
 <body bgcolor="#FFFFFF" vlink="#9900FF" link="#0000FF" onload="startLoading();">
-
-
-
-  <CENTER>
+  <center>
     <font face="verdana,arial,helvetica" size=+1>
       <B>Znosko-Borovsky</B>
       <font color=#333333>vs</font>
@@ -117,9 +111,10 @@
       <B>"The Grass is Salwe&apos;s Greener"</B>
       <font size=-2>(game of the day 2017-01-09)</font>
       <br> St. Petersburg (1909.02.19), St. Petersburg RUE
-      <br> Queen's Pawn Game(D02) <B>&#183;</B>&nbsp; 0-1
+      <br> Queen's Pawn Game(D02)
+      <B>&#183;</B>&nbsp; 0-1
     </font>
-  </CENTER>
+  </center>
   <font size="2">
 
     <!--beginolga-->
@@ -159,8 +154,7 @@
         </div>
         <div class="col-3" style="width:13%;float:left; margin-left:1%;">
           <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">Flip
-            <br/>
-            </b>Board</p>
+            <br/>Board</p>
           <input type="image" src="./assets/img/orientation.png" class="option_item" onclick="flipOrientation();" />
         </div>
         <div class="col-4" style="width:32px; height:32px;float:left; margin-left: 2%;">
@@ -200,8 +194,6 @@
     <!--endolga-->
 
   </font>
-  <CENTER>
-
 
 </body>
 

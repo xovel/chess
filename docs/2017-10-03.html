@@ -37,9 +37,6 @@
     }
   </style>
 
-
-
-
   <!-- start OLGA header -->
   <!-- meta charset="utf-8" -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -58,14 +55,13 @@
 [BlackElo "?"]
 [PlyCount "88"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. c3 Be7 7. d4 Bd7 8. Re1 O-O 9. Nbd2 b5 10. Bb3 Bg4 11. h3 Bxf3 12. Nxf3 exd4 13. cxd4 Na5 14. Bc2 c5 15. d5 Nd7 16. a4 Qb6 17. b3 Bf6 18. Rb1 Rfe8 19. Be3 b4 20. Nd2 Re7 21. f4 Rae8 22. Qe2 Bc3 23. Qd3 f5 24. e5 dxe5 25. d6 e4 26. Qd5+ Re6 27. Red1 Bd4 28. Nf1 Qxd6 29. Qxf5 Rf8 30. Qg5 Nc6 31. Qg4 Nf6 32. Qe2 Nd5 33. g3 Kh8 34. Kh1 Nc3 35. Qxa6 Qd7 36. Kg2 Ne5 37. Qa5 Rh6 38. h4 Rxh4 39. gxh4 Qg4+ 40. Ng3 Ne2 41. Bxe4 Qxg3+ 42. Kf1 Rxf4+ 43. Bf3 Qxf3+ 44. Ke1 Bc3+ 0-1'
-    ratio="80" notes='[]'>
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. c3 Be7 7. d4 Bd7 8. Re1 O-O 9. Nbd2 b5 10. Bb3 Bg4 11. h3 Bxf3 12. Nxf3 exd4 13. cxd4 Na5 14. Bc2 c5 15. d5 Nd7 16. a4 Qb6 17. b3 Bf6 18. Rb1 Rfe8 19. Be3 b4 20. Nd2 Re7 21. f4 Rae8 22. Qe2 Bc3 23. Qd3 f5 24. e5 dxe5 25. d6 e4 26. Qd5+ Re6 27. Red1 Bd4 28. Nf1 Qxd6 29. Qxf5 Rf8 30. Qg5 Nc6 31. Qg4 Nf6 32. Qe2 Nd5 33. g3 Kh8 34. Kh1 Nc3 35. Qxa6 Qd7 36. Kg2 Ne5 37. Qa5 Rh6 38. h4 Rxh4 39. gxh4 Qg4+ 40. Ng3 Ne2 41. Bxe4 Qxg3+ 42. Kf1 Rxf4+ 43. Bf3 Qxf3+ 44. Ke1 Bc3+ 0-1' ratio="80" notes='[]'>
   </div>
-  <script src="./assets/chess.js"></script>
-  <link href="./assets/jquery-ui.min.css" rel="stylesheet">
+  <script src="https://cdn.bootcss.com/chess.js/0.10.2/chess.js"></script>
+  <link href="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.css" rel="stylesheet">
   <link href="./assets/chessboard.min.css" rel="stylesheet">
-  <script src="./assets/jquery-3.2.1.min.js"></script>
-  <script src="./assets/jquery-ui.min.js"></script>
+  <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.js"></script>
+  <script src="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.js"></script>
   <script src="./assets/chessboard.min.js"></script>
   <script src="./assets/olga.js"></script>
   <link rel="stylesheet" href="./assets/olga.css">
@@ -84,14 +80,15 @@
           top: this[0].offsetTop
         };
       };
-      var board = ChessBoard("board", { draggable: false, position: '' });
-      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status', 'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
+      var board = ChessBoard("board", {
+        draggable: false,
+        position: ''
+      });
+      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status',
+        'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
     }
   </script>
   <!-- end OLGA header -->
-
-
-
   <script type="text/javascript">
     function OpenWin(pagename) {
       SmallWin = window.open(pagename, 'popup', 'scrollbars,resizable,toolbar=no,height=394,width=412,left=200,top=200');
@@ -103,10 +100,7 @@
 </head>
 
 <body bgcolor="#FFFFFF" vlink="#9900FF" link="#0000FF" onload="startLoading();">
-
-
-
-  <CENTER>
+  <center>
     <font face="verdana,arial,helvetica" size=+1>
       <B>Alekhine</B>
       <font color=#333333>vs</font>
@@ -117,9 +111,10 @@
       <B>"Gale Force Wins"</B>
       <font size=-2>(game of the day 2017-10-03)</font>
       <br> Simul, 42b (1932.11.14), Eaton's Auditorium, Toronto CAN
-      <br> Ruy Lopez, Steinitz Defense Deferred(C79) <B>&#183;</B>&nbsp; 0-1
+      <br> Ruy Lopez, Steinitz Defense Deferred(C79)
+      <B>&#183;</B>&nbsp; 0-1
     </font>
-  </CENTER>
+  </center>
   <font size="2">
 
     <!--beginolga-->
@@ -159,8 +154,7 @@
         </div>
         <div class="col-3" style="width:13%;float:left; margin-left:1%;">
           <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">Flip
-            <br/>
-            </b>Board</p>
+            <br/>Board</p>
           <input type="image" src="./assets/img/orientation.png" class="option_item" onclick="flipOrientation();" />
         </div>
         <div class="col-4" style="width:32px; height:32px;float:left; margin-left: 2%;">
@@ -200,8 +194,6 @@
     <!--endolga-->
 
   </font>
-  <CENTER>
-
 
 </body>
 

@@ -37,9 +37,6 @@
     }
   </style>
 
-
-
-
   <!-- start OLGA header -->
   <!-- meta charset="utf-8" -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -58,14 +55,13 @@
 [BlackElo "?"]
 [PlyCount "69"]
 
-1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O 8. Be3 c5 9. Ne2 cxd4 10. cxd4 Nc6 11. O-O b6 12. Rc1 Bb7 13. Bd5 Rc8 14. Qa4 Qd7 15. f3 e6 16. Bc4 Qd6 17. d5 Na5 18. dxe6 fxe6 19. Rfd1 Qe7 20. Nd4 Nxc4 21. Rxc4 e5 22. Nc6 Qe6 23. Rdc1 Bxc6 24. Rxc6 Rxc6 25. Rxc6 Qd7 26. Qc4+ Qf7 27. Re6 Kh8 28. Qc6 Rd8 29. Bg5 Rf8 30. Re7 Qxa2 31. Qc7 Qg8 32. Qxa7 Rb8 33. Rxg7 Qf8 34. Rxh7+ Kg8 35. Bh6 1-0'
-    ratio="80" notes='[]'>
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O 8. Be3 c5 9. Ne2 cxd4 10. cxd4 Nc6 11. O-O b6 12. Rc1 Bb7 13. Bd5 Rc8 14. Qa4 Qd7 15. f3 e6 16. Bc4 Qd6 17. d5 Na5 18. dxe6 fxe6 19. Rfd1 Qe7 20. Nd4 Nxc4 21. Rxc4 e5 22. Nc6 Qe6 23. Rdc1 Bxc6 24. Rxc6 Rxc6 25. Rxc6 Qd7 26. Qc4+ Qf7 27. Re6 Kh8 28. Qc6 Rd8 29. Bg5 Rf8 30. Re7 Qxa2 31. Qc7 Qg8 32. Qxa7 Rb8 33. Rxg7 Qf8 34. Rxh7+ Kg8 35. Bh6 1-0' ratio="80" notes='[]'>
   </div>
-  <script src="./assets/chess.js"></script>
-  <link href="./assets/jquery-ui.min.css" rel="stylesheet">
+  <script src="https://cdn.bootcss.com/chess.js/0.10.2/chess.js"></script>
+  <link href="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.css" rel="stylesheet">
   <link href="./assets/chessboard.min.css" rel="stylesheet">
-  <script src="./assets/jquery-3.2.1.min.js"></script>
-  <script src="./assets/jquery-ui.min.js"></script>
+  <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.js"></script>
+  <script src="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.js"></script>
   <script src="./assets/chessboard.min.js"></script>
   <script src="./assets/olga.js"></script>
   <link rel="stylesheet" href="./assets/olga.css">
@@ -84,14 +80,15 @@
           top: this[0].offsetTop
         };
       };
-      var board = ChessBoard("board", { draggable: false, position: '' });
-      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status', 'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
+      var board = ChessBoard("board", {
+        draggable: false,
+        position: ''
+      });
+      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status',
+        'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
     }
   </script>
   <!-- end OLGA header -->
-
-
-
   <script type="text/javascript">
     function OpenWin(pagename) {
       SmallWin = window.open(pagename, 'popup', 'scrollbars,resizable,toolbar=no,height=394,width=412,left=200,top=200');
@@ -103,10 +100,7 @@
 </head>
 
 <body bgcolor="#FFFFFF" vlink="#9900FF" link="#0000FF" onload="startLoading();">
-
-
-
-  <CENTER>
+  <center>
     <font face="verdana,arial,helvetica" size=+1>
       <B>T Music</B>
       <font color=#333333>vs</font>
@@ -117,9 +111,10 @@
       <B>"Face the Music"</B>
       <font size=-2>(game of the day 2018-03-18)</font>
       <br> TCh-CRO Jun (2001.09.18), Pula CRO
-      <br> Grunfeld, Spassky Variation, Main line, 10...cd, 11.cd(D88) <B>&#183;</B>&nbsp; 1-0
+      <br> Grunfeld, Spassky Variation, Main line, 10...cd, 11.cd(D88)
+      <B>&#183;</B>&nbsp; 1-0
     </font>
-  </CENTER>
+  </center>
   <font size="2">
 
     <!--beginolga-->
@@ -159,8 +154,7 @@
         </div>
         <div class="col-3" style="width:13%;float:left; margin-left:1%;">
           <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">Flip
-            <br/>
-            </b>Board</p>
+            <br/>Board</p>
           <input type="image" src="./assets/img/orientation.png" class="option_item" onclick="flipOrientation();" />
         </div>
         <div class="col-4" style="width:32px; height:32px;float:left; margin-left: 2%;">
@@ -200,8 +194,6 @@
     <!--endolga-->
 
   </font>
-  <CENTER>
-
 
 </body>
 

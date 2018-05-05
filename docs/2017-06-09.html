@@ -37,9 +37,6 @@
     }
   </style>
 
-
-
-
   <!-- start OLGA header -->
   <!-- meta charset="utf-8" -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -58,14 +55,13 @@
 [BlackElo "?"]
 [PlyCount "89"]
 
-1. g3 Nf6 2. Bg2 e5 3. d3 Bc5 4. Nf3 d6 5. O-O O-O 6. c4 Nc6 7. Nc3 Bg4 8. h3 Bxf3 9. Bxf3 Qd7 10. Bg2 a6 11. e3 Bb4 12. Ne2 Rae8 13. a3 Bc5 14. Qc2 Re7 15. b4 Ba7 16. Nc3 Rfe8 17. Bd2 d5 18. cxd5 Nd8 19. e4 h6 20. Be3 b6 21. Ne2 Nb7 22. g4 Rc8 23. Ng3 Nd6 24. Qc6 Qxc6 25. dxc6 Rd8 26. a4 Nc8 27. Rfd1 Re6 28. b5 a5 29. Bf3 Red6 30. Be2 Nh7 31. h4 Ne7 32. Nf5 Nxf5 33. gxf5 f6 34. Ra3 Kh8 35. Rd2 Rg8 36. h5 Ng5 37. Kf1 Nh3 38. Bg4 Nf4 39. d4 exd4 40. Bxf4 Rdd8 41. Ke2 Rge8 42. Kd3 Re7 43. Bd1 Rde8 44. f3 Rd8 45. Bb3 1-0'
-    ratio="80" notes='[]'>
+1. g3 Nf6 2. Bg2 e5 3. d3 Bc5 4. Nf3 d6 5. O-O O-O 6. c4 Nc6 7. Nc3 Bg4 8. h3 Bxf3 9. Bxf3 Qd7 10. Bg2 a6 11. e3 Bb4 12. Ne2 Rae8 13. a3 Bc5 14. Qc2 Re7 15. b4 Ba7 16. Nc3 Rfe8 17. Bd2 d5 18. cxd5 Nd8 19. e4 h6 20. Be3 b6 21. Ne2 Nb7 22. g4 Rc8 23. Ng3 Nd6 24. Qc6 Qxc6 25. dxc6 Rd8 26. a4 Nc8 27. Rfd1 Re6 28. b5 a5 29. Bf3 Red6 30. Be2 Nh7 31. h4 Ne7 32. Nf5 Nxf5 33. gxf5 f6 34. Ra3 Kh8 35. Rd2 Rg8 36. h5 Ng5 37. Kf1 Nh3 38. Bg4 Nf4 39. d4 exd4 40. Bxf4 Rdd8 41. Ke2 Rge8 42. Kd3 Re7 43. Bd1 Rde8 44. f3 Rd8 45. Bb3 1-0' ratio="80" notes='[]'>
   </div>
-  <script src="./assets/chess.js"></script>
-  <link href="./assets/jquery-ui.min.css" rel="stylesheet">
+  <script src="https://cdn.bootcss.com/chess.js/0.10.2/chess.js"></script>
+  <link href="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.css" rel="stylesheet">
   <link href="./assets/chessboard.min.css" rel="stylesheet">
-  <script src="./assets/jquery-3.2.1.min.js"></script>
-  <script src="./assets/jquery-ui.min.js"></script>
+  <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.js"></script>
+  <script src="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.js"></script>
   <script src="./assets/chessboard.min.js"></script>
   <script src="./assets/olga.js"></script>
   <link rel="stylesheet" href="./assets/olga.css">
@@ -84,14 +80,15 @@
           top: this[0].offsetTop
         };
       };
-      var board = ChessBoard("board", { draggable: false, position: '' });
-      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status', 'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
+      var board = ChessBoard("board", {
+        draggable: false,
+        position: ''
+      });
+      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status',
+        'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
     }
   </script>
   <!-- end OLGA header -->
-
-
-
   <script type="text/javascript">
     function OpenWin(pagename) {
       SmallWin = window.open(pagename, 'popup', 'scrollbars,resizable,toolbar=no,height=394,width=412,left=200,top=200');
@@ -103,10 +100,7 @@
 </head>
 
 <body bgcolor="#FFFFFF" vlink="#9900FF" link="#0000FF" onload="startLoading();">
-
-
-
-  <CENTER>
+  <center>
     <font face="verdana,arial,helvetica" size=+1>
       <B>Kasparov</B>
       <font color=#333333>vs</font>
@@ -117,9 +111,10 @@
       <B>"Every Move You Make"</B>
       <font size=-2>(game of the day 2017-06-09)</font>
       <br> WSCC Sting Simul (2000.06.29), ?
-      <br> Uncommon Opening(A00) <B>&#183;</B>&nbsp; 1-0
+      <br> Uncommon Opening(A00)
+      <B>&#183;</B>&nbsp; 1-0
     </font>
-  </CENTER>
+  </center>
   <font size="2">
 
     <!--beginolga-->
@@ -159,8 +154,7 @@
         </div>
         <div class="col-3" style="width:13%;float:left; margin-left:1%;">
           <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">Flip
-            <br/>
-            </b>Board</p>
+            <br/>Board</p>
           <input type="image" src="./assets/img/orientation.png" class="option_item" onclick="flipOrientation();" />
         </div>
         <div class="col-4" style="width:32px; height:32px;float:left; margin-left: 2%;">
@@ -200,8 +194,6 @@
     <!--endolga-->
 
   </font>
-  <CENTER>
-
 
 </body>
 

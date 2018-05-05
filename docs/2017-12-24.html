@@ -37,9 +37,6 @@
     }
   </style>
 
-
-
-
   <!-- start OLGA header -->
   <!-- meta charset="utf-8" -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -58,14 +55,13 @@
 [BlackElo "?"]
 [PlyCount "81"]
 
-1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e6 7.g4 e5 8.Nf5 g6 9.g5 gxf5 10.exf5 d5 11.Qf3 Ne4 12.Nxe4 dxe4 13.Qxe4 Nc6 14.Bc4 Qa5+ 15.Bd2 Qc5 16.O-O-O Nd4 17.Bb4 Qxc4 18.Qxe5+ Ne6 19.Ba5 b6 20.Bxb6 Bb7 21.fxe6 fxe6 22.Rhe1 Rc8 23.Kb1 Bd5 24.Qxd5 Qxc2+ 25.Ka1 Qc1+ 26.Rxc1 Rxc1+ 27.Rxc1 exd5 28.Rc7 Rg8 29.h4 h6 30.f4 Bd6 31.Rc8+ Kf7 32.Rc6 Ke7 33.Be3 hxg5 34.fxg5 Rh8 35.g6 Kd7 36.g7 Re8 37.Rc1 Be5 38.Bh6 Rb8 39.Rc2 Ke6 40.Rf2 Bd4 41.Rf8 1-0'
-    ratio="80" notes='[]'>
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e6 7.g4 e5 8.Nf5 g6 9.g5 gxf5 10.exf5 d5 11.Qf3 Ne4 12.Nxe4 dxe4 13.Qxe4 Nc6 14.Bc4 Qa5+ 15.Bd2 Qc5 16.O-O-O Nd4 17.Bb4 Qxc4 18.Qxe5+ Ne6 19.Ba5 b6 20.Bxb6 Bb7 21.fxe6 fxe6 22.Rhe1 Rc8 23.Kb1 Bd5 24.Qxd5 Qxc2+ 25.Ka1 Qc1+ 26.Rxc1 Rxc1+ 27.Rxc1 exd5 28.Rc7 Rg8 29.h4 h6 30.f4 Bd6 31.Rc8+ Kf7 32.Rc6 Ke7 33.Be3 hxg5 34.fxg5 Rh8 35.g6 Kd7 36.g7 Re8 37.Rc1 Be5 38.Bh6 Rb8 39.Rc2 Ke6 40.Rf2 Bd4 41.Rf8 1-0' ratio="80" notes='[]'>
   </div>
-  <script src="./assets/chess.js"></script>
-  <link href="./assets/jquery-ui.min.css" rel="stylesheet">
+  <script src="https://cdn.bootcss.com/chess.js/0.10.2/chess.js"></script>
+  <link href="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.css" rel="stylesheet">
   <link href="./assets/chessboard.min.css" rel="stylesheet">
-  <script src="./assets/jquery-3.2.1.min.js"></script>
-  <script src="./assets/jquery-ui.min.js"></script>
+  <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.js"></script>
+  <script src="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.js"></script>
   <script src="./assets/chessboard.min.js"></script>
   <script src="./assets/olga.js"></script>
   <link rel="stylesheet" href="./assets/olga.css">
@@ -84,14 +80,15 @@
           top: this[0].offsetTop
         };
       };
-      var board = ChessBoard("board", { draggable: false, position: '' });
-      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status', 'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
+      var board = ChessBoard("board", {
+        draggable: false,
+        position: ''
+      });
+      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status',
+        'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
     }
   </script>
   <!-- end OLGA header -->
-
-
-
   <script type="text/javascript">
     function OpenWin(pagename) {
       SmallWin = window.open(pagename, 'popup', 'scrollbars,resizable,toolbar=no,height=394,width=412,left=200,top=200');
@@ -103,10 +100,7 @@
 </head>
 
 <body bgcolor="#FFFFFF" vlink="#9900FF" link="#0000FF" onload="startLoading();">
-
-
-
-  <CENTER>
+  <center>
     <font face="verdana,arial,helvetica" size=+1>
       <B>B Perenyi</B>
       <font color=#333333>vs</font>
@@ -117,9 +111,10 @@
       <B>"Karel of the Bela"</B>
       <font size=-2>(game of the day 2017-12-24)</font>
       <br> Decin-B 8th (1978.06.10), Decin
-      <br> Sicilian, Najdorf(B90) <B>&#183;</B>&nbsp; 1-0
+      <br> Sicilian, Najdorf(B90)
+      <B>&#183;</B>&nbsp; 1-0
     </font>
-  </CENTER>
+  </center>
   <font size="2">
 
     <!--beginolga-->
@@ -159,8 +154,7 @@
         </div>
         <div class="col-3" style="width:13%;float:left; margin-left:1%;">
           <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">Flip
-            <br/>
-            </b>Board</p>
+            <br/>Board</p>
           <input type="image" src="./assets/img/orientation.png" class="option_item" onclick="flipOrientation();" />
         </div>
         <div class="col-4" style="width:32px; height:32px;float:left; margin-left: 2%;">
@@ -200,8 +194,6 @@
     <!--endolga-->
 
   </font>
-  <CENTER>
-
 
 </body>
 

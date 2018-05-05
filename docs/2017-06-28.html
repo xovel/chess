@@ -37,9 +37,6 @@
     }
   </style>
 
-
-
-
   <!-- start OLGA header -->
   <!-- meta charset="utf-8" -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -58,14 +55,13 @@
 [BlackElo "?"]
 [PlyCount "113"]
 
-1.Nf3 d5 2.d4 Nf6 3.c4 c6 4.Nc3 dxc4 5.a4 Bf5 6.Ne5 e6 7.f3 c5 8.e4 cxd4 9.exf5 Nc6 10.Nxc6 bxc6 11.fxe6 fxe6 12.Bxc4 dxc3 13.bxc3 Qa5 14.Bd2 Nd5 15.Qe2 Kf7 16.O-O Bc5+ 17.Kh1 Rhe8 18.Bd3 Nf6 19.Bf4 g6 20.Rab1 Bb6 21.Be5 Nd7 22.Bd6 Rad8 23.Rb4 Nf6 24.Bg3 Qc5 25.Rc4 Qe3 26.Qxe3 Bxe3 27.Be4 c5 28.a5 Nxe4 29.Rxe4 Rd3 30.Be5 Red8 31.h4 Bh6 32.Kh2 R8d5 33.Kh3 Rd1 34.Rxd1 Rxd1 35.Re2 Ra1 36.Rb2 Rxa5 37.Rb7+ Ke8 38.Rxh7 Bf8 39.Kg4 Ra2 40.g3 a5 41.Kg5 Be7+ 42.Kxg6 Re2 43.f4 Rg2 44.f5 exf5 45.Kxf5 Kd7 46.c4 Rf2+ 47.Kg6 Ke6 48.Rxe7+ Kxe7 49.h5 Re2 50.Bf6+ Ke6 51.g4 Rf2 52.g5 a4 53.h6 Rxf6+ 54.gxf6 a3 55.f7 a2 56.f8=Q a1=Q 57.Qf7+ 1-0'
-    ratio="80" notes='[]'>
+1.Nf3 d5 2.d4 Nf6 3.c4 c6 4.Nc3 dxc4 5.a4 Bf5 6.Ne5 e6 7.f3 c5 8.e4 cxd4 9.exf5 Nc6 10.Nxc6 bxc6 11.fxe6 fxe6 12.Bxc4 dxc3 13.bxc3 Qa5 14.Bd2 Nd5 15.Qe2 Kf7 16.O-O Bc5+ 17.Kh1 Rhe8 18.Bd3 Nf6 19.Bf4 g6 20.Rab1 Bb6 21.Be5 Nd7 22.Bd6 Rad8 23.Rb4 Nf6 24.Bg3 Qc5 25.Rc4 Qe3 26.Qxe3 Bxe3 27.Be4 c5 28.a5 Nxe4 29.Rxe4 Rd3 30.Be5 Red8 31.h4 Bh6 32.Kh2 R8d5 33.Kh3 Rd1 34.Rxd1 Rxd1 35.Re2 Ra1 36.Rb2 Rxa5 37.Rb7+ Ke8 38.Rxh7 Bf8 39.Kg4 Ra2 40.g3 a5 41.Kg5 Be7+ 42.Kxg6 Re2 43.f4 Rg2 44.f5 exf5 45.Kxf5 Kd7 46.c4 Rf2+ 47.Kg6 Ke6 48.Rxe7+ Kxe7 49.h5 Re2 50.Bf6+ Ke6 51.g4 Rf2 52.g5 a4 53.h6 Rxf6+ 54.gxf6 a3 55.f7 a2 56.f8=Q a1=Q 57.Qf7+ 1-0' ratio="80" notes='[]'>
   </div>
-  <script src="./assets/chess.js"></script>
-  <link href="./assets/jquery-ui.min.css" rel="stylesheet">
+  <script src="https://cdn.bootcss.com/chess.js/0.10.2/chess.js"></script>
+  <link href="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.css" rel="stylesheet">
   <link href="./assets/chessboard.min.css" rel="stylesheet">
-  <script src="./assets/jquery-3.2.1.min.js"></script>
-  <script src="./assets/jquery-ui.min.js"></script>
+  <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.js"></script>
+  <script src="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.js"></script>
   <script src="./assets/chessboard.min.js"></script>
   <script src="./assets/olga.js"></script>
   <link rel="stylesheet" href="./assets/olga.css">
@@ -84,14 +80,15 @@
           top: this[0].offsetTop
         };
       };
-      var board = ChessBoard("board", { draggable: false, position: '' });
-      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status', 'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
+      var board = ChessBoard("board", {
+        draggable: false,
+        position: ''
+      });
+      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status',
+        'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
     }
   </script>
   <!-- end OLGA header -->
-
-
-
   <script type="text/javascript">
     function OpenWin(pagename) {
       SmallWin = window.open(pagename, 'popup', 'scrollbars,resizable,toolbar=no,height=394,width=412,left=200,top=200');
@@ -103,10 +100,7 @@
 </head>
 
 <body bgcolor="#FFFFFF" vlink="#9900FF" link="#0000FF" onload="startLoading();">
-
-
-
-  <CENTER>
+  <center>
     <font face="verdana,arial,helvetica" size=+1>
       <B>Salov</B>
       <font color=#333333>vs</font>
@@ -117,9 +111,10 @@
       <B>"VS vs VS"</B>
       <font size=-2>(game of the day 2017-06-28)</font>
       <br> 55th USSR Championship (1988.07.??), Moscow URS
-      <br> Queen's Gambit Declined Slav(D17) <B>&#183;</B>&nbsp; 1-0
+      <br> Queen's Gambit Declined Slav(D17)
+      <B>&#183;</B>&nbsp; 1-0
     </font>
-  </CENTER>
+  </center>
   <font size="2">
 
     <!--beginolga-->
@@ -159,8 +154,7 @@
         </div>
         <div class="col-3" style="width:13%;float:left; margin-left:1%;">
           <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">Flip
-            <br/>
-            </b>Board</p>
+            <br/>Board</p>
           <input type="image" src="./assets/img/orientation.png" class="option_item" onclick="flipOrientation();" />
         </div>
         <div class="col-4" style="width:32px; height:32px;float:left; margin-left: 2%;">
@@ -200,8 +194,6 @@
     <!--endolga-->
 
   </font>
-  <CENTER>
-
 
 </body>
 

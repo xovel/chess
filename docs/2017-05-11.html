@@ -37,9 +37,6 @@
     }
   </style>
 
-
-
-
   <!-- start OLGA header -->
   <!-- meta charset="utf-8" -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -58,14 +55,13 @@
 [BlackElo "2645"]
 [PlyCount "80"]
 
-1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 cxd4 8. Qxg7 Rg8 9. Qxh7 Qc7 10. Ne2 Nbc6 11. f4 Bd7 12. Qd3 dxc3 13. Be3 d4 14. Bf2 O-O-O 15. Nxd4 Nxd4 16. Qxd4 b6 17. Bh4 Bb5 18. Qe4 Bxf1 19. Rxf1 Rd5 20. Bxe7 Qxe7 21. Rf3 Kb8 22. Kf1 Rd2 23. Rf2 Rgd8 24. Qf3 Rxf2+ 25. Kxf2 Rd2+ 26. Kg3 Qd8 27. Qe4 Qg8+ 28. Kh3 Qh8+ 29. Kg3 Qg7+ 30. Kh3 Rd8 31. g4 Rh8+ 32. Kg3 Qh6 33. Qg2 Qh4+ 34. Kf3 Rd8 35. Qg3 Qe7 36. g5 Rd2 37. Kg4 Qb7 38. Qxc3 Rg2+ 39. Kh3 Rf2 40. Kg4 Qe4 0-1'
-    ratio="80" notes='[]'>
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 cxd4 8. Qxg7 Rg8 9. Qxh7 Qc7 10. Ne2 Nbc6 11. f4 Bd7 12. Qd3 dxc3 13. Be3 d4 14. Bf2 O-O-O 15. Nxd4 Nxd4 16. Qxd4 b6 17. Bh4 Bb5 18. Qe4 Bxf1 19. Rxf1 Rd5 20. Bxe7 Qxe7 21. Rf3 Kb8 22. Kf1 Rd2 23. Rf2 Rgd8 24. Qf3 Rxf2+ 25. Kxf2 Rd2+ 26. Kg3 Qd8 27. Qe4 Qg8+ 28. Kh3 Qh8+ 29. Kg3 Qg7+ 30. Kh3 Rd8 31. g4 Rh8+ 32. Kg3 Qh6 33. Qg2 Qh4+ 34. Kf3 Rd8 35. Qg3 Qe7 36. g5 Rd2 37. Kg4 Qb7 38. Qxc3 Rg2+ 39. Kh3 Rf2 40. Kg4 Qe4 0-1' ratio="80" notes='[]'>
   </div>
-  <script src="./assets/chess.js"></script>
-  <link href="./assets/jquery-ui.min.css" rel="stylesheet">
+  <script src="https://cdn.bootcss.com/chess.js/0.10.2/chess.js"></script>
+  <link href="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.css" rel="stylesheet">
   <link href="./assets/chessboard.min.css" rel="stylesheet">
-  <script src="./assets/jquery-3.2.1.min.js"></script>
-  <script src="./assets/jquery-ui.min.js"></script>
+  <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.js"></script>
+  <script src="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.js"></script>
   <script src="./assets/chessboard.min.js"></script>
   <script src="./assets/olga.js"></script>
   <link rel="stylesheet" href="./assets/olga.css">
@@ -84,14 +80,15 @@
           top: this[0].offsetTop
         };
       };
-      var board = ChessBoard("board", { draggable: false, position: '' });
-      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status', 'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
+      var board = ChessBoard("board", {
+        draggable: false,
+        position: ''
+      });
+      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status',
+        'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
     }
   </script>
   <!-- end OLGA header -->
-
-
-
   <script type="text/javascript">
     function OpenWin(pagename) {
       SmallWin = window.open(pagename, 'popup', 'scrollbars,resizable,toolbar=no,height=394,width=412,left=200,top=200');
@@ -103,10 +100,7 @@
 </head>
 
 <body bgcolor="#FFFFFF" vlink="#9900FF" link="#0000FF" onload="startLoading();">
-
-
-
-  <CENTER>
+  <center>
     <font face="verdana,arial,helvetica" size=+1>
       <B>Spassky</B>
       <font color=#333333>vs</font>
@@ -117,9 +111,10 @@
       <B>"Viktor Viktorious"</B>
       <font size=-2>(game of the day 2017-05-11)</font>
       <br> Korchnoi - Spassky Candidates Final (1977.11.23), Belgrade YUG
-      <br> French, Winawer(C18) <B>&#183;</B>&nbsp; 0-1
+      <br> French, Winawer(C18)
+      <B>&#183;</B>&nbsp; 0-1
     </font>
-  </CENTER>
+  </center>
   <font size="2">
 
     <!--beginolga-->
@@ -159,8 +154,7 @@
         </div>
         <div class="col-3" style="width:13%;float:left; margin-left:1%;">
           <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">Flip
-            <br/>
-            </b>Board</p>
+            <br/>Board</p>
           <input type="image" src="./assets/img/orientation.png" class="option_item" onclick="flipOrientation();" />
         </div>
         <div class="col-4" style="width:32px; height:32px;float:left; margin-left: 2%;">
@@ -200,8 +194,6 @@
     <!--endolga-->
 
   </font>
-  <CENTER>
-
 
 </body>
 

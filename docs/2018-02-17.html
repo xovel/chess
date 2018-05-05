@@ -37,9 +37,6 @@
     }
   </style>
 
-
-
-
   <!-- start OLGA header -->
   <!-- meta charset="utf-8" -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -58,14 +55,13 @@
 [BlackElo "?"]
 [PlyCount "57"]
 
-1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.a4 e6 7.Be2 Be7 8.f4 Qc7 9.O-O Nc6 10.Be3 Bd7 11.Qe1 O-O 12.Qg3 Rab8 13.Kh1 Kh8 14.Bf3 g6 15.Nxc6 bxc6 16.e5 Ne8 17.Ne4 d5 18.Ng5 Rxb2 19.Qh4 Bxg5 20.Qxg5 Ng7 21.Bc5 Re8 22.Be7 Kg8 23.Bf6 Reb8 24.Bg4 Ne8 25.Be7 Qc8 26.Ra3 Rb1 27.Bd1 a5 28.Qh6 Ng7 29.Rh3 1-0'
-    ratio="80" notes='[]'>
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.a4 e6 7.Be2 Be7 8.f4 Qc7 9.O-O Nc6 10.Be3 Bd7 11.Qe1 O-O 12.Qg3 Rab8 13.Kh1 Kh8 14.Bf3 g6 15.Nxc6 bxc6 16.e5 Ne8 17.Ne4 d5 18.Ng5 Rxb2 19.Qh4 Bxg5 20.Qxg5 Ng7 21.Bc5 Re8 22.Be7 Kg8 23.Bf6 Reb8 24.Bg4 Ne8 25.Be7 Qc8 26.Ra3 Rb1 27.Bd1 a5 28.Qh6 Ng7 29.Rh3 1-0' ratio="80" notes='[]'>
   </div>
-  <script src="./assets/chess.js"></script>
-  <link href="./assets/jquery-ui.min.css" rel="stylesheet">
+  <script src="https://cdn.bootcss.com/chess.js/0.10.2/chess.js"></script>
+  <link href="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.css" rel="stylesheet">
   <link href="./assets/chessboard.min.css" rel="stylesheet">
-  <script src="./assets/jquery-3.2.1.min.js"></script>
-  <script src="./assets/jquery-ui.min.js"></script>
+  <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.js"></script>
+  <script src="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.js"></script>
   <script src="./assets/chessboard.min.js"></script>
   <script src="./assets/olga.js"></script>
   <link rel="stylesheet" href="./assets/olga.css">
@@ -84,14 +80,15 @@
           top: this[0].offsetTop
         };
       };
-      var board = ChessBoard("board", { draggable: false, position: '' });
-      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status', 'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
+      var board = ChessBoard("board", {
+        draggable: false,
+        position: ''
+      });
+      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status',
+        'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
     }
   </script>
   <!-- end OLGA header -->
-
-
-
   <script type="text/javascript">
     function OpenWin(pagename) {
       SmallWin = window.open(pagename, 'popup', 'scrollbars,resizable,toolbar=no,height=394,width=412,left=200,top=200');
@@ -103,10 +100,7 @@
 </head>
 
 <body bgcolor="#FFFFFF" vlink="#9900FF" link="#0000FF" onload="startLoading();">
-
-
-
-  <CENTER>
+  <center>
     <font face="verdana,arial,helvetica" size=+1>
       <B>Soltis</B>
       <font color=#333333>vs</font>
@@ -117,9 +111,10 @@
       <B>"Winner Soltis"</B>
       <font size=-2>(game of the day 2018-02-17)</font>
       <br> Cleveland (USA) (1975.05.??), Cleveland, OH USA
-      <br> Sicilian, Najdorf(B90) <B>&#183;</B>&nbsp; 1-0
+      <br> Sicilian, Najdorf(B90)
+      <B>&#183;</B>&nbsp; 1-0
     </font>
-  </CENTER>
+  </center>
   <font size="2">
 
     <!--beginolga-->
@@ -159,8 +154,7 @@
         </div>
         <div class="col-3" style="width:13%;float:left; margin-left:1%;">
           <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">Flip
-            <br/>
-            </b>Board</p>
+            <br/>Board</p>
           <input type="image" src="./assets/img/orientation.png" class="option_item" onclick="flipOrientation();" />
         </div>
         <div class="col-4" style="width:32px; height:32px;float:left; margin-left: 2%;">
@@ -200,8 +194,6 @@
     <!--endolga-->
 
   </font>
-  <CENTER>
-
 
 </body>
 

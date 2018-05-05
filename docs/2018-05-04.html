@@ -37,9 +37,6 @@
     }
   </style>
 
-
-
-
   <!-- start OLGA header -->
   <!-- meta charset="utf-8" -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -58,14 +55,13 @@
 [BlackElo "?"]
 [PlyCount "49"]
 
-1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 e5 5.dxe5 Qxe5+ 6.Be2 Bb4 7.Nf3 Bxc3+ 8.bxc3 Qxc3+ 9.Bd2 Qc5 10.Rb1 Nc6 11.O-O Nf6 12.Bf4 O-O 13.Bxc7 Nd4 14.Qxd4 Qxc7 15.Bd3 Bg4 16.Ng5 Rfd8 17.Qb4 Bc8 18.Rfe1 a5 19.Qe7 Qxe7 20.Rxe7 Nd5 21.Bxh7+ Kh8 22.Rxf7 Nc3 23.Re1 Nxa2 24.Rf4 Ra6 25.Bd3 1-0'
-    ratio="80" notes='[0,"Notes by Lowenthal",1,"We consider this mode of evading an open game as decidedly inferior to either ...e6 or ...c5, (the French and Sicilian openings) though but some short time ago it was in high repute, and was even adopted by Mr. Staunton at the Birmingham meeting.",5,"...Qd8 is frequently played, but the move in the text is preferable.",12,"Sacrificing a pawn to obtain a more speedy development of his pieces.",23,"Attempting to defend the c pawn would only have led him into difficulty.",33,"There appears to be no other mode of saving the pawn; for if ...b6, White would have taken the h pawn with the knight, and won a pawn.",39,"This is an instructive position"]'>
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 e5 5.dxe5 Qxe5+ 6.Be2 Bb4 7.Nf3 Bxc3+ 8.bxc3 Qxc3+ 9.Bd2 Qc5 10.Rb1 Nc6 11.O-O Nf6 12.Bf4 O-O 13.Bxc7 Nd4 14.Qxd4 Qxc7 15.Bd3 Bg4 16.Ng5 Rfd8 17.Qb4 Bc8 18.Rfe1 a5 19.Qe7 Qxe7 20.Rxe7 Nd5 21.Bxh7+ Kh8 22.Rxf7 Nc3 23.Re1 Nxa2 24.Rf4 Ra6 25.Bd3 1-0' ratio="80" notes='[0,"Notes by Lowenthal",1,"We consider this mode of evading an open game as decidedly inferior to either ...e6 or ...c5, (the French and Sicilian openings) though but some short time ago it was in high repute, and was even adopted by Mr. Staunton at the Birmingham meeting.",5,"...Qd8 is frequently played, but the move in the text is preferable.",12,"Sacrificing a pawn to obtain a more speedy development of his pieces.",23,"Attempting to defend the c pawn would only have led him into difficulty.",33,"There appears to be no other mode of saving the pawn; for if ...b6, White would have taken the h pawn with the knight, and won a pawn.",39,"This is an instructive position"]'>
   </div>
-  <script src="./assets/chess.js"></script>
-  <link href="./assets/jquery-ui.min.css" rel="stylesheet">
+  <script src="https://cdn.bootcss.com/chess.js/0.10.2/chess.js"></script>
+  <link href="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.css" rel="stylesheet">
   <link href="./assets/chessboard.min.css" rel="stylesheet">
-  <script src="./assets/jquery-3.2.1.min.js"></script>
-  <script src="./assets/jquery-ui.min.js"></script>
+  <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.js"></script>
+  <script src="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.js"></script>
   <script src="./assets/chessboard.min.js"></script>
   <script src="./assets/olga.js"></script>
   <link rel="stylesheet" href="./assets/olga.css">
@@ -84,14 +80,15 @@
           top: this[0].offsetTop
         };
       };
-      var board = ChessBoard("board", { draggable: false, position: '' });
-      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status', 'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
+      var board = ChessBoard("board", {
+        draggable: false,
+        position: ''
+      });
+      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status',
+        'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
     }
   </script>
   <!-- end OLGA header -->
-
-
-
   <script type="text/javascript">
     function OpenWin(pagename) {
       SmallWin = window.open(pagename, 'popup', 'scrollbars,resizable,toolbar=no,height=394,width=412,left=200,top=200');
@@ -103,10 +100,7 @@
 </head>
 
 <body bgcolor="#FFFFFF" vlink="#9900FF" link="#0000FF" onload="startLoading();">
-
-
-
-  <CENTER>
+  <center>
     <font face="verdana,arial,helvetica" size=+1>
       <B>Morphy</B>
       <font color=#333333>vs</font>
@@ -117,9 +111,10 @@
       <B>"Paulitically Correct"</B>
       <font size=-2>(game of the day 2018-05-04)</font>
       <br> Anderssen - Morphy (1858.12.25), Paris FRA
-      <br> Scandinavian(B01) <B>&#183;</B>&nbsp; 1-0
+      <br> Scandinavian(B01)
+      <B>&#183;</B>&nbsp; 1-0
     </font>
-  </CENTER>
+  </center>
   <font size="2">
 
     <!--beginolga-->
@@ -159,8 +154,7 @@
         </div>
         <div class="col-3" style="width:13%;float:left; margin-left:1%;">
           <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">Flip
-            <br/>
-            </b>Board</p>
+            <br/>Board</p>
           <input type="image" src="./assets/img/orientation.png" class="option_item" onclick="flipOrientation();" />
         </div>
         <div class="col-4" style="width:32px; height:32px;float:left; margin-left: 2%;">
@@ -200,8 +194,6 @@
     <!--endolga-->
 
   </font>
-  <CENTER>
-
 
 </body>
 

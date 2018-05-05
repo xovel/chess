@@ -37,9 +37,6 @@
     }
   </style>
 
-
-
-
   <!-- start OLGA header -->
   <!-- meta charset="utf-8" -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -58,14 +55,13 @@
 [BlackElo "?"]
 [PlyCount "73"]
 
-1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 c5 5. e3 b6 6. Bd3 Bb7 7. O-O h6 8. Bf4 d6 9. c3 Nh5 10. Qb3 Nxf4 11. exf4 O-O 12. Rad1 Nc6 13. Bb1 cxd4 14. cxd4 e6 15. Ne4 Ne7 16. Qa3 Nf5 17. Rd2 Qe7 18. Ng3 Nxg3 19. fxg3 Rfc8 20. g4 Rc7 21. f5 exf5 22. gxf5 g5 23. Re1 Qf6 24. h3 Rac8 25. Rdd1 Rc4 26. d5 a5 27. Nd2 Qd4+ 28. Kh1 Qxd5 29. Be4 Rxe4 30. Nxe4 Qxf5 31. Nxd6 Bxg2+ 32. Kxg2 Rc2+ 33. Kh1 Qf4 34. Re8+ Bf8 35. Rxf8+ Kxf8 36. Nf5+ Kg8 37. Qf8+ 1-0'
-    ratio="80" notes='[]'>
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 c5 5. e3 b6 6. Bd3 Bb7 7. O-O h6 8. Bf4 d6 9. c3 Nh5 10. Qb3 Nxf4 11. exf4 O-O 12. Rad1 Nc6 13. Bb1 cxd4 14. cxd4 e6 15. Ne4 Ne7 16. Qa3 Nf5 17. Rd2 Qe7 18. Ng3 Nxg3 19. fxg3 Rfc8 20. g4 Rc7 21. f5 exf5 22. gxf5 g5 23. Re1 Qf6 24. h3 Rac8 25. Rdd1 Rc4 26. d5 a5 27. Nd2 Qd4+ 28. Kh1 Qxd5 29. Be4 Rxe4 30. Nxe4 Qxf5 31. Nxd6 Bxg2+ 32. Kxg2 Rc2+ 33. Kh1 Qf4 34. Re8+ Bf8 35. Rxf8+ Kxf8 36. Nf5+ Kg8 37. Qf8+ 1-0' ratio="80" notes='[]'>
   </div>
-  <script src="./assets/chess.js"></script>
-  <link href="./assets/jquery-ui.min.css" rel="stylesheet">
+  <script src="https://cdn.bootcss.com/chess.js/0.10.2/chess.js"></script>
+  <link href="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.css" rel="stylesheet">
   <link href="./assets/chessboard.min.css" rel="stylesheet">
-  <script src="./assets/jquery-3.2.1.min.js"></script>
-  <script src="./assets/jquery-ui.min.js"></script>
+  <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.js"></script>
+  <script src="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.js"></script>
   <script src="./assets/chessboard.min.js"></script>
   <script src="./assets/olga.js"></script>
   <link rel="stylesheet" href="./assets/olga.css">
@@ -84,14 +80,15 @@
           top: this[0].offsetTop
         };
       };
-      var board = ChessBoard("board", { draggable: false, position: '' });
-      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status', 'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
+      var board = ChessBoard("board", {
+        draggable: false,
+        position: ''
+      });
+      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status',
+        'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
     }
   </script>
   <!-- end OLGA header -->
-
-
-
   <script type="text/javascript">
     function OpenWin(pagename) {
       SmallWin = window.open(pagename, 'popup', 'scrollbars,resizable,toolbar=no,height=394,width=412,left=200,top=200');
@@ -103,10 +100,7 @@
 </head>
 
 <body bgcolor="#FFFFFF" vlink="#9900FF" link="#0000FF" onload="startLoading();">
-
-
-
-  <CENTER>
+  <center>
     <font face="verdana,arial,helvetica" size=+1>
       <B>Vidmar</B>
       <font color=#333333>vs</font>
@@ -117,9 +111,10 @@
       <B>"It&apos;s Not Euwe &apos;til It&apos;s Over"</B>
       <font size=-2>(game of the day 2018-04-07)</font>
       <br> Karlsbad (1929.08.19), Karlsbad CSR
-      <br> King's Indian(A48) <B>&#183;</B>&nbsp; 1-0
+      <br> King's Indian(A48)
+      <B>&#183;</B>&nbsp; 1-0
     </font>
-  </CENTER>
+  </center>
   <font size="2">
 
     <!--beginolga-->
@@ -159,8 +154,7 @@
         </div>
         <div class="col-3" style="width:13%;float:left; margin-left:1%;">
           <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">Flip
-            <br/>
-            </b>Board</p>
+            <br/>Board</p>
           <input type="image" src="./assets/img/orientation.png" class="option_item" onclick="flipOrientation();" />
         </div>
         <div class="col-4" style="width:32px; height:32px;float:left; margin-left: 2%;">
@@ -200,8 +194,6 @@
     <!--endolga-->
 
   </font>
-  <CENTER>
-
 
 </body>
 

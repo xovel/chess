@@ -37,9 +37,6 @@
     }
   </style>
 
-
-
-
   <!-- start OLGA header -->
   <!-- meta charset="utf-8" -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -58,14 +55,13 @@
 [BlackElo "2789"]
 [PlyCount "51"]
 
-1. d4 Nf6 2. c4 g6 3. f3 c5 4. d5 d6 5. Nc3 e6 6. e4 Bg7 7. Nge2 O-O 8. Ng3 a6 9. a4 h5 10. Bg5 Qc7 11. Qd2 exd5 12. cxd5 Nh7 13. Bh6 h4 14. Bxg7 Kxg7 15. Bc4 hxg3 16. hxg3 Rh8 17. e5 Qe7 18. O-O-O Nd7 19. exd6 Qxd6 20. Ne4 Qe5 21. d6 g5 22. Rhe1 b5 23. Bd5 Rb8 24. f4 Qd4 25. Qe2 Qb4 26. Qh5 1-0'
-    ratio="80" notes='[]'>
+1. d4 Nf6 2. c4 g6 3. f3 c5 4. d5 d6 5. Nc3 e6 6. e4 Bg7 7. Nge2 O-O 8. Ng3 a6 9. a4 h5 10. Bg5 Qc7 11. Qd2 exd5 12. cxd5 Nh7 13. Bh6 h4 14. Bxg7 Kxg7 15. Bc4 hxg3 16. hxg3 Rh8 17. e5 Qe7 18. O-O-O Nd7 19. exd6 Qxd6 20. Ne4 Qe5 21. d6 g5 22. Rhe1 b5 23. Bd5 Rb8 24. f4 Qd4 25. Qe2 Qb4 26. Qh5 1-0' ratio="80" notes='[]'>
   </div>
-  <script src="./assets/chess.js"></script>
-  <link href="./assets/jquery-ui.min.css" rel="stylesheet">
+  <script src="https://cdn.bootcss.com/chess.js/0.10.2/chess.js"></script>
+  <link href="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.css" rel="stylesheet">
   <link href="./assets/chessboard.min.css" rel="stylesheet">
-  <script src="./assets/jquery-3.2.1.min.js"></script>
-  <script src="./assets/jquery-ui.min.js"></script>
+  <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.js"></script>
+  <script src="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.js"></script>
   <script src="./assets/chessboard.min.js"></script>
   <script src="./assets/olga.js"></script>
   <link rel="stylesheet" href="./assets/olga.css">
@@ -84,14 +80,15 @@
           top: this[0].offsetTop
         };
       };
-      var board = ChessBoard("board", { draggable: false, position: '' });
-      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status', 'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
+      var board = ChessBoard("board", {
+        draggable: false,
+        position: ''
+      });
+      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status',
+        'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
     }
   </script>
   <!-- end OLGA header -->
-
-
-
   <script type="text/javascript">
     function OpenWin(pagename) {
       SmallWin = window.open(pagename, 'popup', 'scrollbars,resizable,toolbar=no,height=394,width=412,left=200,top=200');
@@ -103,10 +100,7 @@
 </head>
 
 <body bgcolor="#FFFFFF" vlink="#9900FF" link="#0000FF" onload="startLoading();">
-
-
-
-  <CENTER>
+  <center>
     <font face="verdana,arial,helvetica" size=+1>
       <B>Aronian</B>
       <font color=#333333>vs</font>
@@ -117,9 +111,10 @@
       <B>"Easy-Peasy Levon in Tbilisi"</B>
       <font size=-2>(game of the day 2017-12-01)</font>
       <br> World Cup (2017.09.21), Tbilisi GEO
-      <br> Neo-Grunfeld Defense(D70) <B>&#183;</B>&nbsp; 1-0
+      <br> Neo-Grunfeld Defense(D70)
+      <B>&#183;</B>&nbsp; 1-0
     </font>
-  </CENTER>
+  </center>
   <font size="2">
 
     <!--beginolga-->
@@ -159,8 +154,7 @@
         </div>
         <div class="col-3" style="width:13%;float:left; margin-left:1%;">
           <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">Flip
-            <br/>
-            </b>Board</p>
+            <br/>Board</p>
           <input type="image" src="./assets/img/orientation.png" class="option_item" onclick="flipOrientation();" />
         </div>
         <div class="col-4" style="width:32px; height:32px;float:left; margin-left: 2%;">
@@ -200,8 +194,6 @@
     <!--endolga-->
 
   </font>
-  <CENTER>
-
 
 </body>
 

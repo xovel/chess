@@ -37,9 +37,6 @@
     }
   </style>
 
-
-
-
   <!-- start OLGA header -->
   <!-- meta charset="utf-8" -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -58,14 +55,13 @@
 [BlackElo "?"]
 [PlyCount "140"]
 
-1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Qc2 Nxc3 9. Qxc3 Be4 10. Ne1 d5 11. cxd5 exd5 12. Bf4 c5 13. dxc5 Bxg2 14. Nxg2 bxc5 15. Bxb8 Rxb8 16. Rad1 d4 17. Qc2 Qd5 18. b3 Rfd8 19. Rd3 Rb6 20. Rf3 g6 21. Rd1 Qb7 22. Ne1 Re6 23. Nd3 Bd6 24. Nf4 Rf6 25. Qd3 Kg7 26. Rd2 Re8 27. Rc2 Re5 28. Ng2 Rxf3 29. Qxf3 Qxf3 30. exf3 a5 31. Kf1 Rh5 32. h4 Kf6 33. Ne1 Ke6 34. Nd3 Kd5 35. Ke2 Rf5 36. Rc4 Rf6 37. f4 Re6+ 38. Kd2 Re8 39. Ra4 Ra8 40. Ke2 f6 41. Nb2 Re8+ 42. Kd2 Ke4 43. Ke2 Bc7 44. Nd3 Kd5+ 45. Kd2 Bb6 46. Rc4 Ra8 47. Ra4 Kc6 48. Nb2 h6 49. Rc4 Kd5 50. Rc1 Rb8 51. Kd3 Bc7 52. Rc2 Bd6 53. Re2 g5 54. fxg5 fxg5 55. hxg5 hxg5 56. Nc4 a4 57. bxa4 Rb4 58. Rc2 g4 59. Rc1 Bc7 60. a5 Ra4 61. a3 Bxa5 62. Rh1 Bc7 63. Rh5+ Kc6 64. Rh1 Ra8 65. Ra1 Rf8 66. a4 Kd5 67. Rc1 Rxf2 68. a5 Rf3+ 69. Ke2 Bxg3 70. a6 d3+ 0-1'
-    ratio="80" notes='[]'>
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Qc2 Nxc3 9. Qxc3 Be4 10. Ne1 d5 11. cxd5 exd5 12. Bf4 c5 13. dxc5 Bxg2 14. Nxg2 bxc5 15. Bxb8 Rxb8 16. Rad1 d4 17. Qc2 Qd5 18. b3 Rfd8 19. Rd3 Rb6 20. Rf3 g6 21. Rd1 Qb7 22. Ne1 Re6 23. Nd3 Bd6 24. Nf4 Rf6 25. Qd3 Kg7 26. Rd2 Re8 27. Rc2 Re5 28. Ng2 Rxf3 29. Qxf3 Qxf3 30. exf3 a5 31. Kf1 Rh5 32. h4 Kf6 33. Ne1 Ke6 34. Nd3 Kd5 35. Ke2 Rf5 36. Rc4 Rf6 37. f4 Re6+ 38. Kd2 Re8 39. Ra4 Ra8 40. Ke2 f6 41. Nb2 Re8+ 42. Kd2 Ke4 43. Ke2 Bc7 44. Nd3 Kd5+ 45. Kd2 Bb6 46. Rc4 Ra8 47. Ra4 Kc6 48. Nb2 h6 49. Rc4 Kd5 50. Rc1 Rb8 51. Kd3 Bc7 52. Rc2 Bd6 53. Re2 g5 54. fxg5 fxg5 55. hxg5 hxg5 56. Nc4 a4 57. bxa4 Rb4 58. Rc2 g4 59. Rc1 Bc7 60. a5 Ra4 61. a3 Bxa5 62. Rh1 Bc7 63. Rh5+ Kc6 64. Rh1 Ra8 65. Ra1 Rf8 66. a4 Kd5 67. Rc1 Rxf2 68. a5 Rf3+ 69. Ke2 Bxg3 70. a6 d3+ 0-1' ratio="80" notes='[]'>
   </div>
-  <script src="./assets/chess.js"></script>
-  <link href="./assets/jquery-ui.min.css" rel="stylesheet">
+  <script src="https://cdn.bootcss.com/chess.js/0.10.2/chess.js"></script>
+  <link href="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.css" rel="stylesheet">
   <link href="./assets/chessboard.min.css" rel="stylesheet">
-  <script src="./assets/jquery-3.2.1.min.js"></script>
-  <script src="./assets/jquery-ui.min.js"></script>
+  <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.js"></script>
+  <script src="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.js"></script>
   <script src="./assets/chessboard.min.js"></script>
   <script src="./assets/olga.js"></script>
   <link rel="stylesheet" href="./assets/olga.css">
@@ -84,14 +80,15 @@
           top: this[0].offsetTop
         };
       };
-      var board = ChessBoard("board", { draggable: false, position: '' });
-      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status', 'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
+      var board = ChessBoard("board", {
+        draggable: false,
+        position: ''
+      });
+      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status',
+        'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
     }
   </script>
   <!-- end OLGA header -->
-
-
-
   <script type="text/javascript">
     function OpenWin(pagename) {
       SmallWin = window.open(pagename, 'popup', 'scrollbars,resizable,toolbar=no,height=394,width=412,left=200,top=200');
@@ -103,10 +100,7 @@
 </head>
 
 <body bgcolor="#FFFFFF" vlink="#9900FF" link="#0000FF" onload="startLoading();">
-
-
-
-  <CENTER>
+  <center>
     <font face="verdana,arial,helvetica" size=+1>
       <B>C Kottnauer</B>
       <font color=#333333>vs</font>
@@ -117,9 +111,10 @@
       <B>"Welcome Back Kottnauer"</B>
       <font size=-2>(game of the day 2017-09-05)</font>
       <br> Prague (1942.12.08), Prague CSR
-      <br> Queen's Indian, Old Main line, 9.Qxc3(E19) <B>&#183;</B>&nbsp; 0-1
+      <br> Queen's Indian, Old Main line, 9.Qxc3(E19)
+      <B>&#183;</B>&nbsp; 0-1
     </font>
-  </CENTER>
+  </center>
   <font size="2">
 
     <!--beginolga-->
@@ -159,8 +154,7 @@
         </div>
         <div class="col-3" style="width:13%;float:left; margin-left:1%;">
           <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">Flip
-            <br/>
-            </b>Board</p>
+            <br/>Board</p>
           <input type="image" src="./assets/img/orientation.png" class="option_item" onclick="flipOrientation();" />
         </div>
         <div class="col-4" style="width:32px; height:32px;float:left; margin-left: 2%;">
@@ -200,8 +194,6 @@
     <!--endolga-->
 
   </font>
-  <CENTER>
-
 
 </body>
 

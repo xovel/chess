@@ -37,9 +37,6 @@
     }
   </style>
 
-
-
-
   <!-- start OLGA header -->
   <!-- meta charset="utf-8" -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -58,14 +55,13 @@
 [BlackElo "?"]
 [PlyCount "129"]
 
-1.Nf3 Nf6 2.d4 b6 3.c4 Bb7 4.Nc3 e6 5.a3 d5 6.cxd5 exd5 7.Bg5 Be7 8.e3 O-O 9.Bd3 Ne4 10.Bf4 Nd7 11.Qc2 f5 12.Nb5 Bd6 13.Nxd6 cxd6 14.h4 Rc8 15.Qb3 Qe7 16.Nd2 Ndf6 17.Nxe4 fxe4 18.Be2 Rc6 19.g4 Rfc8 20.g5 Ne8 21.Bg4 Rc1+ 22.Kd2 R8c2+ 23.Qxc2 Rxc2+ 24.Kxc2 Qc7+ 25.Kd2 Qc4 26.Be2 Qb3 27.Rab1 Kf7 28.Rhc1 Ke7 29.Rc3 Qa4 30.b4 Qd7 31.Rbc1 a6 32.Rg1 Qa4 33.Rgc1 Qd7 34.h5 Kd8 35.R1c2 Qh3 36.Kc1 Qh4 37.Kb2 Qh3 38.Rc1 Qh4 39.R3c2 Qh3 40.a4 Qh4 41.Ka3 Qh3 42.Bg3 Qf5 43.Bh4 g6 44.h6 Qd7 45.b5 a5 46.Bg3 Qf5 47.Bf4 Qh3 48.Kb2 Qg2 49.Kb1 Qh3 50.Ka1 Qg2 51.Kb2 Qh3 52.Rg1 Bc8 53.Rc6 Qh4 54.Rgc1 Bg4 55.Bf1 Qh5 56.Re1 Qh1 57.Rec1 Qh5 58.Kc3 Qh4 59.Bg3 Qxg5 60.Kd2 Qh5 61.Rxb6 Ke7 62.Rb7+ Ke6 63.b6 Nf6 64.Bb5 Qh3 65.Rb8 1-0'
-    ratio="80" notes='[]'>
+1.Nf3 Nf6 2.d4 b6 3.c4 Bb7 4.Nc3 e6 5.a3 d5 6.cxd5 exd5 7.Bg5 Be7 8.e3 O-O 9.Bd3 Ne4 10.Bf4 Nd7 11.Qc2 f5 12.Nb5 Bd6 13.Nxd6 cxd6 14.h4 Rc8 15.Qb3 Qe7 16.Nd2 Ndf6 17.Nxe4 fxe4 18.Be2 Rc6 19.g4 Rfc8 20.g5 Ne8 21.Bg4 Rc1+ 22.Kd2 R8c2+ 23.Qxc2 Rxc2+ 24.Kxc2 Qc7+ 25.Kd2 Qc4 26.Be2 Qb3 27.Rab1 Kf7 28.Rhc1 Ke7 29.Rc3 Qa4 30.b4 Qd7 31.Rbc1 a6 32.Rg1 Qa4 33.Rgc1 Qd7 34.h5 Kd8 35.R1c2 Qh3 36.Kc1 Qh4 37.Kb2 Qh3 38.Rc1 Qh4 39.R3c2 Qh3 40.a4 Qh4 41.Ka3 Qh3 42.Bg3 Qf5 43.Bh4 g6 44.h6 Qd7 45.b5 a5 46.Bg3 Qf5 47.Bf4 Qh3 48.Kb2 Qg2 49.Kb1 Qh3 50.Ka1 Qg2 51.Kb2 Qh3 52.Rg1 Bc8 53.Rc6 Qh4 54.Rgc1 Bg4 55.Bf1 Qh5 56.Re1 Qh1 57.Rec1 Qh5 58.Kc3 Qh4 59.Bg3 Qxg5 60.Kd2 Qh5 61.Rxb6 Ke7 62.Rb7+ Ke6 63.b6 Nf6 64.Bb5 Qh3 65.Rb8 1-0' ratio="80" notes='[]'>
   </div>
-  <script src="./assets/chess.js"></script>
-  <link href="./assets/jquery-ui.min.css" rel="stylesheet">
+  <script src="https://cdn.bootcss.com/chess.js/0.10.2/chess.js"></script>
+  <link href="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.css" rel="stylesheet">
   <link href="./assets/chessboard.min.css" rel="stylesheet">
-  <script src="./assets/jquery-3.2.1.min.js"></script>
-  <script src="./assets/jquery-ui.min.js"></script>
+  <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.js"></script>
+  <script src="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.js"></script>
   <script src="./assets/chessboard.min.js"></script>
   <script src="./assets/olga.js"></script>
   <link rel="stylesheet" href="./assets/olga.css">
@@ -84,14 +80,15 @@
           top: this[0].offsetTop
         };
       };
-      var board = ChessBoard("board", { draggable: false, position: '' });
-      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status', 'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
+      var board = ChessBoard("board", {
+        draggable: false,
+        position: ''
+      });
+      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status',
+        'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
     }
   </script>
   <!-- end OLGA header -->
-
-
-
   <script type="text/javascript">
     function OpenWin(pagename) {
       SmallWin = window.open(pagename, 'popup', 'scrollbars,resizable,toolbar=no,height=394,width=412,left=200,top=200');
@@ -103,10 +100,7 @@
 </head>
 
 <body bgcolor="#FFFFFF" vlink="#9900FF" link="#0000FF" onload="startLoading();">
-
-
-
-  <CENTER>
+  <center>
     <font face="verdana,arial,helvetica" size=+1>
       <B>Sultan Khan</B>
       <font color=#333333>vs</font>
@@ -117,9 +111,10 @@
       <B>"The Wrath of Khan"</B>
       <font size=-2>(game of the day 2018-01-14)</font>
       <br> Hastings 1930/31 (1930.12.31), Hastings ENG
-      <br> Queen's Indian(E12) <B>&#183;</B>&nbsp; 1-0
+      <br> Queen's Indian(E12)
+      <B>&#183;</B>&nbsp; 1-0
     </font>
-  </CENTER>
+  </center>
   <font size="2">
 
     <!--beginolga-->
@@ -159,8 +154,7 @@
         </div>
         <div class="col-3" style="width:13%;float:left; margin-left:1%;">
           <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">Flip
-            <br/>
-            </b>Board</p>
+            <br/>Board</p>
           <input type="image" src="./assets/img/orientation.png" class="option_item" onclick="flipOrientation();" />
         </div>
         <div class="col-4" style="width:32px; height:32px;float:left; margin-left: 2%;">
@@ -200,8 +194,6 @@
     <!--endolga-->
 
   </font>
-  <CENTER>
-
 
 </body>
 

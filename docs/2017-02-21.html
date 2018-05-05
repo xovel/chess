@@ -37,9 +37,6 @@
     }
   </style>
 
-
-
-
   <!-- start OLGA header -->
   <!-- meta charset="utf-8" -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -58,14 +55,13 @@
 [BlackElo "?"]
 [PlyCount "86"]
 
-1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Bd3 Nc6 6. Ne2 Nge7 7. O-O Bf5 8. Bxf5 Nxf5 9. Qd3 Qd7 10. Nd1 O-O 11. Ne3 Nxe3 12. Bxe3 Rfe8 13. Nf4 Bd6 14. Rfe1 Nb4 15. Qb3 Qf5 16. Rac1 Nxc2 17. Rxc2 Qxf4 18. g3 Qf5 19. Rce2 b6 20. Qb5 h5 21. h4 Re4 22. Bd2 Rxd4 23. Bc3 Rd3 24. Be5 Rd8 25. Bxd6 Rxd6 26. Re5 Qf3 27. Rxh5 Qxh5 28. Re8+ Kh7 29. Qxd3+ Qg6 30. Qd1 Re6 31. Ra8 Re5 32. Rxa7 c5 33. Rd7 Qe6 34. Qd3+ g6 35. Rd8 d4 36. a4 Re1+ 37. Kg2 Qc6+ 38. f3 Re3 39. Qd1 Qe6 40. g4 Re2+ 41. Kh3 Qe3 42. Qh1 Qf4 43. h5 Rf2 0-1'
-    ratio="80" notes='[]'>
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Bd3 Nc6 6. Ne2 Nge7 7. O-O Bf5 8. Bxf5 Nxf5 9. Qd3 Qd7 10. Nd1 O-O 11. Ne3 Nxe3 12. Bxe3 Rfe8 13. Nf4 Bd6 14. Rfe1 Nb4 15. Qb3 Qf5 16. Rac1 Nxc2 17. Rxc2 Qxf4 18. g3 Qf5 19. Rce2 b6 20. Qb5 h5 21. h4 Re4 22. Bd2 Rxd4 23. Bc3 Rd3 24. Be5 Rd8 25. Bxd6 Rxd6 26. Re5 Qf3 27. Rxh5 Qxh5 28. Re8+ Kh7 29. Qxd3+ Qg6 30. Qd1 Re6 31. Ra8 Re5 32. Rxa7 c5 33. Rd7 Qe6 34. Qd3+ g6 35. Rd8 d4 36. a4 Re1+ 37. Kg2 Qc6+ 38. f3 Re3 39. Qd1 Qe6 40. g4 Re2+ 41. Kh3 Qe3 42. Qh1 Qf4 43. h5 Rf2 0-1' ratio="80" notes='[]'>
   </div>
-  <script src="./assets/chess.js"></script>
-  <link href="./assets/jquery-ui.min.css" rel="stylesheet">
+  <script src="https://cdn.bootcss.com/chess.js/0.10.2/chess.js"></script>
+  <link href="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.css" rel="stylesheet">
   <link href="./assets/chessboard.min.css" rel="stylesheet">
-  <script src="./assets/jquery-3.2.1.min.js"></script>
-  <script src="./assets/jquery-ui.min.js"></script>
+  <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.js"></script>
+  <script src="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.js"></script>
   <script src="./assets/chessboard.min.js"></script>
   <script src="./assets/olga.js"></script>
   <link rel="stylesheet" href="./assets/olga.css">
@@ -84,14 +80,15 @@
           top: this[0].offsetTop
         };
       };
-      var board = ChessBoard("board", { draggable: false, position: '' });
-      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status', 'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
+      var board = ChessBoard("board", {
+        draggable: false,
+        position: ''
+      });
+      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status',
+        'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
     }
   </script>
   <!-- end OLGA header -->
-
-
-
   <script type="text/javascript">
     function OpenWin(pagename) {
       SmallWin = window.open(pagename, 'popup', 'scrollbars,resizable,toolbar=no,height=394,width=412,left=200,top=200');
@@ -103,10 +100,7 @@
 </head>
 
 <body bgcolor="#FFFFFF" vlink="#9900FF" link="#0000FF" onload="startLoading();">
-
-
-
-  <CENTER>
+  <center>
     <font face="verdana,arial,helvetica" size=+1>
       <B>Capablanca</B>
       <font color=#333333>vs</font>
@@ -117,9 +111,10 @@
       <B>"First Blood"</B>
       <font size=-2>(game of the day 2017-02-21)</font>
       <br> Capablanca - Alekhine World Championship Match (1927.09.16), Buenos Aires ARG
-      <br> French, Exchange(C01) <B>&#183;</B>&nbsp; 0-1
+      <br> French, Exchange(C01)
+      <B>&#183;</B>&nbsp; 0-1
     </font>
-  </CENTER>
+  </center>
   <font size="2">
 
     <!--beginolga-->
@@ -159,8 +154,7 @@
         </div>
         <div class="col-3" style="width:13%;float:left; margin-left:1%;">
           <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">Flip
-            <br/>
-            </b>Board</p>
+            <br/>Board</p>
           <input type="image" src="./assets/img/orientation.png" class="option_item" onclick="flipOrientation();" />
         </div>
         <div class="col-4" style="width:32px; height:32px;float:left; margin-left: 2%;">
@@ -200,8 +194,6 @@
     <!--endolga-->
 
   </font>
-  <CENTER>
-
 
 </body>
 

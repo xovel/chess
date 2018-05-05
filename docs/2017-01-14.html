@@ -37,9 +37,6 @@
     }
   </style>
 
-
-
-
   <!-- start OLGA header -->
   <!-- meta charset="utf-8" -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -58,14 +55,13 @@
 [BlackElo "?"]
 [PlyCount "89"]
 
-1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 O-O 5.Bg2 d6 6.O-O c5 7.Nc3 Nc6 8.d5 Na5 9.Nd2 e6 10.Qc2 exd5 11.cxd5 Bd7 12.b3 b5 13.Bb2 Re8 14.Rfe1 Rc8 15.Nce4 Bf5 16.Nxf6+ Qxf6 17.Bxf6 Bxc2 18.Bxg7 Kxg7 19.Rac1 Bf5 20.e4 Bd7 21.f4 f6 22.Bf1 Rb8 23.e5 f5 24.e6 Bc8 25.b4 Nb7 26.Bxb5 Re7 27.Ba6 Kf6 28.a3 Rc7 29.Nb3 Ke7 30.Nd4 Na5 31.Bf1 Rbb7 32.bxa5 cxd4 33.Ba6 Rc3 34.Bxb7 Bxb7 35.Rxc3 dxc3 36.Rc1 Bxd5 37.Rxc3 Kxe6 38.Rc7 a6 39.Rxh7 Bc4 40.Kf2 Bb5 41.Ke3 Bf1 42.Kd4 Bg2 43.Rg7 Kf6 44.Ra7 Bf1 45.Kd5 1-0'
-    ratio="80" notes='[]'>
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 O-O 5.Bg2 d6 6.O-O c5 7.Nc3 Nc6 8.d5 Na5 9.Nd2 e6 10.Qc2 exd5 11.cxd5 Bd7 12.b3 b5 13.Bb2 Re8 14.Rfe1 Rc8 15.Nce4 Bf5 16.Nxf6+ Qxf6 17.Bxf6 Bxc2 18.Bxg7 Kxg7 19.Rac1 Bf5 20.e4 Bd7 21.f4 f6 22.Bf1 Rb8 23.e5 f5 24.e6 Bc8 25.b4 Nb7 26.Bxb5 Re7 27.Ba6 Kf6 28.a3 Rc7 29.Nb3 Ke7 30.Nd4 Na5 31.Bf1 Rbb7 32.bxa5 cxd4 33.Ba6 Rc3 34.Bxb7 Bxb7 35.Rxc3 dxc3 36.Rc1 Bxd5 37.Rxc3 Kxe6 38.Rc7 a6 39.Rxh7 Bc4 40.Kf2 Bb5 41.Ke3 Bf1 42.Kd4 Bg2 43.Rg7 Kf6 44.Ra7 Bf1 45.Kd5 1-0' ratio="80" notes='[]'>
   </div>
-  <script src="./assets/chess.js"></script>
-  <link href="./assets/jquery-ui.min.css" rel="stylesheet">
+  <script src="https://cdn.bootcss.com/chess.js/0.10.2/chess.js"></script>
+  <link href="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.css" rel="stylesheet">
   <link href="./assets/chessboard.min.css" rel="stylesheet">
-  <script src="./assets/jquery-3.2.1.min.js"></script>
-  <script src="./assets/jquery-ui.min.js"></script>
+  <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.js"></script>
+  <script src="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.js"></script>
   <script src="./assets/chessboard.min.js"></script>
   <script src="./assets/olga.js"></script>
   <link rel="stylesheet" href="./assets/olga.css">
@@ -84,14 +80,15 @@
           top: this[0].offsetTop
         };
       };
-      var board = ChessBoard("board", { draggable: false, position: '' });
-      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status', 'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
+      var board = ChessBoard("board", {
+        draggable: false,
+        position: ''
+      });
+      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status',
+        'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
     }
   </script>
   <!-- end OLGA header -->
-
-
-
   <script type="text/javascript">
     function OpenWin(pagename) {
       SmallWin = window.open(pagename, 'popup', 'scrollbars,resizable,toolbar=no,height=394,width=412,left=200,top=200');
@@ -103,10 +100,7 @@
 </head>
 
 <body bgcolor="#FFFFFF" vlink="#9900FF" link="#0000FF" onload="startLoading();">
-
-
-
-  <CENTER>
+  <center>
     <font face="verdana,arial,helvetica" size=+1>
       <B>A Maric</B>
       <font color=#333333>vs</font>
@@ -117,9 +111,10 @@
       <B>"Yugo Girl"</B>
       <font size=-2>(game of the day 2017-01-14)</font>
       <br> Jakarta Interzonal (Women) (1993.??.??), Jakarta INA
-      <br> King's Indian, Fianchetto, Yugoslav Panno(E66) <B>&#183;</B>&nbsp; 1-0
+      <br> King's Indian, Fianchetto, Yugoslav Panno(E66)
+      <B>&#183;</B>&nbsp; 1-0
     </font>
-  </CENTER>
+  </center>
   <font size="2">
 
     <!--beginolga-->
@@ -159,8 +154,7 @@
         </div>
         <div class="col-3" style="width:13%;float:left; margin-left:1%;">
           <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">Flip
-            <br/>
-            </b>Board</p>
+            <br/>Board</p>
           <input type="image" src="./assets/img/orientation.png" class="option_item" onclick="flipOrientation();" />
         </div>
         <div class="col-4" style="width:32px; height:32px;float:left; margin-left: 2%;">
@@ -200,8 +194,6 @@
     <!--endolga-->
 
   </font>
-  <CENTER>
-
 
 </body>
 

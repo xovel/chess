@@ -37,9 +37,6 @@
     }
   </style>
 
-
-
-
   <!-- start OLGA header -->
   <!-- meta charset="utf-8" -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -58,14 +55,13 @@
 [BlackElo "?"]
 [PlyCount "77"]
 
-1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. f3 O-O 6. Be3 b6 7. Bd3 a6 8. Nge2 c5 9. e5 Ne8 10. Be4 Ra7 11. Qb3 Nd7 12. Rd1 cxd4 13. Nxd4 Nc5 14. Nc6 Nxb3 15. Nxd8 Nc5 16. Nc6 Rb7 17. Nd5 Be6 18. Ndxe7+ Kh8 19. exd6 Rd7 20. Nc8 Nxe4 21. fxe4 Bxc4 22. b3 Bb5 23. N6a7 Bc3+ 24. Kf2 Nf6 25. Bd4 Bxd4+ 26. Rxd4 Ng4+ 27. Kg3 Ne5 28. Rc1 Kg7 29. Nxb5 axb5 30. Nxb6 Rdd8 31. Rc5 Kf6 32. Rxb5 Ke6 33. d7 f5 34. exf5+ Rxf5 35. h4 g5 36. Re4 gxh4+ 37. Kh3 Kf6 38. Nd5+ Ke6 39. Ne3 1-0'
-    ratio="80" notes='[]'>
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. f3 O-O 6. Be3 b6 7. Bd3 a6 8. Nge2 c5 9. e5 Ne8 10. Be4 Ra7 11. Qb3 Nd7 12. Rd1 cxd4 13. Nxd4 Nc5 14. Nc6 Nxb3 15. Nxd8 Nc5 16. Nc6 Rb7 17. Nd5 Be6 18. Ndxe7+ Kh8 19. exd6 Rd7 20. Nc8 Nxe4 21. fxe4 Bxc4 22. b3 Bb5 23. N6a7 Bc3+ 24. Kf2 Nf6 25. Bd4 Bxd4+ 26. Rxd4 Ng4+ 27. Kg3 Ne5 28. Rc1 Kg7 29. Nxb5 axb5 30. Nxb6 Rdd8 31. Rc5 Kf6 32. Rxb5 Ke6 33. d7 f5 34. exf5+ Rxf5 35. h4 g5 36. Re4 gxh4+ 37. Kh3 Kf6 38. Nd5+ Ke6 39. Ne3 1-0' ratio="80" notes='[]'>
   </div>
-  <script src="./assets/chess.js"></script>
-  <link href="./assets/jquery-ui.min.css" rel="stylesheet">
+  <script src="https://cdn.bootcss.com/chess.js/0.10.2/chess.js"></script>
+  <link href="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.css" rel="stylesheet">
   <link href="./assets/chessboard.min.css" rel="stylesheet">
-  <script src="./assets/jquery-3.2.1.min.js"></script>
-  <script src="./assets/jquery-ui.min.js"></script>
+  <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.js"></script>
+  <script src="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.js"></script>
   <script src="./assets/chessboard.min.js"></script>
   <script src="./assets/olga.js"></script>
   <link rel="stylesheet" href="./assets/olga.css">
@@ -84,14 +80,15 @@
           top: this[0].offsetTop
         };
       };
-      var board = ChessBoard("board", { draggable: false, position: '' });
-      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status', 'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
+      var board = ChessBoard("board", {
+        draggable: false,
+        position: ''
+      });
+      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status',
+        'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
     }
   </script>
   <!-- end OLGA header -->
-
-
-
   <script type="text/javascript">
     function OpenWin(pagename) {
       SmallWin = window.open(pagename, 'popup', 'scrollbars,resizable,toolbar=no,height=394,width=412,left=200,top=200');
@@ -103,10 +100,7 @@
 </head>
 
 <body bgcolor="#FFFFFF" vlink="#9900FF" link="#0000FF" onload="startLoading();">
-
-
-
-  <CENTER>
+  <center>
     <font face="verdana,arial,helvetica" size=+1>
       <B>Murey</B>
       <font color=#333333>vs</font>
@@ -117,9 +111,10 @@
       <B>"Push a Littlewood"</B>
       <font size=-2>(game of the day 2017-09-09)</font>
       <br> Hastings 1982/83 (1983.01.??), Hastings ENG
-      <br> King's Indian, Samisch, double Fianchetto Variation(E82) <B>&#183;</B>&nbsp; 1-0
+      <br> King's Indian, Samisch, double Fianchetto Variation(E82)
+      <B>&#183;</B>&nbsp; 1-0
     </font>
-  </CENTER>
+  </center>
   <font size="2">
 
     <!--beginolga-->
@@ -159,8 +154,7 @@
         </div>
         <div class="col-3" style="width:13%;float:left; margin-left:1%;">
           <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">Flip
-            <br/>
-            </b>Board</p>
+            <br/>Board</p>
           <input type="image" src="./assets/img/orientation.png" class="option_item" onclick="flipOrientation();" />
         </div>
         <div class="col-4" style="width:32px; height:32px;float:left; margin-left: 2%;">
@@ -200,8 +194,6 @@
     <!--endolga-->
 
   </font>
-  <CENTER>
-
 
 </body>
 

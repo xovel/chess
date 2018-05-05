@@ -37,9 +37,6 @@
     }
   </style>
 
-
-
-
   <!-- start OLGA header -->
   <!-- meta charset="utf-8" -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -58,14 +55,13 @@
 [BlackElo "?"]
 [PlyCount "135"]
 
-1. c4 g6 2. d4 Nf6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Bg4 8. Be3 Nfd7 9. Be2 Nc6 10. Rd1 Nb6 11. Qc5 Qd6 12. h3 Bxf3 13. gxf3 Rfd8 14. d5 Ne5 15. Nb5 Qf6 16. f4 Ned7 17. e5 Qxf4 18. Bxf4 Nxc5 19. Nxc7 Rac8 20. d6 exd6 21. exd6 Bxb2 22. O-O Nbd7 23. Rd5 b6 24. Bf3 Ne6 25. Nxe6 fxe6 26. Rd3 Nc5 27. Re3 e5 28. Bxe5 Bxe5 29. Rxe5 Rxd6 30. Re7 Rd7 31. Rxd7 Nxd7 32. Bg4 Rc7 33. Re1 Kf7 34. Kg2 Nc5 35. Re3 Re7 36. Rf3+ Kg7 37. Rc3 Re4 38. Bd1 Rd4 39. Bc2 Kf6 40. Kf3 Kg5 41. Kg3 Ne4+ 42. Bxe4 Rxe4 43. Ra3 Re7 44. Rf3 Rc7 45. a4 Rc5 46. Rf7 Ra5 47. Rxh7 Rxa4 48. h4+ Kf5 49. Rf7+ Ke5 50. Rg7 Ra1 51. Kf3 b5 52. h5 Ra3+ 53. Kg2 gxh5 54. Rg5+ Kd6 55. Rxb5 h4 56. f4 Kc6 57. Rb8 h3+ 58. Kh2 a5 59. f5 Kc7 60. Rb5 Kd6 61. f6 Ke6 62. Rb6+ Kf7 63. Ra6 Kg6 64. Rc6 a4 65. Ra6 Kf7 66. Rc6 Rd3 67. Ra6 a3 68. Kg1 1/2-1/2'
-    ratio="80" notes='[]'>
+1. c4 g6 2. d4 Nf6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Bg4 8. Be3 Nfd7 9. Be2 Nc6 10. Rd1 Nb6 11. Qc5 Qd6 12. h3 Bxf3 13. gxf3 Rfd8 14. d5 Ne5 15. Nb5 Qf6 16. f4 Ned7 17. e5 Qxf4 18. Bxf4 Nxc5 19. Nxc7 Rac8 20. d6 exd6 21. exd6 Bxb2 22. O-O Nbd7 23. Rd5 b6 24. Bf3 Ne6 25. Nxe6 fxe6 26. Rd3 Nc5 27. Re3 e5 28. Bxe5 Bxe5 29. Rxe5 Rxd6 30. Re7 Rd7 31. Rxd7 Nxd7 32. Bg4 Rc7 33. Re1 Kf7 34. Kg2 Nc5 35. Re3 Re7 36. Rf3+ Kg7 37. Rc3 Re4 38. Bd1 Rd4 39. Bc2 Kf6 40. Kf3 Kg5 41. Kg3 Ne4+ 42. Bxe4 Rxe4 43. Ra3 Re7 44. Rf3 Rc7 45. a4 Rc5 46. Rf7 Ra5 47. Rxh7 Rxa4 48. h4+ Kf5 49. Rf7+ Ke5 50. Rg7 Ra1 51. Kf3 b5 52. h5 Ra3+ 53. Kg2 gxh5 54. Rg5+ Kd6 55. Rxb5 h4 56. f4 Kc6 57. Rb8 h3+ 58. Kh2 a5 59. f5 Kc7 60. Rb5 Kd6 61. f6 Ke6 62. Rb6+ Kf7 63. Ra6 Kg6 64. Rc6 a4 65. Ra6 Kf7 66. Rc6 Rd3 67. Ra6 a3 68. Kg1 1/2-1/2' ratio="80" notes='[]'>
   </div>
-  <script src="./assets/chess.js"></script>
-  <link href="./assets/jquery-ui.min.css" rel="stylesheet">
+  <script src="https://cdn.bootcss.com/chess.js/0.10.2/chess.js"></script>
+  <link href="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.css" rel="stylesheet">
   <link href="./assets/chessboard.min.css" rel="stylesheet">
-  <script src="./assets/jquery-3.2.1.min.js"></script>
-  <script src="./assets/jquery-ui.min.js"></script>
+  <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.js"></script>
+  <script src="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.js"></script>
   <script src="./assets/chessboard.min.js"></script>
   <script src="./assets/olga.js"></script>
   <link rel="stylesheet" href="./assets/olga.css">
@@ -84,14 +80,15 @@
           top: this[0].offsetTop
         };
       };
-      var board = ChessBoard("board", { draggable: false, position: '' });
-      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status', 'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
+      var board = ChessBoard("board", {
+        draggable: false,
+        position: ''
+      });
+      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status',
+        'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
     }
   </script>
   <!-- end OLGA header -->
-
-
-
   <script type="text/javascript">
     function OpenWin(pagename) {
       SmallWin = window.open(pagename, 'popup', 'scrollbars,resizable,toolbar=no,height=394,width=412,left=200,top=200');
@@ -103,10 +100,7 @@
 </head>
 
 <body bgcolor="#FFFFFF" vlink="#9900FF" link="#0000FF" onload="startLoading();">
-
-
-
-  <CENTER>
+  <center>
     <font face="verdana,arial,helvetica" size=+1>
       <B>Botvinnik</B>
       <font color=#333333>vs</font>
@@ -117,9 +111,10 @@
       <B>"Analyze This"</B>
       <font size=-2>(game of the day 2018-01-31)</font>
       <br> Varna ol (Men) fin-A (1962.10.07), Varna BUL
-      <br> Grunfeld, Russian(D98) <B>&#183;</B>&nbsp; 1/2-1/2
+      <br> Grunfeld, Russian(D98)
+      <B>&#183;</B>&nbsp; 1/2-1/2
     </font>
-  </CENTER>
+  </center>
   <font size="2">
 
     <!--beginolga-->
@@ -159,8 +154,7 @@
         </div>
         <div class="col-3" style="width:13%;float:left; margin-left:1%;">
           <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">Flip
-            <br/>
-            </b>Board</p>
+            <br/>Board</p>
           <input type="image" src="./assets/img/orientation.png" class="option_item" onclick="flipOrientation();" />
         </div>
         <div class="col-4" style="width:32px; height:32px;float:left; margin-left: 2%;">
@@ -200,8 +194,6 @@
     <!--endolga-->
 
   </font>
-  <CENTER>
-
 
 </body>
 

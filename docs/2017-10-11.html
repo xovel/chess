@@ -37,9 +37,6 @@
     }
   </style>
 
-
-
-
   <!-- start OLGA header -->
   <!-- meta charset="utf-8" -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -58,14 +55,13 @@
 [BlackElo "?"]
 [PlyCount "77"]
 
-1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Nf3 e6 5.Bg5 dxc4 6.e4 b5 7.a4 Bb7 8.axb5 cxb5 9.Nxb5 Qb6 10.Qa4 Nc6 11.Bxf6 gxf6 12.Bxc4 a6 13.Nc3 Qxb2 14.O-O Qxc3 15.d5 Qb4 16.dxc6 Bc8 17.Qa2 Bh6 18.Qe2 a5 19.Rfb1 Qc3 20.Ra4 O-O 21.h3 Bf4 22.g3 Rb8 23.Rxb8 Bxb8 24.Qd3 Qc1+ 25.Kg2 Bc7 26.Qd2 Qxd2 27.Nxd2 e5 28.Nb3 Be6 29.Nc5 Bxc4 30.Rxc4 Ra8 31.Kf3 Kf8 32.Kg4 Ke7 33.Kf5 Bb6 34.Nd7 Bxf2 35.Nxf6 Bxg3 36.Nd5+ Kd6 37.Nb6 Rg8 38.c7 Bh4 39.c8=N+ 1-0'
-    ratio="80" notes='[]'>
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Nf3 e6 5.Bg5 dxc4 6.e4 b5 7.a4 Bb7 8.axb5 cxb5 9.Nxb5 Qb6 10.Qa4 Nc6 11.Bxf6 gxf6 12.Bxc4 a6 13.Nc3 Qxb2 14.O-O Qxc3 15.d5 Qb4 16.dxc6 Bc8 17.Qa2 Bh6 18.Qe2 a5 19.Rfb1 Qc3 20.Ra4 O-O 21.h3 Bf4 22.g3 Rb8 23.Rxb8 Bxb8 24.Qd3 Qc1+ 25.Kg2 Bc7 26.Qd2 Qxd2 27.Nxd2 e5 28.Nb3 Be6 29.Nc5 Bxc4 30.Rxc4 Ra8 31.Kf3 Kf8 32.Kg4 Ke7 33.Kf5 Bb6 34.Nd7 Bxf2 35.Nxf6 Bxg3 36.Nd5+ Kd6 37.Nb6 Rg8 38.c7 Bh4 39.c8=N+ 1-0' ratio="80" notes='[]'>
   </div>
-  <script src="./assets/chess.js"></script>
-  <link href="./assets/jquery-ui.min.css" rel="stylesheet">
+  <script src="https://cdn.bootcss.com/chess.js/0.10.2/chess.js"></script>
+  <link href="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.css" rel="stylesheet">
   <link href="./assets/chessboard.min.css" rel="stylesheet">
-  <script src="./assets/jquery-3.2.1.min.js"></script>
-  <script src="./assets/jquery-ui.min.js"></script>
+  <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.js"></script>
+  <script src="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.js"></script>
   <script src="./assets/chessboard.min.js"></script>
   <script src="./assets/olga.js"></script>
   <link rel="stylesheet" href="./assets/olga.css">
@@ -84,14 +80,15 @@
           top: this[0].offsetTop
         };
       };
-      var board = ChessBoard("board", { draggable: false, position: '' });
-      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status', 'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
+      var board = ChessBoard("board", {
+        draggable: false,
+        position: ''
+      });
+      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status',
+        'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
     }
   </script>
   <!-- end OLGA header -->
-
-
-
   <script type="text/javascript">
     function OpenWin(pagename) {
       SmallWin = window.open(pagename, 'popup', 'scrollbars,resizable,toolbar=no,height=394,width=412,left=200,top=200');
@@ -103,10 +100,7 @@
 </head>
 
 <body bgcolor="#FFFFFF" vlink="#9900FF" link="#0000FF" onload="startLoading();">
-
-
-
-  <CENTER>
+  <center>
     <font face="verdana,arial,helvetica" size=+1>
       <B>P Cramling</B>
       <font color=#333333>vs</font>
@@ -117,9 +111,10 @@
       <B>"Let&apos;s Call it a Knight"</B>
       <font size=-2>(game of the day 2017-10-11)</font>
       <br> Candidates (Women) (1994.09.29), Tilburg NED
-      <br> Queen's Gambit Declined Semi-Slav(D44) <B>&#183;</B>&nbsp; 1-0
+      <br> Queen's Gambit Declined Semi-Slav(D44)
+      <B>&#183;</B>&nbsp; 1-0
     </font>
-  </CENTER>
+  </center>
   <font size="2">
 
     <!--beginolga-->
@@ -159,8 +154,7 @@
         </div>
         <div class="col-3" style="width:13%;float:left; margin-left:1%;">
           <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">Flip
-            <br/>
-            </b>Board</p>
+            <br/>Board</p>
           <input type="image" src="./assets/img/orientation.png" class="option_item" onclick="flipOrientation();" />
         </div>
         <div class="col-4" style="width:32px; height:32px;float:left; margin-left: 2%;">
@@ -200,8 +194,6 @@
     <!--endolga-->
 
   </font>
-  <CENTER>
-
 
 </body>
 

@@ -37,9 +37,6 @@
     }
   </style>
 
-
-
-
   <!-- start OLGA header -->
   <!-- meta charset="utf-8" -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -58,14 +55,13 @@
 [BlackElo "?"]
 [PlyCount "78"]
 
-1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c3 Nbd7 7. Qc2 c5 8. e4 Qc7 9. Na3 Rb8 10. Bg5 h6 11. Bf4 cxd4 12. Nxd4 a6 13. Ne2 b5 14. Rac1 Bb7 15. h3 Nc5 16. f3 Bc8 17. Qd2 Kh7 18. Nc2 Nfd7 19. Be3 Nb6 20. b3 Bb7 21. Nf4 e6 22. Nb4 Rbd8 23. Qf2 Nbd7 24. Nbd3 e5 25. Nxc5 Nxc5 26. Bxc5 dxc5 27. Ne2 Rd2 28. Qe3 Rfd8 29. a3 R8d3 30. Qf2 h5 31. Kh1 Bh6 32. f4 exf4 33. gxf4 Qd7 34. f5 gxf5 35. Qxf5 Qxf5 36. Rxf5 Rxe2 37. Rxf7 Kg8 38. Rcf1 Bxe4 39. Bxe4 Rxh3 0-1'
-    ratio="80" notes='[]'>
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c3 Nbd7 7. Qc2 c5 8. e4 Qc7 9. Na3 Rb8 10. Bg5 h6 11. Bf4 cxd4 12. Nxd4 a6 13. Ne2 b5 14. Rac1 Bb7 15. h3 Nc5 16. f3 Bc8 17. Qd2 Kh7 18. Nc2 Nfd7 19. Be3 Nb6 20. b3 Bb7 21. Nf4 e6 22. Nb4 Rbd8 23. Qf2 Nbd7 24. Nbd3 e5 25. Nxc5 Nxc5 26. Bxc5 dxc5 27. Ne2 Rd2 28. Qe3 Rfd8 29. a3 R8d3 30. Qf2 h5 31. Kh1 Bh6 32. f4 exf4 33. gxf4 Qd7 34. f5 gxf5 35. Qxf5 Qxf5 36. Rxf5 Rxe2 37. Rxf7 Kg8 38. Rcf1 Bxe4 39. Bxe4 Rxh3 0-1' ratio="80" notes='[]'>
   </div>
-  <script src="./assets/chess.js"></script>
-  <link href="./assets/jquery-ui.min.css" rel="stylesheet">
+  <script src="https://cdn.bootcss.com/chess.js/0.10.2/chess.js"></script>
+  <link href="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.css" rel="stylesheet">
   <link href="./assets/chessboard.min.css" rel="stylesheet">
-  <script src="./assets/jquery-3.2.1.min.js"></script>
-  <script src="./assets/jquery-ui.min.js"></script>
+  <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.js"></script>
+  <script src="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.js"></script>
   <script src="./assets/chessboard.min.js"></script>
   <script src="./assets/olga.js"></script>
   <link rel="stylesheet" href="./assets/olga.css">
@@ -84,14 +80,15 @@
           top: this[0].offsetTop
         };
       };
-      var board = ChessBoard("board", { draggable: false, position: '' });
-      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status', 'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
+      var board = ChessBoard("board", {
+        draggable: false,
+        position: ''
+      });
+      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status',
+        'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
     }
   </script>
   <!-- end OLGA header -->
-
-
-
   <script type="text/javascript">
     function OpenWin(pagename) {
       SmallWin = window.open(pagename, 'popup', 'scrollbars,resizable,toolbar=no,height=394,width=412,left=200,top=200');
@@ -103,10 +100,7 @@
 </head>
 
 <body bgcolor="#FFFFFF" vlink="#9900FF" link="#0000FF" onload="startLoading();">
-
-
-
-  <CENTER>
+  <center>
     <font face="verdana,arial,helvetica" size=+1>
       <B>J Camarena</B>
       <font color=#333333>vs</font>
@@ -117,9 +111,10 @@
       <B>"The Joaquin Dead"</B>
       <font size=-2>(game of the day 2017-04-18)</font>
       <br> Pan American Congress (1945.08.09), Hollywood, CA USA
-      <br> King's Indian, Fianchetto without c4(A49) <B>&#183;</B>&nbsp; 0-1
+      <br> King's Indian, Fianchetto without c4(A49)
+      <B>&#183;</B>&nbsp; 0-1
     </font>
-  </CENTER>
+  </center>
   <font size="2">
 
     <!--beginolga-->
@@ -159,8 +154,7 @@
         </div>
         <div class="col-3" style="width:13%;float:left; margin-left:1%;">
           <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">Flip
-            <br/>
-            </b>Board</p>
+            <br/>Board</p>
           <input type="image" src="./assets/img/orientation.png" class="option_item" onclick="flipOrientation();" />
         </div>
         <div class="col-4" style="width:32px; height:32px;float:left; margin-left: 2%;">
@@ -200,8 +194,6 @@
     <!--endolga-->
 
   </font>
-  <CENTER>
-
 
 </body>
 

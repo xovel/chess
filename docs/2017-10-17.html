@@ -37,9 +37,6 @@
     }
   </style>
 
-
-
-
   <!-- start OLGA header -->
   <!-- meta charset="utf-8" -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -58,14 +55,13 @@
 [BlackElo "?"]
 [PlyCount "41"]
 
-1.d4 Nf6 2.c4 e6 3.Nc3 c5 4.d5 exd5 5.cxd5 d6 6.e4 g6 7.f4 Bg7 8.Bb5+ Nfd7 9.a4 Na6 10.Nf3 Nb4 11.O-O a6 12.Bxd7+ Bxd7 13.f5 O-O 14.Bg5 f6 15.Bf4 gxf5 16.Bxd6 Bxa4 17.Rxa4 Qxd6 18.Nh4 fxe4 19.Nf5 Qd7 20.Nxe4 Kh8 21.Nxc5 1-0'
-    ratio="80" notes='[15,"The most common reply. 8. ... Bd7 runs into ugly complications with 9. e5. The move 8. ...Nbd7 invites the extremely double-edged 9. e5 dxe5 10. fxe5 Nh5 11. e6",25,"Still the best defence according to Kasparov who gives analysis to show that 13. ...gxf5 14. Bg5 is very strong for White. -- Borik",29,"A desperate move which only hastens the end. -- Borik"]'>
+1.d4 Nf6 2.c4 e6 3.Nc3 c5 4.d5 exd5 5.cxd5 d6 6.e4 g6 7.f4 Bg7 8.Bb5+ Nfd7 9.a4 Na6 10.Nf3 Nb4 11.O-O a6 12.Bxd7+ Bxd7 13.f5 O-O 14.Bg5 f6 15.Bf4 gxf5 16.Bxd6 Bxa4 17.Rxa4 Qxd6 18.Nh4 fxe4 19.Nf5 Qd7 20.Nxe4 Kh8 21.Nxc5 1-0' ratio="80" notes='[15,"The most common reply. 8. ... Bd7 runs into ugly complications with 9. e5. The move 8. ...Nbd7 invites the extremely double-edged 9. e5 dxe5 10. fxe5 Nh5 11. e6",25,"Still the best defence according to Kasparov who gives analysis to show that 13. ...gxf5 14. Bg5 is very strong for White. -- Borik",29,"A desperate move which only hastens the end. -- Borik"]'>
   </div>
-  <script src="./assets/chess.js"></script>
-  <link href="./assets/jquery-ui.min.css" rel="stylesheet">
+  <script src="https://cdn.bootcss.com/chess.js/0.10.2/chess.js"></script>
+  <link href="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.css" rel="stylesheet">
   <link href="./assets/chessboard.min.css" rel="stylesheet">
-  <script src="./assets/jquery-3.2.1.min.js"></script>
-  <script src="./assets/jquery-ui.min.js"></script>
+  <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.js"></script>
+  <script src="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.js"></script>
   <script src="./assets/chessboard.min.js"></script>
   <script src="./assets/olga.js"></script>
   <link rel="stylesheet" href="./assets/olga.css">
@@ -84,14 +80,15 @@
           top: this[0].offsetTop
         };
       };
-      var board = ChessBoard("board", { draggable: false, position: '' });
-      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status', 'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
+      var board = ChessBoard("board", {
+        draggable: false,
+        position: ''
+      });
+      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status',
+        'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
     }
   </script>
   <!-- end OLGA header -->
-
-
-
   <script type="text/javascript">
     function OpenWin(pagename) {
       SmallWin = window.open(pagename, 'popup', 'scrollbars,resizable,toolbar=no,height=394,width=412,left=200,top=200');
@@ -103,10 +100,7 @@
 </head>
 
 <body bgcolor="#FFFFFF" vlink="#9900FF" link="#0000FF" onload="startLoading();">
-
-
-
-  <CENTER>
+  <center>
     <font face="verdana,arial,helvetica" size=+1>
       <B>Kasparov</B>
       <font color=#333333>vs</font>
@@ -117,9 +111,10 @@
       <B>"Nunn on the Run"</B>
       <font size=-2>(game of the day 2017-10-17)</font>
       <br> Chess Olympiad (1982.11.08), Lucerne SUI
-      <br> Benoni, Taimanov Variation(A67) <B>&#183;</B>&nbsp; 1-0
+      <br> Benoni, Taimanov Variation(A67)
+      <B>&#183;</B>&nbsp; 1-0
     </font>
-  </CENTER>
+  </center>
   <font size="2">
 
     <!--beginolga-->
@@ -159,8 +154,7 @@
         </div>
         <div class="col-3" style="width:13%;float:left; margin-left:1%;">
           <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">Flip
-            <br/>
-            </b>Board</p>
+            <br/>Board</p>
           <input type="image" src="./assets/img/orientation.png" class="option_item" onclick="flipOrientation();" />
         </div>
         <div class="col-4" style="width:32px; height:32px;float:left; margin-left: 2%;">
@@ -200,8 +194,6 @@
     <!--endolga-->
 
   </font>
-  <CENTER>
-
 
 </body>
 

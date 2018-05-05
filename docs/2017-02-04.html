@@ -37,9 +37,6 @@
     }
   </style>
 
-
-
-
   <!-- start OLGA header -->
   <!-- meta charset="utf-8" -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -58,14 +55,13 @@
 [BlackElo "?"]
 [PlyCount "145"]
 
-1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. Be2 O-O 6. Bg5 c5 7. d5 Qa5 8. Bd2 a6 9. a4 e5 10. g4 Ne8 11. h4 f5 12. h5 f4 13. g5 Qd8 14. Bg4 Nc7 15. Bxc8 Qxc8 16. Nf3 Nc6 17. dxc6 bxc6 18. Nh4 Qe8 19. hxg6 hxg6 20. Qg4 Rb8 21. Nd1 Ne6 22. Ra3 Nd4 23. Rah3 Qf7 24. Bc3 Rfe8 25. R3h2 Qxc4 26. Nxg6 Re6 27. Bxd4 Rxg6 28. Qf5 Qe6 29. Qxe6+ Rxe6 30. Bc3 d5 31. f3 Rb3 32. Rh3 c4 33. Kd2 Rg6 34. Rg1 d4 35. Ba5 Bf8 36. Rg4 Rd6 37. Kc2 Rd7 38. g6 Rdb7 39. Be1 c5 40. Rgh4 Bg7 41. Ba5 c3 42. bxc3 Ra3 43. cxd4 exd4 44. Rxf4 Ra2+ 45. Kd3 Rb1 46. Rh1 Rxa4 47. Kc2 Rb5 48. e5 d3+ 49. Kxd3 Rxf4 50. Bc3 Rxf3+ 51. Ke4 Rg3 52. Kf4 Rxg6 53. Ne3 Rb8 54. Nf5 Rf8 55. Rh5 Re8 56. Ke4 Rg1 57. Rh3 Bf8 58. Kd5 Rd1+ 59. Ke4 Rc1 60. Kd5 Rd1+ 61. Ke4 Rd7 62. Nh6+ Bxh6 63. Rxh6 Rh7 64. Rg6+ Kf7 65. Rf6+ Ke7 66. Rc6 Kd7 67. Rxc5 Rh6 68. Kd5 Rb6 69. Ba5 Rb5 70. Rxb5 axb5 71. e6+ Rxe6 72. Kc5 Re5+ 73. Kb6 1/2-1/2'
-    ratio="80" notes='[]'>
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. Be2 O-O 6. Bg5 c5 7. d5 Qa5 8. Bd2 a6 9. a4 e5 10. g4 Ne8 11. h4 f5 12. h5 f4 13. g5 Qd8 14. Bg4 Nc7 15. Bxc8 Qxc8 16. Nf3 Nc6 17. dxc6 bxc6 18. Nh4 Qe8 19. hxg6 hxg6 20. Qg4 Rb8 21. Nd1 Ne6 22. Ra3 Nd4 23. Rah3 Qf7 24. Bc3 Rfe8 25. R3h2 Qxc4 26. Nxg6 Re6 27. Bxd4 Rxg6 28. Qf5 Qe6 29. Qxe6+ Rxe6 30. Bc3 d5 31. f3 Rb3 32. Rh3 c4 33. Kd2 Rg6 34. Rg1 d4 35. Ba5 Bf8 36. Rg4 Rd6 37. Kc2 Rd7 38. g6 Rdb7 39. Be1 c5 40. Rgh4 Bg7 41. Ba5 c3 42. bxc3 Ra3 43. cxd4 exd4 44. Rxf4 Ra2+ 45. Kd3 Rb1 46. Rh1 Rxa4 47. Kc2 Rb5 48. e5 d3+ 49. Kxd3 Rxf4 50. Bc3 Rxf3+ 51. Ke4 Rg3 52. Kf4 Rxg6 53. Ne3 Rb8 54. Nf5 Rf8 55. Rh5 Re8 56. Ke4 Rg1 57. Rh3 Bf8 58. Kd5 Rd1+ 59. Ke4 Rc1 60. Kd5 Rd1+ 61. Ke4 Rd7 62. Nh6+ Bxh6 63. Rxh6 Rh7 64. Rg6+ Kf7 65. Rf6+ Ke7 66. Rc6 Kd7 67. Rxc5 Rh6 68. Kd5 Rb6 69. Ba5 Rb5 70. Rxb5 axb5 71. e6+ Rxe6 72. Kc5 Re5+ 73. Kb6 1/2-1/2' ratio="80" notes='[]'>
   </div>
-  <script src="./assets/chess.js"></script>
-  <link href="./assets/jquery-ui.min.css" rel="stylesheet">
+  <script src="https://cdn.bootcss.com/chess.js/0.10.2/chess.js"></script>
+  <link href="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.css" rel="stylesheet">
   <link href="./assets/chessboard.min.css" rel="stylesheet">
-  <script src="./assets/jquery-3.2.1.min.js"></script>
-  <script src="./assets/jquery-ui.min.js"></script>
+  <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.js"></script>
+  <script src="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.js"></script>
   <script src="./assets/chessboard.min.js"></script>
   <script src="./assets/olga.js"></script>
   <link rel="stylesheet" href="./assets/olga.css">
@@ -84,14 +80,15 @@
           top: this[0].offsetTop
         };
       };
-      var board = ChessBoard("board", { draggable: false, position: '' });
-      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status', 'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
+      var board = ChessBoard("board", {
+        draggable: false,
+        position: ''
+      });
+      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status',
+        'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
     }
   </script>
   <!-- end OLGA header -->
-
-
-
   <script type="text/javascript">
     function OpenWin(pagename) {
       SmallWin = window.open(pagename, 'popup', 'scrollbars,resizable,toolbar=no,height=394,width=412,left=200,top=200');
@@ -103,10 +100,7 @@
 </head>
 
 <body bgcolor="#FFFFFF" vlink="#9900FF" link="#0000FF" onload="startLoading();">
-
-
-
-  <CENTER>
+  <center>
     <font face="verdana,arial,helvetica" size=+1>
       <B>Averbakh</B>
       <font color=#333333>vs</font>
@@ -117,9 +111,10 @@
       <B>"Knight Odds"</B>
       <font size=-2>(game of the day 2017-02-04)</font>
       <br> USSR Championship (1956.??.??), Leningrad URS 
-      <br> King's Indian, Averbakh, Main line(E75) <B>&#183;</B>&nbsp; 1/2-1/2
+      <br> King's Indian, Averbakh, Main line(E75)
+      <B>&#183;</B>&nbsp; 1/2-1/2
     </font>
-  </CENTER>
+  </center>
   <font size="2">
 
     <!--beginolga-->
@@ -159,8 +154,7 @@
         </div>
         <div class="col-3" style="width:13%;float:left; margin-left:1%;">
           <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">Flip
-            <br/>
-            </b>Board</p>
+            <br/>Board</p>
           <input type="image" src="./assets/img/orientation.png" class="option_item" onclick="flipOrientation();" />
         </div>
         <div class="col-4" style="width:32px; height:32px;float:left; margin-left: 2%;">
@@ -200,8 +194,6 @@
     <!--endolga-->
 
   </font>
-  <CENTER>
-
 
 </body>
 

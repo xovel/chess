@@ -37,9 +37,6 @@
     }
   </style>
 
-
-
-
   <!-- start OLGA header -->
   <!-- meta charset="utf-8" -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -58,14 +55,13 @@
 [BlackElo "2718"]
 [PlyCount "81"]
 
-1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 Nbd7 6. cxd5 exd5 7. e3 Be7 8. Qc2 O-O 9. Bd3 Re8 10. h3 Nf8 11. g4 a5 12. O-O-O a4 13. Kb1 Qa5 14. a3 Be6 15. Bxf6 Bxf6 16. g5 Be7 17. Ne5 Bxg5 18. f4 Bf6 19. h4 Bxe5 20. fxe5 b5 21. Na2 Rac8 22. Nb4 Qb6 23. Rc1 Bd7 24. Rhg1 Qd8 25. Qg2 Ne6 26. Rcf1 Qe7 27. Bxb5 cxb5 28. Nxd5 Qd8 29. Nf6+ Kh8 30. Nxe8 Qxe8 31. d5 g6 32. dxe6 Qxe6 33. Qd2 h5 34. Rf6 Qe8 35. e4 Kh7 36. Rg5 Bg4 37. e6 Bxe6 38. Rxh5+ Kg7 39. Qd4 Qd8 40. Rxf7+ Kxf7 41. Rh7+ 1-0'
-    ratio="80" notes='[]'>
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 Nbd7 6. cxd5 exd5 7. e3 Be7 8. Qc2 O-O 9. Bd3 Re8 10. h3 Nf8 11. g4 a5 12. O-O-O a4 13. Kb1 Qa5 14. a3 Be6 15. Bxf6 Bxf6 16. g5 Be7 17. Ne5 Bxg5 18. f4 Bf6 19. h4 Bxe5 20. fxe5 b5 21. Na2 Rac8 22. Nb4 Qb6 23. Rc1 Bd7 24. Rhg1 Qd8 25. Qg2 Ne6 26. Rcf1 Qe7 27. Bxb5 cxb5 28. Nxd5 Qd8 29. Nf6+ Kh8 30. Nxe8 Qxe8 31. d5 g6 32. dxe6 Qxe6 33. Qd2 h5 34. Rf6 Qe8 35. e4 Kh7 36. Rg5 Bg4 37. e6 Bxe6 38. Rxh5+ Kg7 39. Qd4 Qd8 40. Rxf7+ Kxf7 41. Rh7+ 1-0' ratio="80" notes='[]'>
   </div>
-  <script src="./assets/chess.js"></script>
-  <link href="./assets/jquery-ui.min.css" rel="stylesheet">
+  <script src="https://cdn.bootcss.com/chess.js/0.10.2/chess.js"></script>
+  <link href="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.css" rel="stylesheet">
   <link href="./assets/chessboard.min.css" rel="stylesheet">
-  <script src="./assets/jquery-3.2.1.min.js"></script>
-  <script src="./assets/jquery-ui.min.js"></script>
+  <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.js"></script>
+  <script src="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.js"></script>
   <script src="./assets/chessboard.min.js"></script>
   <script src="./assets/olga.js"></script>
   <link rel="stylesheet" href="./assets/olga.css">
@@ -84,14 +80,15 @@
           top: this[0].offsetTop
         };
       };
-      var board = ChessBoard("board", { draggable: false, position: '' });
-      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status', 'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
+      var board = ChessBoard("board", {
+        draggable: false,
+        position: ''
+      });
+      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status',
+        'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
     }
   </script>
   <!-- end OLGA header -->
-
-
-
   <script type="text/javascript">
     function OpenWin(pagename) {
       SmallWin = window.open(pagename, 'popup', 'scrollbars,resizable,toolbar=no,height=394,width=412,left=200,top=200');
@@ -103,10 +100,7 @@
 </head>
 
 <body bgcolor="#FFFFFF" vlink="#9900FF" link="#0000FF" onload="startLoading();">
-
-
-
-  <CENTER>
+  <center>
     <font face="verdana,arial,helvetica" size=+1>
       <B>Yu Yangyi</B>
       <font color=#333333>vs</font>
@@ -117,9 +111,10 @@
       <B>"Oh, Yu!"</B>
       <font size=-2>(game of the day 2017-08-09)</font>
       <br> Chinese Chess League (2016.10.31), CHN
-      <br> Queen's Gambit Declined Semi-Slav(D43) <B>&#183;</B>&nbsp; 1-0
+      <br> Queen's Gambit Declined Semi-Slav(D43)
+      <B>&#183;</B>&nbsp; 1-0
     </font>
-  </CENTER>
+  </center>
   <font size="2">
 
     <!--beginolga-->
@@ -159,8 +154,7 @@
         </div>
         <div class="col-3" style="width:13%;float:left; margin-left:1%;">
           <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">Flip
-            <br/>
-            </b>Board</p>
+            <br/>Board</p>
           <input type="image" src="./assets/img/orientation.png" class="option_item" onclick="flipOrientation();" />
         </div>
         <div class="col-4" style="width:32px; height:32px;float:left; margin-left: 2%;">
@@ -200,8 +194,6 @@
     <!--endolga-->
 
   </font>
-  <CENTER>
-
 
 </body>
 
