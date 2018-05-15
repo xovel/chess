@@ -1,6 +1,78 @@
 {
-  "update": "2018-05-05",
+  "update": "2018-05-14",
   "list": [
+    {
+      "date": "2018-05-14",
+      "year": "1975",
+      "players": "D Botto vs L Christiansen",
+      "link": "/perl/chessgame?gid=1088479",
+      "id": "1088479",
+      "note": "Botto Mechanic"
+    },
+    {
+      "date": "2018-05-13",
+      "year": "1906",
+      "players": "R Raubitschek vs Capablanca",
+      "link": "/perl/chessgame?gid=1076078",
+      "id": "1076078",
+      "note": "Who Framed Robert Raubitschek?"
+    },
+    {
+      "date": "2018-05-12",
+      "year": "1981",
+      "players": "Korchnoi vs Karpov",
+      "link": "/perl/chessgame?gid=1068264",
+      "id": "1068264",
+      "note": "Pop the Korch"
+    },
+    {
+      "date": "2018-05-11",
+      "year": "1995",
+      "players": "J van de Mortel vs Bronstein",
+      "link": "/perl/chessgame?gid=1035133",
+      "id": "1035133",
+      "note": "Mortel Error"
+    },
+    {
+      "date": "2018-05-10",
+      "year": "1956",
+      "players": "D Byrne vs Reshevsky",
+      "link": "/perl/chessgame?gid=1438333",
+      "id": "1438333",
+      "note": "Feel the Byrne"
+    },
+    {
+      "date": "2018-05-09",
+      "year": "1904",
+      "players": "Gunsberg vs W Gunston",
+      "link": "/perl/chessgame?gid=1296323",
+      "id": "1296323",
+      "note": "Gunfight"
+    },
+    {
+      "date": "2018-05-08",
+      "year": "2006",
+      "players": "A Volokitin vs Morozevich",
+      "link": "/perl/chessgame?gid=1425909",
+      "id": "1425909",
+      "note": "The Island of Dr. Moro"
+    },
+    {
+      "date": "2018-05-07",
+      "year": "2002",
+      "players": "Delchev vs B Kelly",
+      "link": "/perl/chessgame?gid=1256202",
+      "id": "1256202",
+      "note": "Kelly Blew Book"
+    },
+    {
+      "date": "2018-05-06",
+      "year": "1999",
+      "players": "Csom vs L Seres",
+      "link": "/perl/chessgame?gid=1005060",
+      "id": "1005060",
+      "note": "Csom Kind of Wonderful"
+    },
     {
       "date": "2018-05-05",
       "year": "2000",
