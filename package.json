@@ -8,8 +8,8 @@
     "update": "node update && node list",
     "dev": "npm run update && node app",
     "start": "npm run dev",
-    "gen": "node gen",
-    "generate": "node gen",
+    "gen": "node gen --cdn",
+    "generate": "node gen --cdn",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
