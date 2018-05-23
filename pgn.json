@@ -1,6 +1,78 @@
 {
-  "update": "2018-05-14",
+  "update": "2018-05-23",
   "list": [
+    {
+      "date": "2018-05-23",
+      "year": "2010",
+      "players": "A Higgs vs T Thomassen",
+      "link": "/perl/chessgame?gid=1587757",
+      "id": "1587757",
+      "note": "Higgs Bossin&apos;"
+    },
+    {
+      "date": "2018-05-22",
+      "year": "1905",
+      "players": "Teichmann vs Chigorin",
+      "link": "/perl/chessgame?gid=1036613",
+      "id": "1036613",
+      "note": "The Teichmann Cometh"
+    },
+    {
+      "date": "2018-05-21",
+      "year": "1946",
+      "players": "C H Alexander vs Botvinnik",
+      "link": "/perl/chessgame?gid=1032147",
+      "id": "1032147",
+      "note": "Solving an Enigma"
+    },
+    {
+      "date": "2018-05-20",
+      "year": "2018",
+      "players": "A Esipenko vs M Mikadze",
+      "link": "/perl/chessgame?gid=1915496",
+      "id": "1915496",
+      "note": "Anything You Play Can and Will Be Used Against You"
+    },
+    {
+      "date": "2018-05-19",
+      "year": "1998",
+      "players": "Kramnik vs Shirov",
+      "link": "/perl/chessgame?gid=1266208",
+      "id": "1266208",
+      "note": "Right to Play"
+    },
+    {
+      "date": "2018-05-18",
+      "year": "2018",
+      "players": "S Shankland vs A Liang",
+      "link": "/perl/chessgame?gid=1918940",
+      "id": "1918940",
+      "note": "The Sam Shank Redemption"
+    },
+    {
+      "date": "2018-05-17",
+      "year": "2000",
+      "players": "M Bus vs R Othman",
+      "link": "/perl/chessgame?gid=1260451",
+      "id": "1260451",
+      "note": "Magic Bus"
+    },
+    {
+      "date": "2018-05-16",
+      "year": "2018",
+      "players": "R Svane vs B Nuber",
+      "link": "/perl/chessgame?gid=1915490",
+      "id": "1915490",
+      "note": "Svane&apos;s Trumpet"
+    },
+    {
+      "date": "2018-05-15",
+      "year": "2008",
+      "players": "O Adu vs A Kim",
+      "link": "/perl/chessgame?gid=1520675",
+      "id": "1520675",
+      "note": "The Godfather of Seoul"
+    },
     {
       "date": "2018-05-14",
       "year": "1975",
