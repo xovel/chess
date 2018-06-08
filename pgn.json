@@ -1,6 +1,134 @@
 {
-  "update": "2018-05-23",
+  "update": "2018-06-08",
   "list": [
+    {
+      "date": "2018-06-08",
+      "year": "1929",
+      "players": "J Cukierman vs Duchamp",
+      "link": "/perl/chessgame?gid=1387601",
+      "id": "1387601",
+      "note": "Cukie Monster"
+    },
+    {
+      "date": "2018-06-07",
+      "year": "2015",
+      "players": "Ziji Zhang vs Yu Ruiyuan",
+      "link": "/perl/chessgame?gid=1807842",
+      "id": "1807842",
+      "note": "Z Z Top"
+    },
+    {
+      "date": "2018-06-06",
+      "year": "2006",
+      "players": "D G Fridman vs S Maze",
+      "link": "/perl/chessgame?gid=1422646",
+      "id": "1422646",
+      "note": "Maze of Complications"
+    },
+    {
+      "date": "2018-06-05",
+      "year": "1985",
+      "players": "Quinteros vs Seirawan",
+      "link": "/perl/chessgame?gid=1116220",
+      "id": "1116220",
+      "note": "Yasser, That&apos;s My Bogo"
+    },
+    {
+      "date": "2018-06-04",
+      "year": "2011",
+      "players": "J L Hammer vs V Sanal",
+      "link": "/perl/chessgame?gid=1613341",
+      "id": "1613341",
+      "note": "Sanal What?"
+    },
+    {
+      "date": "2018-06-03",
+      "year": "1975",
+      "players": "Gufeld vs Smyslov",
+      "link": "/perl/chessgame?gid=1126510",
+      "id": "1126510",
+      "note": "Space Invaders"
+    },
+    {
+      "date": "2018-06-02",
+      "year": "1960",
+      "players": "Tal vs Najdorf",
+      "link": "/perl/chessgame?gid=1101501",
+      "id": "1101501",
+      "note": "Promises Kept"
+    },
+    {
+      "date": "2018-06-01",
+      "year": "2008",
+      "players": "H Hunt vs J W Rogers",
+      "link": "/perl/chessgame?gid=1518161",
+      "id": "1518161",
+      "note": "Elephant Hunt"
+    },
+    {
+      "date": "2018-05-31",
+      "year": "2017",
+      "players": "Carlsen vs Aronian",
+      "link": "/perl/chessgame?gid=1871134",
+      "id": "1871134",
+      "note": "The Magnificent Levon"
+    },
+    {
+      "date": "2018-05-30",
+      "year": "2015",
+      "players": "Van Wely vs Carlsen",
+      "link": "/perl/chessgame?gid=1782679",
+      "id": "1782679",
+      "note": "g-Whiz"
+    },
+    {
+      "date": "2018-05-29",
+      "year": "1912",
+      "players": "Hromadka vs A Vaits",
+      "link": "/perl/chessgame?gid=1743643",
+      "id": "1743643",
+      "note": "Hurry up and Wait"
+    },
+    {
+      "date": "2018-05-28",
+      "year": "2011",
+      "players": "Kamsky vs Ding Liren",
+      "link": "/perl/chessgame?gid=1606433",
+      "id": "1606433",
+      "note": "Ask Not for Whom the Bell Dings"
+    },
+    {
+      "date": "2018-05-27",
+      "year": "1906",
+      "players": "Swiderski vs Schlechter",
+      "link": "/perl/chessgame?gid=1341434",
+      "id": "1341434",
+      "note": "Friendly Neighborhood Swiderman"
+    },
+    {
+      "date": "2018-05-26",
+      "year": "2016",
+      "players": "Carlsen vs Jakovenko",
+      "link": "/perl/chessgame?gid=1856045",
+      "id": "1856045",
+      "note": "Sing a Song of Six Pawns"
+    },
+    {
+      "date": "2018-05-25",
+      "year": "2017",
+      "players": "Team White vs Team Black",
+      "link": "/perl/chessgame?gid=1890602",
+      "id": "1890602",
+      "note": "Blood on the Trax"
+    },
+    {
+      "date": "2018-05-24",
+      "year": "1974",
+      "players": "Mednis vs Timman",
+      "link": "/perl/chessgame?gid=1142178",
+      "id": "1142178",
+      "note": "Can I Play With Mednis?"
+    },
     {
       "date": "2018-05-23",
       "year": "2010",
