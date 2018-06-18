@@ -1,6 +1,86 @@
 {
-  "update": "2018-06-08",
+  "update": "2018-06-18",
   "list": [
+    {
+      "date": "2018-06-18",
+      "year": "1970",
+      "players": "Fischer vs V Kovacevic",
+      "link": "/perl/chessgame?gid=1044313",
+      "id": "1044313",
+      "note": "Sweet Nothings"
+    },
+    {
+      "date": "2018-06-17",
+      "year": "1957",
+      "players": "E Terpugov vs Petrosian",
+      "link": "/perl/chessgame?gid=1270265",
+      "id": "1270265",
+      "note": "This is Spartak!"
+    },
+    {
+      "date": "2018-06-16",
+      "year": "1993",
+      "players": "Shabalov vs A Lesiege",
+      "link": "/perl/chessgame?gid=1121688",
+      "id": "1121688",
+      "note": "The Siege of Alexander"
+    },
+    {
+      "date": "2018-06-15",
+      "year": "2002",
+      "players": "J Shahade vs Wang Pin",
+      "link": "/perl/chessgame?gid=1257620",
+      "id": "1257620",
+      "note": "Red Rover"
+    },
+    {
+      "date": "2018-06-14",
+      "year": "1912",
+      "players": "Duras vs Spielmann",
+      "link": "/perl/chessgame?gid=1001042",
+      "id": "1001042",
+      "note": "Duras Hell Battery"
+    },
+    {
+      "date": "2018-06-13",
+      "year": "2004",
+      "players": "Shabalov vs Gelfand",
+      "link": "/perl/chessgame?gid=1272744",
+      "id": "1272744",
+      "note": "Bermuda Triangle"
+    },
+    {
+      "date": "2018-06-12",
+      "year": "2007",
+      "players": "N Ziemann vs C Roelli",
+      "link": "/perl/chessgame?gid=1458196",
+      "id": "1458196",
+      "note": "Oh Nadine, Honey it&apos;s f2"
+    },
+    {
+      "date": "2018-06-11",
+      "year": "1977",
+      "players": "A Zwaig vs Miles",
+      "link": "/perl/chessgame?gid=1096980",
+      "id": "1096980",
+      "note": "Bird and Miles"
+    },
+    {
+      "date": "2018-06-10",
+      "year": "1971",
+      "players": "A Planinc vs I Bilek",
+      "link": "/perl/chessgame?gid=1027699",
+      "id": "1027699",
+      "note": "Bilek is OK!"
+    },
+    {
+      "date": "2018-06-09",
+      "year": "2014",
+      "players": "S Volkov vs B Socko",
+      "link": "/perl/chessgame?gid=1743180",
+      "id": "1743180",
+      "note": "Volkov Fame"
+    },
     {
       "date": "2018-06-08",
       "year": "1929",
