@@ -1,6 +1,46 @@
 {
-  "update": "2018-06-23",
+  "update": "2018-06-28",
   "list": [
+    {
+      "date": "2018-06-28",
+      "year": "1974",
+      "players": "M Stean vs Browne",
+      "link": "/perl/chessgame?gid=1035299",
+      "id": "1035299",
+      "note": "World Brilliancy Prize"
+    },
+    {
+      "date": "2018-06-27",
+      "year": "2018",
+      "players": "R Pruijssers vs R Praggnanandhaa",
+      "link": "/perl/chessgame?gid=1923191",
+      "id": "1923191",
+      "note": "Praggmatic"
+    },
+    {
+      "date": "2018-06-26",
+      "year": "1962",
+      "players": "J Trapl vs J Trmal",
+      "link": "/perl/chessgame?gid=1286274",
+      "id": "1286274",
+      "note": "Opening Trapl"
+    },
+    {
+      "date": "2018-06-25",
+      "year": "2011",
+      "players": "Y Zherebukh vs A Shneider",
+      "link": "/perl/chessgame?gid=1608235",
+      "id": "1608235",
+      "note": "Zherebukh Stops Here"
+    },
+    {
+      "date": "2018-06-24",
+      "year": "2012",
+      "players": "Pelletier vs C McNab",
+      "link": "/perl/chessgame?gid=1688510",
+      "id": "1688510",
+      "note": "Swiss Cheese"
+    },
     {
       "date": "2018-06-23",
       "year": "2018",
