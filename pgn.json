@@ -1,6 +1,62 @@
 {
-  "update": "2018-06-28",
+  "update": "2018-07-05",
   "list": [
+    {
+      "date": "2018-07-05",
+      "year": "2007",
+      "players": "Carlsen vs Aronian",
+      "link": "/perl/chessgame?gid=1462031",
+      "id": "1462031",
+      "note": "MC Hammered"
+    },
+    {
+      "date": "2018-07-04",
+      "year": "1859",
+      "players": "Morphy vs T J Bryan",
+      "link": "/perl/chessgame?gid=1227772",
+      "id": "1227772",
+      "note": "In the Course of Human Events"
+    },
+    {
+      "date": "2018-07-03",
+      "year": "2018",
+      "players": "S Vaibhav vs Carlsen",
+      "link": "/perl/chessgame?gid=1913976",
+      "id": "1913976",
+      "note": "I Got You Vaib"
+    },
+    {
+      "date": "2018-07-02",
+      "year": "1949",
+      "players": "A Sandrin vs P Le Cornu",
+      "link": "/perl/chessgame?gid=1398984",
+      "id": "1398984",
+      "note": "Sibling Rivalry"
+    },
+    {
+      "date": "2018-07-01",
+      "year": "1966",
+      "players": "J Enevoldsen vs Geller",
+      "link": "/perl/chessgame?gid=1049233",
+      "id": "1049233",
+      "note": "Efim Radio"
+    },
+    {
+      "date": "2018-06-30",
+      "year": "1891",
+      "players": "Charousek vs K Schneider",
+      "link": "/perl/chessgame?gid=1036101",
+      "id": "1036101",
+      "note": "Amuzing"
+    },
+    {
+      "date": "2018-06-29",
+      "year": "1940",
+      "players": "Marshall vs H Rogosin",
+      "link": "/perl/chessgame?gid=1095244",
+      "id": "1095244",
+      "note": "The Peasant&apos;s Revolt"
+    },
     {
       "date": "2018-06-28",
       "year": "1974",
