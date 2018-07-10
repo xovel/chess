@@ -1,6 +1,46 @@
 {
-  "update": "2018-07-05",
+  "update": "2018-07-10",
   "list": [
+    {
+      "date": "2018-07-10",
+      "year": "1883",
+      "players": "J Noa vs J Mason",
+      "link": "/perl/chessgame?gid=1002030",
+      "id": "1002030",
+      "note": "Noa Way Out"
+    },
+    {
+      "date": "2018-07-09",
+      "year": "1980",
+      "players": "Karpov vs Tal",
+      "link": "/perl/chessgame?gid=1068154",
+      "id": "1068154",
+      "note": "Reynolds&apos; Wrap"
+    },
+    {
+      "date": "2018-07-08",
+      "year": "1974",
+      "players": "Averkin vs Balashov",
+      "link": "/perl/chessgame?gid=1024296",
+      "id": "1024296",
+      "note": "You&apos;re Under Orest"
+    },
+    {
+      "date": "2018-07-07",
+      "year": "1979",
+      "players": "O Borik vs Miles",
+      "link": "/perl/chessgame?gid=1097201",
+      "id": "1097201",
+      "note": "Alas, Poor Borik"
+    },
+    {
+      "date": "2018-07-06",
+      "year": "1905",
+      "players": "M Lewitt vs H Caro",
+      "link": "/perl/chessgame?gid=1772673",
+      "id": "1772673",
+      "note": "Caro Can"
+    },
     {
       "date": "2018-07-05",
       "year": "2007",
