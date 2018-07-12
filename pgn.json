@@ -1,6 +1,22 @@
 {
-  "update": "2018-07-10",
+  "update": "2018-07-12",
   "list": [
+    {
+      "date": "2018-07-12",
+      "year": "2011",
+      "players": "M Yilmaz vs C Lupulescu",
+      "link": "/perl/chessgame?gid=1645972",
+      "id": "1645972",
+      "note": "Yilmaz Pure and Simple"
+    },
+    {
+      "date": "2018-07-11",
+      "year": "1978",
+      "players": "NN vs E J Diemer",
+      "link": "/perl/chessgame?gid=1282204",
+      "id": "1282204",
+      "note": "Redeemer of Material"
+    },
     {
       "date": "2018-07-10",
       "year": "1883",
