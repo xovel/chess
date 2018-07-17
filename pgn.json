@@ -1,6 +1,46 @@
 {
-  "update": "2018-07-12",
+  "update": "2018-07-17",
   "list": [
+    {
+      "date": "2018-07-17",
+      "year": "1985",
+      "players": "Kasparov vs Superstar 36K",
+      "link": "/perl/chessgame?gid=1070156",
+      "id": "1070156",
+      "note": "Number Crunching"
+    },
+    {
+      "date": "2018-07-16",
+      "year": "1954",
+      "players": "Matulovic vs G Del Pezzo",
+      "link": "/perl/chessgame?gid=1285106",
+      "id": "1285106",
+      "note": "Pezzo Dispenser"
+    },
+    {
+      "date": "2018-07-15",
+      "year": "1938",
+      "players": "F Parr vs G Wheatcroft",
+      "link": "/perl/chessgame?gid=1284171",
+      "id": "1284171",
+      "note": "Under Parr"
+    },
+    {
+      "date": "2018-07-14",
+      "year": "1995",
+      "players": "Judit Polgar vs Shirov",
+      "link": "/perl/chessgame?gid=1111226",
+      "id": "1111226",
+      "note": "Hungarian Rhapsody"
+    },
+    {
+      "date": "2018-07-13",
+      "year": "1867",
+      "players": "S Boden vs Belaiev",
+      "link": "/perl/chessgame?gid=1924049",
+      "id": "1924049",
+      "note": "Boden Well"
+    },
     {
       "date": "2018-07-12",
       "year": "2011",
