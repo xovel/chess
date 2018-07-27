@@ -1,6 +1,46 @@
 {
-  "update": "2018-07-22",
+  "update": "2018-07-27",
   "list": [
+    {
+      "date": "2018-07-27",
+      "year": "2003",
+      "players": "E Alekseev vs A Fominyh",
+      "link": "/perl/chessgame?gid=1267331",
+      "id": "1267331",
+      "note": "Rook&apos;s Revenge"
+    },
+    {
+      "date": "2018-07-26",
+      "year": "1929",
+      "players": "Marshall vs H Steiner",
+      "link": "/perl/chessgame?gid=1095171",
+      "id": "1095171",
+      "note": "Frank and Steiner"
+    },
+    {
+      "date": "2018-07-25",
+      "year": "1900",
+      "players": "Didier vs L Rosen",
+      "link": "/perl/chessgame?gid=1000000",
+      "id": "1000000",
+      "note": "There&apos;s a First for Everything"
+    },
+    {
+      "date": "2018-07-24",
+      "year": "1862",
+      "players": "Steinitz vs E Pilhal",
+      "link": "/perl/chessgame?gid=1132576",
+      "id": "1132576",
+      "note": "The Austrian Morphy"
+    },
+    {
+      "date": "2018-07-23",
+      "year": "1976",
+      "players": "Karpov vs E Torre",
+      "link": "/perl/chessgame?gid=1041314",
+      "id": "1041314",
+      "note": "E.T. Phone Home"
+    },
     {
       "date": "2018-07-22",
       "year": "1985",
