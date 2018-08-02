@@ -1,6 +1,54 @@
 {
-  "update": "2018-07-27",
+  "update": "2018-08-02",
   "list": [
+    {
+      "date": "2018-08-02",
+      "year": "1981",
+      "players": "Kasparov vs I D Dorfman",
+      "link": "/perl/chessgame?gid=1069915",
+      "id": "1069915",
+      "note": "Deep Theory"
+    },
+    {
+      "date": "2018-08-01",
+      "year": "1911",
+      "players": "Alekhine vs O Tenner",
+      "link": "/perl/chessgame?gid=1076122",
+      "id": "1076122",
+      "note": "Turtle Out of its Shell"
+    },
+    {
+      "date": "2018-07-31",
+      "year": "1940",
+      "players": "Boleslavsky vs Lisitsin",
+      "link": "/perl/chessgame?gid=1269348",
+      "id": "1269348",
+      "note": "Wonder Years"
+    },
+    {
+      "date": "2018-07-30",
+      "year": "1949",
+      "players": "Bogoljubov vs O Sarapu",
+      "link": "/perl/chessgame?gid=1269019",
+      "id": "1269019",
+      "note": "Beat &apos;em At Their Own Game"
+    },
+    {
+      "date": "2018-07-29",
+      "year": "2001",
+      "players": "J Nogueiras vs M Gongora Reyes",
+      "link": "/perl/chessgame?gid=1218922",
+      "id": "1218922",
+      "note": "Wholly Knight"
+    },
+    {
+      "date": "2018-07-28",
+      "year": "1972",
+      "players": "Kotov vs Bronstein",
+      "link": "/perl/chessgame?gid=1034600",
+      "id": "1034600",
+      "note": "The Insufficient Queen"
+    },
     {
       "date": "2018-07-27",
       "year": "2003",
