@@ -1,6 +1,62 @@
 {
-  "update": "2018-08-02",
+  "update": "2018-08-10",
   "list": [
+    {
+      "date": "2018-08-10",
+      "year": "1993",
+      "players": "Kamsky vs Karpov",
+      "link": "/perl/chessgame?gid=1066717",
+      "id": "1066717",
+      "note": "Castling is Overrated"
+    },
+    {
+      "date": "2018-08-08",
+      "year": "1935",
+      "players": "Euwe vs Alekhine",
+      "link": "/perl/chessgame?gid=1013094",
+      "id": "1013094",
+      "note": "Making Room for Her Royal Highness"
+    },
+    {
+      "date": "2018-08-07",
+      "year": "1893",
+      "players": "Schlechter vs Herzfeld",
+      "link": "/perl/chessgame?gid=1120923",
+      "id": "1120923",
+      "note": "Vienna Virtuoso"
+    },
+    {
+      "date": "2018-08-06",
+      "year": "2002",
+      "players": "J Cobb vs Adams",
+      "link": "/perl/chessgame?gid=1258088",
+      "id": "1258088",
+      "note": "A new move, and a good one."
+    },
+    {
+      "date": "2018-08-05",
+      "year": "1993",
+      "players": "I Stohl vs R Kuczynski",
+      "link": "/perl/chessgame?gid=1133309",
+      "id": "1133309",
+      "note": "Moscow Mania"
+    },
+    {
+      "date": "2018-08-04",
+      "year": "1848",
+      "players": "Mayet vs Harrwitz",
+      "link": "/perl/chessgame?gid=1242968",
+      "id": "1242968",
+      "note": "The Oldest Trick in the Book"
+    },
+    {
+      "date": "2018-08-03",
+      "year": "1886",
+      "players": "Zukertort vs Steinitz",
+      "link": "/perl/chessgame?gid=1132655",
+      "id": "1132655",
+      "note": "Slavish Sacrifice"
+    },
     {
       "date": "2018-08-02",
       "year": "1981",
