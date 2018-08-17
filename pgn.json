@@ -1,6 +1,54 @@
 {
-  "update": "2018-08-10",
+  "update": "2018-08-16",
   "list": [
+    {
+      "date": "2018-08-16",
+      "year": "1971",
+      "players": "Fischer vs Larsen",
+      "link": "/perl/chessgame?gid=1044348",
+      "id": "1044348",
+      "note": "Down The Exchange"
+    },
+    {
+      "date": "2018-08-15",
+      "year": "1960",
+      "players": "Guimard vs Fischer",
+      "link": "/perl/chessgame?gid=1044515",
+      "id": "1044515",
+      "note": "Active Defense Yields a Win"
+    },
+    {
+      "date": "2018-08-14",
+      "year": "1909",
+      "players": "Marshall vs Capablanca",
+      "link": "/perl/chessgame?gid=1094818",
+      "id": "1094818",
+      "note": "One Pawn Is Not Enough"
+    },
+    {
+      "date": "2018-08-13",
+      "year": "1963",
+      "players": "Berliner vs Fischer",
+      "link": "/perl/chessgame?gid=1008418",
+      "id": "1008418",
+      "note": "In True Fischer Style"
+    },
+    {
+      "date": "2018-08-12",
+      "year": "1967",
+      "players": "Tal vs R Bogdanovic",
+      "link": "/perl/chessgame?gid=1139805",
+      "id": "1139805",
+      "note": "The Magician of Riga"
+    },
+    {
+      "date": "2018-08-11",
+      "year": "1984",
+      "players": "Portisch vs Pinter",
+      "link": "/perl/chessgame?gid=1063968",
+      "id": "1063968",
+      "note": "Queenless Attack"
+    },
     {
       "date": "2018-08-10",
       "year": "1993",
