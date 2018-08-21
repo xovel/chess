@@ -1,0 +1,18 @@
+[Event "Simul, 30b"]
+[Site "Budapest AUH"]
+[Date "1911.01.26"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Emanuel Lasker"]
+[Black "Gyula Breyer"]
+[ECO "C21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "50"]
+
+1.e4 e5 2.d4 exd4 3.c3 d5 4.exd5 Qxd5 5.cxd4 Nf6 6.Nf3 Bb4+
+7.Nc3 O-O 8.Be2 Ne4 9.Bd2 Bxc3 10.bxc3 Nc6 11.O-O Qa5 12.Qc2
+Bf5 13.Bd3 Rfe8 14.Be1 Qd5 15.c4 Qd6 16.d5 Ne5 17.Bxe4 Nxf3+
+18.gxf3 Qg6+ 19.Kh1 Rxe4 20.Qc3 Rh4 21.Rg1 Rxh2+ 22.Kxh2 Qh5+
+23.Kg3 Qg5+ 24.Kh2 Qh4+ 25.Kg2 Qh3# 0-1

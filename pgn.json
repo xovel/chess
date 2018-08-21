@@ -1,6 +1,38 @@
 {
-  "update": "2018-08-16",
+  "update": "2018-08-21",
   "list": [
+    {
+      "date": "2018-08-21",
+      "year": "1972",
+      "players": "Velimirovic vs Ljubojevic",
+      "link": "/perl/chessgame?gid=1091272",
+      "id": "1091272",
+      "note": "A Veli Ljubley Game"
+    },
+    {
+      "date": "2018-08-20",
+      "year": "1908",
+      "players": "Rubinstein vs Salwe",
+      "link": "/perl/chessgame?gid=1119705",
+      "id": "1119705",
+      "note": "The Backward Pawn"
+    },
+    {
+      "date": "2018-08-19",
+      "year": "1911",
+      "players": "Lasker vs Breyer",
+      "link": "/perl/chessgame?gid=1033522",
+      "id": "1033522",
+      "note": "Knockout Punch"
+    },
+    {
+      "date": "2018-08-18",
+      "year": "1927",
+      "players": "Nimzowitsch vs Capablanca",
+      "link": "/perl/chessgame?gid=1007846",
+      "id": "1007846",
+      "note": "Heavy Artillery"
+    },
     {
       "date": "2018-08-16",
       "year": "1971",
