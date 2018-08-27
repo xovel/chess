@@ -1,0 +1,20 @@
+[Event "Blindfold simul, 10b"]
+[Site "London ENG"]
+[Date "1872.03.20"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Joseph Henry Blackburne"]
+[Black "William Robert Ballard"]
+[ECO "C44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Bc5 5.Ng5 Nh6 6.Qh5 Qe7
+7.O-O Ne5 8.Bb3 d6 9.h3 Ng8 10.f4 d3 11.Kh2 Nf6 12.Qd1 Neg4+
+13.hxg4 Nxg4+ 14.Kg3 h5 15.f5 Be3 16.Bxf7+ Kf8 17.Qxg4 hxg4
+18.Bxe3 Qe5+ 19.Bf4 Qxb2 20.Nd2 dxc2 21.Nc4 Qc3+ 22.Ne3 Bd7
+23.Kxg4 Ba4 24.Nd5 Qd3 25.Bg6 Rh6 26.Ne6+ Kg8 27.Ne7+ Kh8
+28.Rh1 Qd1+ 29.Raxd1 cxd1=Q+ 30.Rxd1 Bxd1+ 31.Kg3 Rh1 32.Bd2
+Bh5 33.Bc3 Rg8 34.f6 Bxg6 35.Nxg6+ Kh7 36.f7 1-0

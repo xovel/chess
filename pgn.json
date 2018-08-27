@@ -1,6 +1,54 @@
 {
-  "update": "2018-08-21",
+  "update": "2018-08-27",
   "list": [
+    {
+      "date": "2018-08-27",
+      "year": "1857",
+      "players": "Morphy vs Paulsen",
+      "link": "/perl/chessgame?gid=1259997",
+      "id": "1259997",
+      "note": "Poisoned Pawn"
+    },
+    {
+      "date": "2018-08-26",
+      "year": "1979",
+      "players": "Vukcevich vs Bisguier",
+      "link": "/perl/chessgame?gid=1028651",
+      "id": "1028651",
+      "note": "The Doctor is ON"
+    },
+    {
+      "date": "2018-08-25",
+      "year": "1872",
+      "players": "Blackburne vs W R Ballard",
+      "link": "/perl/chessgame?gid=1028883",
+      "id": "1028883",
+      "note": "Blindfold Bonzai"
+    },
+    {
+      "date": "2018-08-24",
+      "year": "1941",
+      "players": "Smyslov vs Botvinnik",
+      "link": "/perl/chessgame?gid=1032046",
+      "id": "1032046",
+      "note": "Plethora of Passers"
+    },
+    {
+      "date": "2018-08-23",
+      "year": "2003",
+      "players": "Macieja vs Karpov",
+      "link": "/perl/chessgame?gid=1261781",
+      "id": "1261781",
+      "note": "Return to the Romantic Era"
+    },
+    {
+      "date": "2018-08-22",
+      "year": "1995",
+      "players": "Topalov vs Kramnik",
+      "link": "/perl/chessgame?gid=1086001",
+      "id": "1086001",
+      "note": "Toppling Topalov"
+    },
     {
       "date": "2018-08-21",
       "year": "1972",
