@@ -1,6 +1,46 @@
 {
-  "update": "2018-08-27",
+  "update": "2018-09-01",
   "list": [
+    {
+      "date": "2018-09-01",
+      "year": "1965",
+      "players": "Averbakh vs Korchnoi",
+      "link": "/perl/chessgame?gid=1081648",
+      "id": "1081648",
+      "note": "Here Comes The Queen"
+    },
+    {
+      "date": "2018-08-31",
+      "year": "1888",
+      "players": "E Schallopp vs W Paulsen",
+      "link": "/perl/chessgame?gid=1228326",
+      "id": "1228326",
+      "note": "Wrong Colored Bishop"
+    },
+    {
+      "date": "2018-08-30",
+      "year": "1971",
+      "players": "Hort vs Gligoric",
+      "link": "/perl/chessgame?gid=1057548",
+      "id": "1057548",
+      "note": "Smashing the Castle Walls"
+    },
+    {
+      "date": "2018-08-29",
+      "year": "1883",
+      "players": "W Paulsen vs Gunsberg",
+      "link": "/perl/chessgame?gid=1054636",
+      "id": "1054636",
+      "note": "Punch and Counterpunch"
+    },
+    {
+      "date": "2018-08-28",
+      "year": "1964",
+      "players": "Portisch vs Spassky",
+      "link": "/perl/chessgame?gid=1113078",
+      "id": "1113078",
+      "note": "Amazing Comeback"
+    },
     {
       "date": "2018-08-27",
       "year": "1857",
