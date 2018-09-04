@@ -1,6 +1,30 @@
 {
-  "update": "2018-09-01",
+  "update": "2018-09-04",
   "list": [
+    {
+      "date": "2018-09-04",
+      "year": "1889",
+      "players": "Blackburne vs Showalter",
+      "link": "/perl/chessgame?gid=1002131",
+      "id": "1002131",
+      "note": "Blackburne the Magician"
+    },
+    {
+      "date": "2018-09-03",
+      "year": "1858",
+      "players": "Mandolfo vs Kolisch",
+      "link": "/perl/chessgame?gid=1080386",
+      "id": "1080386",
+      "note": "A Flurry of Sacrifices"
+    },
+    {
+      "date": "2018-09-02",
+      "year": "1988",
+      "players": "Timman vs Kasparov",
+      "link": "/perl/chessgame?gid=1070378",
+      "id": "1070378",
+      "note": "Smashing the Center"
+    },
     {
       "date": "2018-09-01",
       "year": "1965",
