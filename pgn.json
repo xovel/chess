@@ -1,6 +1,22 @@
 {
-  "update": "2018-09-04",
+  "update": "2018-09-06",
   "list": [
+    {
+      "date": "2018-09-06",
+      "year": "2002",
+      "players": "Topalov vs Bareev",
+      "link": "/perl/chessgame?gid=1252428",
+      "id": "1252428",
+      "note": "Bareev Grieves"
+    },
+    {
+      "date": "2018-09-05",
+      "year": "1874",
+      "players": "A Winding vs S Sorensen",
+      "link": "/perl/chessgame?gid=1271655",
+      "id": "1271655",
+      "note": "Winding Down"
+    },
     {
       "date": "2018-09-04",
       "year": "1889",
