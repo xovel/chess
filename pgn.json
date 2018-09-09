@@ -1,6 +1,30 @@
 {
-  "update": "2018-09-06",
+  "update": "2018-09-09",
   "list": [
+    {
+      "date": "2018-09-09",
+      "year": "1889",
+      "players": "J M Hanham vs Chigorin",
+      "link": "/perl/chessgame?gid=1002253",
+      "id": "1002253",
+      "note": "A Blundersome Finish"
+    },
+    {
+      "date": "2018-09-08",
+      "year": "1996",
+      "players": "Ivanchuk vs Shirov",
+      "link": "/perl/chessgame?gid=1060750",
+      "id": "1060750",
+      "note": "Chucking the Queen"
+    },
+    {
+      "date": "2018-09-07",
+      "year": "1917",
+      "players": "Breyer vs J Esser",
+      "link": "/perl/chessgame?gid=1271593",
+      "id": "1271593",
+      "note": "Esser&apos;s Mess"
+    },
     {
       "date": "2018-09-06",
       "year": "2002",

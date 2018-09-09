@@ -1,0 +1,35 @@
+[Event "New York"]
+[Site "New York, NY USA"]
+[Date "1889.04.20"]
+[EventDate "1889.03.25"]
+[Round "22"]
+[Result "0-1"]
+[White "James Moore Hanham"]
+[Black "Mikhail Chigorin"]
+[ECO "C53"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1.e4 {Analysis by Wilhelm Steinitz} e5 2.Nf3 Nc6 3.Bc4 Nf6
+4.d3 {White turns the opening into a Giuoco Pianiassimo.} Bc5
+5.c3 d6 6.Be3 Bb6 7.Nbd2 O-O 8.Qe2 d5 9.Bb3 h6 {There is here
+some reason for this usually weak move, as Black intends to
+inconvenience the adverse QB and has no attack to fear on the
+K side.} 10.h3 {But on White's part, the precaution is
+useless.} Be6 11.Bc2 d4 12.cxd4 Nxd4 13.Qd1 Nxc2+ 14.Qxc2 Qd6
+15.Nc4 Bxc4 16.Qxc4 Bxe3 17.fxe3 Qb6 18.Qc1 Rad8 19.Nxe5 Qd6
+20.d4 Nxe4 21.O-O c5 {A fine attacking move that ought to have
+yielded more by force than it did.} 22.Rf4 Ng3 23.Qe1 cxd4 {By
+this exchange, Black loses part of his advantage. He ought to
+have retreated Nh5 at once, and then proceded as in actual
+play. The difference being that White could not afterward gain
+time (compare White's 27th move) again by Ne3, this square
+being blocked by his own pawn, a weak one as it stood, of
+which, however, he is now relieved.} 24.exd4 Nh5 25.Rh4 Nf6
+26.Nc4 Qd5 27.Ne3 Qg5 28.Qf2 Rfe8 29.Nf5 Rd5 30.Rf1 {White has
+played very ably to get out of all positive disadvantage, but
+for this great blunder the game was even. The right move was,
+of course, 30. Rf4, where upon if 30. ...Ne4; 31. Qf1 Nd2
+32. Qf2 and no more than a draw ought to be the legitimate
+result.} Rxf5 0-1
