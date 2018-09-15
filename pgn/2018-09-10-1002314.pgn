@@ -1,0 +1,39 @@
+[Event "New York"]
+[Site "New York, NY USA"]
+[Date "1889.05.06"]
+[EventDate "1889.03.25"]
+[Round "31"]
+[Result "1-0"]
+[White "Max Weiss"]
+[Black "John Washington Baird"]
+[ECO "C42"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1.e4 {Analysis by Wilhelm Steinitz.} e5 2.Nf3 Nf6 3.Nxe5 {The
+old attack, which ought only to equalize the game, whereas, we
+believe 3. d4, recommended in the Modern Chess Instructor,
+gives White a manifest superiority.} d6 4.Nf3 Nxe4 5.d4 d5
+6.Bd3 Be7 7.O-O O-O 8.c4 Nf6 {A very good move, if properly
+followed up.} 9.Nc3 dxc4 10.Bxc4 Bg4 {Instead of this pinning,
+which, as usual, is disadvantageous, Black should have played
+Nbd7, followed by Nb6, so as to keep command of the isolated
+d-pawn, which White could not well advance in the meanwhile,
+as Black would afterward continue the attack upon it by Bb5.}
+11.Be3 Nc6 12.a3 a6 {Qd7 was much better.} 13.b4 Bd6 14.Be2 h6
+15.Qd2 Nh7 16.Ne4 Be7 17.h3 Bf5 {Here and afterward, it would
+have been much better to withdraw the bishop right back to c8
+at once, where he has ultimately to take refuge.} 18.Ng3 Bg6
+19.d5 Nb8 20.Ne5 Nf6 21.Bc4 Ne4 22.Nxe4 Bxe4 23.Rae1 Bh7 24.f4
+Bd6 25.Bd4 Bf5 26.g4 Bd7 {Compare our previous note.} 27.f5 f6
+28.Ng6 Re8 29.Nf4 Bxf4 30.Qxf4 Kh7 31.Bc3 {White has obtained
+an overwhelming superiority of position, which would have
+warranted a sacrifice of the exchange at this point which was
+likely to lead to a more brilliant finish. 31. Re6 was the
+right move, for if 31. ...Bxe6 32. fxe6 and Black could never
+escape the effects of the double action of White's Queen and
+KB on the open diagonal, besides the bearing of bishop and
+rook against the f-pawn.} Rxe1 32.Rxe1 Bc8 33.Qe4 Qd6 34.Kg2
+Nd7 35.Qe8 b5 36.Re7 {This finishes the game virtually.} Ne5
+37.Bxe5 fxe5 38.Qf7 Qxe7 39.Qxe7 bxc4 40.f6 1-0

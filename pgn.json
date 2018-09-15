@@ -1,6 +1,54 @@
 {
-  "update": "2018-09-09",
+  "update": "2018-09-15",
   "list": [
+    {
+      "date": "2018-09-15",
+      "year": "1995",
+      "players": "Kasparov vs Anand",
+      "link": "/perl/chessgame?gid=1018648",
+      "id": "1018648",
+      "note": "The Evans Gambit Revisited"
+    },
+    {
+      "date": "2018-09-14",
+      "year": "1926",
+      "players": "Kmoch vs Znosko-Borovsky",
+      "link": "/perl/chessgame?gid=1151975",
+      "id": "1151975",
+      "note": "Pawn Power in Practice"
+    },
+    {
+      "date": "2018-09-13",
+      "year": "1938",
+      "players": "Botvinnik vs Capablanca",
+      "link": "/perl/chessgame?gid=1031957",
+      "id": "1031957",
+      "note": "The Blossoming Brilliance of Botvinnik"
+    },
+    {
+      "date": "2018-09-12",
+      "year": "1974",
+      "players": "E Bebchuk vs Bronstein",
+      "link": "/perl/chessgame?gid=1034701",
+      "id": "1034701",
+      "note": "A Pleasing Combination"
+    },
+    {
+      "date": "2018-09-11",
+      "year": "1994",
+      "players": "E Torre vs Gufeld",
+      "link": "/perl/chessgame?gid=1041822",
+      "id": "1041822",
+      "note": "Pressing the Advantage"
+    },
+    {
+      "date": "2018-09-10",
+      "year": "1889",
+      "players": "Max Weiss vs J W Baird",
+      "link": "/perl/chessgame?gid=1002314",
+      "id": "1002314",
+      "note": "Weiss Tightens The Vice"
+    },
     {
       "date": "2018-09-09",
       "year": "1889",
