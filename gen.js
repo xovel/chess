@@ -11,6 +11,7 @@ const pgn = {};
 
 const args = process.argv.splice(2);
 const useCDN = args.indexOf('--cdn') >= 0;
+const isForce = args.indexOf('--force') >=0;
 
 list.forEach(item => {
   pgn[item.date] = item;
@@ -34,20 +35,28 @@ if (!fs.existsSync(distFolder)) {
 const del = require('del');
 const copy = require('copy');
 
-del(distFolder + '/**/*').then(() => {
+function copyAssets() {
   // Copy assets.
   copy('assets/**', './' + distFolder + '/assets', () => {
     console.log('copy assets done!')
   });
+}
 
+function genIndex() {
   // Generate index page.
   wFile(path.join(__dirname, distFolder, 'index.html'), indexTemplate.replace('${content}', strIndexHTML.replace(/href="\/(\d{4}-\d{2}-\d{2})"/g, (a, b) => {
     return `href="./${b}.html"`;
   })));
+}
 
+function genPGN(force) {
   // Generate static files.
   list.forEach(item => {
     const pgnPath = path.join(__dirname, 'pgn', `${item.date}-${item.id}.pgn`);
+    const destPath = path.join(__dirname, distFolder, `${item.date}.html`);
+    if (fs.existsSync(destPath) && !force) {
+      return;
+    }
     if (fs.existsSync(pgnPath)) {
       const pgnContent = fs.readFileSync(pgnPath);
       const pgnObj = parsePGN(pgnContent.toString());
@@ -78,4 +87,15 @@ del(distFolder + '/**/*').then(() => {
       wFile(path.join(__dirname, distFolder, `${item.date}.html`), ret);
     }
   });
-})
+}
+
+if (isForce) {
+  del(distFolder + '/**/*').then(() => {
+    genIndex();
+    copyAssets();
+    genPGN();
+  })
+} else {
+  genIndex();
+  genPGN();
+}
