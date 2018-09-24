@@ -1,0 +1,23 @@
+[Event "Charity Odds Match"]
+[Site "London ENG"]
+[Date "2001.04.21"]
+[EventDate "2001.04.21"]
+[Round "1"]
+[Result "0-1"]
+[White "Terence P D Chapman"]
+[Black "Garry Kasparov"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "2827"]
+[PlyCount "74"]
+[SetUp "1"]
+[FEN "rnbqkbnr/1pppppp1/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. Nf3 d5 2. d4 c6 3. c3 Bf5 4. Bf4 Nd7 5. e3 Qb6 6. b3 Ngf6
+7. Bd3 g6 8. Qc2 e6 9. Nbd2 Nh5 10. O-O Nxf4 11. exf4 Qc7
+12. Ne5 Bxd3 13. Qxd3 g5 14. fxg5 Nxe5 15. dxe5 Qxe5 16. Nf3
+Qf4 17. Qd4 Qxd4 18. Nxd4 Ba3 19. Ne2 Ke7 20. g3 Bb2 21. Rad1
+Rxa2 22. Rd2 Rha8 23. Kg2 c5 24. h4 b5 25. h5 Kf8 26. Kf3 R8a3
+27. Kg4 Rxb3 28. Nc1 Ra4+ 29. f4 Bxc1 30. Rxc1 Kg7 31. h6+ Kh7
+32. Kh5 b4 33. cxb4 Rxg3 34. bxc5 Rxf4 35. Rh2 f6 36. gxf6
+Rxf6 37. Kh4 Rg8 0-1

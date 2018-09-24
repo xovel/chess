@@ -1,6 +1,78 @@
 {
-  "update": "2018-09-15",
+  "update": "2018-09-24",
   "list": [
+    {
+      "date": "2018-09-24",
+      "year": "1972",
+      "players": "Portisch vs Saidy",
+      "link": "/perl/chessgame?gid=1113578",
+      "id": "1113578",
+      "note": "Quiet Manoeuvres"
+    },
+    {
+      "date": "2018-09-23",
+      "year": "1971",
+      "players": "Korchnoi vs Najdorf",
+      "link": "/perl/chessgame?gid=1082107",
+      "id": "1082107",
+      "note": "Russian tanks"
+    },
+    {
+      "date": "2018-09-22",
+      "year": "1958",
+      "players": "Fischer vs Reshevsky",
+      "link": "/perl/chessgame?gid=1008376",
+      "id": "1008376",
+      "note": "An Opening Trap to Remember"
+    },
+    {
+      "date": "2018-09-21",
+      "year": "1957",
+      "players": "Ivkov vs A Kolarov",
+      "link": "/perl/chessgame?gid=1061588",
+      "id": "1061588",
+      "note": "Breaking the Pin"
+    },
+    {
+      "date": "2018-09-20",
+      "year": "2001",
+      "players": "T Chapman vs Kasparov",
+      "link": "/perl/chessgame?gid=1238126",
+      "id": "1238126",
+      "note": "Two Pawns for the Underdog"
+    },
+    {
+      "date": "2018-09-19",
+      "year": "1750",
+      "players": "De Legal vs Saint Brie",
+      "link": "/perl/chessgame?gid=1251892",
+      "id": "1251892",
+      "note": "Legal&apos;s Mate"
+    },
+    {
+      "date": "2018-09-18",
+      "year": "1978",
+      "players": "L Shamkovich vs A Anguiano",
+      "link": "/perl/chessgame?gid=1122386",
+      "id": "1122386",
+      "note": "Sacrifices Out of Nowhere"
+    },
+    {
+      "date": "2018-09-17",
+      "year": "1983",
+      "players": "Glek vs Chiburdanidze",
+      "link": "/perl/chessgame?gid=1051539",
+      "id": "1051539",
+      "note": "Crushing Counterplay"
+    },
+    {
+      "date": "2018-09-16",
+      "year": "1974",
+      "players": "Browne vs Quinteros",
+      "link": "/perl/chessgame?gid=1035304",
+      "id": "1035304",
+      "note": "The Harried Queen"
+    },
     {
       "date": "2018-09-15",
       "year": "1995",
