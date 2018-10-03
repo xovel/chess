@@ -1,6 +1,78 @@
 {
-  "update": "2018-09-24",
+  "update": "2018-10-03",
   "list": [
+    {
+      "date": "2018-10-03",
+      "year": "1961",
+      "players": "Petrosian vs Pachman",
+      "link": "/perl/chessgame?gid=1104948",
+      "id": "1104948",
+      "note": "A Real Problem Move"
+    },
+    {
+      "date": "2018-10-02",
+      "year": "1953",
+      "players": "Taimanov vs Najdorf",
+      "link": "/perl/chessgame?gid=1101288",
+      "id": "1101288",
+      "note": "Wrath of the King&apos;s Indian"
+    },
+    {
+      "date": "2018-10-01",
+      "year": "1922",
+      "players": "Bogoljubov vs Alekhine",
+      "link": "/perl/chessgame?gid=1012099",
+      "id": "1012099",
+      "note": "Sacrificing the Queens"
+    },
+    {
+      "date": "2018-09-30",
+      "year": "1993",
+      "players": "Remlinger vs Shabalov",
+      "link": "/perl/chessgame?gid=1121671",
+      "id": "1121671",
+      "note": "The Razor&apos;s Edge"
+    },
+    {
+      "date": "2018-09-29",
+      "year": "1967",
+      "players": "Fischer vs Myagmarsuren",
+      "link": "/perl/chessgame?gid=1044267",
+      "id": "1044267",
+      "note": "A Tangled Web We Weave"
+    },
+    {
+      "date": "2018-09-28",
+      "year": "1910",
+      "players": "Nimzowitsch vs Ed. Lasker",
+      "link": "/perl/chessgame?gid=1102347",
+      "id": "1102347",
+      "note": "Errant Aron"
+    },
+    {
+      "date": "2018-09-27",
+      "year": "1999",
+      "players": "Judit Polgar vs Anand",
+      "link": "/perl/chessgame?gid=1009882",
+      "id": "1009882",
+      "note": "A Novel Novelty"
+    },
+    {
+      "date": "2018-09-26",
+      "year": "1992",
+      "players": "Korchnoi vs Beliavsky",
+      "link": "/perl/chessgame?gid=1083608",
+      "id": "1083608",
+      "note": "The Hapless Queen"
+    },
+    {
+      "date": "2018-09-25",
+      "year": "1934",
+      "players": "Alekhine / Koltanowski vs Antwerp",
+      "link": "/perl/chessgame?gid=1080612",
+      "id": "1080612",
+      "note": "Simultaneous Tandem Blindfold Exhibition"
+    },
     {
       "date": "2018-09-24",
       "year": "1972",
