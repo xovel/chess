@@ -1,0 +1,22 @@
+[Event "Paris"]
+[Site "Paris FRA"]
+[Date "1900.05.28"]
+[EventDate "1900.??.??"]
+[Round "6"]
+[Result "1-0"]
+[White "Harry Nelson Pillsbury"]
+[Black "Geza Maroczy"]
+[ECO "C05"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "91"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.f4 c5 6.c3 Nc6 7.Ngf3
+Be7 8.Bd3 Qb6 9.dxc5 Nxc5 10.Nb3 Nxb3 11.axb3 Bd7 12.b4 Rc8
+13.Qe2 a6 14.Be3 Qc7 15.Qf2 Nb8 16.Bb6 Qc6 17.O-O O-O 18.Ra5
+f5 19.Kh1 Rce8 20.Bc5 Qc7 21.Bxe7 Rxe7 22.g4 Nc6 23.Raa1 fxg4
+24.Qh4 g6 25.Qxg4 Rg7 26.h4 Ne7 27.Nd4 Nf5 28.Bxf5 gxf5 29.Qh5
+Qd8 30.Rg1 Rff7 31.Qh6 Qe7 32.Nf3 Kh8 33.Kh2 Rf8 34.h5 Rg4
+35.Ng5 Rxf4 36.Nf7+ Qxf7 37.Qxf4 Qxh5+ 38.Kg3 Qe2 39.Kh4 Rc8
+40.Rae1 Qxb2 41.Kh3 Rxc3+ 42.Rg3 Rc2 43.Rh1 Rc8 44.Qh6 Qxe5
+45.Qxh7+ Kxh7 46.Kg2# 1-0

@@ -1,6 +1,46 @@
 {
-  "update": "2018-10-03",
+  "update": "2018-10-08",
   "list": [
+    {
+      "date": "2018-10-08",
+      "year": "1960",
+      "players": "Taimanov vs Polugaevsky",
+      "link": "/perl/chessgame?gid=1111512",
+      "id": "1111512",
+      "note": "Quick and Brutal"
+    },
+    {
+      "date": "2018-10-07",
+      "year": "1967",
+      "players": "Robert E Byrne vs Korchnoi",
+      "link": "/perl/chessgame?gid=1081803",
+      "id": "1081803",
+      "note": "Tale of the Dragon"
+    },
+    {
+      "date": "2018-10-06",
+      "year": "1900",
+      "players": "Pillsbury vs Maroczy",
+      "link": "/perl/chessgame?gid=1000043",
+      "id": "1000043",
+      "note": "Pillsbury Buries Maroczy"
+    },
+    {
+      "date": "2018-10-05",
+      "year": "1996",
+      "players": "Anand vs Ivanchuk",
+      "link": "/perl/chessgame?gid=1060709",
+      "id": "1060709",
+      "note": "Fourteenth Move Shocker"
+    },
+    {
+      "date": "2018-10-04",
+      "year": "1988",
+      "players": "Karpov vs Timman",
+      "link": "/perl/chessgame?gid=1068611",
+      "id": "1068611",
+      "note": "A Pin, But Not a Safety Pin"
+    },
     {
       "date": "2018-10-03",
       "year": "1961",
