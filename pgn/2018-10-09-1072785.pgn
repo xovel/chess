@@ -1,0 +1,29 @@
+[Event "USSR Championship"]
+[Site "Tbilisi URS"]
+[Date "1959.02.07"]
+[EventDate "1959.??.??"]
+[Round "17"]
+[Result "1-0"]
+[White "Ratmir Kholmov"]
+[Black "Paul Keres"]
+[ECO "B30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "57"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 Nf6 4.e5 Ng4 5.Bxc6 dxc6 6.O-O g6
+7.Re1 Bg7 8.h3 Nh6 9.Nc3 b6 10.d4 cxd4 11.Nxd4 c5 12.Nc6 {The
+following variation is not too complicated: 12...Qxd1? 13.Rxd1
+Bb7 (or 13...Bd7) 14. Nd5, when 14...Bxc6 is bad in view of
+15.Nc7+ Kf8 16.Nxa8 Bxa8 17. Rd8 checkmate, and otherwise
+after 14....O-O White simply picks up the e7 pawn with
+check. -- Damsky} Qd7 13.Nxe7 Kxe7 14.Bxh6 {"A paradoxical
+decision: the bishop, which was predestined for an attack
+along the weakened dark squares, is exchanged for the 'off
+side' knight." -- Damsky. "But on the other hand, a major
+attacking principle is maintained--'the tempo.' The time that
+we don't have is more precious than the piece we do have." --
+Tal} Bxh6 15.Qf3 Bg7 16.Nd5+ Kd8 17.Rad1 Bb7 18.Qb3 Bc6
+19.Nxb6 axb6 20.Qxf7 Bxe5 21.Rxd7+ Bxd7 22.Rxe5 Kc7 23.Re7
+Rad8 24.a4 g5 25.Qd5 Rhe8 26.Rxh7 g4 27.a5 gxh3 28.axb6 Kxb6
+29.Rxd7 1-0

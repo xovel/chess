@@ -1,6 +1,46 @@
 {
-  "update": "2018-10-08",
+  "update": "2018-10-13",
   "list": [
+    {
+      "date": "2018-10-13",
+      "year": "1935",
+      "players": "Capablanca vs Levenfish",
+      "link": "/perl/chessgame?gid=1090631",
+      "id": "1090631",
+      "note": "A Masterful Attack"
+    },
+    {
+      "date": "2018-10-12",
+      "year": "2001",
+      "players": "Kasparov vs Shirov",
+      "link": "/perl/chessgame?gid=1211241",
+      "id": "1211241",
+      "note": "Alexey Sheared Off"
+    },
+    {
+      "date": "2018-10-11",
+      "year": "2002",
+      "players": "Epishin vs Short",
+      "link": "/perl/chessgame?gid=1252090",
+      "id": "1252090",
+      "note": "Unorthodox Defense"
+    },
+    {
+      "date": "2018-10-10",
+      "year": "1968",
+      "players": "Fischer vs Minic",
+      "link": "/perl/chessgame?gid=1044288",
+      "id": "1044288",
+      "note": "Vulnerable f7"
+    },
+    {
+      "date": "2018-10-09",
+      "year": "1959",
+      "players": "Kholmov vs Keres",
+      "link": "/perl/chessgame?gid=1072785",
+      "id": "1072785",
+      "note": "Precious Time"
+    },
     {
       "date": "2018-10-08",
       "year": "1960",
