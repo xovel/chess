@@ -1,6 +1,54 @@
 {
-  "update": "2018-10-13",
+  "update": "2018-10-19",
   "list": [
+    {
+      "date": "2018-10-19",
+      "year": "1980",
+      "players": "Kasparov vs Csom",
+      "link": "/perl/chessgame?gid=1069830",
+      "id": "1069830",
+      "note": "Baku Debacle"
+    },
+    {
+      "date": "2018-10-18",
+      "year": "1963",
+      "players": "Suetin vs Gufeld",
+      "link": "/perl/chessgame?gid=1134655",
+      "id": "1134655",
+      "note": "Suetin Sweatin&apos; It"
+    },
+    {
+      "date": "2018-10-17",
+      "year": "1922",
+      "players": "Saemisch vs Teichmann",
+      "link": "/perl/chessgame?gid=1003862",
+      "id": "1003862",
+      "note": "Two Pawns Beat A Rook"
+    },
+    {
+      "date": "2018-10-16",
+      "year": "1914",
+      "players": "Nimzowitsch vs Alapin",
+      "link": "/perl/chessgame?gid=1102375",
+      "id": "1102375",
+      "note": "Morphyesque Miniature"
+    },
+    {
+      "date": "2018-10-15",
+      "year": "1946",
+      "players": "Szabo vs Denker",
+      "link": "/perl/chessgame?gid=1136510",
+      "id": "1136510",
+      "note": "Everything at the King"
+    },
+    {
+      "date": "2018-10-14",
+      "year": "1936",
+      "players": "I A Horowitz vs Denker",
+      "link": "/perl/chessgame?gid=1145276",
+      "id": "1145276",
+      "note": "Deviously Dangerous Diagonal"
+    },
     {
       "date": "2018-10-13",
       "year": "1935",
