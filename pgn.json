@@ -1,6 +1,46 @@
 {
-  "update": "2018-10-19",
+  "update": "2018-10-24",
   "list": [
+    {
+      "date": "2018-10-24",
+      "year": "1977",
+      "players": "Fischer vs Greenblatt",
+      "link": "/perl/chessgame?gid=1242850",
+      "id": "1242850",
+      "note": "Man vs. Machine, 1977"
+    },
+    {
+      "date": "2018-10-23",
+      "year": "1866",
+      "players": "Anderssen vs G Neumann",
+      "link": "/perl/chessgame?gid=1019306",
+      "id": "1019306",
+      "note": "Brains in Berlin"
+    },
+    {
+      "date": "2018-10-22",
+      "year": "2002",
+      "players": "Jonkman vs Nijboer",
+      "link": "/perl/chessgame?gid=1258834",
+      "id": "1258834",
+      "note": "Harmonie Harmed Harmen"
+    },
+    {
+      "date": "2018-10-21",
+      "year": "1976",
+      "players": "Tal vs Portisch",
+      "link": "/perl/chessgame?gid=1113701",
+      "id": "1113701",
+      "note": "Knightmare"
+    },
+    {
+      "date": "2018-10-20",
+      "year": "1909",
+      "players": "Rubinstein vs S Von Freymann",
+      "link": "/perl/chessgame?gid=1119727",
+      "id": "1119727",
+      "note": "Opening Fiasco"
+    },
     {
       "date": "2018-10-19",
       "year": "1980",
