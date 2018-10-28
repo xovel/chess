@@ -1,6 +1,38 @@
 {
-  "update": "2018-10-24",
+  "update": "2018-10-28",
   "list": [
+    {
+      "date": "2018-10-28",
+      "year": "1985",
+      "players": "Kasparov vs Superstar 36K",
+      "link": "/perl/chessgame?gid=1070156",
+      "id": "1070156",
+      "note": "Number Crunching"
+    },
+    {
+      "date": "2018-10-27",
+      "year": "1954",
+      "players": "Matulovic vs G Del Pezzo",
+      "link": "/perl/chessgame?gid=1285106",
+      "id": "1285106",
+      "note": "Pezzo Dispenser"
+    },
+    {
+      "date": "2018-10-26",
+      "year": "1947",
+      "players": "Nezhmetdinov vs Suetin",
+      "link": "/perl/chessgame?gid=1102134",
+      "id": "1102134",
+      "note": "Removing the Key Defender"
+    },
+    {
+      "date": "2018-10-25",
+      "year": "1874",
+      "players": "G MacDonnell vs Bird",
+      "link": "/perl/chessgame?gid=1075750",
+      "id": "1075750",
+      "note": "No Need for Queens"
+    },
     {
       "date": "2018-10-24",
       "year": "1977",
