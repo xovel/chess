@@ -1,6 +1,54 @@
 {
-  "update": "2018-10-28",
+  "update": "2018-11-02",
   "list": [
+    {
+      "date": "2018-11-02",
+      "year": "2012",
+      "players": "Grischuk vs Svidler",
+      "link": "/perl/chessgame?gid=1676054",
+      "id": "1676054",
+      "note": "Pay the Svidler"
+    },
+    {
+      "date": "2018-11-01",
+      "year": "2015",
+      "players": "M French vs D Fryer",
+      "link": "/perl/chessgame?gid=1782088",
+      "id": "1782088",
+      "note": "French Fried"
+    },
+    {
+      "date": "2018-11-01",
+      "year": "1974",
+      "players": "Tal vs M Stean",
+      "link": "/perl/chessgame?gid=1140101",
+      "id": "1140101",
+      "note": "A Head of Stean"
+    },
+    {
+      "date": "2018-10-31",
+      "year": "1971",
+      "players": "E Bone vs P Biyiasas",
+      "link": "/perl/chessgame?gid=1265927",
+      "id": "1265927",
+      "note": "Bad To The Bone"
+    },
+    {
+      "date": "2018-10-30",
+      "year": "1976",
+      "players": "B Robertie vs G Bono",
+      "link": "/perl/chessgame?gid=1293585",
+      "id": "1293585",
+      "note": "Pro Bono"
+    },
+    {
+      "date": "2018-10-29",
+      "year": "1964",
+      "players": "Fischer vs J Gloger",
+      "link": "/perl/chessgame?gid=1255134",
+      "id": "1255134",
+      "note": "To Boldly Go Where No Man Has Gone: b4"
+    },
     {
       "date": "2018-10-28",
       "year": "1985",
