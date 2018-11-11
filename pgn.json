@@ -1,6 +1,86 @@
 {
-  "update": "2018-11-02",
+  "update": "2018-11-11",
   "list": [
+    {
+      "date": "2018-11-11",
+      "year": "1960",
+      "players": "Smyslov vs Petrosian",
+      "link": "/perl/chessgame?gid=1125907",
+      "id": "1125907",
+      "note": "Perpetual Motion"
+    },
+    {
+      "date": "2018-11-10",
+      "year": "2015",
+      "players": "Van Wely vs Z Kozul",
+      "link": "/perl/chessgame?gid=1808718",
+      "id": "1808718",
+      "note": "Crosstown Traffic"
+    },
+    {
+      "date": "2018-11-09",
+      "year": "2004",
+      "players": "C Boor vs J Kraai",
+      "link": "/perl/chessgame?gid=1627484",
+      "id": "1627484",
+      "note": "Boor Me To Tears"
+    },
+    {
+      "date": "2018-11-08",
+      "year": "1906",
+      "players": "L Tolstoy vs A Maude",
+      "link": "/perl/chessgame?gid=1076087",
+      "id": "1076087",
+      "note": "War and Piece"
+    },
+    {
+      "date": "2018-11-07",
+      "year": "2012",
+      "players": "J Coll Ortega vs A Suarez Real",
+      "link": "/perl/chessgame?gid=1677920",
+      "id": "1677920",
+      "note": "Get Real"
+    },
+    {
+      "date": "2018-11-07",
+      "year": "1936",
+      "players": "Botvinnik vs G A Thomas",
+      "link": "/perl/chessgame?gid=1008255",
+      "id": "1008255",
+      "note": "The Great Wall"
+    },
+    {
+      "date": "2018-11-06",
+      "year": "1971",
+      "players": "Fischer vs W Shipman",
+      "link": "/perl/chessgame?gid=1044358",
+      "id": "1044358",
+      "note": "Shape Up or Ship Out"
+    },
+    {
+      "date": "2018-11-05",
+      "year": "2009",
+      "players": "Y Shulman vs S Conquest",
+      "link": "/perl/chessgame?gid=1541908",
+      "id": "1541908",
+      "note": "Have It Yury Way!"
+    },
+    {
+      "date": "2018-11-04",
+      "year": "1923",
+      "players": "E Jacobsen vs J Moeller",
+      "link": "/perl/chessgame?gid=1279622",
+      "id": "1279622",
+      "note": "Fly Like an Egil"
+    },
+    {
+      "date": "2018-11-03",
+      "year": "2015",
+      "players": "M French vs D Fryer",
+      "link": "/perl/chessgame?gid=1782088",
+      "id": "1782088",
+      "note": "French Fried"
+    },
     {
       "date": "2018-11-02",
       "year": "2012",
