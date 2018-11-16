@@ -1,6 +1,54 @@
 {
-  "update": "2018-11-11",
+  "update": "2018-11-16",
   "list": [
+    {
+      "date": "2018-11-16",
+      "year": "2014",
+      "players": "Aronian vs Karjakin",
+      "link": "/perl/chessgame?gid=1744555",
+      "id": "1744555",
+      "note": "Preventing a Karjackin"
+    },
+    {
+      "date": "2018-11-15",
+      "year": "2014",
+      "players": "Caruana vs Aronian",
+      "link": "/perl/chessgame?gid=1772644",
+      "id": "1772644",
+      "note": "He Shall Beat Levon"
+    },
+    {
+      "date": "2018-11-14",
+      "year": "2005",
+      "players": "D Grzymek vs G Casey",
+      "link": "/perl/chessgame?gid=1335202",
+      "id": "1335202",
+      "note": "Casey at the Bat"
+    },
+    {
+      "date": "2018-11-13",
+      "year": "2017",
+      "players": "Van Wely vs Degraeve",
+      "link": "/perl/chessgame?gid=1866211",
+      "id": "1866211",
+      "note": "One Foot in Degraeve"
+    },
+    {
+      "date": "2018-11-13",
+      "year": "2013",
+      "players": "S Knott vs S Gordon",
+      "link": "/perl/chessgame?gid=1742507",
+      "id": "1742507",
+      "note": "Gordion Knott"
+    },
+    {
+      "date": "2018-11-13",
+      "year": "1990",
+      "players": "L Christiansen vs Alburt",
+      "link": "/perl/chessgame?gid=1017681",
+      "id": "1017681",
+      "note": "The Royal Alburt Haul"
+    },
     {
       "date": "2018-11-11",
       "year": "1960",
