@@ -1,6 +1,46 @@
 {
-  "update": "2018-11-16",
+  "update": "2018-11-21",
   "list": [
+    {
+      "date": "2018-11-21",
+      "year": "1911",
+      "players": "Burn vs O Chajes",
+      "link": "/perl/chessgame?gid=1000919",
+      "id": "1000919",
+      "note": "Slow Burn"
+    },
+    {
+      "date": "2018-11-20",
+      "year": "1999",
+      "players": "Hindemburg Melao vs C A Martinez",
+      "link": "/perl/chessgame?gid=1779892",
+      "id": "1779892",
+      "note": "The Hindemburg Disaster"
+    },
+    {
+      "date": "2018-11-19",
+      "year": "2007",
+      "players": "A Spice vs M G R White",
+      "link": "/perl/chessgame?gid=1465790",
+      "id": "1465790",
+      "note": "Allspice"
+    },
+    {
+      "date": "2018-11-18",
+      "year": "1980",
+      "players": "Polugaevsky vs Korchnoi",
+      "link": "/perl/chessgame?gid=1112342",
+      "id": "1112342",
+      "note": "Pol Tax"
+    },
+    {
+      "date": "2018-11-17",
+      "year": "1960",
+      "players": "Koltanowski vs W Windom",
+      "link": "/perl/chessgame?gid=1080803",
+      "id": "1080803",
+      "note": "The Doomsday Machine"
+    },
     {
       "date": "2018-11-16",
       "year": "2014",
