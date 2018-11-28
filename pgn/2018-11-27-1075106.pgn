@@ -1,0 +1,28 @@
+[Event "Stockholm"]
+[Site "Stockholm SWE"]
+[Date "1919.12.??"]
+[EventDate "1919.??.??"]
+[Round "4"]
+[Result "1-0"]
+[White "Richard Reti"]
+[Black "Akiba Rubinstein"]
+[ECO "C32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1.e4 {Notes by Efim Bogoljubow.} e5 2.f4 d5 3.exd5 exf4 4.Qf3
+Nf6 5.Bb5+ Bd7 6.Nc3 Bb4 7.Nge2 O-O 8.Bxd7 Nbxd7 9.O-O Nb6
+10.Nxf4 Qd7 {Deserving of attention is 10...Bxc3 11.dxc3 Nbxd5
+12.Nxd5 Qxd5 13.Qg3 Qc6! 14.Be3 Ne4.} 11.d3 Rad8 12.Ne4 Nfxd5
+13.Nxd5 Nxd5 14.a3 f5 15.Nf6+ Nxf6 16.axb4 Qd4+ 17.Kh1 Qxb4
+18.Rxa7 c6 19.b3 {Here 19.Qxf5? does not work because of
+19...Ng4 20.Qe6+ Kh8 21.Re1 Qd4, etc.} Qc5 20.Rxb7 Qxc2 21.Ba3
+Rf7 {! The right defense. If 21...Rfe8, then 22.Qxf5 Qxd3
+23.Rxg7+!.} 22.Rxf7 Kxf7 23.Qxf5 Qxd3 24.Qf4 Qe2 25.h3 Rd3
+26.Qc7+ Kg6 27.Kg1 Rxb3 {?? A blunder which allows Reti to
+finish the game with a mating attack. Instead, 27...Qe6, with
+the idea of 28...Qd7, holds equality.} 28.Bf8 {!} Ne8
+{Rubinstein overlooked that he is lost after 28....Qe3+ 29.Kh1
+Qh6 30.Rxf6+! Kxf6 31.Qe7+ Kf5 32.Qf7+ Ke4 33.Qc4+!.} 29.Qf7+
+Kh6 30.Bxg7+ 1-0

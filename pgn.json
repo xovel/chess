@@ -1,6 +1,54 @@
 {
-  "update": "2018-11-21",
+  "update": "2018-11-27",
   "list": [
+    {
+      "date": "2018-11-27",
+      "year": "1919",
+      "players": "Reti vs Rubinstein",
+      "link": "/perl/chessgame?gid=1075106",
+      "id": "1075106",
+      "note": "Enough: All Reti"
+    },
+    {
+      "date": "2018-11-26",
+      "year": "2015",
+      "players": "B Bok vs Lahno",
+      "link": "/perl/chessgame?gid=1806026",
+      "id": "1806026",
+      "note": "Katydidn&apos;t"
+    },
+    {
+      "date": "2018-11-25",
+      "year": "2016",
+      "players": "B Bok vs Miroslav Markovic",
+      "link": "/perl/chessgame?gid=1835794",
+      "id": "1835794",
+      "note": "That&apos;s Gonna Leave a Markovic"
+    },
+    {
+      "date": "2018-11-24",
+      "year": "1906",
+      "players": "J Shoup vs Marshall",
+      "link": "/perl/chessgame?gid=1094646",
+      "id": "1094646",
+      "note": "Shoup! There It Is!"
+    },
+    {
+      "date": "2018-11-23",
+      "year": "1913",
+      "players": "Spielmann vs Reti",
+      "link": "/perl/chessgame?gid=1130778",
+      "id": "1130778",
+      "note": "The Pin is Mightier than the Sword"
+    },
+    {
+      "date": "2018-11-22",
+      "year": "1972",
+      "players": "Spassky vs Fischer",
+      "link": "/perl/chessgame?gid=1044723",
+      "id": "1044723",
+      "note": "No One Has Been Tougher On Russia Than Me"
+    },
     {
       "date": "2018-11-21",
       "year": "1911",
