@@ -1,6 +1,54 @@
 {
-  "update": "2018-11-27",
+  "update": "2018-12-03",
   "list": [
+    {
+      "date": "2018-12-03",
+      "year": "1980",
+      "players": "Flohr vs G Welling",
+      "link": "/perl/chessgame?gid=1345941",
+      "id": "1345941",
+      "note": "King Salomon&apos;s Mine"
+    },
+    {
+      "date": "2018-12-02",
+      "year": "1963",
+      "players": "E Jimenez Zerquera vs Hort",
+      "link": "/perl/chessgame?gid=1056995",
+      "id": "1056995",
+      "note": "Hortcut"
+    },
+    {
+      "date": "2018-12-01",
+      "year": "2006",
+      "players": "Movsesian vs Ni Hua",
+      "link": "/perl/chessgame?gid=1405564",
+      "id": "1405564",
+      "note": "The Ni Who Says Knight"
+    },
+    {
+      "date": "2018-11-30",
+      "year": "2015",
+      "players": "B Bok vs J S Christiansen",
+      "link": "/perl/chessgame?gid=1783702",
+      "id": "1783702",
+      "note": "Johan-Sebastian? Bok!"
+    },
+    {
+      "date": "2018-11-29",
+      "year": "1842",
+      "players": "F Slous vs W M Popert",
+      "link": "/perl/chessgame?gid=1267529",
+      "id": "1267529",
+      "note": "Not a Fred of the Big Bad Wolf"
+    },
+    {
+      "date": "2018-11-28",
+      "year": "2013",
+      "players": "M Vachier-Lagrave vs Ding Liren",
+      "link": "/perl/chessgame?gid=1715451",
+      "id": "1715451",
+      "note": "These Dings Happen"
+    },
     {
       "date": "2018-11-27",
       "year": "1919",
