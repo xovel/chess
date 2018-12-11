@@ -1,6 +1,78 @@
 {
-  "update": "2018-12-03",
+  "update": "2018-12-11",
   "list": [
+    {
+      "date": "2018-12-11",
+      "year": "1984",
+      "players": "Miles vs Polugaevsky",
+      "link": "/perl/chessgame?gid=1097579",
+      "id": "1097579",
+      "note": "And Miles To Go b4 Lev Slips"
+    },
+    {
+      "date": "2018-12-10",
+      "year": "1927",
+      "players": "Nimzowitsch vs L Steiner",
+      "link": "/perl/chessgame?gid=1007761",
+      "id": "1007761",
+      "note": "My System Has a Virus!"
+    },
+    {
+      "date": "2018-12-09",
+      "year": "2008",
+      "players": "K Haznedaroglu vs R Nokes",
+      "link": "/perl/chessgame?gid=1524430",
+      "id": "1524430",
+      "note": "Roger N Out"
+    },
+    {
+      "date": "2018-12-08",
+      "year": "1961",
+      "players": "Petrosian vs Pachman",
+      "link": "/perl/chessgame?gid=1104948",
+      "id": "1104948",
+      "note": "A Real Problem Move"
+    },
+    {
+      "date": "2018-12-08",
+      "year": "1889",
+      "players": "Bird vs W Pollock",
+      "link": "/perl/chessgame?gid=1002091",
+      "id": "1002091",
+      "note": "Henry &amp; Henry"
+    },
+    {
+      "date": "2018-12-07",
+      "year": "1963",
+      "players": "Fischer vs Bisguier",
+      "link": "/perl/chessgame?gid=1028440",
+      "id": "1028440",
+      "note": "Take Five"
+    },
+    {
+      "date": "2018-12-06",
+      "year": "2017",
+      "players": "W So vs Carlsen",
+      "link": "/perl/chessgame?gid=1883634",
+      "id": "1883634",
+      "note": "So&#x2014;What?!"
+    },
+    {
+      "date": "2018-12-05",
+      "year": "1991",
+      "players": "M Pein vs Svidler",
+      "link": "/perl/chessgame?gid=1136139",
+      "id": "1136139",
+      "note": "A World of Pein"
+    },
+    {
+      "date": "2018-12-04",
+      "year": "1985",
+      "players": "Windhorst vs K Shoup",
+      "link": "/perl/chessgame?gid=1233638",
+      "id": "1233638",
+      "note": "Shoup&apos;s On!"
+    },
     {
       "date": "2018-12-03",
       "year": "1980",
