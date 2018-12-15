@@ -1,6 +1,38 @@
 {
-  "update": "2018-12-11",
+  "update": "2018-12-15",
   "list": [
+    {
+      "date": "2018-12-15",
+      "year": "1983",
+      "players": "Kasparov vs Beliavsky",
+      "link": "/perl/chessgame?gid=1070057",
+      "id": "1070057",
+      "note": "Beli Ache"
+    },
+    {
+      "date": "2018-12-14",
+      "year": "1900",
+      "players": "H Wolf vs Von Bardeleben",
+      "link": "/perl/chessgame?gid=1100168",
+      "id": "1100168",
+      "note": "Petrov and the Wolf"
+    },
+    {
+      "date": "2018-12-13",
+      "year": "1921",
+      "players": "Euwe vs Rubinstein",
+      "link": "/perl/chessgame?gid=1042012",
+      "id": "1042012",
+      "note": "Rubin Hood"
+    },
+    {
+      "date": "2018-12-12",
+      "year": "2011",
+      "players": "J Henseler vs D Klein",
+      "link": "/perl/chessgame?gid=1643853",
+      "id": "1643853",
+      "note": "Klein Battle"
+    },
     {
       "date": "2018-12-11",
       "year": "1984",
