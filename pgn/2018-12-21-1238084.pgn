@@ -1,0 +1,19 @@
+[Event "Aegon"]
+[Site "The Hague NED"]
+[Date "1991.??.??"]
+[EventDate "1991.??.??"]
+[Round "3"]
+[Result "1-0"]
+[White "David Bronstein"]
+[Black "Fritz (Computer)"]
+[ECO "D31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "57"]
+
+1. d4 d5 2. c4 c6 3. Nc3 e6 4. Nf3 dxc4 5. e4 b5 6. a4 Ba6
+7. axb5 cxb5 8. Ne5 Bb4 9. Bxc4 Bxc3+ 10. bxc3 bxc4 11. Rxa6
+Nxa6 12. Qa4+ Kf8 13. Ba3+ Ne7 14. Nc6 Qb6 15. O-O g6
+16. Bxe7+ Kg7 17. Ne5 Qb7 18. Nd7 Rhc8 19. Bf6+ Kg8 20. Be5 f5
+21. Nf6+ Kf7 22. Nxh7 Nb8 23. d5 exd5 24. Ng5+ Kg8 25. exf5
+gxf5 26. Qd1 Re8 27. f4 d4 28. Qh5 Rxe5 29. fxe5 1-0

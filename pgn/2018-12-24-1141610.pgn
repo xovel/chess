@@ -1,0 +1,31 @@
+[Event "St. Petersburg"]
+[Site "St. Petersburg RUE"]
+[Date "1909.03.12"]
+[EventDate "1909.02.15"]
+[Round "19"]
+[Result "1-0"]
+[White "Emanuel Lasker"]
+[Black "Richard Teichmann"]
+[ECO "C86"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "54"]
+
+1.e4 {Notes by Emanuel Lasker} e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Be7 6.Qe2 b5 7.Bb3 d6 8.c3 O-O 9.d4 exd4 10.cxd4 Bg4
+11.Rd1 d5 {White was threatening e5, followed by Bd5.} 12.e5
+Ne4 13.Nc3 Nxc3 14.bxc3 f6 {Premature. He should have played
+...Na5 first.} 15.h3 Bh5 {Obviously ...Be6 was ruled out by 16
+exf6 Rxf6 17 Bg5 Rg6 18 Bc2. As for ...Bf5 16 g4! this was
+just as unpleasant for Black as ...Bc8 16 a4 with numerous
+threats, such as Qa2.} 16.g4 Bf7 17.e6 {This had to be very
+carefully considered. It was risky to give Black his d6-square
+and to face the possibility of the advanced pawn being cut off
+from his fellows by ...f5.} Bg6 18.Nh4 Na5 19.Nxg6 {This
+exchange was necessary since, after 19 Bc2 Bxc2 20 Qxc2 Nc4 21
+f4 Nd6 22 f5 Ne4 White would have bottled up his lines of
+attack.} hxg6 20.Bc2 f5 21.Kh1 Bd6 22.gxf5 Qh4 23.Qf3 gxf5
+24.Rg1 {Threatening Bg5, as well as 25 Bxf5 Qf6 26 Qg2.} f4
+25.Rg4 Qh6 26.e7 Bxe7 27.Bxf4 Qe6 {Seeing that 28. Rxg7+ would
+be immediately decisive Black resigned even before White had
+moved.} 1-0

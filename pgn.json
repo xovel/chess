@@ -1,6 +1,78 @@
 {
-  "update": "2018-12-15",
+  "update": "2018-12-24",
   "list": [
+    {
+      "date": "2018-12-24",
+      "year": "1909",
+      "players": "Lasker vs Teichmann",
+      "link": "/perl/chessgame?gid=1141610",
+      "id": "1141610",
+      "note": "150th Birthday Anniversary"
+    },
+    {
+      "date": "2018-12-23",
+      "year": "1909",
+      "players": "S M Globus vs S Von Freymann",
+      "link": "/perl/chessgame?gid=1295793",
+      "id": "1295793",
+      "note": "Globus Warming"
+    },
+    {
+      "date": "2018-12-22",
+      "year": "2011",
+      "players": "Bologan vs J Smeets",
+      "link": "/perl/chessgame?gid=1643418",
+      "id": "1643418",
+      "note": "Bologan&apos;s Run"
+    },
+    {
+      "date": "2018-12-21",
+      "year": "1991",
+      "players": "Bronstein vs Fritz",
+      "link": "/perl/chessgame?gid=1238084",
+      "id": "1238084",
+      "note": "When The Chips Are Down"
+    },
+    {
+      "date": "2018-12-20",
+      "year": "1879",
+      "players": "Englisch vs F Riemann",
+      "link": "/perl/chessgame?gid=1286040",
+      "id": "1286040",
+      "note": "The Patient Englisch"
+    },
+    {
+      "date": "2018-12-19",
+      "year": "2010",
+      "players": "D Andreikin vs Karjakin",
+      "link": "/perl/chessgame?gid=1599669",
+      "id": "1599669",
+      "note": "The English Impatient"
+    },
+    {
+      "date": "2018-12-18",
+      "year": "1940",
+      "players": "Boleslavsky vs Polyak",
+      "link": "/perl/chessgame?gid=1591615",
+      "id": "1591615",
+      "note": "Poly Gone"
+    },
+    {
+      "date": "2018-12-17",
+      "year": "1911",
+      "players": "Duras vs E Cohn",
+      "link": "/perl/chessgame?gid=1000634",
+      "id": "1000634",
+      "note": "Lifestyles of the Rich and Famous"
+    },
+    {
+      "date": "2018-12-16",
+      "year": "1931",
+      "players": "Capablanca vs Newark Evening News",
+      "link": "/perl/chessgame?gid=1793354",
+      "id": "1793354",
+      "note": "Fake News"
+    },
     {
       "date": "2018-12-15",
       "year": "1983",

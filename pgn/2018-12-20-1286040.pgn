@@ -1,0 +1,26 @@
+[Event "Leipzig"]
+[Site "Leipzig GER"]
+[Date "1879.07.15"]
+[EventDate "1879.07.14"]
+[Round "4"]
+[Result "1-0"]
+[White "Berthold Englisch"]
+[Black "Fritz Riemann"]
+[ECO "C65"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "139"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 d6 5.Nc3 Bd7 6.Bg5 Be7 7.O-O
+h6 8.Bxf6 Bxf6 9.Nd5 Nb8 10.Bxd7+ Nxd7 11.c3 c6 12.Ne3 g6
+13.Nd2 Bg5 14.g3 Bxe3 15.fxe3 Qe7 16.Rf3 O-O 17.Qe2 Qe6 18.Rf2
+Rae8 19.Raf1 Re7 20.b3 Kh7 21.c4 f5 22.exf5 gxf5 23.Qh5 Ref7
+24.Nf3 Qg6 25.Qxg6+ Kxg6 26.Nh4+ Kg5 27.d4 e4 28.Ng2 Re8 29.g4
+Kxg4 30.Nf4 Kg5 31.Rg2+ Kf6 32.Rg6+ Ke7 33.Re6+ Kd8 34.Rxd6
+Rg8+ 35.Kf2 Rf6 36.Rxf6 Nxf6 37.h3 Ke7 38.Rd1 Kd7 39.Rg1 Rg5
+40.Rb1 Rg8 41.b4 a6 42.a4 Kd6 43.b5 axb5 44.c5+ Kc7 45.axb5
+Ra8 46.b6+ Kd7 47.Rg1 Rg8 48.Rxg8 Nxg8 49.Ne2 Nf6 50.Nc1 Nd5
+51.Nb3 Kc8 52.Na5 Nf6 53.Nc4 Ne8 54.Kg3 Kd7 55.Na5 Kc8 56.Kf4
+Ng7 57.Nc4 Kd7 58.Ke5 Ke7 59.Nd6 f4 60.Kxf4 Ne6+ 61.Kxe4 Ng5+
+62.Kf5 Nxh3 63.Nxb7 Ng5 64.Nd6 Kd7 65.Kg6 Ne6 66.Kxh6 Nd8
+67.Kg6 Ne6 68.Kf6 Nd8 69.b7 Kc7 70.Ke7 1-0
