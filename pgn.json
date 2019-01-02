@@ -1,6 +1,78 @@
 {
-  "update": "2018-12-24",
+  "update": "2019-01-02",
   "list": [
+    {
+      "date": "2019-01-02",
+      "year": "1989",
+      "players": "Kasparov vs Timman",
+      "link": "/perl/chessgame?gid=1070427",
+      "id": "1070427",
+      "note": "Keep Calmin&apos; Garry, Jan!"
+    },
+    {
+      "date": "2019-01-01",
+      "year": "1860",
+      "players": "Steinitz vs Lang",
+      "link": "/perl/chessgame?gid=1228229",
+      "id": "1228229",
+      "note": "Old Lang, Resign!"
+    },
+    {
+      "date": "2018-12-31",
+      "year": "1909",
+      "players": "Marshall vs Capablanca",
+      "link": "/perl/chessgame?gid=1094816",
+      "id": "1094816",
+      "note": "Marshall Law"
+    },
+    {
+      "date": "2018-12-30",
+      "year": "1990",
+      "players": "Anand vs Fedorowicz",
+      "link": "/perl/chessgame?gid=1018119",
+      "id": "1018119",
+      "note": "Fed Up"
+    },
+    {
+      "date": "2018-12-29",
+      "year": "1977",
+      "players": "H Bohm vs A Kochyev",
+      "link": "/perl/chessgame?gid=1443872",
+      "id": "1443872",
+      "note": "Bohm Dropped"
+    },
+    {
+      "date": "2018-12-28",
+      "year": "2018",
+      "players": "Yifan Hou vs Karpov",
+      "link": "/perl/chessgame?gid=1911858",
+      "id": "1911858",
+      "note": "The Queen&apos;s English"
+    },
+    {
+      "date": "2018-12-27",
+      "year": "1987",
+      "players": "Gulko vs Timman",
+      "link": "/perl/chessgame?gid=1053790",
+      "id": "1053790",
+      "note": "The Ballad of Jan and Gulko"
+    },
+    {
+      "date": "2018-12-26",
+      "year": "2016",
+      "players": "Mohamed Ali Dima vs M R Venkatesh",
+      "link": "/perl/chessgame?gid=1857347",
+      "id": "1857347",
+      "note": "A Dima Dozen"
+    },
+    {
+      "date": "2018-12-25",
+      "year": "2017",
+      "players": "Carlsen vs Grischuk",
+      "link": "/perl/chessgame?gid=1904859",
+      "id": "1904859",
+      "note": "How the Grischuk Stole Christmas"
+    },
     {
       "date": "2018-12-24",
       "year": "1909",
