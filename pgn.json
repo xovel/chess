@@ -1,6 +1,158 @@
 {
-  "update": "2019-01-02",
+  "update": "2019-01-21",
   "list": [
+    {
+      "date": "2019-01-21",
+      "year": "2014",
+      "players": "Rozentalis vs B Bok",
+      "link": "/perl/chessgame?gid=1753025",
+      "id": "1753025",
+      "note": "Bok Towers"
+    },
+    {
+      "date": "2019-01-20",
+      "year": "2015",
+      "players": "J L Watson vs B Bok",
+      "link": "/perl/chessgame?gid=1783802",
+      "id": "1783802",
+      "note": "Doctoral, my dear Watson!"
+    },
+    {
+      "date": "2019-01-19",
+      "year": "1900",
+      "players": "Lasker vs Pillsbury",
+      "link": "/perl/chessgame?gid=1000113",
+      "id": "1000113",
+      "note": "We&apos;ll Always Have Paris"
+    },
+    {
+      "date": "2019-01-18",
+      "year": "1977",
+      "players": "G McCarthy vs M Kennefick",
+      "link": "/perl/chessgame?gid=1496237",
+      "id": "1496237",
+      "note": "Domdaniel: Beloved Writer, Arts Journalist, and Chess Mate"
+    },
+    {
+      "date": "2019-01-17",
+      "year": "2008",
+      "players": "E Ghaem Maghami vs B Roselli Mailhe",
+      "link": "/perl/chessgame?gid=1522700",
+      "id": "1522700",
+      "note": "Ghaem On"
+    },
+    {
+      "date": "2019-01-16",
+      "year": "1977",
+      "players": "Korchnoi vs J Silver",
+      "link": "/perl/chessgame?gid=1082450",
+      "id": "1082450",
+      "note": "Korchannoyed"
+    },
+    {
+      "date": "2019-01-15",
+      "year": "1967",
+      "players": "J C Meyer vs A Ruehmann",
+      "link": "/perl/chessgame?gid=1451338",
+      "id": "1451338",
+      "note": "Fall of the Ruehmann Empire"
+    },
+    {
+      "date": "2019-01-14",
+      "year": "2016",
+      "players": "Yifan Hou vs Navara",
+      "link": "/perl/chessgame?gid=1813631",
+      "id": "1813631",
+      "note": "Hou Knows Where the Knight Goes"
+    },
+    {
+      "date": "2019-01-13",
+      "year": "1986",
+      "players": "Seirawan vs Kasparov",
+      "link": "/perl/chessgame?gid=1070204",
+      "id": "1070204",
+      "note": "Yasser, I Can Boogie"
+    },
+    {
+      "date": "2019-01-12",
+      "year": "1894",
+      "players": "Lasker vs Steinitz",
+      "link": "/perl/chessgame?gid=1132670",
+      "id": "1132670",
+      "note": "Happily Ever Lasker"
+    },
+    {
+      "date": "2019-01-11",
+      "year": "1949",
+      "players": "J Therien vs E Hoehn",
+      "link": "/perl/chessgame?gid=1366628",
+      "id": "1366628",
+      "note": "And I Thunder, Still I Thunder &quot;Who&apos;ll stop Therien?!&quot;"
+    },
+    {
+      "date": "2019-01-10",
+      "year": "1898",
+      "players": "Lasker vs M Rudge",
+      "link": "/perl/chessgame?gid=1912495",
+      "id": "1912495",
+      "note": "Rudge Match"
+    },
+    {
+      "date": "2019-01-09",
+      "year": "2012",
+      "players": "Tiviakov vs Anand",
+      "link": "/perl/chessgame?gid=1664762",
+      "id": "1664762",
+      "note": "The Sun Always Shines on Tivi"
+    },
+    {
+      "date": "2019-01-08",
+      "year": "1868",
+      "players": "W Potter vs Matthews",
+      "link": "/perl/chessgame?gid=1336986",
+      "id": "1336986",
+      "note": "I Solemnly Swear That I&apos;m Up to No Good"
+    },
+    {
+      "date": "2019-01-07",
+      "year": "1974",
+      "players": "Hort vs O Sarapu",
+      "link": "/perl/chessgame?gid=1547143",
+      "id": "1547143",
+      "note": "A Vlast Right-Wing Conspiracy"
+    },
+    {
+      "date": "2019-01-06",
+      "year": "2018",
+      "players": "C Woojin Yoo vs L Cernousek",
+      "link": "/perl/chessgame?gid=1910699",
+      "id": "1910699",
+      "note": "Yoo Got That Right"
+    },
+    {
+      "date": "2019-01-05",
+      "year": "2005",
+      "players": "J M Bellon Lopez vs S Marder",
+      "link": "/perl/chessgame?gid=1384227",
+      "id": "1384227",
+      "note": "Bloody Marder"
+    },
+    {
+      "date": "2019-01-04",
+      "year": "1945",
+      "players": "Wade vs A G Shoebridge",
+      "link": "/perl/chessgame?gid=1580183",
+      "id": "1580183",
+      "note": "The Shoe Doesn&apos;t Fit"
+    },
+    {
+      "date": "2019-01-03",
+      "year": "2005",
+      "players": "R Aloma Vidal vs I Cheparinov",
+      "link": "/perl/chessgame?gid=1334424",
+      "id": "1334424",
+      "note": "Gore Vidal"
+    },
     {
       "date": "2019-01-02",
       "year": "1989",
