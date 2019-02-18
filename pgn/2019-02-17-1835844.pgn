@@ -1,0 +1,21 @@
+[Event "Chess Olympiad"]
+[Site "Baku AZE"]
+[Date "2016.09.13"]
+[EventDate "2016.09.02"]
+[Round "11.40"]
+[Result "0-1"]
+[White "Yasas Lamawansa"]
+[Black "Benjamin Foo"]
+[ECO "A64"]
+[WhiteElo "2052"]
+[BlackElo "2233"]
+[PlyCount "72"]
+
+1. d4 Nf6 2. c4 e6 3. g3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6
+7. Bg2 Bg7 8. Nf3 O-O 9. O-O Re8 10. Nd2 a6 11. a4 Nbd7 12. h3
+Rb8 13. Nc4 Ne5 14. Na3 Nh5 15. Kh2 f5 16. f4 Nf7 17. Re1 Bd7
+18. Qd3 g5 19. Qf3 g4 20. Qd3 b5 21. axb5 axb5 22. Naxb5 c4
+23. Qxc4 Qb6 24. hxg4 Nf6 25. Na3 Rbc8 26. Qa2 Nxg4+ 27. Kh3
+Nf2+ 28. Kh2 Ng4+ 29. Kh3 Qd4 30. Bf3 Qf2 31. Rh1 Nge5 32. Nd1
+Ng5+ 33. fxg5 f4+ 34. Kh4 Qxg3+ 35. Kh5 Bg4+ 36. Bxg4 Qxg4#
+0-1
