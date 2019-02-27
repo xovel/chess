@@ -1,6 +1,70 @@
 {
-  "update": "2019-02-18",
+  "update": "2019-02-26",
   "list": [
+    {
+      "date": "2019-02-26",
+      "year": "2006",
+      "players": "A Stefanova vs N Speck",
+      "link": "/perl/chessgame?gid=1388158",
+      "id": "1388158",
+      "note": "Speck-tacle!"
+    },
+    {
+      "date": "2019-02-25",
+      "year": "2019",
+      "players": "A Giri vs S Shankland",
+      "link": "/perl/chessgame?gid=1943768",
+      "id": "1943768",
+      "note": "Tata Steal"
+    },
+    {
+      "date": "2019-02-24",
+      "year": "1913",
+      "players": "Bowie vs Lasker",
+      "link": "/perl/chessgame?gid=1380410",
+      "id": "1380410",
+      "note": "Let&apos;s Dance"
+    },
+    {
+      "date": "2019-02-23",
+      "year": "1968",
+      "players": "Lerch vs H Niedermayr",
+      "link": "/perl/chessgame?gid=1420268",
+      "id": "1420268",
+      "note": "You Rang?"
+    },
+    {
+      "date": "2019-02-22",
+      "year": "1995",
+      "players": "N Volkov vs Svidler",
+      "link": "/perl/chessgame?gid=1136330",
+      "id": "1136330",
+      "note": "I Smell A Rat"
+    },
+    {
+      "date": "2019-02-21",
+      "year": "2017",
+      "players": "D Forcen Esteban vs M Pena Gomez",
+      "link": "/perl/chessgame?gid=1926230",
+      "id": "1926230",
+      "note": "Forcen the Issue"
+    },
+    {
+      "date": "2019-02-20",
+      "year": "2006",
+      "players": "Aronian vs I Sokolov",
+      "link": "/perl/chessgame?gid=1388053",
+      "id": "1388053",
+      "note": "Levon Nothing To Chance"
+    },
+    {
+      "date": "2019-02-19",
+      "year": "1937",
+      "players": "V Berger vs Alekhine",
+      "link": "/perl/chessgame?gid=1013265",
+      "id": "1013265",
+      "note": "Berger King"
+    },
     {
       "date": "2019-02-18",
       "year": "2003",
