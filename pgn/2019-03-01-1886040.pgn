@@ -1,0 +1,29 @@
+[Event "World Cup"]
+[Site "Tbilisi GEO"]
+[Date "2017.09.21"]
+[EventDate "2017.09.03"]
+[Round "6.9"]
+[Result "1-0"]
+[White "Levon Aronian"]
+[Black "Maxime Vachier-Lagrave"]
+[ECO "A48"]
+[WhiteElo "2802"]
+[BlackElo "2804"]
+[PlyCount "155"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. Nc3 d5 5. Nb5 Na6 6. e3 O-O
+7. h3 c6 8. Nc3 Nc7 9. Be2 b6 10. O-O Bb7 11. Bh2 c5 12. a4 a5
+13. Ne5 Nd7 14. Nxd7 Qxd7 15. Bg4 e6 16. Qd2 Bc6 17. b3 Rfc8
+18. Ne2 cxd4 19. Nxd4 b5 20. axb5 Nxb5 21. c3 Nxd4 22. exd4 a4
+23. b4 Bb5 24. Rfc1 a3 25. Be2 Qc6 26. Bxb5 Qxb5 27. Bd6 Rc6
+28. Bc5 Rca6 29. Ra2 Qc4 30. Qe2 Qxe2 31. Rxe2 a2 32. Ra1 Ra3
+33. Rc2 Bf8 34. Kf1 e5 35. Bxf8 Kxf8 36. dxe5 Ke7 37. Ke2 Ke6
+38. f4 d4 39. cxd4 Kd5 40. Rd2 Kc4 41. d5 Kxb4 42. d6 Kb3
+43. Kf3 Kc3 44. Rf2 h5 45. Kg3 Kd4+ 46. Kh4 Kd5 47. Kg5 Ke6
+48. g4 hxg4 49. hxg4 R3a5 50. Re2 f6+ 51. Kxg6 Rg8+ 52. Kh6
+Rxg4 53. f5+ Kxf5 54. e6 Ra8 55. Rf1+ Rf4 56. Rxf4+ Kxf4
+57. Rxa2 Rxa2 58. e7 Rd2 59. e8=Q Rxd6 60. Qe7 Rd4 61. Qxf6+
+Ke3 62. Kg5 Rd5+ 63. Kg4 Rd4+ 64. Kg3 Rd3 65. Qe5+ Kd2+
+66. Kf2 Kc2 67. Qc5+ Rc3 68. Qf5+ Kb2 69. Ke2 Rc2+ 70. Kd3
+Rc3+ 71. Kd2 Rb3 72. Qe5+ Kb1 73. Qd4 Rh3 74. Qb6+ Ka1
+75. Qf6+ Ka2 76. Qe6+ Rb3 77. Kc2 Ka1 78. Qa6+ 1-0

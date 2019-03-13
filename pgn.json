@@ -1,6 +1,126 @@
 {
-  "update": "2019-02-26",
+  "update": "2019-03-13",
   "list": [
+    {
+      "date": "2019-03-13",
+      "year": "1915",
+      "players": "Capablanca vs S M Ballou",
+      "link": "/perl/chessgame?gid=1789606",
+      "id": "1789606",
+      "note": "The Ballad of Capa - Ballou"
+    },
+    {
+      "date": "2019-03-12",
+      "year": "2000",
+      "players": "M Jelic vs J Copie",
+      "link": "/perl/chessgame?gid=1365006",
+      "id": "1365006",
+      "note": "Hard Copie"
+    },
+    {
+      "date": "2019-03-11",
+      "year": "2015",
+      "players": "M Lubbe vs L Stoeri",
+      "link": "/perl/chessgame?gid=1808764",
+      "id": "1808764",
+      "note": "Sad Stoeri"
+    },
+    {
+      "date": "2019-03-10",
+      "year": "2006",
+      "players": "Kramnik vs Topalov",
+      "link": "/perl/chessgame?gid=1431697",
+      "id": "1431697",
+      "note": "And Then There Was One"
+    },
+    {
+      "date": "2019-03-09",
+      "year": "2006",
+      "players": "I Nepomniachtchi vs D Sharma",
+      "link": "/perl/chessgame?gid=1438975",
+      "id": "1438975",
+      "note": "Please Don&apos;t Squeeze D Sharma"
+    },
+    {
+      "date": "2019-03-08",
+      "year": "1982",
+      "players": "K Spraggett vs P Lake",
+      "link": "/perl/chessgame?gid=1131157",
+      "id": "1131157",
+      "note": "Grate Lake"
+    },
+    {
+      "date": "2019-03-07",
+      "year": "1974",
+      "players": "Tal vs Myagmarsuren",
+      "link": "/perl/chessgame?gid=1100751",
+      "id": "1100751",
+      "note": "Capi-Tal Punishment"
+    },
+    {
+      "date": "2019-03-06",
+      "year": "2017",
+      "players": "J P Gomez vs To Nhat Minh",
+      "link": "/perl/chessgame?gid=1864756",
+      "id": "1864756",
+      "note": "It&apos;s Nhat Minh To Be"
+    },
+    {
+      "date": "2019-03-05",
+      "year": "2012",
+      "players": "Carlsen vs Radjabov",
+      "link": "/perl/chessgame?gid=1671724",
+      "id": "1671724",
+      "note": "Who Knows Where the Teim Goes?"
+    },
+    {
+      "date": "2019-03-04",
+      "year": "1889",
+      "players": "Lipschutz vs Bird",
+      "link": "/perl/chessgame?gid=1002176",
+      "id": "1002176",
+      "note": "Bird On A Wire"
+    },
+    {
+      "date": "2019-03-03",
+      "year": "2018",
+      "players": "Mamedyarov vs Carlsen",
+      "link": "/perl/chessgame?gid=1926282",
+      "id": "1926282",
+      "note": "State of Shakh"
+    },
+    {
+      "date": "2019-03-02",
+      "year": "2001",
+      "players": "Ftacnik vs R Sand",
+      "link": "/perl/chessgame?gid=1220229",
+      "id": "1220229",
+      "note": "Pound Sand"
+    },
+    {
+      "date": "2019-03-01",
+      "year": "2017",
+      "players": "Aronian vs M Vachier-Lagrave",
+      "link": "/perl/chessgame?gid=1886040",
+      "id": "1886040",
+      "note": "My Cup Runneth Overtime"
+    },
+    {
+      "date": "2019-02-28",
+      "year": "2005",
+      "players": "D Szoen vs Fedorov",
+      "link": "/perl/chessgame?gid=1342911",
+      "id": "1342911",
+      "note": "Danger, Szoen"
+    },
+    {
+      "date": "2019-02-27",
+      "year": "1914",
+      "players": "Capablanca vs Blackburne",
+      "link": "/perl/chessgame?gid=1029517",
+      "id": "1029517",
+      "note": "Four-and-twenty: Black&apos;s Bird, Baked on f5"
+    },
     {
       "date": "2019-02-26",
       "year": "2006",
