@@ -1,6 +1,102 @@
 {
-  "update": "2019-03-13",
+  "update": "2019-03-25",
   "list": [
+    {
+      "date": "2019-03-25",
+      "year": "2018",
+      "players": "T Hillarp Persson vs T Laurusas",
+      "link": "/perl/chessgame?gid=1929825",
+      "id": "1929825",
+      "note": "Persson of the Year"
+    },
+    {
+      "date": "2019-03-24",
+      "year": "1987",
+      "players": "Wolff vs I Sokolov",
+      "link": "/perl/chessgame?gid=1335276",
+      "id": "1335276",
+      "note": "Wolff Blitzer"
+    },
+    {
+      "date": "2019-03-23",
+      "year": "2017",
+      "players": "B Moon vs D Aaron",
+      "link": "/perl/chessgame?gid=1875181",
+      "id": "1875181",
+      "note": "Harvest Moon"
+    },
+    {
+      "date": "2019-03-22",
+      "year": "1976",
+      "players": "K Hamada vs Paul Yerbury",
+      "link": "/perl/chessgame?gid=1925584",
+      "id": "1925584",
+      "note": "Yerbury Welcome"
+    },
+    {
+      "date": "2019-03-21",
+      "year": "2012",
+      "players": "J Pitcher vs R Bates",
+      "link": "/perl/chessgame?gid=1697392",
+      "id": "1697392",
+      "note": "Pitcher Perfect"
+    },
+    {
+      "date": "2019-03-20",
+      "year": "1976",
+      "players": "Wai Shui Kan vs A Gomez Abad",
+      "link": "/perl/chessgame?gid=1924678",
+      "id": "1924678",
+      "note": "Do It Wai Shui Kan!"
+    },
+    {
+      "date": "2019-03-19",
+      "year": "2011",
+      "players": "P Peelen vs J van Foreest",
+      "link": "/perl/chessgame?gid=1643920",
+      "id": "1643920",
+      "note": "Peelen Good"
+    },
+    {
+      "date": "2019-03-18",
+      "year": "2019",
+      "players": "J K Duda vs Navara",
+      "link": "/perl/chessgame?gid=1946586",
+      "id": "1946586",
+      "note": "Hey, That Was Navara Nice"
+    },
+    {
+      "date": "2019-03-17",
+      "year": "2015",
+      "players": "C Brewer vs F Rayner",
+      "link": "/perl/chessgame?gid=1781546",
+      "id": "1781546",
+      "note": "Rayner Shines"
+    },
+    {
+      "date": "2019-03-16",
+      "year": "1975",
+      "players": "L Day vs Benko",
+      "link": "/perl/chessgame?gid=1037462",
+      "id": "1037462",
+      "note": "Dog Day Afternoon"
+    },
+    {
+      "date": "2019-03-15",
+      "year": "2007",
+      "players": "T Hillarp Persson vs H Grooten",
+      "link": "/perl/chessgame?gid=1476981",
+      "id": "1476981",
+      "note": "Missing Persson"
+    },
+    {
+      "date": "2019-03-14",
+      "year": "2019",
+      "players": "J Werle vs G Jones",
+      "link": "/perl/chessgame?gid=1944399",
+      "id": "1944399",
+      "note": "Sir Gawain and the Black Knight"
+    },
     {
       "date": "2019-03-13",
       "year": "1915",
