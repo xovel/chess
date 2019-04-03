@@ -1,6 +1,94 @@
 {
-  "update": "2019-03-25",
+  "update": "2019-04-03",
   "list": [
+    {
+      "date": "2019-04-03",
+      "year": "2009",
+      "players": "D J Ledger vs T Gavriel",
+      "link": "/perl/chessgame?gid=1825137",
+      "id": "1825137",
+      "note": "Ledger is Out of Balance"
+    },
+    {
+      "date": "2019-04-02",
+      "year": "1986",
+      "players": "L Kalvach vs M Drtina",
+      "link": "/perl/chessgame?gid=1225343",
+      "id": "1225343",
+      "note": "Lolli Popped"
+    },
+    {
+      "date": "2019-04-01",
+      "year": "2019",
+      "players": "A Zatonskih vs Jennifer Yu",
+      "link": "/perl/chessgame?gid=1951555",
+      "id": "1951555",
+      "note": "Anna - R Yu, OK?"
+    },
+    {
+      "date": "2019-03-31",
+      "year": "1885",
+      "players": "M Bier vs Blackburne",
+      "link": "/perl/chessgame?gid=1029078",
+      "id": "1029078",
+      "note": "Bier Guts"
+    },
+    {
+      "date": "2019-03-30",
+      "year": "2017",
+      "players": "T Gelashvili vs A Liang",
+      "link": "/perl/chessgame?gid=1876299",
+      "id": "1876299",
+      "note": "Boy Awonder"
+    },
+    {
+      "date": "2019-03-29",
+      "year": "1898",
+      "players": "Woodrow Wilson vs S A Langleben",
+      "link": "/perl/chessgame?gid=1670882",
+      "id": "1670882",
+      "note": "Fail To The Chief"
+    },
+    {
+      "date": "2019-03-28",
+      "year": "1937",
+      "players": "Gilg vs Opocensky",
+      "link": "/perl/chessgame?gid=1551949",
+      "id": "1551949",
+      "note": "Gilg A Mess"
+    },
+    {
+      "date": "2019-03-27",
+      "year": "1915",
+      "players": "E B Edgar vs T W Lott",
+      "link": "/perl/chessgame?gid=1557883",
+      "id": "1557883",
+      "note": "Whole Lotta Saccing Goin On"
+    },
+    {
+      "date": "2019-03-26",
+      "year": "2017",
+      "players": "K Toma vs S Williams",
+      "link": "/perl/chessgame?gid=1883488",
+      "id": "1883488",
+      "note": "That&apos;s My Storey and I&apos;m Sticking to It"
+    },
+    {
+      "date": "2019-03-26",
+      "year": "2017",
+      "players": "C Storey vs Jonah B Willow",
+      "link": "/perl/chessgame?gid=1883418",
+      "id": "1883418",
+      "note": "That&apos;s My Storey and I&apos;m Sticking to It"
+    },
+    {
+      "date": "2019-03-26",
+      "year": "1954",
+      "players": "Matulovic vs G Del Pezzo",
+      "link": "/perl/chessgame?gid=1285106",
+      "id": "1285106",
+      "note": "Pezzo Dispenser"
+    },
     {
       "date": "2019-03-25",
       "year": "2018",
