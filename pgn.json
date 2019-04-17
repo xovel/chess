@@ -1,6 +1,126 @@
 {
-  "update": "2019-04-03",
+  "update": "2019-04-17",
   "list": [
+    {
+      "date": "2019-04-17",
+      "year": "2009",
+      "players": "P J Sowray vs T Gavriel",
+      "link": "/perl/chessgame?gid=1552845",
+      "id": "1552845",
+      "note": "Better Safe Than Sowray"
+    },
+    {
+      "date": "2019-04-17",
+      "year": "1988",
+      "players": "Karpov vs Timman",
+      "link": "/perl/chessgame?gid=1068611",
+      "id": "1068611",
+      "note": "A Pin, But Not a Safety Pin"
+    },
+    {
+      "date": "2019-04-16",
+      "year": "2019",
+      "players": "J Gustafsson vs Duong The Anh",
+      "link": "/perl/chessgame?gid=1953047",
+      "id": "1953047",
+      "note": "One Night in Bangkok"
+    },
+    {
+      "date": "2019-04-15",
+      "year": "1999",
+      "players": "I Krush vs Barsov",
+      "link": "/perl/chessgame?gid=1352855",
+      "id": "1352855",
+      "note": "Good Knight, Irina"
+    },
+    {
+      "date": "2019-04-14",
+      "year": "2018",
+      "players": "S Agdestein vs K Holm",
+      "link": "/perl/chessgame?gid=1937069",
+      "id": "1937069",
+      "note": "It&apos;s Time to Go Holm Now"
+    },
+    {
+      "date": "2019-04-13",
+      "year": "1972",
+      "players": "Spassky vs Fischer",
+      "link": "/perl/chessgame?gid=1044722",
+      "id": "1044722",
+      "note": "Bish, You Were Here"
+    },
+    {
+      "date": "2019-04-12",
+      "year": "1901",
+      "players": "Capablanca vs J A Blanco",
+      "link": "/perl/chessgame?gid=1862696",
+      "id": "1862696",
+      "note": "White Out"
+    },
+    {
+      "date": "2019-04-11",
+      "year": "2007",
+      "players": "Carlsen vs Radjabov",
+      "link": "/perl/chessgame?gid=1468279",
+      "id": "1468279",
+      "note": "Biel-eive It or Not"
+    },
+    {
+      "date": "2019-04-10",
+      "year": "1977",
+      "players": "P Paris vs M Wong",
+      "link": "/perl/chessgame?gid=1477862",
+      "id": "1477862",
+      "note": "What Could Go Wong?"
+    },
+    {
+      "date": "2019-04-09",
+      "year": "2011",
+      "players": "D Frick vs V Gunina",
+      "link": "/perl/chessgame?gid=1652146",
+      "id": "1652146",
+      "note": "Don&apos;t Cry For Me Valentina"
+    },
+    {
+      "date": "2019-04-08",
+      "year": "1929",
+      "players": "S A Mudrev vs Botvinnik",
+      "link": "/perl/chessgame?gid=1031716",
+      "id": "1031716",
+      "note": "Stick In The Mudrev"
+    },
+    {
+      "date": "2019-04-07",
+      "year": "2017",
+      "players": "Ken Ronny Schouten vs C B Jacobsen",
+      "link": "/perl/chessgame?gid=1882177",
+      "id": "1882177",
+      "note": "It&apos;s All Over But the Schouten"
+    },
+    {
+      "date": "2019-04-06",
+      "year": "1969",
+      "players": "Benko vs Lombardy",
+      "link": "/perl/chessgame?gid=1092816",
+      "id": "1092816",
+      "note": "Father Knows Best"
+    },
+    {
+      "date": "2019-04-05",
+      "year": "2017",
+      "players": "I Barreto vs Darcy Lima",
+      "link": "/perl/chessgame?gid=1894934",
+      "id": "1894934",
+      "note": "Beaned Barreto"
+    },
+    {
+      "date": "2019-04-04",
+      "year": "2019",
+      "players": "Anand vs Mamedyarov",
+      "link": "/perl/chessgame?gid=1952383",
+      "id": "1952383",
+      "note": "The Road Goes Ever On, Anand"
+    },
     {
       "date": "2019-04-03",
       "year": "2009",
