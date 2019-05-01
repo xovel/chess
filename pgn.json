@@ -1,6 +1,118 @@
 {
-  "update": "2019-04-17",
+  "update": "2019-05-01",
   "list": [
+    {
+      "date": "2019-05-01",
+      "year": "2014",
+      "players": "A Korobov vs K Alekseenko",
+      "link": "/perl/chessgame?gid=1747808",
+      "id": "1747808",
+      "note": "License to Kirill"
+    },
+    {
+      "date": "2019-04-30",
+      "year": "2017",
+      "players": "J Krassowizkij vs M Kill",
+      "link": "/perl/chessgame?gid=1896611",
+      "id": "1896611",
+      "note": "Kill or Be Killed"
+    },
+    {
+      "date": "2019-04-29",
+      "year": "1912",
+      "players": "H B Uber vs H G Cole",
+      "link": "/perl/chessgame?gid=1742731",
+      "id": "1742731",
+      "note": "Bumpy Ride"
+    },
+    {
+      "date": "2019-04-28",
+      "year": "2001",
+      "players": "P Dittmar vs N Ferrari",
+      "link": "/perl/chessgame?gid=1191810",
+      "id": "1191810",
+      "note": "Read Ferrari"
+    },
+    {
+      "date": "2019-04-27",
+      "year": "2003",
+      "players": "M R Carr vs W J Aramil",
+      "link": "/perl/chessgame?gid=1380707",
+      "id": "1380707",
+      "note": "Baby, You Can Drive Mike Carr"
+    },
+    {
+      "date": "2019-04-26",
+      "year": "1990",
+      "players": "A Neverov vs Kramnik",
+      "link": "/perl/chessgame?gid=1085592",
+      "id": "1085592",
+      "note": "Now or Neverov"
+    },
+    {
+      "date": "2019-04-25",
+      "year": "2016",
+      "players": "Carlsen vs N Grandelius",
+      "link": "/perl/chessgame?gid=1819862",
+      "id": "1819862",
+      "note": "Nils in the Coffin"
+    },
+    {
+      "date": "2019-04-24",
+      "year": "1994",
+      "players": "Gelfand vs Karpov",
+      "link": "/perl/chessgame?gid=1048311",
+      "id": "1048311",
+      "note": "Cooking The Rooks"
+    },
+    {
+      "date": "2019-04-23",
+      "year": "2008",
+      "players": "Anand vs Kramnik",
+      "link": "/perl/chessgame?gid=1511876",
+      "id": "1511876",
+      "note": "All Good Things Come To Anand"
+    },
+    {
+      "date": "2019-04-22",
+      "year": "2010",
+      "players": "C Mabe vs M Kekelidze",
+      "link": "/perl/chessgame?gid=1586654",
+      "id": "1586654",
+      "note": "Call Me Mabe"
+    },
+    {
+      "date": "2019-04-21",
+      "year": "1994",
+      "players": "Bareev vs J Magem Badals",
+      "link": "/perl/chessgame?gid=1093216",
+      "id": "1093216",
+      "note": "Choose Your Badals Wisely"
+    },
+    {
+      "date": "2019-04-20",
+      "year": "2002",
+      "players": "Carlsen vs S Nyysti",
+      "link": "/perl/chessgame?gid=1325087",
+      "id": "1325087",
+      "note": "Nyysti Shock"
+    },
+    {
+      "date": "2019-04-19",
+      "year": "1955",
+      "players": "Keres vs Lilienthal",
+      "link": "/perl/chessgame?gid=1072578",
+      "id": "1072578",
+      "note": "My Dinner Was Andre"
+    },
+    {
+      "date": "2019-04-18",
+      "year": "1991",
+      "players": "Blatny vs M Stangl",
+      "link": "/perl/chessgame?gid=1029924",
+      "id": "1029924",
+      "note": "Stangl Hold"
+    },
     {
       "date": "2019-04-17",
       "year": "2009",
