@@ -1,6 +1,70 @@
 {
-  "update": "2019-05-01",
+  "update": "2019-05-09",
   "list": [
+    {
+      "date": "2019-05-09",
+      "year": "2015",
+      "players": "Radjabov vs R Wojtaszek",
+      "link": "/perl/chessgame?gid=1782748",
+      "id": "1782748",
+      "note": "Totally Rad"
+    },
+    {
+      "date": "2019-05-08",
+      "year": "2000",
+      "players": "Anand vs M Tissir",
+      "link": "/perl/chessgame?gid=1258842",
+      "id": "1258842",
+      "note": "Tissir, Without Love"
+    },
+    {
+      "date": "2019-05-07",
+      "year": "1983",
+      "players": "Nunn vs S Bouaziz",
+      "link": "/perl/chessgame?gid=1103231",
+      "id": "1103231",
+      "note": "Your Chances of Winning Are..."
+    },
+    {
+      "date": "2019-05-06",
+      "year": "2003",
+      "players": "S Matveeva vs Skripchenko",
+      "link": "/perl/chessgame?gid=1441446",
+      "id": "1441446",
+      "note": "The Scenic Rout"
+    },
+    {
+      "date": "2019-05-05",
+      "year": "2018",
+      "players": "Caruana vs Aronian",
+      "link": "/perl/chessgame?gid=1916573",
+      "id": "1916573",
+      "note": "The Fab and the Furious"
+    },
+    {
+      "date": "2019-05-04",
+      "year": "2018",
+      "players": "G Barrenechea Bahamonde vs D Kollars",
+      "link": "/perl/chessgame?gid=1909163",
+      "id": "1909163",
+      "note": "A Fistful of Kollars"
+    },
+    {
+      "date": "2019-05-03",
+      "year": "1964",
+      "players": "Fischer vs C Powell",
+      "link": "/perl/chessgame?gid=1647184",
+      "id": "1647184",
+      "note": "Powell Surge"
+    },
+    {
+      "date": "2019-05-02",
+      "year": "2018",
+      "players": "Aronian vs Caruana",
+      "link": "/perl/chessgame?gid=1915367",
+      "id": "1915367",
+      "note": "Lev&apos;s Labor&apos;s Lost"
+    },
     {
       "date": "2019-05-01",
       "year": "2014",
