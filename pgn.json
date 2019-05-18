@@ -1,6 +1,78 @@
 {
-  "update": "2019-05-09",
+  "update": "2019-05-18",
   "list": [
+    {
+      "date": "2019-05-18",
+      "year": "2019",
+      "players": "J K Duda vs W So",
+      "link": "/perl/chessgame?gid=1956843",
+      "id": "1956843",
+      "note": "Frayed So"
+    },
+    {
+      "date": "2019-05-17",
+      "year": "1936",
+      "players": "Lasker vs C H Alexander",
+      "link": "/perl/chessgame?gid=1008260",
+      "id": "1008260",
+      "note": "Arsenic and Old Lask"
+    },
+    {
+      "date": "2019-05-16",
+      "year": "1987",
+      "players": "G Minchev vs O Santana",
+      "link": "/perl/chessgame?gid=1269895",
+      "id": "1269895",
+      "note": "Salt and Battery"
+    },
+    {
+      "date": "2019-05-15",
+      "year": "2004",
+      "players": "Van Wely vs Morozevich",
+      "link": "/perl/chessgame?gid=1282081",
+      "id": "1282081",
+      "note": "Use the Fork, Loek"
+    },
+    {
+      "date": "2019-05-14",
+      "year": "2018",
+      "players": "G Apryshko vs G Rechlis",
+      "link": "/perl/chessgame?gid=1938985",
+      "id": "1938985",
+      "note": "Rechlis Endangerment"
+    },
+    {
+      "date": "2019-05-13",
+      "year": "1919",
+      "players": "Capablanca vs E T Jesty",
+      "link": "/perl/chessgame?gid=1778612",
+      "id": "1778612",
+      "note": "Surely You Jesty"
+    },
+    {
+      "date": "2019-05-12",
+      "year": "1980",
+      "players": "Short vs Ulf Andersson",
+      "link": "/perl/chessgame?gid=1019895",
+      "id": "1019895",
+      "note": "Dire Ulf"
+    },
+    {
+      "date": "2019-05-11",
+      "year": "1979",
+      "players": "Petrosian vs Sax",
+      "link": "/perl/chessgame?gid=1107220",
+      "id": "1107220",
+      "note": "Take It Or Leave It"
+    },
+    {
+      "date": "2019-05-10",
+      "year": "2019",
+      "players": "V Keymer vs G Meier",
+      "link": "/perl/chessgame?gid=1955101",
+      "id": "1955101",
+      "note": "No Time to Wallow in the Meier"
+    },
     {
       "date": "2019-05-09",
       "year": "2015",
