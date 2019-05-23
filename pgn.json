@@ -1,6 +1,46 @@
 {
-  "update": "2019-05-18",
+  "update": "2019-05-23",
   "list": [
+    {
+      "date": "2019-05-23",
+      "year": "1991",
+      "players": "R Storm vs Blatny",
+      "link": "/perl/chessgame?gid=1029936",
+      "id": "1029936",
+      "note": "Stormtrooper"
+    },
+    {
+      "date": "2019-05-22",
+      "year": "1931",
+      "players": "Capablanca vs Empire City Chess Club",
+      "link": "/perl/chessgame?gid=1795390",
+      "id": "1795390",
+      "note": "The Empire Strikes Back"
+    },
+    {
+      "date": "2019-05-21",
+      "year": "1966",
+      "players": "Alberto Baca vs I Kanko",
+      "link": "/perl/chessgame?gid=1530535",
+      "id": "1530535",
+      "note": "Chew Baca"
+    },
+    {
+      "date": "2019-05-20",
+      "year": "1924",
+      "players": "Alekhine vs Starr",
+      "link": "/perl/chessgame?gid=1012265",
+      "id": "1012265",
+      "note": "Death, Starr"
+    },
+    {
+      "date": "2019-05-19",
+      "year": "2001",
+      "players": "Hebden vs S Knott",
+      "link": "/perl/chessgame?gid=1210236",
+      "id": "1210236",
+      "note": "Frayed Knott"
+    },
     {
       "date": "2019-05-18",
       "year": "2019",
