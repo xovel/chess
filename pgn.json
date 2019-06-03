@@ -1,6 +1,94 @@
 {
-  "update": "2019-05-23",
+  "update": "2019-06-03",
   "list": [
+    {
+      "date": "2019-06-03",
+      "year": "1934",
+      "players": "Alekhine vs Bogoljubov",
+      "link": "/perl/chessgame?gid=1013060",
+      "id": "1013060",
+      "note": "I lose because he&apos;s Alekhine"
+    },
+    {
+      "date": "2019-06-02",
+      "year": "1952",
+      "players": "Reshevsky vs E E Book",
+      "link": "/perl/chessgame?gid=1342788",
+      "id": "1342788",
+      "note": "Book of Samuel"
+    },
+    {
+      "date": "2019-06-01",
+      "year": "2017",
+      "players": "Kramnik vs Carlsen",
+      "link": "/perl/chessgame?gid=1878004",
+      "id": "1878004",
+      "note": "Norway Out"
+    },
+    {
+      "date": "2019-05-31",
+      "year": "2017",
+      "players": "Seyed Kian Poormosavi vs S K Mousavi",
+      "link": "/perl/chessgame?gid=1875222",
+      "id": "1875222",
+      "note": "Enough Seyed"
+    },
+    {
+      "date": "2019-05-30",
+      "year": "1921",
+      "players": "Reshevsky vs A H Candee",
+      "link": "/perl/chessgame?gid=1801228",
+      "id": "1801228",
+      "note": "The Candee Man Can"
+    },
+    {
+      "date": "2019-05-29",
+      "year": "2013",
+      "players": "D Svetushkin vs A Stella",
+      "link": "/perl/chessgame?gid=1712272",
+      "id": "1712272",
+      "note": "How Stella Got Her Groove Back"
+    },
+    {
+      "date": "2019-05-28",
+      "year": "1935",
+      "players": "F Collins vs E Cordingley",
+      "link": "/perl/chessgame?gid=1667094",
+      "id": "1667094",
+      "note": "Act Cordingly"
+    },
+    {
+      "date": "2019-05-27",
+      "year": "2001",
+      "players": "A Foulds vs B de Cat",
+      "link": "/perl/chessgame?gid=1202022",
+      "id": "1202022",
+      "note": "You Know We&apos;ll Have A Good Time, Ben"
+    },
+    {
+      "date": "2019-05-26",
+      "year": "1924",
+      "players": "Ed. Lasker vs Lasker",
+      "link": "/perl/chessgame?gid=1102123",
+      "id": "1102123",
+      "note": "Hokey religions and ancient weapons are no match for a good Lasker at your side"
+    },
+    {
+      "date": "2019-05-25",
+      "year": "2018",
+      "players": "J Cori vs Y Saber",
+      "link": "/perl/chessgame?gid=1930304",
+      "id": "1930304",
+      "note": "Light Saber"
+    },
+    {
+      "date": "2019-05-24",
+      "year": "1907",
+      "players": "E Cohn vs W Cohn",
+      "link": "/perl/chessgame?gid=1228519",
+      "id": "1228519",
+      "note": "Attack of the Cohns"
+    },
     {
       "date": "2019-05-23",
       "year": "1991",
