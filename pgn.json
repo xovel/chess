@@ -1,6 +1,94 @@
 {
-  "update": "2019-06-03",
+  "update": "2019-06-14",
   "list": [
+    {
+      "date": "2019-06-14",
+      "year": "1972",
+      "players": "Kurajica vs A Planinc",
+      "link": "/perl/chessgame?gid=1297066",
+      "id": "1297066",
+      "note": "The Best Laid Plans"
+    },
+    {
+      "date": "2019-06-13",
+      "year": "2006",
+      "players": "Topalov vs Kramnik",
+      "link": "/perl/chessgame?gid=1430952",
+      "id": "1430952",
+      "note": "At the Top"
+    },
+    {
+      "date": "2019-06-12",
+      "year": "2016",
+      "players": "Younes Foughali vs C Woojin Yoo",
+      "link": "/perl/chessgame?gid=1842800",
+      "id": "1842800",
+      "note": "C Yoo Later"
+    },
+    {
+      "date": "2019-06-11",
+      "year": "2013",
+      "players": "A Indjic vs D Sekulic",
+      "link": "/perl/chessgame?gid=1721764",
+      "id": "1721764",
+      "note": "Dusan Don&apos;ts"
+    },
+    {
+      "date": "2019-06-10",
+      "year": "1997",
+      "players": "Shaked vs Morozevich",
+      "link": "/perl/chessgame?gid=1656009",
+      "id": "1656009",
+      "note": "Shaked, Not Stirred"
+    },
+    {
+      "date": "2019-06-09",
+      "year": "1933",
+      "players": "G Meszaros vs I Wessel",
+      "link": "/perl/chessgame?gid=1582991",
+      "id": "1582991",
+      "note": "Nuclear Wessel"
+    },
+    {
+      "date": "2019-06-08",
+      "year": "2019",
+      "players": "Yu Yangyi vs Ding Liren",
+      "link": "/perl/chessgame?gid=1963948",
+      "id": "1963948",
+      "note": "Y Yu: Hi, Ding?"
+    },
+    {
+      "date": "2019-06-07",
+      "year": "2017",
+      "players": "Adams vs Yifan Hou",
+      "link": "/perl/chessgame?gid=1860381",
+      "id": "1860381",
+      "note": "Madam, I&apos;m Adam"
+    },
+    {
+      "date": "2019-06-06",
+      "year": "1962",
+      "players": "Fischer vs Najdorf",
+      "link": "/perl/chessgame?gid=1008414",
+      "id": "1008414",
+      "note": "Gift Exchange"
+    },
+    {
+      "date": "2019-06-05",
+      "year": "1900",
+      "players": "Janowski vs Maroczy",
+      "link": "/perl/chessgame?gid=1064577",
+      "id": "1064577",
+      "note": "I Could Have Had An a8!"
+    },
+    {
+      "date": "2019-06-04",
+      "year": "1976",
+      "players": "C Bloodgood vs Jackson",
+      "link": "/perl/chessgame?gid=1369605",
+      "id": "1369605",
+      "note": "Smooth Criminal"
+    },
     {
       "date": "2019-06-03",
       "year": "1934",
