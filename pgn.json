@@ -1,6 +1,86 @@
 {
-  "update": "2019-06-14",
+  "update": "2019-06-24",
   "list": [
+    {
+      "date": "2019-06-24",
+      "year": "2006",
+      "players": "Sveshnikov vs T Batchuluun",
+      "link": "/perl/chessgame?gid=1415532",
+      "id": "1415532",
+      "note": "Batchuluun Party"
+    },
+    {
+      "date": "2019-06-23",
+      "year": "1912",
+      "players": "Alekhine vs V O Smyslov",
+      "link": "/perl/chessgame?gid=1296859",
+      "id": "1296859",
+      "note": "Father&apos;s Day"
+    },
+    {
+      "date": "2019-06-22",
+      "year": "1969",
+      "players": "J Penrose vs M Fuller",
+      "link": "/perl/chessgame?gid=1106059",
+      "id": "1106059",
+      "note": "Maxwell Must Not Go Free"
+    },
+    {
+      "date": "2019-06-21",
+      "year": "2008",
+      "players": "L Mihasi vs M Rade",
+      "link": "/perl/chessgame?gid=1510422",
+      "id": "1510422",
+      "note": "Knight Rade"
+    },
+    {
+      "date": "2019-06-20",
+      "year": "2013",
+      "players": "M Matlakov vs Eljanov",
+      "link": "/perl/chessgame?gid=1733856",
+      "id": "1733856",
+      "note": "The Road to Hell is Pavel with Good Intentions"
+    },
+    {
+      "date": "2019-06-19",
+      "year": "1938",
+      "players": "Alekhine vs E E Book",
+      "link": "/perl/chessgame?gid=1013330",
+      "id": "1013330",
+      "note": "Read Him Like A Book"
+    },
+    {
+      "date": "2019-06-18",
+      "year": "1914",
+      "players": "Lasker vs Rubinstein",
+      "link": "/perl/chessgame?gid=1119764",
+      "id": "1119764",
+      "note": "Alack and a Lasker"
+    },
+    {
+      "date": "2019-06-17",
+      "year": "1966",
+      "players": "Horst Beer vs Grob",
+      "link": "/perl/chessgame?gid=1472647",
+      "id": "1472647",
+      "note": "Grob a Beer"
+    },
+    {
+      "date": "2019-06-16",
+      "year": "1935",
+      "players": "Capablanca vs Kan",
+      "link": "/perl/chessgame?gid=1428248",
+      "id": "1428248",
+      "note": "Jose-Kan You See"
+    },
+    {
+      "date": "2019-06-15",
+      "year": "2003",
+      "players": "Blatny vs J Bonin",
+      "link": "/perl/chessgame?gid=1283524",
+      "id": "1283524",
+      "note": "PB &amp; Jay"
+    },
     {
       "date": "2019-06-14",
       "year": "1972",
