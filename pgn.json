@@ -1,6 +1,54 @@
 {
-  "update": "2019-06-24",
+  "update": "2019-06-30",
   "list": [
+    {
+      "date": "2019-06-30",
+      "year": "1966",
+      "players": "B Brinck-Claussen vs Panno",
+      "link": "/perl/chessgame?gid=1546528",
+      "id": "1546528",
+      "note": "Claussen Effect"
+    },
+    {
+      "date": "2019-06-29",
+      "year": "2007",
+      "players": "Sasikiran vs Z Gyimesi",
+      "link": "/perl/chessgame?gid=1476138",
+      "id": "1476138",
+      "note": "Behind Enemy Lines"
+    },
+    {
+      "date": "2019-06-28",
+      "year": "2017",
+      "players": "M A San Diego vs K M Shepherd",
+      "link": "/perl/chessgame?gid=1893187",
+      "id": "1893187",
+      "note": "Let Them Beat Kate"
+    },
+    {
+      "date": "2019-06-27",
+      "year": "1990",
+      "players": "Doroshkievich vs Shabalov",
+      "link": "/perl/chessgame?gid=1121507",
+      "id": "1121507",
+      "note": "Shaba, When the Walls Fell"
+    },
+    {
+      "date": "2019-06-26",
+      "year": "2017",
+      "players": "McShane vs A Khairat",
+      "link": "/perl/chessgame?gid=1907023",
+      "id": "1907023",
+      "note": "Use the f4, Luke"
+    },
+    {
+      "date": "2019-06-25",
+      "year": "1984",
+      "players": "Kasparov vs Karpov",
+      "link": "/perl/chessgame?gid=1067136",
+      "id": "1067136",
+      "note": "Turning Point"
+    },
     {
       "date": "2019-06-24",
       "year": "2006",
