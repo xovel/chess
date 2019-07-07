@@ -1,0 +1,16 @@
+[Event "Casual"]
+[Site "Nice FRA"]
+[Date "1941.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "NN"]
+[Black "Victor Kahn"]
+[ECO "C47"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "26"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4 5.Nxd4 Bb4 6.Nxc6 bxc6
+7.Bd3 O-O 8.O-O d5 9.e5 Ng4 10.f4 Qh4 11.h3 Bc5+ 12.Kh1 Qg3
+13.hxg4 Qh4# 0-1

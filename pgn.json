@@ -1,6 +1,62 @@
 {
-  "update": "2019-06-30",
+  "update": "2019-07-07",
   "list": [
+    {
+      "date": "2019-07-07",
+      "year": "1937",
+      "players": "Alekhine vs Euwe",
+      "link": "/perl/chessgame?gid=1013272",
+      "id": "1013272",
+      "note": "Got My Mind Set on Euwe"
+    },
+    {
+      "date": "2019-07-06",
+      "year": "1968",
+      "players": "Korchnoi vs Spassky",
+      "link": "/perl/chessgame?gid=1081831",
+      "id": "1081831",
+      "note": "Catch Me If You Can"
+    },
+    {
+      "date": "2019-07-05",
+      "year": "1957",
+      "players": "Pelikan vs M Luckis",
+      "link": "/perl/chessgame?gid=1466226",
+      "id": "1466226",
+      "note": "A Wonderful Bird is the Pelikan"
+    },
+    {
+      "date": "2019-07-04",
+      "year": "2012",
+      "players": "S J Barrett vs M Arnold",
+      "link": "/perl/chessgame?gid=1671352",
+      "id": "1671352",
+      "note": "Born on the 4th of July"
+    },
+    {
+      "date": "2019-07-03",
+      "year": "1941",
+      "players": "NN vs V Kahn",
+      "link": "/perl/chessgame?gid=1692882",
+      "id": "1692882",
+      "note": "Yes, Vic Kahn"
+    },
+    {
+      "date": "2019-07-02",
+      "year": "2014",
+      "players": "B Adithya vs B Thorfinnsson",
+      "link": "/perl/chessgame?gid=1776007",
+      "id": "1776007",
+      "note": "Bjorn in the USA"
+    },
+    {
+      "date": "2019-07-01",
+      "year": "2000",
+      "players": "Fedorov vs N Miezis",
+      "link": "/perl/chessgame?gid=1401993",
+      "id": "1401993",
+      "note": "GM Norm"
+    },
     {
       "date": "2019-06-30",
       "year": "1966",
