@@ -1,0 +1,17 @@
+[Event "Rapid-transit g"]
+[Site "Manhattan CC, New York, NY USA"]
+[Date "1922.12.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Otis Field"]
+[Black "Oscar Tenner"]
+[ECO "C58"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "36"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.d3 h6 7.Nf3
+e4 8.Qe2 Nxc4 9.dxc4 Bc5 10.O-O O-O 11.Nfd2 Bg4 12.Qe1 Qd7
+13.Nb3 Bf3 14.Bf4 Qg4 15.Bg3 Nh5 16.Nxc5 Nf4 17.Nxe4 Qh3
+18.gxh3 Nxh3# 0-1

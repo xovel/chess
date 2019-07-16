@@ -1,6 +1,78 @@
 {
-  "update": "2019-07-07",
+  "update": "2019-07-16",
   "list": [
+    {
+      "date": "2019-07-16",
+      "year": "2006",
+      "players": "R Pasku vs M De La Cruz",
+      "link": "/perl/chessgame?gid=1415832",
+      "id": "1415832",
+      "note": "Mercedes Benz But Doesn&apos;t Brake"
+    },
+    {
+      "date": "2019-07-15",
+      "year": "2018",
+      "players": "L Tristan vs E Moradiabadi",
+      "link": "/perl/chessgame?gid=1921267",
+      "id": "1921267",
+      "note": "Tristan the Knight Away"
+    },
+    {
+      "date": "2019-07-14",
+      "year": "1934",
+      "players": "Nimzowitsch vs E R Lundin",
+      "link": "/perl/chessgame?gid=1531844",
+      "id": "1531844",
+      "note": "Lundin&apos;s Bridge is Falling Down"
+    },
+    {
+      "date": "2019-07-13",
+      "year": "1980",
+      "players": "Polugaevsky vs Korchnoi",
+      "link": "/perl/chessgame?gid=1112359",
+      "id": "1112359",
+      "note": "Extra! Extra! Read All About It!"
+    },
+    {
+      "date": "2019-07-12",
+      "year": "1922",
+      "players": "O Field vs O Tenner",
+      "link": "/perl/chessgame?gid=1224662",
+      "id": "1224662",
+      "note": "Field of Nightmares"
+    },
+    {
+      "date": "2019-07-11",
+      "year": "2008",
+      "players": "L Tristan vs W Madeira",
+      "link": "/perl/chessgame?gid=1517999",
+      "id": "1517999",
+      "note": "Tristan - Wagner&apos;s Tragic Drama"
+    },
+    {
+      "date": "2019-07-10",
+      "year": "1940",
+      "players": "F Reinfeld vs J Battell",
+      "link": "/perl/chessgame?gid=1586938",
+      "id": "1586938",
+      "note": "Battell Toasted"
+    },
+    {
+      "date": "2019-07-09",
+      "year": "2016",
+      "players": "M Muzychuk vs Yifan Hou",
+      "link": "/perl/chessgame?gid=1817323",
+      "id": "1817323",
+      "note": "Another Hou Dunnit?"
+    },
+    {
+      "date": "2019-07-08",
+      "year": "1967",
+      "players": "Ivan Buljovcic vs Maric",
+      "link": "/perl/chessgame?gid=1887164",
+      "id": "1887164",
+      "note": "The Battle of the Bulj"
+    },
     {
       "date": "2019-07-07",
       "year": "1937",

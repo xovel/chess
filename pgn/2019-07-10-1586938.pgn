@@ -1,0 +1,17 @@
+[Event "New York"]
+[Site "New York, NY USA"]
+[Date "1940.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Fred Reinfeld"]
+[Black "Jack Battell"]
+[ECO "D25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "33"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 c5 5. Bxc4 cxd4 6. exd4
+Qc7 7. Qb3 Be6 8. Bxe6 Qxc1+ 9. Ke2 Qxh1 10. Bxf7+ Kd8
+11. Qxb7 Qc1 12. Qxa8 Qxb2+ 13. Nbd2 Ne4 14. Qxe4 Qxa1
+15. Qd5+ Kc7 16. Qc5+ Kd8 17. Be6 1-0
