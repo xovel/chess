@@ -1,0 +1,26 @@
+[Event "Grand Prix Riga"]
+[Site "Riga LAT"]
+[Date "2019.07.17"]
+[EventDate "2019.07.12"]
+[Round "2.3"]
+[Result "1-0"]
+[White "Alexander Grischuk"]
+[Black "Yu Yangyi"]
+[ECO "D37"]
+[WhiteElo "2766"]
+[BlackElo "2736"]
+[PlyCount "123"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7
+7. Be2 dxc4 8. O-O a6 9. a4 c5 10. d5 exd5 11. Nxd5 Nxd5
+12. Qxd5 Nf6 13. Qxd8 Rxd8 14. Bc7 Re8 15. Bxc4 Bg4 16. h3
+Rac8 17. Bf4 Be6 18. Bxe6 fxe6 19. a5 Nd5 20. Be5 Red8
+21. Rfc1 Nb4 22. Kf1 Nd3 23. Rc2 c4 24. Ke2 Nb4 25. Rd2 Rd5
+26. Bc3 Nd3 27. b3 Bb4 28. Bxb4 Nxb4 29. bxc4 Rxc4 30. Ra4
+Rdc5 31. Rd8+ Kf7 32. Nd2 Nc6 33. Rxc4 Rxc4 34. Rd7+ Ke8
+35. Rxb7 Ra4 36. Rxg7 h5 37. Rg5 Rxa5 38. Rxa5 Nxa5 39. Ne4
+Nb7 40. Nf6+ Ke7 41. Nxh5 a5 42. Nf4 a4 43. Kd2 a3 44. Kc2 Nc5
+45. f3 Kf7 46. Kb1 e5 47. Ne2 Nd3 48. g3 Nb4 49. Nc3 Kg6
+50. h4 Kh5 51. e4 Nc6 52. Nd5 Nd4 53. f4 exf4 54. Nxf4+ Kg4
+55. h5 Kg5 56. e5 Nf5 57. e6 Ng7 58. Ka2 Nf5 59. Kxa3 Kf6
+60. g4 Ne3 61. h6 Nxg4 62. e7 1-0
