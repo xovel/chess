@@ -1,0 +1,17 @@
+[Event "Lone Pine"]
+[Site "Lone Pine, CA USA"]
+[Date "1979.03.25"]
+[EventDate "1979.03.25"]
+[Round "1"]
+[Result "1-0"]
+[White "John Alan Grefe"]
+[Black "Arnold Denker"]
+[ECO "B10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1.e4 c6 2.d3 d5 3.Nd2 Qc7 4.f4 Qxf4 5.Ngf3 Nf6 6.Nb3 Qc7 7.e5
+Ng4 8.d4 Bf5 9.Nh4 Bd7 10.Be2 Nh6 11.Bxh6 gxh6 12.O-O Na6
+13.Bxa6 bxa6 14.Nc5 e6 15.Qh5 Bc8 16.Rf6 Bxc5 17.dxc5 Rb8
+18.Raf1 Rf8 19.Qxh6 Qxe5 20.Qxh7 Rxb2 21.Rxf7 Rxf7 22.Qg8+ 1-0

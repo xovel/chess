@@ -1,6 +1,166 @@
 {
-  "update": "2019-07-23",
+  "update": "2019-08-12",
   "list": [
+    {
+      "date": "2019-08-12",
+      "year": "2006",
+      "players": "de Firmian vs Casper Rasmussen",
+      "link": "/perl/chessgame?gid=1425652",
+      "id": "1425652",
+      "note": "Not A Ghost Of A Chance"
+    },
+    {
+      "date": "2019-08-11",
+      "year": "1928",
+      "players": "N Zubarev vs Kan",
+      "link": "/perl/chessgame?gid=1710193",
+      "id": "1710193",
+      "note": "Do The Kan Kan"
+    },
+    {
+      "date": "2019-08-10",
+      "year": "2001",
+      "players": "Harald Schmidt vs Jobava",
+      "link": "/perl/chessgame?gid=1235827",
+      "id": "1235827",
+      "note": "The Patience of Job"
+    },
+    {
+      "date": "2019-08-09",
+      "year": "2019",
+      "players": "R Rapport vs B Amin",
+      "link": "/perl/chessgame?gid=1966342",
+      "id": "1966342",
+      "note": "Bassem Hound"
+    },
+    {
+      "date": "2019-08-08",
+      "year": "2018",
+      "players": "D Dordzhieva vs Kosteniuk",
+      "link": "/perl/chessgame?gid=1920106",
+      "id": "1920106",
+      "note": "Queen of the Castle"
+    },
+    {
+      "date": "2019-08-07",
+      "year": "1979",
+      "players": "J A Grefe vs Denker",
+      "link": "/perl/chessgame?gid=1434113",
+      "id": "1434113",
+      "note": "Dubious Double DIRP Defense Dooms Denker"
+    },
+    {
+      "date": "2019-08-06",
+      "year": "1973",
+      "players": "Karpov vs M Schauwecker",
+      "link": "/perl/chessgame?gid=1067745",
+      "id": "1067745",
+      "note": "Backstreet Boys"
+    },
+    {
+      "date": "2019-08-05",
+      "year": "1951",
+      "players": "A Coles vs J T Westbrock",
+      "link": "/perl/chessgame?gid=1645616",
+      "id": "1645616",
+      "note": "Coles Law"
+    },
+    {
+      "date": "2019-08-04",
+      "year": "2013",
+      "players": "J Song vs E Hadet",
+      "link": "/perl/chessgame?gid=1712558",
+      "id": "1712558",
+      "note": "Shoulda Hadet"
+    },
+    {
+      "date": "2019-08-03",
+      "year": "2007",
+      "players": "M Barron vs Hoang Thong Tu",
+      "link": "/perl/chessgame?gid=1465323",
+      "id": "1465323",
+      "note": "Tu Can Play That Game"
+    },
+    {
+      "date": "2019-08-02",
+      "year": "1980",
+      "players": "T Draisma vs G Welling",
+      "link": "/perl/chessgame?gid=1345937",
+      "id": "1345937",
+      "note": "Tom &amp; Gerry"
+    },
+    {
+      "date": "2019-08-01",
+      "year": "1910",
+      "players": "Marshall vs Capablanca",
+      "link": "/perl/chessgame?gid=1094850",
+      "id": "1094850",
+      "note": "Hone On The Lange"
+    },
+    {
+      "date": "2019-07-31",
+      "year": "2011",
+      "players": "Carlsen vs D Howell",
+      "link": "/perl/chessgame?gid=1649088",
+      "id": "1649088",
+      "note": "Spanish Prisoner"
+    },
+    {
+      "date": "2019-07-30",
+      "year": "1941",
+      "players": "Estrin vs Koptev",
+      "link": "/perl/chessgame?gid=1224696",
+      "id": "1224696",
+      "note": "Koptev Audience"
+    },
+    {
+      "date": "2019-07-29",
+      "year": "2008",
+      "players": "J N Sugden vs F J Kwiatkowski",
+      "link": "/perl/chessgame?gid=1481987",
+      "id": "1481987",
+      "note": "Beware the Kwiat Man"
+    },
+    {
+      "date": "2019-07-28",
+      "year": "1987",
+      "players": "G McCarthy vs S Brady",
+      "link": "/perl/chessgame?gid=1660292",
+      "id": "1660292",
+      "note": "The Brady Crunch"
+    },
+    {
+      "date": "2019-07-27",
+      "year": "2001",
+      "players": "D Solak vs Paunovic",
+      "link": "/perl/chessgame?gid=1165846",
+      "id": "1165846",
+      "note": "Here Be Dragans"
+    },
+    {
+      "date": "2019-07-26",
+      "year": "1975",
+      "players": "Karpov vs Kasparov",
+      "link": "/perl/chessgame?gid=1067862",
+      "id": "1067862",
+      "note": "First Contact"
+    },
+    {
+      "date": "2019-07-25",
+      "year": "1974",
+      "players": "G Kuzmin vs G Bordonada",
+      "link": "/perl/chessgame?gid=1471533",
+      "id": "1471533",
+      "note": "Nice Finish"
+    },
+    {
+      "date": "2019-07-24",
+      "year": "2018",
+      "players": "NN vs D Freeman",
+      "link": "/perl/chessgame?gid=1967664",
+      "id": "1967664",
+      "note": "His Last Bow"
+    },
     {
       "date": "2019-07-23",
       "year": "2000",

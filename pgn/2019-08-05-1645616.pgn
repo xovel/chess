@@ -1,0 +1,17 @@
+[Event "52nd US Open"]
+[Site "Fort Worth, TX USA"]
+[Date "1951.07.21"]
+[EventDate "1951.07.09"]
+[Round "12"]
+[Result "1-0"]
+[White "Alfred P Coles"]
+[Black "John T Westbrock"]
+[ECO "C12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "35"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.Bd3 dxe4 6.Bxe4 c5
+7.Nge2 cxd4 8.Nxd4 Qa5 9.Bxf6 Bxc3+ 10.bxc3 Qxc3+ 11.Qd2 Qxa1+
+12.Ke2 Qb2 13.Rb1 Qxb1 14.Nxe6 Bd7 15.Nxg7+ Kf8 16.Ne6+ fxe6
+17.Qd6+ Kg8 18.Qg3+ 1-0
