@@ -1,6 +1,86 @@
 {
-  "update": "2019-08-12",
+  "update": "2019-08-22",
   "list": [
+    {
+      "date": "2019-08-22",
+      "year": "2007",
+      "players": "Aronian vs Kramnik",
+      "link": "/perl/chessgame?gid=1459874",
+      "id": "1459874",
+      "note": "Levon On A Prayer"
+    },
+    {
+      "date": "2019-08-21",
+      "year": "1882",
+      "players": "P Ware vs Max Weiss",
+      "link": "/perl/chessgame?gid=1001537",
+      "id": "1001537",
+      "note": "Preston To Service"
+    },
+    {
+      "date": "2019-08-20",
+      "year": "2014",
+      "players": "E Rains vs T Rains",
+      "link": "/perl/chessgame?gid=1744223",
+      "id": "1744223",
+      "note": "When It Rains, It Pours"
+    },
+    {
+      "date": "2019-08-19",
+      "year": "1923",
+      "players": "O Chajes vs Reti",
+      "link": "/perl/chessgame?gid=1006996",
+      "id": "1006996",
+      "note": "Cut To The Chajes"
+    },
+    {
+      "date": "2019-08-18",
+      "year": "2018",
+      "players": "E Diakonova vs D Voit",
+      "link": "/perl/chessgame?gid=1923816",
+      "id": "1923816",
+      "note": "I Double Daria"
+    },
+    {
+      "date": "2019-08-17",
+      "year": "1946",
+      "players": "H Bernstein vs Bisguier",
+      "link": "/perl/chessgame?gid=1728300",
+      "id": "1728300",
+      "note": "Howard&apos;s Turn"
+    },
+    {
+      "date": "2019-08-16",
+      "year": "2019",
+      "players": "Tingjie Lei vs F Peralta",
+      "link": "/perl/chessgame?gid=1944791",
+      "id": "1944791",
+      "note": "If I&apos;m Lion, I&apos;m Dyin&apos;"
+    },
+    {
+      "date": "2019-08-15",
+      "year": "2008",
+      "players": "R U Anantharam vs S Gagare",
+      "link": "/perl/chessgame?gid=1509281",
+      "id": "1509281",
+      "note": "Dandy Lion"
+    },
+    {
+      "date": "2019-08-14",
+      "year": "1975",
+      "players": "R Chess vs P Brandts",
+      "link": "/perl/chessgame?gid=1160193",
+      "id": "1160193",
+      "note": "The Name of the Game"
+    },
+    {
+      "date": "2019-08-13",
+      "year": "1919",
+      "players": "Capablanca vs T Bray",
+      "link": "/perl/chessgame?gid=1671048",
+      "id": "1671048",
+      "note": "Bray King Bad"
+    },
     {
       "date": "2019-08-12",
       "year": "2006",
