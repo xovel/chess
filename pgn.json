@@ -1,6 +1,94 @@
 {
-  "update": "2019-08-22",
+  "update": "2019-09-02",
   "list": [
+    {
+      "date": "2019-09-02",
+      "year": "1929",
+      "players": "Menchik vs Yates",
+      "link": "/perl/chessgame?gid=1258261",
+      "id": "1258261",
+      "note": "Steady As She Goes"
+    },
+    {
+      "date": "2019-09-01",
+      "year": "2001",
+      "players": "Wu Bing vs Hu Zhiya",
+      "link": "/perl/chessgame?gid=1182427",
+      "id": "1182427",
+      "note": "Wu, Hu!"
+    },
+    {
+      "date": "2019-08-31",
+      "year": "2008",
+      "players": "B Vandermeulen vs V A Napalkov",
+      "link": "/perl/chessgame?gid=1610168",
+      "id": "1610168",
+      "note": "The Boni Situation"
+    },
+    {
+      "date": "2019-08-30",
+      "year": "1924",
+      "players": "Capablanca vs Kevitz",
+      "link": "/perl/chessgame?gid=1277180",
+      "id": "1277180",
+      "note": "Pride b4 the Fall"
+    },
+    {
+      "date": "2019-08-29",
+      "year": "1992",
+      "players": "E Torman vs Kudrin",
+      "link": "/perl/chessgame?gid=1768291",
+      "id": "1768291",
+      "note": "The Tormanator"
+    },
+    {
+      "date": "2019-08-28",
+      "year": "2001",
+      "players": "U Capo Vidal vs E Gonzalez Chavez",
+      "link": "/perl/chessgame?gid=1885365",
+      "id": "1885365",
+      "note": "Vidal, So Soon?"
+    },
+    {
+      "date": "2019-08-27",
+      "year": "1958",
+      "players": "Benko vs Fischer",
+      "link": "/perl/chessgame?gid=1044461",
+      "id": "1044461",
+      "note": "In Memoriam"
+    },
+    {
+      "date": "2019-08-26",
+      "year": "1931",
+      "players": "Menchik vs Euwe",
+      "link": "/perl/chessgame?gid=1258406",
+      "id": "1258406",
+      "note": "Looks Like I Struck An Euwe"
+    },
+    {
+      "date": "2019-08-25",
+      "year": "1990",
+      "players": "Kasparov vs D Letterman",
+      "link": "/perl/chessgame?gid=1070486",
+      "id": "1070486",
+      "note": "Don&apos;t Quit Your Day Job"
+    },
+    {
+      "date": "2019-08-24",
+      "year": "1997",
+      "players": "Glek vs Lanka",
+      "link": "/perl/chessgame?gid=1507503",
+      "id": "1507503",
+      "note": "What the Glek!"
+    },
+    {
+      "date": "2019-08-23",
+      "year": "1883",
+      "players": "J Mortimer vs Winawer",
+      "link": "/perl/chessgame?gid=1002002",
+      "id": "1002002",
+      "note": "Winawer Takes All"
+    },
     {
       "date": "2019-08-22",
       "year": "2007",
