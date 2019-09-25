@@ -1,6 +1,190 @@
 {
-  "update": "2019-09-02",
+  "update": "2019-09-25",
   "list": [
+    {
+      "date": "2019-09-25",
+      "year": "2019",
+      "players": "G Oparin vs S Sevian",
+      "link": "/perl/chessgame?gid=1965849",
+      "id": "1965849",
+      "note": "Oparin Sesame"
+    },
+    {
+      "date": "2019-09-24",
+      "year": "2011",
+      "players": "C Costello vs M Fogg",
+      "link": "/perl/chessgame?gid=1605057",
+      "id": "1605057",
+      "note": "Bishop and Costello"
+    },
+    {
+      "date": "2019-09-23",
+      "year": "2015",
+      "players": "M Narciso Dublan vs Morozevich",
+      "link": "/perl/chessgame?gid=1808463",
+      "id": "1808463",
+      "note": "Dublan Down"
+    },
+    {
+      "date": "2019-09-22",
+      "year": "2019",
+      "players": "J K Duda vs J Xiong",
+      "link": "/perl/chessgame?gid=1972538",
+      "id": "1972538",
+      "note": "Howdy, Duda Time!"
+    },
+    {
+      "date": "2019-09-21",
+      "year": "1927",
+      "players": "Capablanca vs E Penteado",
+      "link": "/perl/chessgame?gid=1945584",
+      "id": "1945584",
+      "note": "Eurico! I Have Found It!"
+    },
+    {
+      "date": "2019-09-20",
+      "year": "2006",
+      "players": "P Bereolos vs J Kidd",
+      "link": "/perl/chessgame?gid=1740398",
+      "id": "1740398",
+      "note": "Go Away Kidd, You Bother Me"
+    },
+    {
+      "date": "2019-09-19",
+      "year": "2013",
+      "players": "S Nyysti vs I Jones",
+      "link": "/perl/chessgame?gid=1735634",
+      "id": "1735634",
+      "note": "Play Nyysti For Me"
+    },
+    {
+      "date": "2019-09-18",
+      "year": "1933",
+      "players": "Vladimir Petrov vs J Rejfir",
+      "link": "/perl/chessgame?gid=1274690",
+      "id": "1274690",
+      "note": "Rejfir Madness"
+    },
+    {
+      "date": "2019-09-17",
+      "year": "2019",
+      "players": "McShane vs D Yuffa",
+      "link": "/perl/chessgame?gid=1972352",
+      "id": "1972352",
+      "note": "The Gospel According to Luke"
+    },
+    {
+      "date": "2019-09-16",
+      "year": "1992",
+      "players": "P Dely vs K Sugar",
+      "link": "/perl/chessgame?gid=1633898",
+      "id": "1633898",
+      "note": "Sugar and Spice"
+    },
+    {
+      "date": "2019-09-15",
+      "year": "2019",
+      "players": "Sarin Nihal vs E Safarli",
+      "link": "/perl/chessgame?gid=1972224",
+      "id": "1972224",
+      "note": "Death on the Nihal"
+    },
+    {
+      "date": "2019-09-14",
+      "year": "1905",
+      "players": "Marshall vs Tarrasch",
+      "link": "/perl/chessgame?gid=1094631",
+      "id": "1094631",
+      "note": "One Man&apos;s Tarrasch is Another Man&apos;s Treasure"
+    },
+    {
+      "date": "2019-09-13",
+      "year": "2019",
+      "players": "S Press vs Ding Liren",
+      "link": "/perl/chessgame?gid=1971977",
+      "id": "1971977",
+      "note": "Full Court Press"
+    },
+    {
+      "date": "2019-09-12",
+      "year": "2019",
+      "players": "F Felecan vs F Rhine",
+      "link": "/perl/chessgame?gid=1971811",
+      "id": "1971811",
+      "note": "Felecan Brief"
+    },
+    {
+      "date": "2019-09-11",
+      "year": "1999",
+      "players": "T Palmer vs D Moody",
+      "link": "/perl/chessgame?gid=1543550",
+      "id": "1543550",
+      "note": "The Moody Blues"
+    },
+    {
+      "date": "2019-09-10",
+      "year": "1965",
+      "players": "L Day vs A Kalotay",
+      "link": "/perl/chessgame?gid=1495690",
+      "id": "1495690",
+      "note": "Let&apos;s Kal It A Day"
+    },
+    {
+      "date": "2019-09-09",
+      "year": "1937",
+      "players": "Koltanowski vs H Walpole",
+      "link": "/perl/chessgame?gid=1080668",
+      "id": "1080668",
+      "note": "Colle de Sac"
+    },
+    {
+      "date": "2019-09-08",
+      "year": "1824",
+      "players": "Edinburgh vs London",
+      "link": "/perl/chessgame?gid=1264181",
+      "id": "1264181",
+      "note": "The Fighting Irish"
+    },
+    {
+      "date": "2019-09-07",
+      "year": "1931",
+      "players": "Capablanca vs Gracie Square Pharmacy",
+      "link": "/perl/chessgame?gid=1793348",
+      "id": "1793348",
+      "note": "Prescription For Disaster"
+    },
+    {
+      "date": "2019-09-06",
+      "year": "2001",
+      "players": "A Muzychuk vs Bosboom-Lanchava",
+      "link": "/perl/chessgame?gid=1221774",
+      "id": "1221774",
+      "note": "The Bosboom Tea Party"
+    },
+    {
+      "date": "2019-09-05",
+      "year": "1982",
+      "players": "Huzman vs A Graf",
+      "link": "/perl/chessgame?gid=1754120",
+      "id": "1754120",
+      "note": "I Saw My Castles Fall Today"
+    },
+    {
+      "date": "2019-09-04",
+      "year": "1971",
+      "players": "Browne vs Hort",
+      "link": "/perl/chessgame?gid=1035227",
+      "id": "1035227",
+      "note": "Hort Cross Browne"
+    },
+    {
+      "date": "2019-09-03",
+      "year": "1936",
+      "players": "P Dubinin vs Nikola Petrov",
+      "link": "/perl/chessgame?gid=1492897",
+      "id": "1492897",
+      "note": "The g7 Summit"
+    },
     {
       "date": "2019-09-02",
       "year": "1929",

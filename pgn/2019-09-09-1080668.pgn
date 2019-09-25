@@ -1,0 +1,18 @@
+[Event "Blindfold simul, 10b"]
+[Site "Keswick ENG"]
+[Date "1937.02.09"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Georges Koltanowski"]
+[Black "Hugh Walpole"]
+[ECO "D05"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "47"]
+
+1.d4 Nf6 2.Nf3 e6 3.e3 d5 4.Bd3 Nbd7 5.Nbd2 Bd6 6.e4 dxe4
+7.Nxe4 Nxe4 8.Bxe4 Nf6 9.Bd3 O-O 10.O-O h6 11.Qe2 Bd7 12.Ne5
+c5 13.dxc5 Bxc5 14.Rd1 Qe7 15.Bf4 Rad8 16.Qf3 Bc8 17.c3 g5
+18.Bg3 Kg7 19.h4 Rh8 20.Bc2 b6 21.Nc6 Bb7 22.b4 Qe8 23.Qxf6+
+Kxf6 24.Be5# 1-0
