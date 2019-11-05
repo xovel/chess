@@ -50,7 +50,7 @@ if (curDate === update || (yFlag && yesterday === update)) {
   process.exit(0);
 }
 
-getHTML('http://www.chessgames.com/perl/gamesoftheday').then(data => {
+getHTML('https://www.chessgames.com/perl/gamesoftheday').then(data => {
   const $ = cheerio.load(data);
   const $list = $('a[href^="/perl/chessgame"]');
   let nowYear = now.getFullYear();

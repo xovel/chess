@@ -19,7 +19,7 @@ list.forEach(item => {
 
   if (!fs.existsSync(curFile)) {
     console.log(curFile)
-    getHTML(`http://www.chessgames.com/perl/nph-chesspgn?text=1&gid=${item.id}`).then((data) => {
+    getHTML(`https://www.chessgames.com/perl/nph-chesspgn?text=1&gid=${item.id}`).then((data) => {
       wFile(curFile, data);
     });
   }
