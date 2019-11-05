@@ -1,0 +1,20 @@
+[Event "corr"]
+[Site "corr"]
+[Date "1900.??.??"]
+[EventDate "1900.??.??"]
+[Round "?"]
+[Result "0-1"]
+[White "City of Amsterdam"]
+[Black "City of Marseille"]
+[ECO "C39"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Nf6 6. Bc4 d5
+7. exd5 Bd6 8. O-O Bxe5 9. Re1 Qe7 10. c3 f3 11. d4 Ne4
+12. Rxe4 Bh2+ 13. Kxh2 Qxe4 14. g3 O-O 15. Bf4 b5 16. Bxb5 Ba6
+17. c4 Bxb5 18. Nc3 Qg6 19. Nxb5 Re8 20. Nc3 Na6 21. Qd2 Re7
+22. d6 cxd6 23. Nd5 Re4 24. Re1 Rae8 25. Rxe4 Rxe4 26. Be3 Nc7
+27. Nb4 Qe6 28. d5 Qf6 29. Nd3 Qe7 30. Bf2 Re2 31. Qc3 Qe4
+32. a3 a5 0-1

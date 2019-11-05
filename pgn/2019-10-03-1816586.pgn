@@ -1,0 +1,18 @@
+[Event "70th US Open"]
+[Site "Lincoln, NE USA"]
+[Date "1969.08.10"]
+[EventDate "1969.08.10"]
+[Round "1"]
+[Result "0-1"]
+[White "F Frilling"]
+[Black "John L Watson"]
+[ECO "B77"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "50"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3
+O-O 8.Qd2 Nc6 9.Bc4 a5 10.Bb3 Bd7 11.a3 a4 12.Ba2 Qa5 13.h4
+Rfc8 14.Nde2 Ne5 15.O-O-O Be6 16.Nd5 Nxd5 17.Qxa5 Nxe3 18.Qb6
+Rxc2+ 19.Kb1 Bxa2+ 20.Kxa2 Nxd1 21.Rxd1 Nc4 22.Qc7 Rxb2+
+23.Ka1 Rxe2+ 24.Kb1 Nxa3+ 25.Kc1 Bb2# 0-1

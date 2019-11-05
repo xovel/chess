@@ -1,6 +1,334 @@
 {
-  "update": "2019-09-25",
+  "update": "2019-11-05",
   "list": [
+    {
+      "date": "2019-11-05",
+      "year": "1948",
+      "players": "W Adams vs W Shipman",
+      "link": "/perl/chessgame?gid=1333330",
+      "id": "1333330",
+      "note": "Waltership Downed"
+    },
+    {
+      "date": "2019-11-04",
+      "year": "2013",
+      "players": "G Neave vs B Sadiku",
+      "link": "/perl/chessgame?gid=1735642",
+      "id": "1735642",
+      "note": "Sadiku Puzzle"
+    },
+    {
+      "date": "2019-11-03",
+      "year": "1932",
+      "players": "Chekhover vs A Y Model",
+      "link": "/perl/chessgame?gid=1312979",
+      "id": "1312979",
+      "note": "Check Over Your Model"
+    },
+    {
+      "date": "2019-11-02",
+      "year": "1967",
+      "players": "K Muchnik vs N Bakulin",
+      "link": "/perl/chessgame?gid=1076642",
+      "id": "1076642",
+      "note": "Bak in the USSR"
+    },
+    {
+      "date": "2019-11-01",
+      "year": "1968",
+      "players": "V Saigin vs I Vistaneckis",
+      "link": "/perl/chessgame?gid=1921249",
+      "id": "1921249",
+      "note": "Miss, Saigin"
+    },
+    {
+      "date": "2019-10-31",
+      "year": "1914",
+      "players": "Blackburne vs Nimzowitsch",
+      "link": "/perl/chessgame?gid=1029515",
+      "id": "1029515",
+      "note": "Black Magic Meets Witsch Craft"
+    },
+    {
+      "date": "2019-10-30",
+      "year": "1900",
+      "players": "Amsterdam vs Marseille",
+      "link": "/perl/chessgame?gid=1075218",
+      "id": "1075218",
+      "note": "Allons Enfants de la Patrie"
+    },
+    {
+      "date": "2019-10-29",
+      "year": "2008",
+      "players": "F Libiszewski vs S Peric",
+      "link": "/perl/chessgame?gid=1977510",
+      "id": "1977510",
+      "note": "Toulouse Is French"
+    },
+    {
+      "date": "2019-10-28",
+      "year": "2003",
+      "players": "J Bourne vs R Truman",
+      "link": "/perl/chessgame?gid=1468485",
+      "id": "1468485",
+      "note": "To Err Is Truman"
+    },
+    {
+      "date": "2019-10-27",
+      "year": "1907",
+      "players": "Znosko-Borovsky vs Nimzowitsch",
+      "link": "/perl/chessgame?gid=1102328",
+      "id": "1102328",
+      "note": "All Nimzo Were The Borovskys"
+    },
+    {
+      "date": "2019-10-26",
+      "year": "2019",
+      "players": "Wang Hao vs D Howell",
+      "link": "/perl/chessgame?gid=1977326",
+      "id": "1977326",
+      "note": "Howell do you know me?"
+    },
+    {
+      "date": "2019-10-25",
+      "year": "1984",
+      "players": "Adams vs S Mohr",
+      "link": "/perl/chessgame?gid=1013641",
+      "id": "1013641",
+      "note": "Wanting It Mohr"
+    },
+    {
+      "date": "2019-10-24",
+      "year": "1968",
+      "players": "T Hart vs Timman",
+      "link": "/perl/chessgame?gid=1141779",
+      "id": "1141779",
+      "note": "If I Only Had a Hart"
+    },
+    {
+      "date": "2019-10-23",
+      "year": "2001",
+      "players": "D Caruso vs E Paoli",
+      "link": "/perl/chessgame?gid=1202233",
+      "id": "1202233",
+      "note": "La Donna E Mobile"
+    },
+    {
+      "date": "2019-10-22",
+      "year": "1987",
+      "players": "Sznapik vs D Komljenovic",
+      "link": "/perl/chessgame?gid=1468389",
+      "id": "1468389",
+      "note": "Sznapped Dragon"
+    },
+    {
+      "date": "2019-10-21",
+      "year": "2008",
+      "players": "R Appel vs R Buhmann",
+      "link": "/perl/chessgame?gid=1513111",
+      "id": "1513111",
+      "note": "Rainer Shines"
+    },
+    {
+      "date": "2019-10-20",
+      "year": "1981",
+      "players": "N Pokern vs M Bassler",
+      "link": "/perl/chessgame?gid=1413432",
+      "id": "1413432",
+      "note": "Pokern Stars"
+    },
+    {
+      "date": "2019-10-19",
+      "year": "1930",
+      "players": "Nimzowitsch vs Weenink",
+      "link": "/perl/chessgame?gid=1437610",
+      "id": "1437610",
+      "note": "Angel On My Shoulder"
+    },
+    {
+      "date": "2019-10-18",
+      "year": "2008",
+      "players": "D A Yeager vs Stripunsky",
+      "link": "/perl/chessgame?gid=1496938",
+      "id": "1496938",
+      "note": "J&#xE4;germeister"
+    },
+    {
+      "date": "2019-10-17",
+      "year": "1970",
+      "players": "Matulovic vs R Naranja",
+      "link": "/perl/chessgame?gid=1162702",
+      "id": "1162702",
+      "note": "A Clockwork Naranja"
+    },
+    {
+      "date": "2019-10-16",
+      "year": "1964",
+      "players": "J Flesch vs N Spiridonov",
+      "link": "/perl/chessgame?gid=1752344",
+      "id": "1752344",
+      "note": "The Spirid Is Willing, but the Flesch is Weak"
+    },
+    {
+      "date": "2019-10-15",
+      "year": "2011",
+      "players": "Art Zhao vs D A Yeager",
+      "link": "/perl/chessgame?gid=1630295",
+      "id": "1630295",
+      "note": "How Great, Zhao, Art"
+    },
+    {
+      "date": "2019-10-14",
+      "year": "2018",
+      "players": "Kramnik vs Caruana",
+      "link": "/perl/chessgame?gid=1914401",
+      "id": "1914401",
+      "note": "The Amazing Race"
+    },
+    {
+      "date": "2019-10-13",
+      "year": "1967",
+      "players": "Kholmov vs Hort",
+      "link": "/perl/chessgame?gid=1057119",
+      "id": "1057119",
+      "note": "Don&apos;t Go Breaking My Hort"
+    },
+    {
+      "date": "2019-10-12",
+      "year": "1958",
+      "players": "Fischer vs C Kalme",
+      "link": "/perl/chessgame?gid=1044072",
+      "id": "1044072",
+      "note": "Kalme Down"
+    },
+    {
+      "date": "2019-10-11",
+      "year": "2008",
+      "players": "V Gashimov vs Korchnoi",
+      "link": "/perl/chessgame?gid=1489390",
+      "id": "1489390",
+      "note": "The Old Man and the Three"
+    },
+    {
+      "date": "2019-10-10",
+      "year": "2019",
+      "players": "A Firouzja vs M Karthikeyan",
+      "link": "/perl/chessgame?gid=1964305",
+      "id": "1964305",
+      "note": "Give and You Shall Receive"
+    },
+    {
+      "date": "2019-10-09",
+      "year": "2001",
+      "players": "E Bozzali vs E Paoli",
+      "link": "/perl/chessgame?gid=1202421",
+      "id": "1202421",
+      "note": "Gerontocracy"
+    },
+    {
+      "date": "2019-10-08",
+      "year": "1966",
+      "players": "L Jackson vs Browne",
+      "link": "/perl/chessgame?gid=1773437",
+      "id": "1773437",
+      "note": "Doctor My Eyes"
+    },
+    {
+      "date": "2019-10-07",
+      "year": "1981",
+      "players": "Kasparov vs Ulf Andersson",
+      "link": "/perl/chessgame?gid=1020077",
+      "id": "1020077",
+      "note": "An Unbridgeable Ulf"
+    },
+    {
+      "date": "2019-10-06",
+      "year": "1978",
+      "players": "Tarjan vs R Henley",
+      "link": "/perl/chessgame?gid=1141383",
+      "id": "1141383",
+      "note": "One Of These Knights"
+    },
+    {
+      "date": "2019-10-05",
+      "year": "1931",
+      "players": "Alekhine vs Russian Chess Circle",
+      "link": "/perl/chessgame?gid=1012774",
+      "id": "1012774",
+      "note": "Will The Circle Be Unbroken"
+    },
+    {
+      "date": "2019-10-04",
+      "year": "2019",
+      "players": "Radjabov vs J Xiong",
+      "link": "/perl/chessgame?gid=1972591",
+      "id": "1972591",
+      "note": "Swan Xiong"
+    },
+    {
+      "date": "2019-10-03",
+      "year": "1969",
+      "players": "F Frilling vs J L Watson",
+      "link": "/perl/chessgame?gid=1816586",
+      "id": "1816586",
+      "note": "I&apos;ve Got A Frilling"
+    },
+    {
+      "date": "2019-10-02",
+      "year": "1991",
+      "players": "C Hansen vs Ftacnik",
+      "link": "/perl/chessgame?gid=1046213",
+      "id": "1046213",
+      "note": "If I&apos;m Curt with you"
+    },
+    {
+      "date": "2019-10-01",
+      "year": "2016",
+      "players": "Karjakin vs Carlsen",
+      "link": "/perl/chessgame?gid=1848606",
+      "id": "1848606",
+      "note": "We&apos;re On e3 Street"
+    },
+    {
+      "date": "2019-09-30",
+      "year": "1890",
+      "players": "Steinitz vs Gunsberg",
+      "link": "/perl/chessgame?gid=1054724",
+      "id": "1054724",
+      "note": "With Gunsberg Blazing"
+    },
+    {
+      "date": "2019-09-29",
+      "year": "2014",
+      "players": "M Mony vs P Piscopo",
+      "link": "/perl/chessgame?gid=1749969",
+      "id": "1749969",
+      "note": "Easy Mony"
+    },
+    {
+      "date": "2019-09-28",
+      "year": "1972",
+      "players": "Richard Meisel vs Denker",
+      "link": "/perl/chessgame?gid=1972636",
+      "id": "1972636",
+      "note": "Meisel Top"
+    },
+    {
+      "date": "2019-09-27",
+      "year": "1929",
+      "players": "Colle vs J J G Delvaux",
+      "link": "/perl/chessgame?gid=1242927",
+      "id": "1242927",
+      "note": "Colle Come Home"
+    },
+    {
+      "date": "2019-09-26",
+      "year": "1983",
+      "players": "L Shamkovich vs Alburt",
+      "link": "/perl/chessgame?gid=1017345",
+      "id": "1017345",
+      "note": "Sham Rocks"
+    },
     {
       "date": "2019-09-25",
       "year": "2019",
