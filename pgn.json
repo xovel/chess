@@ -1,6 +1,78 @@
 {
-  "update": "2019-11-05",
+  "update": "2019-11-14",
   "list": [
+    {
+      "date": "2019-11-14",
+      "year": "2019",
+      "players": "V Kovalev vs D Gavrilescu",
+      "link": "/perl/chessgame?gid=1974998",
+      "id": "1974998",
+      "note": "Long Time the Manxome Foe He Fought"
+    },
+    {
+      "date": "2019-11-13",
+      "year": "1957",
+      "players": "Furman vs Spassky",
+      "link": "/perl/chessgame?gid=1128395",
+      "id": "1128395",
+      "note": "And Shun the Furmious Bishop Snatch!"
+    },
+    {
+      "date": "2019-11-12",
+      "year": "2017",
+      "players": "Jobava vs Short",
+      "link": "/perl/chessgame?gid=1882397",
+      "id": "1882397",
+      "note": "Beware the Joba Rook, My Son!"
+    },
+    {
+      "date": "2019-11-11",
+      "year": "1978",
+      "players": "U Rath vs Larsen",
+      "link": "/perl/chessgame?gid=1162446",
+      "id": "1162446",
+      "note": "And the Mome Rath&apos;s Outplayed"
+    },
+    {
+      "date": "2019-11-10",
+      "year": "1906",
+      "players": "Schlechter vs H Wolf",
+      "link": "/perl/chessgame?gid=1341430",
+      "id": "1341430",
+      "note": "And The Wolf Drew and Drew"
+    },
+    {
+      "date": "2019-11-09",
+      "year": "1977",
+      "players": "M Diesen vs L Day",
+      "link": "/perl/chessgame?gid=1037494",
+      "id": "1037494",
+      "note": "This Day We Fight"
+    },
+    {
+      "date": "2019-11-08",
+      "year": "1904",
+      "players": "Duras vs A E Post",
+      "link": "/perl/chessgame?gid=1690694",
+      "id": "1690694",
+      "note": "Going Post Al"
+    },
+    {
+      "date": "2019-11-07",
+      "year": "2019",
+      "players": "J B Bjerre vs D Dubov",
+      "link": "/perl/chessgame?gid=1977517",
+      "id": "1977517",
+      "note": "The Night the Lights Went Out in Georgia"
+    },
+    {
+      "date": "2019-11-06",
+      "year": "1866",
+      "players": "Zukertort vs V Knorre",
+      "link": "/perl/chessgame?gid=1152018",
+      "id": "1152018",
+      "note": "Knorre In the Soup"
+    },
     {
       "date": "2019-11-05",
       "year": "1948",
