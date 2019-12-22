@@ -1,0 +1,16 @@
+[Event "Chess Olympiad Final-C"]
+[Site "Skopje YUG"]
+[Date "1972.10.10"]
+[EventDate "1972.09.18"]
+[Round "13"]
+[Result "1-0"]
+[White "Heikki Westerinen"]
+[Black "Yukio Miyasaki"]
+[ECO "C10"]
+[WhiteElo "2450"]
+[BlackElo "2280"]
+[PlyCount "29"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Nxf6+ Nxf6
+7.Bc4 c5 8.O-O cxd4 9.Nxd4 a6 10.b3 Bd6 11.Bb2 Qc7 12.Kh1 O-O
+13.Qf3 e5 14.Nf5 e4 15.Nh6+ 1-0

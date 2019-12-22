@@ -1,0 +1,20 @@
+[Event "Cambridge Springs"]
+[Site "Cambridge Springs, PA USA"]
+[Date "1904.05.03"]
+[EventDate "1904.04.25"]
+[Round "6.3"]
+[Result "0-1"]
+[White "William Ewart Napier"]
+[Black "Richard Teichmann"]
+[ECO "D51"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "74"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.Nf3 c6 6.e4 dxe4 7.Nxe4
+Bb4+ 8.Bd2 Be7 9.Bd3 c5 10.Bc3 b6 11.O-O Bb7 12.Qe2 O-O
+13.Rad1 Qc7 14.dxc5 bxc5 15.Ng3 Rfd8 16.Rfe1 Qc6 17.Qe3 Nf8
+18.h4 h6 19.h5 N8h7 20.Bf1 Qa4 21.Rxd8+ Rxd8 22.Ne5 Ng5 23.Bd3
+Bd6 24.f4 Bxe5 25.Qxe5 Nh3+ 26.gxh3 Rxd3 27.Qb8+ Kh7 28.Qxb7
+Rxg3+ 29.Kh2 Nxh5 30.Qe4+ Rg6 31.Rg1 f5 32.Qe2 Rxg1 33.Kxg1
+Nxf4 34.Qe5 Qd1+ 35.Kh2 Qc2+ 36.Kg3 Qg2+ 37.Kxf4 Qf2# 0-1

@@ -1,6 +1,310 @@
 {
-  "update": "2019-11-14",
+  "update": "2019-12-22",
   "list": [
+    {
+      "date": "2019-12-22",
+      "year": "2011",
+      "players": "Lagno vs R Pruijssers",
+      "link": "/perl/chessgame?gid=1604379",
+      "id": "1604379",
+      "note": "Kat Got Yer Tongue?"
+    },
+    {
+      "date": "2019-12-21",
+      "year": "1982",
+      "players": "Petrosian vs Kholmov",
+      "link": "/perl/chessgame?gid=1107332",
+      "id": "1107332",
+      "note": "Kholmover"
+    },
+    {
+      "date": "2019-12-20",
+      "year": "1981",
+      "players": "B Stein vs P Backwinkel",
+      "link": "/perl/chessgame?gid=1966234",
+      "id": "1966234",
+      "note": " Win! Bernd Stein&apos;s Mini"
+    },
+    {
+      "date": "2019-12-19",
+      "year": "1981",
+      "players": "M M Wind vs G Timmerman",
+      "link": "/perl/chessgame?gid=1460934",
+      "id": "1460934",
+      "note": "A Mighty Wind"
+    },
+    {
+      "date": "2019-12-18",
+      "year": "2005",
+      "players": "Leko vs Svidler",
+      "link": "/perl/chessgame?gid=1334524",
+      "id": "1334524",
+      "note": "Had A Mate But Couldn&apos;t See Her"
+    },
+    {
+      "date": "2019-12-17",
+      "year": "2014",
+      "players": "T Villiers vs K Holm",
+      "link": "/perl/chessgame?gid=1780803",
+      "id": "1780803",
+      "note": "Holm For The Holidays"
+    },
+    {
+      "date": "2019-12-16",
+      "year": "2015",
+      "players": "Ding Liren vs Wei Yi",
+      "link": "/perl/chessgame?gid=1801611",
+      "id": "1801611",
+      "note": "Old English: Hear Yi, Hear Yi!"
+    },
+    {
+      "date": "2019-12-15",
+      "year": "1970",
+      "players": "T Peine vs V Budde",
+      "link": "/perl/chessgame?gid=1631528",
+      "id": "1631528",
+      "note": "Common Sense"
+    },
+    {
+      "date": "2019-12-14",
+      "year": "1904",
+      "players": "W Napier vs Teichmann",
+      "link": "/perl/chessgame?gid=1036811",
+      "id": "1036811",
+      "note": "I&apos;m Dreaming of a White Checkmate"
+    },
+    {
+      "date": "2019-12-13",
+      "year": "1893",
+      "players": "Schlechter vs J Thirring",
+      "link": "/perl/chessgame?gid=1827587",
+      "id": "1827587",
+      "note": "A Thirring Finish"
+    },
+    {
+      "date": "2019-12-12",
+      "year": "2001",
+      "players": "H Herraiz Hidalgo vs T Upton",
+      "link": "/perl/chessgame?gid=1208482",
+      "id": "1208482",
+      "note": "You Are Most Wise To Tie Your Horse"
+    },
+    {
+      "date": "2019-12-11",
+      "year": "1972",
+      "players": "M Albano vs Karpov",
+      "link": "/perl/chessgame?gid=1067679",
+      "id": "1067679",
+      "note": "Four Corners"
+    },
+    {
+      "date": "2019-12-10",
+      "year": "1750",
+      "players": "De Legal vs Saint Brie",
+      "link": "/perl/chessgame?gid=1251892",
+      "id": "1251892",
+      "note": "18 &amp; Legal"
+    },
+    {
+      "date": "2019-12-09",
+      "year": "1926",
+      "players": "Capablanca vs A C Thomas",
+      "link": "/perl/chessgame?gid=1809837",
+      "id": "1809837",
+      "note": "Doubting Thomas"
+    },
+    {
+      "date": "2019-12-08",
+      "year": "2019",
+      "players": "Nisipeanu vs Nakamura",
+      "link": "/perl/chessgame?gid=1972212",
+      "id": "1972212",
+      "note": "Peanu Forte"
+    },
+    {
+      "date": "2019-12-07",
+      "year": "1989",
+      "players": "Vokac vs H Van der Veen",
+      "link": "/perl/chessgame?gid=1620349",
+      "id": "1620349",
+      "note": "I&apos;ma Wreak Havoc"
+    },
+    {
+      "date": "2019-12-06",
+      "year": "1996",
+      "players": "Seirawan vs Comet",
+      "link": "/perl/chessgame?gid=1503558",
+      "id": "1503558",
+      "note": "Comet, Me Bro"
+    },
+    {
+      "date": "2019-12-05",
+      "year": "1931",
+      "players": "Capablanca vs Jan Selman",
+      "link": "/perl/chessgame?gid=1756559",
+      "id": "1756559",
+      "note": "Sold!"
+    },
+    {
+      "date": "2019-12-04",
+      "year": "2015",
+      "players": "A Lewis vs H Richards",
+      "link": "/perl/chessgame?gid=1796473",
+      "id": "1796473",
+      "note": "The Lewis Chessman"
+    },
+    {
+      "date": "2019-12-03",
+      "year": "1959",
+      "players": "Fischer vs Pilnik",
+      "link": "/perl/chessgame?gid=1044101",
+      "id": "1044101",
+      "note": "Chill, Pil"
+    },
+    {
+      "date": "2019-12-02",
+      "year": "1870",
+      "players": "Duke Karl of Brunswick vs Prince of Villafranca",
+      "link": "/perl/chessgame?gid=1624911",
+      "id": "1624911",
+      "note": "Game of Thrones"
+    },
+    {
+      "date": "2019-12-01",
+      "year": "1957",
+      "players": "A G Murphy vs C Witte",
+      "link": "/perl/chessgame?gid=1654078",
+      "id": "1654078",
+      "note": "The Highest Form of Witte"
+    },
+    {
+      "date": "2019-11-30",
+      "year": "1987",
+      "players": "B Andonov vs Lputian",
+      "link": "/perl/chessgame?gid=1251254",
+      "id": "1251254",
+      "note": "Smbaty to Love"
+    },
+    {
+      "date": "2019-11-29",
+      "year": "1914",
+      "players": "Harry Bogdanor vs B Goulding Brown",
+      "link": "/perl/chessgame?gid=1951329",
+      "id": "1951329",
+      "note": "Never a Frown with Goulding Brown"
+    },
+    {
+      "date": "2019-11-28",
+      "year": "2019",
+      "players": "I Nepomniachtchi vs V S Gujrathi",
+      "link": "/perl/chessgame?gid=1981121",
+      "id": "1981121",
+      "note": "Outside Ian"
+    },
+    {
+      "date": "2019-11-27",
+      "year": "2008",
+      "players": "M Sana vs A E Franklin",
+      "link": "/perl/chessgame?gid=1654296",
+      "id": "1654296",
+      "note": "An Exercise In Fusillity"
+    },
+    {
+      "date": "2019-11-26",
+      "year": "2019",
+      "players": "A Eswaran vs Maggie Feng",
+      "link": "/perl/chessgame?gid=1950937",
+      "id": "1950937",
+      "note": "Feng Shui"
+    },
+    {
+      "date": "2019-11-25",
+      "year": "2017",
+      "players": "Nakamura vs Yifan Hou",
+      "link": "/perl/chessgame?gid=1875853",
+      "id": "1875853",
+      "note": "Naka knocks. Hou&apos;s there."
+    },
+    {
+      "date": "2019-11-24",
+      "year": "2006",
+      "players": "J Ljubarskij vs V Bukal Sr",
+      "link": "/perl/chessgame?gid=1435152",
+      "id": "1435152",
+      "note": "Bukal Up"
+    },
+    {
+      "date": "2019-11-23",
+      "year": "2017",
+      "players": "F Berkes vs McShane",
+      "link": "/perl/chessgame?gid=1891401",
+      "id": "1891401",
+      "note": "Berkes Is Willin&apos;"
+    },
+    {
+      "date": "2019-11-22",
+      "year": "1972",
+      "players": "H Westerinen vs Y Miyasaki",
+      "link": "/perl/chessgame?gid=1615369",
+      "id": "1615369",
+      "note": "Heikki&apos;s Delivery Service"
+    },
+    {
+      "date": "2019-11-21",
+      "year": "2004",
+      "players": "Carlsen vs D Madsen",
+      "link": "/perl/chessgame?gid=1820698",
+      "id": "1820698",
+      "note": "Mad Dag"
+    },
+    {
+      "date": "2019-11-20",
+      "year": "2014",
+      "players": "M Sana vs C Blocker",
+      "link": "/perl/chessgame?gid=1773401",
+      "id": "1773401",
+      "note": "Blocker room talk"
+    },
+    {
+      "date": "2019-11-19",
+      "year": "1984",
+      "players": "W Rohricht vs Sawyer",
+      "link": "/perl/chessgame?gid=1077499",
+      "id": "1077499",
+      "note": "Wayne&apos;s World"
+    },
+    {
+      "date": "2019-11-18",
+      "year": "1957",
+      "players": "Fischer vs J Sherwin",
+      "link": "/perl/chessgame?gid=1008366",
+      "id": "1008366",
+      "note": "Failure to c4 Himself"
+    },
+    {
+      "date": "2019-11-17",
+      "year": "2019",
+      "players": "Nataliya Buksa vs Jain Jeet",
+      "link": "/perl/chessgame?gid=1951832",
+      "id": "1951832",
+      "note": "Jeet Yet?"
+    },
+    {
+      "date": "2019-11-16",
+      "year": "1954",
+      "players": "I Bilek vs Szily",
+      "link": "/perl/chessgame?gid=1756395",
+      "id": "1756395",
+      "note": "&apos;Twas Bilek, and the Szily Jozse Did Hide and Crumble in f8"
+    },
+    {
+      "date": "2019-11-15",
+      "year": "1974",
+      "players": "Gligoric vs Ulf Andersson",
+      "link": "/perl/chessgame?gid=1019669",
+      "id": "1019669",
+      "note": "And As In Ulfish Thought He Sat"
+    },
     {
       "date": "2019-11-14",
       "year": "2019",

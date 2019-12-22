@@ -1,0 +1,18 @@
+[Event "58th US Open"]
+[Site "Cleveland, OH USA"]
+[Date "1957.08.08"]
+[EventDate "1957.08.05"]
+[Round "4"]
+[Result "0-1"]
+[White "Alpen Gardner Murphy"]
+[Black "Charles Witte"]
+[ECO "B20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1.e4 c5 2.b4 cxb4 3.a3 d5 4.exd5 Nf6 5.axb4 Nxd5 6.Ba3 e5 7.b5
+Be7 8.c4 Nf6 9.Nc3 O-O 10.Be2 Re8 11.d3 Bf5 12.Bxe7 Qxe7
+13.Nf3 Nbd7 14.O-O Nf8 15.Re1 Ng6 16.Bf1 Rad8 17.Ra2 e4 18.Rd2
+exf3 19.Rxe7 Rxe7 20.g3 Rde8 21.Qxf3 Bg4 22.Qg2 Ne5 23.Rb2
+Nf3+ 0-1
