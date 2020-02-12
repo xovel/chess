@@ -1,0 +1,17 @@
+[Event "London"]
+[Site "London ENG"]
+[Date "1890.??.??"]
+[EventDate "1890.??.??"]
+[Round "?"]
+[Result "0-1"]
+[White "William Wayte"]
+[Black "Charles Edward Ranken"]
+[ECO "C44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "32"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 Nf6 4. d4 d5 5. Bb5 Nxe4 6. Nxe5 Bd7
+7. Qb3 Nxe5 8. Qxd5 Qe7 9. Qxb7 Bxb5 10. Qxa8+ Kd7 11. dxe5
+Qxe5 12. Be3 Bc5 13. Qxh8 Nxf2 14. Kd2 Bxe3+ 15. Kc2 Qe4+
+16. Kb3 Qa4# 0-1

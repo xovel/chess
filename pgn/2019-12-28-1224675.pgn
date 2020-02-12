@@ -1,0 +1,17 @@
+[Event "Paris"]
+[Site "Paris FRA"]
+[Date "1926.11.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Ion Gudju"]
+[Black "Bogdanovsky"]
+[ECO "C56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "39"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Nxe4 6.Re1 d5
+7.Nc3 Be6 8.Nxe4 dxc4 9.Neg5 Qd5 10.Nxf7 Kxf7 11.Ng5+ Kg8
+12.Nxe6 Rc8 13.Bh6 Bb4 14.Nxg7 Ne5 15.Re2 d3 16.c3 Nf7 17.Nh5
+Qf5 18.Re8+ Rxe8 19.Qg4+ Qxg4 20.Nf6# 1-0

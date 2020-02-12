@@ -1,0 +1,17 @@
+[Event "London"]
+[Site "London ENG"]
+[Date "1879.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Isidor Gunsberg"]
+[Black "NN"]
+[ECO "C35"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "39"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 Be7 4.Bc4 Bh4+ 5.g3 fxg3 6.O-O gxh2+
+7.Kh1 d5 8.Bxd5 Nf6 9.Nc3 Nxd5 10.Nxd5 Bh3 11.Nxh4 Bxf1 12.Qg4
+O-O 13.Nf5 g6 14.Nfe7+ Kh8 15.b3 Nd7 16.Bb2+ f6 17.Rxf1 c6
+18.Qxd7 Qxd7 19.Rxf6 h5 20.Rf7# 1-0
