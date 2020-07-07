@@ -1,6 +1,1022 @@
 {
-  "update": "2020-02-29",
+  "update": "2020-07-07",
   "list": [
+    {
+      "date": "2020-07-07",
+      "year": "2004",
+      "players": "Judit Polgar vs E Morricone",
+      "link": "/perl/chessgame?gid=1710849",
+      "id": "1710849",
+      "note": "Music of the Archangelsk"
+    },
+    {
+      "date": "2020-07-06",
+      "year": "1902",
+      "players": "L Uedemann vs E P Elliott",
+      "link": "/perl/chessgame?gid=1602908",
+      "id": "1602908",
+      "note": "You Da Man!"
+    },
+    {
+      "date": "2020-07-05",
+      "year": "1902",
+      "players": "N Hald vs L Uedemann",
+      "link": "/perl/chessgame?gid=1751741",
+      "id": "1751741",
+      "note": "To Halve and to Hald"
+    },
+    {
+      "date": "2020-07-04",
+      "year": "1936",
+      "players": "E E Book vs G G Alexandrescu",
+      "link": "/perl/chessgame?gid=1242939",
+      "id": "1242939",
+      "note": "Alexandrescu&apos;s Hog Tied Band"
+    },
+    {
+      "date": "2020-07-03",
+      "year": "2010",
+      "players": "D E Cori Tello vs A Travkina",
+      "link": "/perl/chessgame?gid=1651615",
+      "id": "1651615",
+      "note": "Up-a-Deysi"
+    },
+    {
+      "date": "2020-07-02",
+      "year": "1996",
+      "players": "W Zili vs R M D P de Almeida",
+      "link": "/perl/chessgame?gid=1305957",
+      "id": "1305957",
+      "note": "Zili Putty"
+    },
+    {
+      "date": "2020-07-01",
+      "year": "1998",
+      "players": "P Mach vs A Flumbort",
+      "link": "/perl/chessgame?gid=1606089",
+      "id": "1606089",
+      "note": "The Speed Of Sound"
+    },
+    {
+      "date": "2020-06-30",
+      "year": "1968",
+      "players": "P Lindgren vs E Kalpa",
+      "link": "/perl/chessgame?gid=1448984",
+      "id": "1448984",
+      "note": "Pertti Little Combo"
+    },
+    {
+      "date": "2020-06-29",
+      "year": "2006",
+      "players": "Zhao Xue vs Koneru",
+      "link": "/perl/chessgame?gid=1433435",
+      "id": "1433435",
+      "note": "Humpy Had a Great Fall"
+    },
+    {
+      "date": "2020-06-28",
+      "year": "1974",
+      "players": "Spassky vs D Levy",
+      "link": "/perl/chessgame?gid=1128947",
+      "id": "1128947",
+      "note": "When the Levy Breaks"
+    },
+    {
+      "date": "2020-06-27",
+      "year": "1940",
+      "players": "H Burdge vs J W Stapp",
+      "link": "/perl/chessgame?gid=1997461",
+      "id": "1997461",
+      "note": "Stapp Infraction"
+    },
+    {
+      "date": "2020-06-26",
+      "year": "1976",
+      "players": "C Zuidema vs Sosonko",
+      "link": "/perl/chessgame?gid=1127550",
+      "id": "1127550",
+      "note": "Puff the Magic Dragon"
+    },
+    {
+      "date": "2020-06-25",
+      "year": "1985",
+      "players": "Spassky vs Seirawan",
+      "link": "/perl/chessgame?gid=1077676",
+      "id": "1077676",
+      "note": "And Then A Step to the Right"
+    },
+    {
+      "date": "2020-06-24",
+      "year": "1936",
+      "players": "B F Winkelman vs G N Treysman",
+      "link": "/perl/chessgame?gid=1633320",
+      "id": "1633320",
+      "note": "Let George Do It"
+    },
+    {
+      "date": "2020-06-23",
+      "year": "1986",
+      "players": "P Hardicsay vs Adorjan",
+      "link": "/perl/chessgame?gid=1016417",
+      "id": "1016417",
+      "note": "Black is OK!"
+    },
+    {
+      "date": "2020-06-22",
+      "year": "1913",
+      "players": "J Baer vs Lasker",
+      "link": "/perl/chessgame?gid=1380409",
+      "id": "1380409",
+      "note": "Smarter than the Average Baer"
+    },
+    {
+      "date": "2020-06-21",
+      "year": "1875",
+      "players": "S R Dill vs E McCutcheon",
+      "link": "/perl/chessgame?gid=1997367",
+      "id": "1997367",
+      "note": "Dill Pickle"
+    },
+    {
+      "date": "2020-06-20",
+      "year": "1979",
+      "players": "L Day vs Bisguier",
+      "link": "/perl/chessgame?gid=1028640",
+      "id": "1028640",
+      "note": "The Longest Day"
+    },
+    {
+      "date": "2020-06-19",
+      "year": "2008",
+      "players": "Short vs A A Lopez",
+      "link": "/perl/chessgame?gid=1507147",
+      "id": "1507147",
+      "note": "Short Lopez"
+    },
+    {
+      "date": "2020-06-18",
+      "year": "1929",
+      "players": "Riumin vs Rauzer",
+      "link": "/perl/chessgame?gid=1326371",
+      "id": "1326371",
+      "note": "The Queen&apos;s Rium Is Rauzer Uncomfortable"
+    },
+    {
+      "date": "2020-06-17",
+      "year": "2001",
+      "players": "J Houska vs A Harley",
+      "link": "/perl/chessgame?gid=1212544",
+      "id": "1212544",
+      "note": "The Mating Game"
+    },
+    {
+      "date": "2020-06-16",
+      "year": "1993",
+      "players": "Suba vs M Marin",
+      "link": "/perl/chessgame?gid=1134302",
+      "id": "1134302",
+      "note": "Suba - Marin Warfare"
+    },
+    {
+      "date": "2020-06-15",
+      "year": "1972",
+      "players": "Hug vs A Medina Garcia",
+      "link": "/perl/chessgame?gid=1617123",
+      "id": "1617123",
+      "note": "Bear Hug"
+    },
+    {
+      "date": "2020-06-14",
+      "year": "1936",
+      "players": "L Piazzini vs R Flores Alvarez",
+      "link": "/perl/chessgame?gid=1224433",
+      "id": "1224433",
+      "note": "A Little Square"
+    },
+    {
+      "date": "2020-06-13",
+      "year": "1875",
+      "players": "Owen vs Burn",
+      "link": "/perl/chessgame?gid=1991719",
+      "id": "1991719",
+      "note": "Throwing Down An Alter - Mate Him!"
+    },
+    {
+      "date": "2020-06-12",
+      "year": "1920",
+      "players": "Edith Charlotte Price vs E Gibb",
+      "link": "/perl/chessgame?gid=1924375",
+      "id": "1924375",
+      "note": "Charlotte&apos;s Web"
+    },
+    {
+      "date": "2020-06-11",
+      "year": "1936",
+      "players": "Stahlberg vs Grob",
+      "link": "/perl/chessgame?gid=1618104",
+      "id": "1618104",
+      "note": "Grob a Falling Stahlberg"
+    },
+    {
+      "date": "2020-06-10",
+      "year": "1998",
+      "players": "Oll vs R Liiva",
+      "link": "/perl/chessgame?gid=1286331",
+      "id": "1286331",
+      "note": "Oll - Liiva Twist"
+    },
+    {
+      "date": "2020-06-09",
+      "year": "1962",
+      "players": "Fischer vs K B Schou",
+      "link": "/perl/chessgame?gid=1990121",
+      "id": "1990121",
+      "note": "Shakin&apos; Up Bobby, Twist and Schou"
+    },
+    {
+      "date": "2020-06-08",
+      "year": "1972",
+      "players": "Petrosian vs Hug",
+      "link": "/perl/chessgame?gid=1615344",
+      "id": "1615344",
+      "note": "The Sorrows of Young Werner"
+    },
+    {
+      "date": "2020-06-07",
+      "year": "1925",
+      "players": "Reti vs M Walter",
+      "link": "/perl/chessgame?gid=1495673",
+      "id": "1495673",
+      "note": "Rich Over Troubled Walter"
+    },
+    {
+      "date": "2020-06-06",
+      "year": "2013",
+      "players": "N Grandelius vs A Ipatov",
+      "link": "/perl/chessgame?gid=1705085",
+      "id": "1705085",
+      "note": "As Tough As Nils"
+    },
+    {
+      "date": "2020-06-05",
+      "year": "1982",
+      "players": "Nunn vs H Ree",
+      "link": "/perl/chessgame?gid=1103110",
+      "id": "1103110",
+      "note": "Get Thee to a Nunn - H Ree"
+    },
+    {
+      "date": "2020-06-04",
+      "year": "1979",
+      "players": "J A Grefe vs Korchnoi",
+      "link": "/perl/chessgame?gid=1082542",
+      "id": "1082542",
+      "note": "Grefe Stricken"
+    },
+    {
+      "date": "2020-06-03",
+      "year": "2001",
+      "players": "C Garma vs P Joshi",
+      "link": "/perl/chessgame?gid=1236457",
+      "id": "1236457",
+      "note": "Good Garma"
+    },
+    {
+      "date": "2020-06-02",
+      "year": "2012",
+      "players": "D Laylo vs O Dimakiling",
+      "link": "/perl/chessgame?gid=1679475",
+      "id": "1679475",
+      "note": "Darwin: On the origin of Pieces"
+    },
+    {
+      "date": "2020-06-01",
+      "year": "1996",
+      "players": "F Roski vs K J Schulz",
+      "link": "/perl/chessgame?gid=1079743",
+      "id": "1079743",
+      "note": "Klaus Encounter of the Ferd Kind"
+    },
+    {
+      "date": "2020-05-31",
+      "year": "1956",
+      "players": "K Skold vs J A Fred",
+      "link": "/perl/chessgame?gid=1993797",
+      "id": "1993797",
+      "note": "&apos;Right&apos;, Said Fred"
+    },
+    {
+      "date": "2020-05-30",
+      "year": "1962",
+      "players": "Stein vs Portisch",
+      "link": "/perl/chessgame?gid=1112976",
+      "id": "1112976",
+      "note": "Stein Glass Beauty"
+    },
+    {
+      "date": "2020-05-29",
+      "year": "2014",
+      "players": "A Tari vs I Salgado Lopez",
+      "link": "/perl/chessgame?gid=1744858",
+      "id": "1744858",
+      "note": "A Tari 64"
+    },
+    {
+      "date": "2020-05-28",
+      "year": "1913",
+      "players": "Reti vs J Dobias",
+      "link": "/perl/chessgame?gid=1282508",
+      "id": "1282508",
+      "note": "Dobias Sacrifice"
+    },
+    {
+      "date": "2020-05-27",
+      "year": "1927",
+      "players": "B Thelen vs F Treybal",
+      "link": "/perl/chessgame?gid=1284435",
+      "id": "1284435",
+      "note": "I&apos;ve Got a Thelen"
+    },
+    {
+      "date": "2020-05-26",
+      "year": "1993",
+      "players": "Anand vs F Izeta Txabarri",
+      "link": "/perl/chessgame?gid=1018428",
+      "id": "1018428",
+      "note": "Vishy&apos;s Vicious Bishes"
+    },
+    {
+      "date": "2020-05-25",
+      "year": "2006",
+      "players": "E Sedina vs J Majdan-Gajewska",
+      "link": "/perl/chessgame?gid=1409025",
+      "id": "1409025",
+      "note": "Knights of Sedina"
+    },
+    {
+      "date": "2020-05-24",
+      "year": "2017",
+      "players": "Kasparov vs Molly Nesham",
+      "link": "/perl/chessgame?gid=1995201",
+      "id": "1995201",
+      "note": "Molly&apos;s Game"
+    },
+    {
+      "date": "2020-05-24",
+      "year": "2010",
+      "players": "D Rensch vs T Abrahamyan",
+      "link": "/perl/chessgame?gid=1601055",
+      "id": "1601055",
+      "note": "DR: According To This File, You&apos;re Paralyzed"
+    },
+    {
+      "date": "2020-05-22",
+      "year": "2010",
+      "players": "A Timofeev vs S Feller",
+      "link": "/perl/chessgame?gid=1595532",
+      "id": "1595532",
+      "note": "Fingered Feller"
+    },
+    {
+      "date": "2020-05-21",
+      "year": "1896",
+      "players": "R A Breckinridge vs S Ricardo-Rocamora",
+      "link": "/perl/chessgame?gid=1859594",
+      "id": "1859594",
+      "note": "Breckin and Entering"
+    },
+    {
+      "date": "2020-05-20",
+      "year": "2009",
+      "players": "S Hosea vs S Thomson",
+      "link": "/perl/chessgame?gid=1546521",
+      "id": "1546521",
+      "note": "Sow the Vulture Wind, Reap the Whirlwind"
+    },
+    {
+      "date": "2020-05-19",
+      "year": "2019",
+      "players": "R Ruck vs Mamedyarov",
+      "link": "/perl/chessgame?gid=1984454",
+      "id": "1984454",
+      "note": "Rook Saccing Ruck Sacked"
+    },
+    {
+      "date": "2020-05-18",
+      "year": "2010",
+      "players": "I Nepomniachtchi vs Jobava",
+      "link": "/perl/chessgame?gid=1577411",
+      "id": "1577411",
+      "note": "Jobava Should Know"
+    },
+    {
+      "date": "2020-05-17",
+      "year": "2019",
+      "players": "Ding Liren vs Aronian",
+      "link": "/perl/chessgame?gid=1983195",
+      "id": "1983195",
+      "note": "One Ding to Rule Them All"
+    },
+    {
+      "date": "2020-05-16",
+      "year": "1931",
+      "players": "Capablanca vs Brooklyn CC",
+      "link": "/perl/chessgame?gid=1793340",
+      "id": "1793340",
+      "note": "Brooklyn Mating Nets"
+    },
+    {
+      "date": "2020-05-15",
+      "year": "1882",
+      "players": "V Hruby vs Paulsen",
+      "link": "/perl/chessgame?gid=1001745",
+      "id": "1001745",
+      "note": "Goodbye Hruby, Lou&apos;s Day"
+    },
+    {
+      "date": "2020-05-14",
+      "year": "2013",
+      "players": "Akash G vs Caruana",
+      "link": "/perl/chessgame?gid=1728966",
+      "id": "1728966",
+      "note": "Error on a G String"
+    },
+    {
+      "date": "2020-05-14",
+      "year": "1936",
+      "players": "Alekhine vs Reshevsky",
+      "link": "/perl/chessgame?gid=1008346",
+      "id": "1008346",
+      "note": "The Knights of Nottingham"
+    },
+    {
+      "date": "2020-05-12",
+      "year": "1990",
+      "players": "P Zarrouati vs Hartwick Brauckmann",
+      "link": "/perl/chessgame?gid=1966237",
+      "id": "1966237",
+      "note": "The Check Keeps Bouncing"
+    },
+    {
+      "date": "2020-05-11",
+      "year": "2013",
+      "players": "J Kipper vs Z Harari",
+      "link": "/perl/chessgame?gid=1742587",
+      "id": "1742587",
+      "note": "Kipper Belt"
+    },
+    {
+      "date": "2020-05-10",
+      "year": "1898",
+      "players": "O H Labone vs Lasker",
+      "link": "/perl/chessgame?gid=1380332",
+      "id": "1380332",
+      "note": "Give the Doc Labone"
+    },
+    {
+      "date": "2020-05-09",
+      "year": "1933",
+      "players": "Fine vs G Page",
+      "link": "/perl/chessgame?gid=1043722",
+      "id": "1043722",
+      "note": "Paging Dr. Fine"
+    },
+    {
+      "date": "2020-05-08",
+      "year": "2009",
+      "players": "L D&apos;Costa vs I Nepomniachtchi",
+      "link": "/perl/chessgame?gid=1537871",
+      "id": "1537871",
+      "note": "D&apos;Costa Living"
+    },
+    {
+      "date": "2020-05-07",
+      "year": "1912",
+      "players": "Alekhine vs S Levitsky",
+      "link": "/perl/chessgame?gid=1011834",
+      "id": "1011834",
+      "note": "Levity&apos;s Rainbow"
+    },
+    {
+      "date": "2020-05-06",
+      "year": "2015",
+      "players": "Lenderman vs Samuel Herring",
+      "link": "/perl/chessgame?gid=1839556",
+      "id": "1839556",
+      "note": "Pickled Herring"
+    },
+    {
+      "date": "2020-05-05",
+      "year": "1912",
+      "players": "Reti vs K Havasi",
+      "link": "/perl/chessgame?gid=1623851",
+      "id": "1623851",
+      "note": "Reti? Have a Seat"
+    },
+    {
+      "date": "2020-05-04",
+      "year": "1971",
+      "players": "Ujtumen vs N Gaprindashvili",
+      "link": "/perl/chessgame?gid=1047207",
+      "id": "1047207",
+      "note": "Nona But the Brave"
+    },
+    {
+      "date": "2020-05-03",
+      "year": "1945",
+      "players": "Ragozin vs Taimanov",
+      "link": "/perl/chessgame?gid=1116523",
+      "id": "1116523",
+      "note": "A Taim to Kill"
+    },
+    {
+      "date": "2020-05-02",
+      "year": "1904",
+      "players": "Lasker vs W M Brooke",
+      "link": "/perl/chessgame?gid=1994633",
+      "id": "1994633",
+      "note": "Brooke No Opposition"
+    },
+    {
+      "date": "2020-05-01",
+      "year": "2001",
+      "players": "B Amin vs T Batchuluun",
+      "link": "/perl/chessgame?gid=1205641",
+      "id": "1205641",
+      "note": "It&apos;s Amin Basseness!"
+    },
+    {
+      "date": "2020-04-30",
+      "year": "2019",
+      "players": "E Yakushina vs E Mokshanova",
+      "link": "/perl/chessgame?gid=1966624",
+      "id": "1966624",
+      "note": "Super, &apos;Nova!"
+    },
+    {
+      "date": "2020-04-29",
+      "year": "1989",
+      "players": "A Nokso-Koivisto vs M Lanzani",
+      "link": "/perl/chessgame?gid=1498067",
+      "id": "1498067",
+      "note": "Thank You Mario! But Our Princess Is In Another Castle!"
+    },
+    {
+      "date": "2020-04-28",
+      "year": "1911",
+      "players": "S Rosselli del Turco vs H Pinkerton",
+      "link": "/perl/chessgame?gid=1887388",
+      "id": "1887388",
+      "note": "Pinkerton Defective Agency"
+    },
+    {
+      "date": "2020-04-27",
+      "year": "1907",
+      "players": "H Pinkerton vs B Heastie",
+      "link": "/perl/chessgame?gid=1994430",
+      "id": "1994430",
+      "note": "B Heastie Buoyed"
+    },
+    {
+      "date": "2020-04-26",
+      "year": "1959",
+      "players": "A M Hallmark vs Fazekas",
+      "link": "/perl/chessgame?gid=1161447",
+      "id": "1161447",
+      "note": "Hallmark Moment"
+    },
+    {
+      "date": "2020-04-25",
+      "year": "2014",
+      "players": "A Tari vs P Bersamina",
+      "link": "/perl/chessgame?gid=1776155",
+      "id": "1776155",
+      "note": "Bishop Till You Drop"
+    },
+    {
+      "date": "2020-04-24",
+      "year": "1974",
+      "players": "Korchnoi vs Petrosian",
+      "link": "/perl/chessgame?gid=1082287",
+      "id": "1082287",
+      "note": "Above Board"
+    },
+    {
+      "date": "2020-04-23",
+      "year": "2016",
+      "players": "Leko vs I Nepomniachtchi",
+      "link": "/perl/chessgame?gid=1826177",
+      "id": "1826177",
+      "note": "Springing a Lek"
+    },
+    {
+      "date": "2020-04-22",
+      "year": "2008",
+      "players": "T Hillarp Persson vs Portisch",
+      "link": "/perl/chessgame?gid=1492864",
+      "id": "1492864",
+      "note": "Burning bright"
+    },
+    {
+      "date": "2020-04-21",
+      "year": "2014",
+      "players": "S Williams vs McShane",
+      "link": "/perl/chessgame?gid=1780280",
+      "id": "1780280",
+      "note": "Warn Williams, The Luke Ascending"
+    },
+    {
+      "date": "2020-04-20",
+      "year": "1986",
+      "players": "Spassky vs J Sunye Neto",
+      "link": "/perl/chessgame?gid=1129426",
+      "id": "1129426",
+      "note": "Sunye Side Up"
+    },
+    {
+      "date": "2020-04-19",
+      "year": "2007",
+      "players": "Ftacnik vs F Vallejo Pons",
+      "link": "/perl/chessgame?gid=1502359",
+      "id": "1502359",
+      "note": "Ftacnik Voyage"
+    },
+    {
+      "date": "2020-04-18",
+      "year": "1977",
+      "players": "Reshevsky vs J Sunye Neto",
+      "link": "/perl/chessgame?gid=1366983",
+      "id": "1366983",
+      "note": "Sac It Again, Sam!"
+    },
+    {
+      "date": "2020-04-17",
+      "year": "1925",
+      "players": "Alekhine vs Echiquier Notre-Dame",
+      "link": "/perl/chessgame?gid=1012355",
+      "id": "1012355",
+      "note": "The Punchback of Notre Dame"
+    },
+    {
+      "date": "2020-04-15",
+      "year": "2009",
+      "players": "Akopian vs Karjakin",
+      "link": "/perl/chessgame?gid=1543553",
+      "id": "1543553",
+      "note": "War-End Piece"
+    },
+    {
+      "date": "2020-04-14",
+      "year": "1935",
+      "players": "A H Kelderman vs A Th Knoppers",
+      "link": "/perl/chessgame?gid=1993609",
+      "id": "1993609",
+      "note": "Hotmail"
+    },
+    {
+      "date": "2020-04-13",
+      "year": "1933",
+      "players": "Alekhine vs De Wit",
+      "link": "/perl/chessgame?gid=1012906",
+      "id": "1012906",
+      "note": "Alek In, Wit Out"
+    },
+    {
+      "date": "2020-04-12",
+      "year": "2020",
+      "players": "V Durarbayli vs Aydin Suleymanli",
+      "link": "/perl/chessgame?gid=1992464",
+      "id": "1992464",
+      "note": "Ayd, Abet, and Bayl"
+    },
+    {
+      "date": "2020-04-11",
+      "year": "2011",
+      "players": "J Guo vs J Upper",
+      "link": "/perl/chessgame?gid=1624084",
+      "id": "1624084",
+      "note": "Upper Hand"
+    },
+    {
+      "date": "2020-04-10",
+      "year": "2010",
+      "players": "A D Green vs D Thomas",
+      "link": "/perl/chessgame?gid=1587164",
+      "id": "1587164",
+      "note": "It&apos;s Not Easy Beating Green"
+    },
+    {
+      "date": "2020-04-09",
+      "year": "1934",
+      "players": "Riumin vs Ragozin",
+      "link": "/perl/chessgame?gid=1116385",
+      "id": "1116385",
+      "note": "Ra- Ra- Ragozin, Winner of Riumin&apos;s Queen"
+    },
+    {
+      "date": "2020-04-08",
+      "year": "1961",
+      "players": "Mednis vs G Kramer",
+      "link": "/perl/chessgame?gid=1718779",
+      "id": "1718779",
+      "note": "The Mednis of King George"
+    },
+    {
+      "date": "2020-04-07",
+      "year": "2017",
+      "players": "L&apos;Ami vs Van Wely",
+      "link": "/perl/chessgame?gid=1879871",
+      "id": "1879871",
+      "note": "CaL&apos;amity Strikes!"
+    },
+    {
+      "date": "2020-04-05",
+      "year": "2008",
+      "players": "G B Joshi vs G Shweta",
+      "link": "/perl/chessgame?gid=1509033",
+      "id": "1509033",
+      "note": "Is This Shweta Hand-Joshable, or Pry-Queen Only?"
+    },
+    {
+      "date": "2020-04-04",
+      "year": "1935",
+      "players": "Capablanca vs Ragozin",
+      "link": "/perl/chessgame?gid=1116418",
+      "id": "1116418",
+      "note": "Negative Space"
+    },
+    {
+      "date": "2020-04-03",
+      "year": "1903",
+      "players": "W E Allnutt vs Lasker",
+      "link": "/perl/chessgame?gid=1903078",
+      "id": "1903078",
+      "note": "W Allnut Whipped"
+    },
+    {
+      "date": "2020-04-02",
+      "year": "2008",
+      "players": "D Solak vs Karjakin",
+      "link": "/perl/chessgame?gid=1519495",
+      "id": "1519495",
+      "note": "Sicilian Dragan"
+    },
+    {
+      "date": "2020-04-01",
+      "year": "1971",
+      "players": "Keene vs E J Holt",
+      "link": "/perl/chessgame?gid=1387837",
+      "id": "1387837",
+      "note": "&apos;Tween Keene&apos;s Twin Queens"
+    },
+    {
+      "date": "2020-03-31",
+      "year": "2006",
+      "players": "S P Sethuraman vs J Czakon",
+      "link": "/perl/chessgame?gid=1424390",
+      "id": "1424390",
+      "note": "Czakon &#xE0; Son Gout"
+    },
+    {
+      "date": "2020-03-30",
+      "year": "1935",
+      "players": "Szabo vs H Mueller",
+      "link": "/perl/chessgame?gid=1004343",
+      "id": "1004343",
+      "note": "Hans Tied"
+    },
+    {
+      "date": "2020-03-29",
+      "year": "2009",
+      "players": "F Steil-Antoni vs Kosteniuk",
+      "link": "/perl/chessgame?gid=1558603",
+      "id": "1558603",
+      "note": "Why, Fi?"
+    },
+    {
+      "date": "2020-03-28",
+      "year": "1974",
+      "players": "J Ragan vs Benko",
+      "link": "/perl/chessgame?gid=1371039",
+      "id": "1371039",
+      "note": "PayPal"
+    },
+    {
+      "date": "2020-03-27",
+      "year": "2020",
+      "players": "A Giri vs I Nepomniachtchi",
+      "link": "/perl/chessgame?gid=1993010",
+      "id": "1993010",
+      "note": "I Love the Smell of Nepom in the Morning"
+    },
+    {
+      "date": "2020-03-26",
+      "year": "2002",
+      "players": "I Almannai Dafi vs M Tratar",
+      "link": "/perl/chessgame?gid=1256414",
+      "id": "1256414",
+      "note": "Dafi, Duck!"
+    },
+    {
+      "date": "2020-03-25",
+      "year": "2012",
+      "players": "McShane vs Radjabov",
+      "link": "/perl/chessgame?gid=1669393",
+      "id": "1669393",
+      "note": "Radj Against the McShane"
+    },
+    {
+      "date": "2020-03-24",
+      "year": "1985",
+      "players": "D Levy vs Ljubojevic",
+      "link": "/perl/chessgame?gid=1092104",
+      "id": "1092104",
+      "note": "Drove My Ljubo to the Levy, but the Levy Was Dry"
+    },
+    {
+      "date": "2020-03-23",
+      "year": "1974",
+      "players": "Tal vs Maric",
+      "link": "/perl/chessgame?gid=1140237",
+      "id": "1140237",
+      "note": "Maric-Tal Dispute"
+    },
+    {
+      "date": "2020-03-22",
+      "year": "2009",
+      "players": "D Howell vs M Bosboom",
+      "link": "/perl/chessgame?gid=1531087",
+      "id": "1531087",
+      "note": "OK Boomer"
+    },
+    {
+      "date": "2020-03-21",
+      "year": "2019",
+      "players": "McShane vs G Jones",
+      "link": "/perl/chessgame?gid=1983683",
+      "id": "1983683",
+      "note": "Sir Gawain and the Greed Knight"
+    },
+    {
+      "date": "2020-03-20",
+      "year": "1953",
+      "players": "Filip vs Tolush",
+      "link": "/perl/chessgame?gid=1270384",
+      "id": "1270384",
+      "note": "Sideways, Kazimirovich!"
+    },
+    {
+      "date": "2020-03-19",
+      "year": "2018",
+      "players": "Karpov vs Yifan Hou",
+      "link": "/perl/chessgame?gid=1911855",
+      "id": "1911855",
+      "note": "Yifan Houdini"
+    },
+    {
+      "date": "2020-03-18",
+      "year": "1980",
+      "players": "Kholmov vs Polugaevsky",
+      "link": "/perl/chessgame?gid=1112331",
+      "id": "1112331",
+      "note": "Needles and Pins"
+    },
+    {
+      "date": "2020-03-17",
+      "year": "2000",
+      "players": "Karjakin vs S Baranjuk",
+      "link": "/perl/chessgame?gid=1244154",
+      "id": "1244154",
+      "note": "Crimean Punishment"
+    },
+    {
+      "date": "2020-03-16",
+      "year": "1968",
+      "players": "Tarjan vs R Shean",
+      "link": "/perl/chessgame?gid=1816527",
+      "id": "1816527",
+      "note": "Me Tarjan, You Shean"
+    },
+    {
+      "date": "2020-03-15",
+      "year": "2020",
+      "players": "A Goryachkina vs Ju Wenjun",
+      "link": "/perl/chessgame?gid=1990728",
+      "id": "1990728",
+      "note": "Aleksandra the Great"
+    },
+    {
+      "date": "2020-03-14",
+      "year": "2018",
+      "players": "D Paravyan vs S Golubov",
+      "link": "/perl/chessgame?gid=1947658",
+      "id": "1947658",
+      "note": "Par Excellence"
+    },
+    {
+      "date": "2020-03-13",
+      "year": "1926",
+      "players": "A Teller vs Reti",
+      "link": "/perl/chessgame?gid=1420913",
+      "id": "1420913",
+      "note": "Teller: I&apos;ve Been Delayed, but I&apos;m Getting Reti"
+    },
+    {
+      "date": "2020-03-12",
+      "year": "2000",
+      "players": "Kosteniuk vs C P Gouw",
+      "link": "/perl/chessgame?gid=1005910",
+      "id": "1005910",
+      "note": "Oh Carol"
+    },
+    {
+      "date": "2020-03-11",
+      "year": "1980",
+      "players": "Azmaiparashvili vs A Chernin",
+      "link": "/perl/chessgame?gid=1021478",
+      "id": "1021478",
+      "note": "The Wizardry of Az"
+    },
+    {
+      "date": "2020-03-10",
+      "year": "2018",
+      "players": "A Wang vs I Krush",
+      "link": "/perl/chessgame?gid=1918828",
+      "id": "1918828",
+      "note": "Wang Dang Doodle"
+    },
+    {
+      "date": "2020-03-09",
+      "year": "2019",
+      "players": "Margarita Lysenko vs Alisa Nur-Mukhametova",
+      "link": "/perl/chessgame?gid=1986114",
+      "id": "1986114",
+      "note": "Not Wasting a Way in Margaritaville"
+    },
+    {
+      "date": "2020-03-08",
+      "year": "2018",
+      "players": "Louise Head vs M Pein",
+      "link": "/perl/chessgame?gid=1919930",
+      "id": "1919930",
+      "note": "Head-Crushing Pein"
+    },
+    {
+      "date": "2020-03-07",
+      "year": "2005",
+      "players": "S Conquest vs G Jones",
+      "link": "/perl/chessgame?gid=1357798",
+      "id": "1357798",
+      "note": "The Art of Conquest"
+    },
+    {
+      "date": "2020-03-06",
+      "year": "1894",
+      "players": "Tarrasch vs Von Scheve",
+      "link": "/perl/chessgame?gid=1258210",
+      "id": "1258210",
+      "note": "Bringing In the Scheve"
+    },
+    {
+      "date": "2020-03-05",
+      "year": "1983",
+      "players": "P Buj vs E Thiele",
+      "link": "/perl/chessgame?gid=1973262",
+      "id": "1973262",
+      "note": "Refuse to Buj"
+    },
+    {
+      "date": "2020-03-04",
+      "year": "2006",
+      "players": "Yu Shaoteng vs C Bauer",
+      "link": "/perl/chessgame?gid=1436510",
+      "id": "1436510",
+      "note": "Please Stop Shaoteng"
+    },
+    {
+      "date": "2020-03-03",
+      "year": "2020",
+      "players": "Aydin Suleymanli vs Smirin",
+      "link": "/perl/chessgame?gid=1992537",
+      "id": "1992537",
+      "note": "First Ayd"
+    },
+    {
+      "date": "2020-03-02",
+      "year": "2001",
+      "players": "M Roiz vs Ni Hua",
+      "link": "/perl/chessgame?gid=1188588",
+      "id": "1188588",
+      "note": "The Knights Who Say &apos;Ni&apos;!"
+    },
+    {
+      "date": "2020-03-01",
+      "year": "1955",
+      "players": "A W Conger vs Fischer",
+      "link": "/perl/chessgame?gid=1536489",
+      "id": "1536489",
+      "note": "Conger Reels Off A Win"
+    },
     {
       "date": "2020-02-29",
       "year": "2013",

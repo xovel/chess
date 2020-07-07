@@ -1,0 +1,20 @@
+[Event "Simul, 41b"]
+[Site "Copenhagen DEN"]
+[Date "1962.03.11"]
+[EventDate "1962.03.11"]
+[Round "?"]
+[Result "0-1"]
+[White "Robert James Fischer"]
+[Black "K B Schou"]
+[ECO "C51"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Danbase"]
+[PlyCount "52"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Nxb4 5. c3 Nc6 6. d4 exd4
+7. cxd4 Bb4+ 8. Kf1 Nge7 9. Ng5 d5 10. exd5 Nxd5 11. Nxf7 Kxf7
+12. Qf3+ Qf6 13. Bxd5+ Ke7 14. Qe4+ Be6 15. Bg5 Qxg5 16. Qxe6+
+Kd8 17. Bxc6 Qc1+ 18. Ke2 Qc2+ 19. Kf3 bxc6 20. Kg3 Re8
+21. Qg4 Bd6+ 22. Kh3 Qxf2 23. g3 Re2 24. Qxg7 Qg2+ 25. Kg4
+Re4+ 26. Kg5 Be7+ 0-1
