@@ -1,0 +1,32 @@
+[Event "Gothenburg"]
+[Site "Gothenburg SWE"]
+[Date "1920.08.18"]
+[EventDate "1920.08.02"]
+[Round "12"]
+[Result "1-0"]
+[White "Akiba Rubinstein"]
+[Black "Geza Maroczy"]
+[ECO "D63"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1.d4 {Notes from "The Chess Amateur", February 1922, and Efim
+Bogoljubow.} Nf6 2.Nf3 d5 3.c4 e6 4.Bg5 Be7 5.e3 Nbd7 6.Nc3
+O-O 7.Rc1 Re8 {?!} 8.Qc2 dxc4 {?!} 9.Bxc4 c5 10.O-O cxd4
+11.Nxd4 a6 {Bogoljubow: Black should play 11...Ne5 12.Be2 Bd7
+13.Rfd1 Qb6 with a satisfactory position.} 12.Rfd1 Qa5 13.Bh4
+Ne5 14.Be2 Ng6 15.Bg3 e5 {TCA: If 15...Nh5, then 16.Nb3 Qg5
+17.Ne4 with much the better game.} 16.Nb3 Qc7 17.Qb1 {!} Qb8
+18.Bf3 Qa7 19.Na5 {! TCA: Stops Black from obtaining a little
+more freedom by 19...Rb8 and 20...h5.} Bb4 20.Nc4 Bd7 21.Nd5
+Nxd5 22.Bxd5 Be6 23.Qe4 {Bogoljubow: Also good is 23.Nxe5 Nxe5
+24.Bxe5 and if 24...Bg4 25.Bd4 with an extra pawn, but
+Rubinstein prefers to keep the pressure on.} Bxd5 24.Rxd5 Rac8
+25.Rcd1 Bf8 26.b3 b5 27.Nd6 Bxd6 28.Rxd6 Rc7 {? Bogoljubow:
+Black misses his last chance: 28...Qa8!. Now 29.R6d5 is bad
+because of 29...f5! 30.Qxf5 Qxd5 31.Rxd5 Rc1+. If 29.Qf5 then
+29...f6 30.h4 Nh8 is possible and Black's position is
+playable.} 29.h4 {!} f6 30.Qd5+ Kh8 31.h5 Nf8 32.h6 Ng6 33.Qe6
+{!} Rf8 34.Rd7 gxh6 35.Bh4 {! TCA: For if 35...Nxh4 36.Qe7
+wins.} 1-0

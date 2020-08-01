@@ -1,0 +1,22 @@
+[Event "London Chess Classic Open"]
+[Site "London ENG"]
+[Date "2016.12.12"]
+[EventDate "2016.12.09"]
+[Round "5.26"]
+[Result "0-1"]
+[White "Antanas Zapolskis"]
+[Black "Sebastien Maze"]
+[ECO "B07"]
+[WhiteElo "2294"]
+[BlackElo "2608"]
+[PlyCount "82"]
+
+1. e4 g6 2. d4 d6 3. Nc3 Bg7 4. Be2 Nf6 5. g4 d5 6. e5 Ne4
+7. Be3 c5 8. Nxe4 dxe4 9. dxc5 Qxd1+ 10. Rxd1 Nc6 11. h3 Nxe5
+12. f4 Nc6 13. c3 Be6 14. a4 Bb3 15. Ra1 O-O-O 16. Bd1 Bc4
+17. a5 e5 18. Be2 Bd3 19. h4 exf4 20. Bxf4 Ne5 21. Nh3 f5
+22. gxf5 gxf5 23. Rg1 Bf6 24. Bg5 Bxg5 25. Rxg5 Rhf8 26. Nf4
+Bxe2 27. Kxe2 Nf3 28. Rg7 Rd2+ 29. Ke3 Rxb2 30. Rxh7 Ne5
+31. Ne6 Ng4+ 32. Kf4 Rf2+ 33. Kg5 Rg8+ 34. Rg7 Rxg7+ 35. Nxg7
+Ne3 36. h5 Rg2+ 37. Kf6 f4 38. h6 f3 39. Rh1 Ng4+ 40. Kf7
+Nxh6+ 41. Rxh6 Rxg7+ 0-1

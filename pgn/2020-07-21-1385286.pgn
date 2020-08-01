@@ -1,0 +1,23 @@
+[Event "Chess Olympiad"]
+[Site "Lucerne SUI"]
+[Date "1982.11.07"]
+[EventDate "?"]
+[Round "8"]
+[Result "1-0"]
+[White "Istvan Csom"]
+[Black "Artur Yusupov"]
+[ECO "A25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "103"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.e3 Nh6 6.Nge2 O-O 7.O-O
+d6 8.d3 Be6 9.h3 Qd7 10.Kh2 f5 11.b3 Rae8 12.d4 f4 13.d5 f3
+14.dxe6 Rxe6 15.Bxf3 Rxf3 16.Ne4 Re8 17.Kg2 Rff8 18.Ba3 Nf5
+19.Qd3 Nce7 20.Rad1 h6 21.Ng1 g5 22.Nf3 Rf7 23.g4 Nh4+ 24.Nxh4
+gxh4 25.f3 Ref8 26.Bb4 Qe6 27.Be1 Bf6 28.f4 Bg5 29.f5 Qd7
+30.Nxg5 hxg5 31.Bd2 Nc6 32.e4 Qe7 33.Qe3 Rg7 34.Bc3 Qf6 35.c5
+Nd4 36.cxd6 c5 37.b4 b6 38.Bxd4 cxd4 39.Qb3+ Rgf7 40.Qd5 Rd8
+41.Rxd4 exd4 42.e5 Qg7 43.e6 Qf6 44.e7 d3 45.exd8=Q+ Qxd8
+46.Rd1 Qe8 47.Qxd3 Qe5 48.Rd2 Kf8 49.Re2 Qf4 50.Re4 Qc1 51.d7
+Qb2+ 52.Kf3 1-0

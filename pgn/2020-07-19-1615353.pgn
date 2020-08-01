@@ -1,0 +1,19 @@
+[Event "Chess Olympiad Final-B"]
+[Site "Skopje YUG"]
+[Date "1972.09.27"]
+[EventDate "1972.09.18"]
+[Round "1"]
+[Result "0-1"]
+[White "Shimon Kagan"]
+[Black "Eugenio Torre"]
+[ECO "B03"]
+[WhiteElo "2425"]
+[BlackElo "2400"]
+[PlyCount "59"]
+
+1.e4 Nf6 2.e5 Nd5 3.c4 Nb6 4.d4 d6 5.exd6 cxd6 6.Be3 g6 7.h3
+Bg7 8.Nf3 O-O 9.Nc3 Nc6 10.Be2 d5 11.c5 Nc4 12.Bxc4 dxc4
+13.O-O Bf5 14.Qd2 Bd3 15.Rfe1 Re8 16.Ne2 b6 17.b4 a5 18.b5 Nb4
+19.Rac1 Be4 20.Rxc4 Bxf3 21.gxf3 Qd5 22.Rec1 Qxf3 23.Ng3 e5
+24.cxb6 exd4 25.Bxd4 Nd3 26.Bxg7 Nxc1 27.Bh6 Rad8 28.Qb2 Ne2+
+29.Qxe2 Rxe2 30.Nxe2 0-1
