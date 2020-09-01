@@ -1,6 +1,254 @@
 {
-  "update": "2020-08-01",
+  "update": "2020-09-01",
   "list": [
+    {
+      "date": "2020-09-01",
+      "year": "1991",
+      "players": "J L Vehre vs D Rigby",
+      "link": "/perl/chessgame?gid=1384693",
+      "id": "1384693",
+      "note": "All the Lonely Pieces, Where Do They All Belong?"
+    },
+    {
+      "date": "2020-08-31",
+      "year": "1871",
+      "players": "J A Galbreath vs H Harding",
+      "link": "/perl/chessgame?gid=1997085",
+      "id": "1997085",
+      "note": "Gal Force Wins"
+    },
+    {
+      "date": "2020-08-30",
+      "year": "2006",
+      "players": "M N Sher vs S Gauri",
+      "link": "/perl/chessgame?gid=1418767",
+      "id": "1418767",
+      "note": "Sher Thing"
+    },
+    {
+      "date": "2020-08-29",
+      "year": "1954",
+      "players": "G Kluger vs Benko",
+      "link": "/perl/chessgame?gid=1534727",
+      "id": "1534727",
+      "note": "Gyula With a Pal Erring"
+    },
+    {
+      "date": "2020-08-28",
+      "year": "1934",
+      "players": "E Eliskases vs Gilg",
+      "link": "/perl/chessgame?gid=1040767",
+      "id": "1040767",
+      "note": "Epic of Gilg"
+    },
+    {
+      "date": "2020-08-27",
+      "year": "1885",
+      "players": "Mackenzie vs Tarrasch",
+      "link": "/perl/chessgame?gid=1283314",
+      "id": "1283314",
+      "note": "Look at Him Working"
+    },
+    {
+      "date": "2020-08-26",
+      "year": "1934",
+      "players": "Dake vs E Tholfsen",
+      "link": "/perl/chessgame?gid=1412079",
+      "id": "1412079",
+      "note": "Caught In Passing"
+    },
+    {
+      "date": "2020-08-25",
+      "year": "2005",
+      "players": "Wu Wenjin vs Li Bo",
+      "link": "/perl/chessgame?gid=1375686",
+      "id": "1375686",
+      "note": "U Mad, Bo?"
+    },
+    {
+      "date": "2020-08-24",
+      "year": "1968",
+      "players": "Alfred Hulmes vs S Subramanian",
+      "link": "/perl/chessgame?gid=1802314",
+      "id": "1802314",
+      "note": "Elementary, My Dear Hulmes"
+    },
+    {
+      "date": "2020-08-23",
+      "year": "1904",
+      "players": "Sas vs NN",
+      "link": "/perl/chessgame?gid=1243004",
+      "id": "1243004",
+      "note": "Don&apos;t Need No Sas From You"
+    },
+    {
+      "date": "2020-08-22",
+      "year": "1969",
+      "players": "H Ree vs K Langeweg",
+      "link": "/perl/chessgame?gid=1496675",
+      "id": "1496675",
+      "note": "It&apos;s a Langeweg to Stop a H Ree"
+    },
+    {
+      "date": "2020-08-21",
+      "year": "2018",
+      "players": "Edward Song vs Joshua Colas",
+      "link": "/perl/chessgame?gid=1913945",
+      "id": "1913945",
+      "note": "I&apos;d Like to Buy the World a Coke"
+    },
+    {
+      "date": "2020-08-20",
+      "year": "1976",
+      "players": "S Pencil vs G Goltsoff",
+      "link": "/perl/chessgame?gid=1284179",
+      "id": "1284179",
+      "note": "The Sharpest Pencil in the Box"
+    },
+    {
+      "date": "2020-08-19",
+      "year": "1932",
+      "players": "E Rubinstein vs Mross",
+      "link": "/perl/chessgame?gid=1466115",
+      "id": "1466115",
+      "note": "E Rubinstein Gathers No Mross"
+    },
+    {
+      "date": "2020-08-18",
+      "year": "1977",
+      "players": "J Garcia Padron vs Tal",
+      "link": "/perl/chessgame?gid=1574810",
+      "id": "1574810",
+      "note": "I Beg Your Padron"
+    },
+    {
+      "date": "2020-08-17",
+      "year": "1949",
+      "players": "H G Rhodes vs G Wood",
+      "link": "/perl/chessgame?gid=1156168",
+      "id": "1156168",
+      "note": "Wood Converges on a Lonely Rhodes"
+    },
+    {
+      "date": "2020-08-16",
+      "year": "1987",
+      "players": "Anand vs Adams",
+      "link": "/perl/chessgame?gid=1013674",
+      "id": "1013674",
+      "note": "Vishy Tricky for Mickey"
+    },
+    {
+      "date": "2020-08-15",
+      "year": "1993",
+      "players": "Kasimdzhanov vs A Blodstein",
+      "link": "/perl/chessgame?gid=1310889",
+      "id": "1310889",
+      "note": "Blodstein Pattern Analysis"
+    },
+    {
+      "date": "2020-08-14",
+      "year": "1905",
+      "players": "Spielmann vs Nimzowitsch",
+      "link": "/perl/chessgame?gid=1130624",
+      "id": "1130624",
+      "note": "Rudolf With Your Mind So Bright - Won&apos;t You Sac a Rook and Knight?"
+    },
+    {
+      "date": "2020-08-13",
+      "year": "1995",
+      "players": "F Vallejo Pons vs S Williams",
+      "link": "/perl/chessgame?gid=1730139",
+      "id": "1730139",
+      "note": "Ginger Ails"
+    },
+    {
+      "date": "2020-08-12",
+      "year": "1953",
+      "players": "Jerome Herbin vs B Petri",
+      "link": "/perl/chessgame?gid=1949093",
+      "id": "1949093",
+      "note": "Petri Net"
+    },
+    {
+      "date": "2020-08-12",
+      "year": "1948",
+      "players": "S Gibson vs F Hart",
+      "link": "/perl/chessgame?gid=1075280",
+      "id": "1075280",
+      "note": "Maul Gibson, Brave Hart"
+    },
+    {
+      "date": "2020-08-10",
+      "year": "1937",
+      "players": "A Kotz vs P Lebedev",
+      "link": "/perl/chessgame?gid=1427480",
+      "id": "1427480",
+      "note": "Lebedev-Dub, Three Pieces In a Tub"
+    },
+    {
+      "date": "2020-08-09",
+      "year": "1994",
+      "players": "V Trickov vs A Pachmann",
+      "link": "/perl/chessgame?gid=1105266",
+      "id": "1105266",
+      "note": "Trick Shot"
+    },
+    {
+      "date": "2020-08-08",
+      "year": "1967",
+      "players": "R Eud vs Podgaets",
+      "link": "/perl/chessgame?gid=1581183",
+      "id": "1581183",
+      "note": "R Eud Awakening"
+    },
+    {
+      "date": "2020-08-07",
+      "year": "1971",
+      "players": "Stein vs A Z Kapengut",
+      "link": "/perl/chessgame?gid=1132508",
+      "id": "1132508",
+      "note": "Albert and Stein&apos;s Theoretical Novelty"
+    },
+    {
+      "date": "2020-08-06",
+      "year": "1937",
+      "players": "Spielmann vs E Zinner",
+      "link": "/perl/chessgame?gid=1899352",
+      "id": "1899352",
+      "note": "Guess Who&apos;s Coming to Zinner (Phony Benoni)"
+    },
+    {
+      "date": "2020-08-05",
+      "year": "1865",
+      "players": "Steinitz vs W Bolt",
+      "link": "/perl/chessgame?gid=1228236",
+      "id": "1228236",
+      "note": "Who Slain Bolt? (MissScarlett)"
+    },
+    {
+      "date": "2020-08-04",
+      "year": "2002",
+      "players": "M K A Russell vs M Perez Candelario",
+      "link": "/perl/chessgame?gid=1258615",
+      "id": "1258615",
+      "note": "If There&apos;s A Russell In Your Hedgehog, Don&apos;t Be Alarmed Now"
+    },
+    {
+      "date": "2020-08-03",
+      "year": "2011",
+      "players": "Michael Vilenchuk vs R J Moon",
+      "link": "/perl/chessgame?gid=1630105",
+      "id": "1630105",
+      "note": "Over the Moon"
+    },
+    {
+      "date": "2020-08-02",
+      "year": "2010",
+      "players": "Z Sarakauskiene vs Mi Wang",
+      "link": "/perl/chessgame?gid=1592097",
+      "id": "1592097",
+      "note": "Zivile&apos;s Spanish War"
+    },
     {
       "date": "2020-08-01",
       "year": "1937",

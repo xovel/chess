@@ -1,0 +1,18 @@
+[Event "69th US Open"]
+[Site "Aspen, CO USA"]
+[Date "1968.08.11"]
+[EventDate "1968.08.11"]
+[Round "1"]
+[Result "0-1"]
+[White "Alfred Hulmes"]
+[Black "Subu Subramanian"]
+[ECO "A65"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "50"]
+
+1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Bg5
+Bg7 8.Qd2 O-O 9.Bd3 Re8 10.O-O-O a6 11.Kb1 b5 12.f3 Nbd7
+13.Rc1 Rb8 14.h4 c4 15.Be2 b4 16.Nd1 c3 17.Qf4 Qa5 18.Qxd6 Rb6
+19.Qc7 b3 20.Nxc3 Nxd5 21.exd5 Nc5 22.a3 Bf5+ 23.Ka1 Qxa3+
+24.bxa3 Bxc3+ 25.Rxc3 b2+ 0-1

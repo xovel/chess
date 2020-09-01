@@ -1,0 +1,15 @@
+[Event "Sambor"]
+[Site "Sambor"]
+[Date "1904.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Sas"]
+[Black "NN"]
+[ECO "C21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "19"]
+
+1.e4 e5 2.d4 d5 3.Nc3 exd4 4.Qxd4 dxe4 5.Nd5 c6 6.Qe5+ Kd7
+7.Qf5+ Kd6 8.Bf4+ Kc5 9.b4+ Kd4 10.c3# 1-0
