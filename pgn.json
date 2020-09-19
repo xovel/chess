@@ -1,6 +1,142 @@
 {
-  "update": "2020-09-01",
+  "update": "2020-09-19",
   "list": [
+    {
+      "date": "2020-09-19",
+      "year": "2010",
+      "players": "E Karklins vs J Damocles",
+      "link": "/perl/chessgame?gid=1725687",
+      "id": "1725687",
+      "note": "Sword of Damocles"
+    },
+    {
+      "date": "2020-09-18",
+      "year": "1937",
+      "players": "Harold Morton vs W Adams",
+      "link": "/perl/chessgame?gid=1746904",
+      "id": "1746904",
+      "note": "Childe Harold to the Dark Tower Came"
+    },
+    {
+      "date": "2020-09-16",
+      "year": "1911",
+      "players": "Capablanca vs O Bernstein",
+      "link": "/perl/chessgame?gid=1264025",
+      "id": "1264025",
+      "note": "Fluent in Spanish"
+    },
+    {
+      "date": "2020-09-15",
+      "year": "2008",
+      "players": "H Punongbayan vs F Mwagomba",
+      "link": "/perl/chessgame?gid=1524097",
+      "id": "1524097",
+      "note": "Clever Pun"
+    },
+    {
+      "date": "2020-09-14",
+      "year": "1994",
+      "players": "Ganguly vs A Jankovic",
+      "link": "/perl/chessgame?gid=1230663",
+      "id": "1230663",
+      "note": "Slow Down, You Crazy Child"
+    },
+    {
+      "date": "2020-09-13",
+      "year": "1980",
+      "players": "J Sunye Neto vs Romanishin",
+      "link": "/perl/chessgame?gid=1118239",
+      "id": "1118239",
+      "note": "Neto Fiddles while Romanishin Burns"
+    },
+    {
+      "date": "2020-09-12",
+      "year": "1879",
+      "players": "Tarrasch vs F Riemann",
+      "link": "/perl/chessgame?gid=1283301",
+      "id": "1283301",
+      "note": "Riemann Geometry"
+    },
+    {
+      "date": "2020-09-11",
+      "year": "1934",
+      "players": "Riumin vs V Makogonov",
+      "link": "/perl/chessgame?gid=1240050",
+      "id": "1240050",
+      "note": "Riumin With A View"
+    },
+    {
+      "date": "2020-09-10",
+      "year": "2011",
+      "players": "Fressinet vs N Brunner",
+      "link": "/perl/chessgame?gid=1624537",
+      "id": "1624537",
+      "note": "Murder on the Laurent Express"
+    },
+    {
+      "date": "2020-09-09",
+      "year": "2014",
+      "players": "Axel Smith vs N Grandelius",
+      "link": "/perl/chessgame?gid=1755168",
+      "id": "1755168",
+      "note": "Sacre5ice PersoNe5ied"
+    },
+    {
+      "date": "2020-09-08",
+      "year": "1936",
+      "players": "Kashdan vs I A Horowitz",
+      "link": "/perl/chessgame?gid=1633313",
+      "id": "1633313",
+      "note": "Holy Roller, Kashdan!"
+    },
+    {
+      "date": "2020-09-07",
+      "year": "1851",
+      "players": "W Hodges vs C E Ranken",
+      "link": "/perl/chessgame?gid=1227699",
+      "id": "1227699",
+      "note": "Ranken Fail"
+    },
+    {
+      "date": "2020-09-06",
+      "year": "2010",
+      "players": "D Howell vs Gelfand",
+      "link": "/perl/chessgame?gid=1587854",
+      "id": "1587854",
+      "note": "I&apos;m Just Mad About Four Queen"
+    },
+    {
+      "date": "2020-09-05",
+      "year": "1945",
+      "players": "M Czerniak vs G Hand",
+      "link": "/perl/chessgame?gid=1533118",
+      "id": "1533118",
+      "note": "Things May Get Out Of Hand"
+    },
+    {
+      "date": "2020-09-04",
+      "year": "2006",
+      "players": "Kaufman vs A Moreno",
+      "link": "/perl/chessgame?gid=1434988",
+      "id": "1434988",
+      "note": "More? No!"
+    },
+    {
+      "date": "2020-09-03",
+      "year": "1976",
+      "players": "A Dunne vs K Plesset",
+      "link": "/perl/chessgame?gid=1998542",
+      "id": "1998542",
+      "note": "Plesset Surprise"
+    },
+    {
+      "date": "2020-09-02",
+      "year": "1968",
+      "players": "Benko vs I A Horowitz",
+      "link": "/perl/chessgame?gid=1056942",
+      "id": "1056942",
+      "note": "Benko Bunco"
+    },
     {
       "date": "2020-09-01",
       "year": "1991",

@@ -1,0 +1,17 @@
+[Event "Breslau"]
+[Site "Breslau GER"]
+[Date "1879.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Siegbert Tarrasch"]
+[Black "Fritz Riemann"]
+[ECO "C67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "36"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Be7 6.Qe2 Nd6
+7.Bxc6 bxc6 8.dxe5 Nf5 9.g4 Nh4 10.Nxh4 Bxh4 11.f4 Be7 12.f5
+d5 13.f6 Bc5+ 14.Be3 Bxe3+ 15.Qxe3 gxf6 16.exf6+ Be6 17.Kh1
+Rg8 18.g5 d4 0-1
