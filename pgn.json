@@ -1,6 +1,102 @@
 {
-  "update": "2020-09-19",
+  "update": "2020-10-01",
   "list": [
+    {
+      "date": "2020-10-01",
+      "year": "1997",
+      "players": "Chess Genius vs Timman",
+      "link": "/perl/chessgame?gid=1143423",
+      "id": "1143423",
+      "note": "A Very Stable Genius"
+    },
+    {
+      "date": "2020-09-30",
+      "year": "1995",
+      "players": "R D Campbell vs Stephen Capp",
+      "link": "/perl/chessgame?gid=1913517",
+      "id": "1913517",
+      "note": "If the Capp Fits, Wear It"
+    },
+    {
+      "date": "2020-09-29",
+      "year": "2000",
+      "players": "T Hillarp Persson vs J Kleinert",
+      "link": "/perl/chessgame?gid=1006017",
+      "id": "1006017",
+      "note": "Tiger, Tiger, Burning Bright"
+    },
+    {
+      "date": "2020-09-28",
+      "year": "1900",
+      "players": "F Soddy vs C E C Tattersall",
+      "link": "/perl/chessgame?gid=1791581",
+      "id": "1791581",
+      "note": "Rap Soddy In Blue"
+    },
+    {
+      "date": "2020-09-27",
+      "year": "1963",
+      "players": "Hort vs Kavalek",
+      "link": "/perl/chessgame?gid=1604270",
+      "id": "1604270",
+      "note": "Shot Through the Hort"
+    },
+    {
+      "date": "2020-09-26",
+      "year": "2018",
+      "players": "Kadir Akin vs N Krishna Teja",
+      "link": "/perl/chessgame?gid=1935562",
+      "id": "1935562",
+      "note": "It&apos;s Teja&apos;s View All Over Akin"
+    },
+    {
+      "date": "2020-09-25",
+      "year": "1938",
+      "players": "Dake vs Reshevsky",
+      "link": "/perl/chessgame?gid=1422063",
+      "id": "1422063",
+      "note": "Dake Tripper"
+    },
+    {
+      "date": "2020-09-24",
+      "year": "1925",
+      "players": "R E Lean vs F Apsenieks",
+      "link": "/perl/chessgame?gid=1782629",
+      "id": "1782629",
+      "note": "Lean on Me"
+    },
+    {
+      "date": "2020-09-23",
+      "year": "2019",
+      "players": "A Firouzja vs M Zarkovic",
+      "link": "/perl/chessgame?gid=1951576",
+      "id": "1951576",
+      "note": "A Firouzjous Attack"
+    },
+    {
+      "date": "2020-09-22",
+      "year": "1892",
+      "players": "Lasker vs Liddell",
+      "link": "/perl/chessgame?gid=1995486",
+      "id": "1995486",
+      "note": "Doctor Do Liddell"
+    },
+    {
+      "date": "2020-09-21",
+      "year": "2020",
+      "players": "D Dvirnyy vs Shirov",
+      "link": "/perl/chessgame?gid=2006996",
+      "id": "2006996",
+      "note": "At Dvirnyy&apos;s End"
+    },
+    {
+      "date": "2020-09-20",
+      "year": "2000",
+      "players": "Judit Polgar vs Anastasian",
+      "link": "/perl/chessgame?gid=1402208",
+      "id": "1402208",
+      "note": "Anastasian Screamed In Vain"
+    },
     {
       "date": "2020-09-19",
       "year": "2010",
