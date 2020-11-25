@@ -1,0 +1,30 @@
+[Event "US Championship"]
+[Site "El Paso, TX USA"]
+[Date "1973.09.14"]
+[EventDate "1973.09.09"]
+[Round "5"]
+[Result "1-0"]
+[White "John Alan Grefe"]
+[Black "Edmar J Mednis"]
+[ECO "C18"]
+[WhiteElo "?"]
+[BlackElo "2450"]
+[PlyCount "177"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Qc7 7.Nf3
+b6 8.Bb5+ Bd7 9.Bd3 c4 10.Be2 Ba4 11.Bf4 Ne7 12.Qd2 Nbc6 13.h4
+O-O-O 14.h5 h6 15.g4 Rdf8 16.Rc1 Qd7 17.Qe3 Kb7 18.Kd2 Nc8
+19.Nh4 Rhg8 20.Bg3 Qe7 21.Ra1 Re8 22.f4 f6 23.Bf1 Qd7 24.Bh3
+Rgf8 25.Rae1 fxe5 26.fxe5 Na5 27.Ng6 Rf7 28.Bh4 Bxc2 29.Kxc2
+Qa4+ 30.Kd2 Nb3+ 31.Ke2 Qxa3 32.Rd1 Qb2+ 33.Ke1 a5 34.Bg3 a4
+35.Rh2 Qa3 36.Rf2 Rxf2 37.Qxf2 Rd8 38.Bf4 b5 39.g5 b4 40.gxh6
+gxh6 41.Bxh6 bxc3 42.Bxe6 Nb6 43.Bf5 Qb2 44.Rb1 Qxf2+ 45.Kxf2
+Nxd4 46.Rxb6+ Kxb6 47.Be3 Kc5 48.Nf4 Rf8 49.Ne6+ Kb4 50.Nxd4
+a3 51.e6 a2 52.e7 Rxf5+ 53.Nxf5 a1=Q 54.e8=Q Qh1 55.Qb8+ Ka3
+56.Bc5+ Ka2 57.Qa7+ Kb1 58.Qb7+ Ka2 59.Qa7+ Kb1 60.Qb7+ Ka2
+61.Qa6+ Kb1 62.Qb5+ Kc2 63.Bd6 Qxh5 64.Ne3+ Kc1 65.Ba3+ Kd2
+66.Nxc4+ Kd3 67.Ne3+ Ke4 68.Qb4+ Kd3 69.Qb1+ Kd4 70.Qb4+ Kd3
+71.Qb1+ Kd4 72.Bd6 Qh4+ 73.Bg3 Qg5 74.Qb4+ Kd3 75.Qb5+ Ke4
+76.Qa4+ Kd3 77.Qc2+ Kd4 78.Qa4+ Kd3 79.Qc2+ Kd4 80.Nf5+ Kc4
+81.Qa4+ Kd3 82.Qd4+ Kc2 83.Ne3+ Kb3 84.Qb6+ Ka4 85.Qa6+ Kb3
+86.Qb5+ Ka2 87.Qa4+ Kb2 88.Qc2+ Ka3 89.Bd6# 1-0

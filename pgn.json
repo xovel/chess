@@ -1,6 +1,438 @@
 {
-  "update": "2020-10-01",
+  "update": "2020-11-24",
   "list": [
+    {
+      "date": "2020-11-24",
+      "year": "1973",
+      "players": "G Estevez Morales vs Huebner",
+      "link": "/perl/chessgame?gid=1162549",
+      "id": "1162549",
+      "note": "The Beatings Will Not Continue"
+    },
+    {
+      "date": "2020-11-23",
+      "year": "1939",
+      "players": "E Mulder vs F Parr",
+      "link": "/perl/chessgame?gid=1441454",
+      "id": "1441454",
+      "note": "The G-File"
+    },
+    {
+      "date": "2020-11-22",
+      "year": "1898",
+      "players": "Burn vs Halprin",
+      "link": "/perl/chessgame?gid=1035963",
+      "id": "1035963",
+      "note": "Slow Burn"
+    },
+    {
+      "date": "2020-11-21",
+      "year": "1984",
+      "players": "Anand vs Wolff",
+      "link": "/perl/chessgame?gid=1984404",
+      "id": "1984404",
+      "note": "Wolff Trapp; or, Vishful Thinking"
+    },
+    {
+      "date": "2020-11-20",
+      "year": "1932",
+      "players": "Sultan Khan vs Yates",
+      "link": "/perl/chessgame?gid=1135566",
+      "id": "1135566",
+      "note": "Enemy At The Yates"
+    },
+    {
+      "date": "2020-11-19",
+      "year": "2009",
+      "players": "M Muzychuk vs V Nebolsina",
+      "link": "/perl/chessgame?gid=1540261",
+      "id": "1540261",
+      "note": "How Many Nebolsina Byte?"
+    },
+    {
+      "date": "2020-11-18",
+      "year": "1988",
+      "players": "A Haik vs A Hauchard",
+      "link": "/perl/chessgame?gid=1534446",
+      "id": "1534446",
+      "note": "Take a Haik"
+    },
+    {
+      "date": "2020-11-17",
+      "year": "2013",
+      "players": "Wang Yue vs Yifan Hou",
+      "link": "/perl/chessgame?gid=1715469",
+      "id": "1715469",
+      "note": "The East Enders"
+    },
+    {
+      "date": "2020-11-16",
+      "year": "1981",
+      "players": "B Modr vs V Benes",
+      "link": "/perl/chessgame?gid=1276057",
+      "id": "1276057",
+      "note": "Get Your Modr Runnin&apos;"
+    },
+    {
+      "date": "2020-11-15",
+      "year": "1934",
+      "players": "V Mikenas vs A Dolukhanov",
+      "link": "/perl/chessgame?gid=1992858",
+      "id": "1992858",
+      "note": "Social Distance"
+    },
+    {
+      "date": "2020-11-14",
+      "year": "1954",
+      "players": "Seidman vs K Burger",
+      "link": "/perl/chessgame?gid=1070982",
+      "id": "1070982",
+      "note": "Fried Burger"
+    },
+    {
+      "date": "2020-11-13",
+      "year": "2017",
+      "players": "H T Jacobsen vs H Ragnarsson",
+      "link": "/perl/chessgame?gid=1872365",
+      "id": "1872365",
+      "note": "Battle of Ragna-rook"
+    },
+    {
+      "date": "2020-11-12",
+      "year": "1989",
+      "players": "A Nickel vs P Dahms",
+      "link": "/perl/chessgame?gid=1421524",
+      "id": "1421524",
+      "note": "A Fast Nickel Beats a Slow Dahm"
+    },
+    {
+      "date": "2020-11-11",
+      "year": "2013",
+      "players": "D Derakhshani vs Z Urbonaviciute",
+      "link": "/perl/chessgame?gid=1731369",
+      "id": "1731369",
+      "note": "Dorsa the Explorer"
+    },
+    {
+      "date": "2020-11-10",
+      "year": "1870",
+      "players": "M Judd vs M Judd",
+      "link": "/perl/chessgame?gid=1997045",
+      "id": "1997045",
+      "note": "Turn It Loose"
+    },
+    {
+      "date": "2020-11-09",
+      "year": "2001",
+      "players": "I Sinka vs O Zenker",
+      "link": "/perl/chessgame?gid=1365090",
+      "id": "1365090",
+      "note": "Hook, Line, and Sinka"
+    },
+    {
+      "date": "2020-11-08",
+      "year": "2005",
+      "players": "L Milman vs A Simutowe",
+      "link": "/perl/chessgame?gid=1388285",
+      "id": "1388285",
+      "note": "The Milman Always Rings Twice"
+    },
+    {
+      "date": "2020-11-07",
+      "year": "2004",
+      "players": "Zsuzsa Polgar vs I Madl",
+      "link": "/perl/chessgame?gid=1316840",
+      "id": "1316840",
+      "note": "Sue&apos;s On First, Ildiko&apos;s On Second"
+    },
+    {
+      "date": "2020-11-06",
+      "year": "2001",
+      "players": "S Abu Sufian vs T A Vakhidov",
+      "link": "/perl/chessgame?gid=1184849",
+      "id": "1184849",
+      "note": "That&apos;s Great Tahir!"
+    },
+    {
+      "date": "2020-11-05",
+      "year": "1992",
+      "players": "V Baranova vs M Laubova",
+      "link": "/perl/chessgame?gid=1230205",
+      "id": "1230205",
+      "note": "Tactical Victory"
+    },
+    {
+      "date": "2020-11-04",
+      "year": "2006",
+      "players": "Votava vs P Spacek",
+      "link": "/perl/chessgame?gid=1405402",
+      "id": "1405402",
+      "note": "Taking Time to Count the Votava"
+    },
+    {
+      "date": "2020-11-03",
+      "year": "1983",
+      "players": "Chiburdanidze vs A Goldman",
+      "link": "/perl/chessgame?gid=1285406",
+      "id": "1285406",
+      "note": "Goldman Sacked"
+    },
+    {
+      "date": "2020-11-02",
+      "year": "2016",
+      "players": "A Bachmann vs R Praggnanandhaa",
+      "link": "/perl/chessgame?gid=1841262",
+      "id": "1841262",
+      "note": "Broken Axel"
+    },
+    {
+      "date": "2020-11-01",
+      "year": "1992",
+      "players": "V Baranova vs A Cernikova",
+      "link": "/perl/chessgame?gid=1230204",
+      "id": "1230204",
+      "note": "Victory Formation"
+    },
+    {
+      "date": "2020-10-31",
+      "year": "1987",
+      "players": "Larsen vs Kasparov",
+      "link": "/perl/chessgame?gid=1070220",
+      "id": "1070220",
+      "note": "Fifty Shades Of Garry"
+    },
+    {
+      "date": "2020-10-30",
+      "year": "2018",
+      "players": "E Gulden vs Andrei Macovei",
+      "link": "/perl/chessgame?gid=1935550",
+      "id": "1935550",
+      "note": "A Gulden Opportunity"
+    },
+    {
+      "date": "2020-10-29",
+      "year": "2008",
+      "players": "E Pavlov vs J Sucher",
+      "link": "/perl/chessgame?gid=1584252",
+      "id": "1584252",
+      "note": "Sucher Punch"
+    },
+    {
+      "date": "2020-10-28",
+      "year": "1990",
+      "players": "Judit Polgar vs H Klip",
+      "link": "/perl/chessgame?gid=1110880",
+      "id": "1110880",
+      "note": "Klipped Wings"
+    },
+    {
+      "date": "2020-10-27",
+      "year": "1972",
+      "players": "Aydin vs P Peev",
+      "link": "/perl/chessgame?gid=1918594",
+      "id": "1918594",
+      "note": "Pet Peev"
+    },
+    {
+      "date": "2020-10-26",
+      "year": "1899",
+      "players": "Pillsbury vs A J Conen",
+      "link": "/perl/chessgame?gid=1993739",
+      "id": "1993739",
+      "note": "Louisville Zugger"
+    },
+    {
+      "date": "2020-10-25",
+      "year": "1994",
+      "players": "Kasparov vs J Wapner",
+      "link": "/perl/chessgame?gid=1070773",
+      "id": "1070773",
+      "note": "Wapner Judged"
+    },
+    {
+      "date": "2020-10-24",
+      "year": "2018",
+      "players": "S Sargissyan vs Read Samadov",
+      "link": "/perl/chessgame?gid=1916222",
+      "id": "1916222",
+      "note": "Black and White and Read ALL Over"
+    },
+    {
+      "date": "2020-10-23",
+      "year": "1911",
+      "players": "Alapin vs Burn",
+      "link": "/perl/chessgame?gid=1000853",
+      "id": "1000853",
+      "note": "Herein Alapin Drop"
+    },
+    {
+      "date": "2020-10-22",
+      "year": "1992",
+      "players": "M Smolovic vs D Sekulic",
+      "link": "/perl/chessgame?gid=1230254",
+      "id": "1230254",
+      "note": "Go the Extra Mile"
+    },
+    {
+      "date": "2020-10-21",
+      "year": "1938",
+      "players": "Botvinnik vs Reshevsky",
+      "link": "/perl/chessgame?gid=1031962",
+      "id": "1031962",
+      "note": "AVRO Cadaver"
+    },
+    {
+      "date": "2020-10-20",
+      "year": "2007",
+      "players": "R Mesias Rojas vs L Rojas",
+      "link": "/perl/chessgame?gid=1454716",
+      "id": "1454716",
+      "note": "The War of the Rojases"
+    },
+    {
+      "date": "2020-10-19",
+      "year": "2014",
+      "players": "D Sengupta vs S Grover",
+      "link": "/perl/chessgame?gid=1783387",
+      "id": "1783387",
+      "note": "Deep Impact"
+    },
+    {
+      "date": "2020-10-18",
+      "year": "1896",
+      "players": "Janowski vs E Schallopp",
+      "link": "/perl/chessgame?gid=1064502",
+      "id": "1064502",
+      "note": "The Big Janowski"
+    },
+    {
+      "date": "2020-10-17",
+      "year": "1975",
+      "players": "N Schouten vs R Dieks",
+      "link": "/perl/chessgame?gid=1272782",
+      "id": "1272782",
+      "note": "It&apos;s All Over But the Schouten"
+    },
+    {
+      "date": "2020-10-16",
+      "year": "2017",
+      "players": "M Villalba vs L P Supi",
+      "link": "/perl/chessgame?gid=1867806",
+      "id": "1867806",
+      "note": "Hang On, Supi"
+    },
+    {
+      "date": "2020-10-15",
+      "year": "1993",
+      "players": "D Reinderman vs Winants",
+      "link": "/perl/chessgame?gid=1079302",
+      "id": "1079302",
+      "note": "The Reindeer Man"
+    },
+    {
+      "date": "2020-10-14",
+      "year": "1972",
+      "players": "Pribyl vs Smejkal",
+      "link": "/perl/chessgame?gid=1298267",
+      "id": "1298267",
+      "note": "Czech Traffic"
+    },
+    {
+      "date": "2020-10-13",
+      "year": "1988",
+      "players": "Tal vs A Chihu Amparan",
+      "link": "/perl/chessgame?gid=1140967",
+      "id": "1140967",
+      "note": "Aquiles&apos; Heel"
+    },
+    {
+      "date": "2020-10-12",
+      "year": "2020",
+      "players": "J K Duda vs Carlsen",
+      "link": "/perl/chessgame?gid=2010697",
+      "id": "2010697",
+      "note": "Duda Victory Dance"
+    },
+    {
+      "date": "2020-10-11",
+      "year": "1957",
+      "players": "M Tamburini vs E Paoli",
+      "link": "/perl/chessgame?gid=1379016",
+      "id": "1379016",
+      "note": "Hey Mr. Tamburini Man, Play a Pawn For Me"
+    },
+    {
+      "date": "2020-10-10",
+      "year": "1937",
+      "players": "Tartakower vs Fine",
+      "link": "/perl/chessgame?gid=1004709",
+      "id": "1004709",
+      "note": "You Savielly?"
+    },
+    {
+      "date": "2020-10-09",
+      "year": "1892",
+      "players": "Lasker vs T F Leech",
+      "link": "/perl/chessgame?gid=1379953",
+      "id": "1379953",
+      "note": "Sucker Punch"
+    },
+    {
+      "date": "2020-10-08",
+      "year": "2020",
+      "players": "Carlsen vs W So",
+      "link": "/perl/chessgame?gid=2010222",
+      "id": "2010222",
+      "note": "So Unusual"
+    },
+    {
+      "date": "2020-10-07",
+      "year": "1973",
+      "players": "J A Grefe vs Mednis",
+      "link": "/perl/chessgame?gid=1335670",
+      "id": "1335670",
+      "note": "Seven Stages of Grefe"
+    },
+    {
+      "date": "2020-10-06",
+      "year": "1937",
+      "players": "L P Spellman vs A Pearsall",
+      "link": "/perl/chessgame?gid=2010589",
+      "id": "2010589",
+      "note": "All Through the Knight"
+    },
+    {
+      "date": "2020-10-05",
+      "year": "1921",
+      "players": "Lasker vs Ferrer Luna",
+      "link": "/perl/chessgame?gid=2010521",
+      "id": "2010521",
+      "note": "Moonshine"
+    },
+    {
+      "date": "2020-10-04",
+      "year": "2018",
+      "players": "Efe Hakan Ozturk vs Yanki Kara",
+      "link": "/perl/chessgame?gid=1935726",
+      "id": "1935726",
+      "note": "Yanki Go Home"
+    },
+    {
+      "date": "2020-10-03",
+      "year": "1946",
+      "players": "W Elm vs Ahues",
+      "link": "/perl/chessgame?gid=1273188",
+      "id": "1273188",
+      "note": "Nightmare on Elm&apos;s Retreat"
+    },
+    {
+      "date": "2020-10-02",
+      "year": "1973",
+      "players": "A Planinc vs Najdorf",
+      "link": "/perl/chessgame?gid=1101874",
+      "id": "1101874",
+      "note": "Planinc Attack"
+    },
     {
       "date": "2020-10-01",
       "year": "1997",
