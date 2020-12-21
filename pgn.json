@@ -1,6 +1,222 @@
 {
-  "update": "2020-11-24",
+  "update": "2020-12-21",
   "list": [
+    {
+      "date": "2020-12-21",
+      "year": "1971",
+      "players": "Savon vs Polugaevsky",
+      "link": "/perl/chessgame?gid=1111994",
+      "id": "1111994",
+      "note": "Savon Calling"
+    },
+    {
+      "date": "2020-12-20",
+      "year": "1935",
+      "players": "A Becker vs Szabo",
+      "link": "/perl/chessgame?gid=1004319",
+      "id": "1004319",
+      "note": "Szabolt of Lightning"
+    },
+    {
+      "date": "2020-12-19",
+      "year": "1937",
+      "players": "H H Hahlbohm vs D S Polland",
+      "link": "/perl/chessgame?gid=1633381",
+      "id": "1633381",
+      "note": "Polland and the Polish"
+    },
+    {
+      "date": "2020-12-18",
+      "year": "1979",
+      "players": "Hebden vs K Langeweg",
+      "link": "/perl/chessgame?gid=1800331",
+      "id": "1800331",
+      "note": "Kick Against the Prix"
+    },
+    {
+      "date": "2020-12-17",
+      "year": "1953",
+      "players": "Keres vs Smyslov",
+      "link": "/perl/chessgame?gid=1072466",
+      "id": "1072466",
+      "note": "The Pawn is Mightier Than the Sword"
+    },
+    {
+      "date": "2020-12-16",
+      "year": "2005",
+      "players": "J Ye vs C Wei",
+      "link": "/perl/chessgame?gid=1373235",
+      "id": "1373235",
+      "note": "O Come All Ye Weithful"
+    },
+    {
+      "date": "2020-12-15",
+      "year": "1923",
+      "players": "J Mishook vs O Tenner",
+      "link": "/perl/chessgame?gid=1411387",
+      "id": "1411387",
+      "note": "Better Late Than Never"
+    },
+    {
+      "date": "2020-12-14",
+      "year": "1910",
+      "players": "Capablanca vs C Jaffe",
+      "link": "/perl/chessgame?gid=1266655",
+      "id": "1266655",
+      "note": "Man. Woman. Birth. Death. Checkmate"
+    },
+    {
+      "date": "2020-12-13",
+      "year": "1974",
+      "players": "N Caro vs Keene",
+      "link": "/perl/chessgame?gid=1071376",
+      "id": "1071376",
+      "note": "Napoleon Blown Apart"
+    },
+    {
+      "date": "2020-12-12",
+      "year": "1853",
+      "players": "Mohishunder vs Cochrane",
+      "link": "/perl/chessgame?gid=1547401",
+      "id": "1547401",
+      "note": "Bugs Bonny"
+    },
+    {
+      "date": "2020-12-11",
+      "year": "1925",
+      "players": "A N Stuart vs H G Wright",
+      "link": "/perl/chessgame?gid=1434817",
+      "id": "1434817",
+      "note": "The Customer Is Always Wright"
+    },
+    {
+      "date": "2020-12-10",
+      "year": "1897",
+      "players": "Lasker vs F R Gittins",
+      "link": "/perl/chessgame?gid=1921246",
+      "id": "1921246",
+      "note": "Get Out While the Gittins Good"
+    },
+    {
+      "date": "2020-12-09",
+      "year": "1960",
+      "players": "R B Johnson vs C Brasket",
+      "link": "/perl/chessgame?gid=1792394",
+      "id": "1792394",
+      "note": "Brasket Case"
+    },
+    {
+      "date": "2020-12-08",
+      "year": "1983",
+      "players": "Wolff vs M Ginsburg",
+      "link": "/perl/chessgame?gid=1371018",
+      "id": "1371018",
+      "note": "Who&apos;s Afraid of the Big Bad Wolff?"
+    },
+    {
+      "date": "2020-12-07",
+      "year": "1916",
+      "players": "Capablanca vs L Requena",
+      "link": "/perl/chessgame?gid=1789593",
+      "id": "1789593",
+      "note": "Cuban Miss L Crisis"
+    },
+    {
+      "date": "2020-12-06",
+      "year": "1992",
+      "players": "J M Hodgson vs D Gluckman",
+      "link": "/perl/chessgame?gid=1451442",
+      "id": "1451442",
+      "note": "Out of Gluck"
+    },
+    {
+      "date": "2020-12-05",
+      "year": "1978",
+      "players": "Korchnoi vs Karpov",
+      "link": "/perl/chessgame?gid=1068051",
+      "id": "1068051",
+      "note": "Halvin&apos; Can Wait"
+    },
+    {
+      "date": "2020-12-04",
+      "year": "2017",
+      "players": "P Maghsoodloo vs Mahdi Gholami Orimi",
+      "link": "/perl/chessgame?gid=1897286",
+      "id": "1897286",
+      "note": "In Parham&apos;s Way"
+    },
+    {
+      "date": "2020-12-03",
+      "year": "1878",
+      "players": "Mephisto vs Gunsberg",
+      "link": "/perl/chessgame?gid=1990539",
+      "id": "1990539",
+      "note": "Don&apos;t Bring a Gun to a Mephisto Fight"
+    },
+    {
+      "date": "2020-12-02",
+      "year": "2006",
+      "players": "T Trapp vs L Cohen-Solal",
+      "link": "/perl/chessgame?gid=1440845",
+      "id": "1440845",
+      "note": "Trapped in the Cohener"
+    },
+    {
+      "date": "2020-12-01",
+      "year": "1945",
+      "players": "G Koshnitsky vs Hewitt",
+      "link": "/perl/chessgame?gid=1599466",
+      "id": "1599466",
+      "note": "Anything You Can Do, I Can Do Better"
+    },
+    {
+      "date": "2020-11-30",
+      "year": "1987",
+      "players": "Hort vs Judit Polgar",
+      "link": "/perl/chessgame?gid=1058804",
+      "id": "1058804",
+      "note": "You Hort Me, And You Make Me Cry"
+    },
+    {
+      "date": "2020-11-29",
+      "year": "1922",
+      "players": "Alekhine vs Yates",
+      "link": "/perl/chessgame?gid=1012103",
+      "id": "1012103",
+      "note": "I Know it Was You, Fredo!"
+    },
+    {
+      "date": "2020-11-28",
+      "year": "1935",
+      "players": "D Saxton vs Worth / Tweed",
+      "link": "/perl/chessgame?gid=1951389",
+      "id": "1951389",
+      "note": "For What It&apos;s Worth"
+    },
+    {
+      "date": "2020-11-27",
+      "year": "2015",
+      "players": "F Serban vs Vladimir Sergeevich Turkov",
+      "link": "/perl/chessgame?gid=1951430",
+      "id": "1951430",
+      "note": "A Turkov with All the Trimmings"
+    },
+    {
+      "date": "2020-11-26",
+      "year": "1980",
+      "players": "Miles vs Sax",
+      "link": "/perl/chessgame?gid=1097286",
+      "id": "1097286",
+      "note": "Joy of Sax"
+    },
+    {
+      "date": "2020-11-25",
+      "year": "1939",
+      "players": "I Pleci vs L Endzelins",
+      "link": "/perl/chessgame?gid=1295296",
+      "id": "1295296",
+      "note": "Bits and Plecies"
+    },
     {
       "date": "2020-11-24",
       "year": "1973",

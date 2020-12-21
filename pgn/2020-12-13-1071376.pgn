@@ -1,0 +1,54 @@
+[Event "Capablanca Memorial-B"]
+[Site "Camaguey CUB"]
+[Date "1974.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Alberto N Caro"]
+[Black "Raymond Keene"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "59"]
+
+1. e4 { Notes by Raymond Keene. } g6 2. d4 Bg7 3. f4 {In our
+book The Modern Defence George Botterill and I classed this
+move as slightly dubious.} 3...c5 {Also possible is 3...d5 4
+e5.} 4. c3 cxd4 5. cxd4 Qb6 {!? An innovation. In our book we
+recommended 5...d6 as giving Black a good game, but I wanted
+to try something sharper.} 6. Nf3 Nc6 7. e5 {White's centre
+lurches forward in the interests of
+self-preservation. Actually 7 Nc3 was on since 7...Nxd4 8 Nd5
+Nxf3+ 9 gxf3! Qd8 10 Qc2 is unhappy for Black - but 7...Nh6!
+(with the idea of ...O-O) keeps up the pressure.} 7...Nh6
+8. Nc3 O-O 9. d5 {White has to harry the opponent before he
+can dismantle the centre completely with ...d7-d6 plus
+...Bg4.} 9...Nb4 10. a3 Na6 11. Bd3 d6 12. Qe2 Nc5 13. Bc4 Bg4
+14. Be3 {White has little choice but to allow the weakening of
+his pawn structure.} 14...Bxf3 {White's position is a
+structural wreck but it is not entirely devoid of attacking
+prospects.} 15. gxf3 Nf5 16. Bf2 Qc7 17. h4 Rac8 18. Nb5 Qd8
+19. Nd4 {On 19 Nxa7 I planned the following powerful exchange
+sacrifice: 19...Qa5+ 20 b4 Qxa7 21 bxc5 Qa5+ 22 Qd2 Rxc5! 23
+Bxc5 Qxc5 with more than sufficient positional compensation
+for the slight material investment.} 19...Nxd4 20. Bxd4 Nd7
+{Threatening to exploit the exposure of the bishop on c4 by
+continual capturing on e5.} 21. b3 Qc7 22. Bb2 h5 23. Rg1
+{Setting the trap 23...dxe5?? 24 Rxg6!} 23...Qc5 24. Rg2
+{After this move the peculiar alignment of White's queen and
+king's rook permits Black a spectacular combinative blow. On
+24 Rg3 Black would have been obliged to pursue the following
+course: 24...dxe5 25 fxe5 b5 26 Bxb5 Nxe5 27 Bxe5 Bxe5 28 Qxe5
+Qxb5 29 Qxh5 Qd3!} 24...Nb6 25. Rc1 Nxd5 26. f5 {Or 26 b4
+Qe3!} 26...Qe3 27. fxg6 {My opponent played this as though it
+were decisive but he had not taken into account the reply:}
+27...Nf4 {!} 28. gxf7+ Kh8 {Black wins in all variations,
+e.g.: a) 29 Rg5 Nxe2 30 Rxh5+ Bh6 31 Rxh6+ Kg7! (but not
+31...Qxh6?? 32 exd6+ Kh7 33 Bd3+). b) 29 Qxe3 Nxg2+ 30 Ke2
+Nxe3 31 Kxe3 b5! 32 Bd5 Rxc1 33 Bxc1 Bh6+ 34 f4 dxe5 35 Bb2
+Bxf4+ 36 Ke4 Kg7 37 Bxe5+ Bxe5 38 Kxe5 Rd8 39 Ke6
+Kf8-+. Black's rook soon penetrates to the white hinterland
+and eats its fill. As so often, a shock move induces the
+opponent to make a very bad reply.} 29. Rxg7 {?} Nxe2 30. Rg8+
+{30...Rxg8 31 fxg8=Q+ Rxg8 32 Bxg8 Nxc1+ or 32 Bxe2 Rg1 mate.}
+0-1

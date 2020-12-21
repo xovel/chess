@@ -1,0 +1,17 @@
+[Event "FRA-ch U16"]
+[Site "Aix-les-Bains FRA"]
+[Date "2006.04.16"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Thibaut Trapp"]
+[Black "Lennie Cohen-Solal"]
+[ECO "B00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1.e4 a6 2.d4 b5 3.Be3 Bb7 4.Nd2 d6 5.Bd3 Nd7 6.Ne2 g6 7.O-O
+Bg7 8.f4 c5 9.c3 Ngf6 10.Ng3 O-O 11.f5 Ne8 12.Nf3 Rc8 13.Qd2
+Qa5 14.Bh6 cxd4 15.Bxg7 Kxg7 16.Nxd4 Ne5 17.fxg6 Nxg6 18.Ngf5+
+Kh8 19.Qh6 Rg8 20.Nxe7 Nxe7 21.Rxf7 Rg7 22.Rxe7 1-0
