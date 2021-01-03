@@ -1,6 +1,102 @@
 {
-  "update": "2020-12-21",
+  "update": "2021-01-02",
   "list": [
+    {
+      "date": "2021-01-02",
+      "year": "1998",
+      "players": "Joel Benjamin vs Gufeld",
+      "link": "/perl/chessgame?gid=1292499",
+      "id": "1292499",
+      "note": "Hawaiian Punch"
+    },
+    {
+      "date": "2021-01-01",
+      "year": "1956",
+      "players": "Uhlmann vs Smyslov",
+      "link": "/perl/chessgame?gid=1125827",
+      "id": "1125827",
+      "note": "Inner Beauty"
+    },
+    {
+      "date": "2020-12-31",
+      "year": "1937",
+      "players": "Keres vs S Herseth",
+      "link": "/perl/chessgame?gid=1071846",
+      "id": "1071846",
+      "note": "Storm Chaser"
+    },
+    {
+      "date": "2020-12-30",
+      "year": "1939",
+      "players": "V Mikenas vs L Dreibergs",
+      "link": "/perl/chessgame?gid=1274400",
+      "id": "1274400",
+      "note": "A Real Vladas"
+    },
+    {
+      "date": "2020-12-29",
+      "year": "2020",
+      "players": "D Dubov vs Karjakin",
+      "link": "/perl/chessgame?gid=2015531",
+      "id": "2015531",
+      "note": "Dubov&apos;s Immortal"
+    },
+    {
+      "date": "2020-12-28",
+      "year": "2015",
+      "players": "C Logallo vs P Cafolla",
+      "link": "/perl/chessgame?gid=1803340",
+      "id": "1803340",
+      "note": "Day of the Rooster"
+    },
+    {
+      "date": "2020-12-27",
+      "year": "1966",
+      "players": "H Akvist vs R Goode",
+      "link": "/perl/chessgame?gid=1153699",
+      "id": "1153699",
+      "note": "No Goode Game Goes Unpunished"
+    },
+    {
+      "date": "2020-12-26",
+      "year": "1989",
+      "players": "D Diederichsen vs A Pehlgrim",
+      "link": "/perl/chessgame?gid=2016543",
+      "id": "2016543",
+      "note": "Pehlgrim&apos;s Progress"
+    },
+    {
+      "date": "2020-12-25",
+      "year": "2016",
+      "players": "A Brkic vs B Kalezic",
+      "link": "/perl/chessgame?gid=1832212",
+      "id": "1832212",
+      "note": "Sense and Sensibility"
+    },
+    {
+      "date": "2020-12-24",
+      "year": "1911",
+      "players": "Hartlaub vs V Benary",
+      "link": "/perl/chessgame?gid=1269055",
+      "id": "1269055",
+      "note": "Amazing Coup de Grace"
+    },
+    {
+      "date": "2020-12-23",
+      "year": "1964",
+      "players": "H Santa Cruz vs K Darga",
+      "link": "/perl/chessgame?gid=1345625",
+      "id": "1345625",
+      "note": "Santa-Klaus&apos;s White Cruz Miss"
+    },
+    {
+      "date": "2020-12-22",
+      "year": "1859",
+      "players": "Kolisch vs Hamppe",
+      "link": "/perl/chessgame?gid=1080390",
+      "id": "1080390",
+      "note": "Hamppered"
+    },
     {
       "date": "2020-12-21",
       "year": "1971",
