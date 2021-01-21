@@ -1,6 +1,158 @@
 {
-  "update": "2021-01-02",
+  "update": "2021-01-21",
   "list": [
+    {
+      "date": "2021-01-21",
+      "year": "2019",
+      "players": "M Atabayev vs Wojtaszek",
+      "link": "/perl/chessgame?gid=1984466",
+      "id": "1984466",
+      "note": "Rad Maks"
+    },
+    {
+      "date": "2021-01-20",
+      "year": "2006",
+      "players": "Carlsen vs Fressinet",
+      "link": "/perl/chessgame?gid=1433629",
+      "id": "1433629",
+      "note": "I Will Watch Your Back"
+    },
+    {
+      "date": "2021-01-19",
+      "year": "1935",
+      "players": "Botvinnik vs Levenfish",
+      "link": "/perl/chessgame?gid=1031870",
+      "id": "1031870",
+      "note": "Chain Of Command"
+    },
+    {
+      "date": "2021-01-18",
+      "year": "1969",
+      "players": "Popovych vs E Formanek",
+      "link": "/perl/chessgame?gid=1752341",
+      "id": "1752341",
+      "note": "Orested Development"
+    },
+    {
+      "date": "2021-01-17",
+      "year": "1990",
+      "players": "Arencibia Rodriguez vs S Kamuhangire",
+      "link": "/perl/chessgame?gid=1617722",
+      "id": "1617722",
+      "note": "Peasants vs. Castle"
+    },
+    {
+      "date": "2021-01-16",
+      "year": "1945",
+      "players": "Opocensky vs Pachman",
+      "link": "/perl/chessgame?gid=1623224",
+      "id": "1623224",
+      "note": "Checkmate in Prague"
+    },
+    {
+      "date": "2021-01-15",
+      "year": "1962",
+      "players": "Fischer vs Korchnoi",
+      "link": "/perl/chessgame?gid=1044161",
+      "id": "1044161",
+      "note": "Road To Viktory"
+    },
+    {
+      "date": "2021-01-14",
+      "year": "1989",
+      "players": "D Donchev vs Topalov",
+      "link": "/perl/chessgame?gid=1143611",
+      "id": "1143611",
+      "note": "Welcome to the Bungle"
+    },
+    {
+      "date": "2021-01-13",
+      "year": "2020",
+      "players": "A Firouzja vs Carlsen",
+      "link": "/perl/chessgame?gid=2010780",
+      "id": "2010780",
+      "note": "The Lost Opposition"
+    },
+    {
+      "date": "2021-01-12",
+      "year": "2014",
+      "players": "S Vega Gutierrez vs A Muzychuk",
+      "link": "/perl/chessgame?gid=1766744",
+      "id": "1766744",
+      "note": "While My Gutierrez Gently Weeps"
+    },
+    {
+      "date": "2021-01-11",
+      "year": "2001",
+      "players": "J Rezek vs P Kipasso",
+      "link": "/perl/chessgame?gid=1553778",
+      "id": "1553778",
+      "note": "Pained By Numbers"
+    },
+    {
+      "date": "2021-01-10",
+      "year": "1985",
+      "players": "Karpov vs Kasparov",
+      "link": "/perl/chessgame?gid=1067200",
+      "id": "1067200",
+      "note": "Spring Training"
+    },
+    {
+      "date": "2021-01-09",
+      "year": "1940",
+      "players": "A Elo vs Fine",
+      "link": "/perl/chessgame?gid=1626844",
+      "id": "1626844",
+      "note": "Outranked"
+    },
+    {
+      "date": "2021-01-08",
+      "year": "1986",
+      "players": "Karpov vs Kasparov",
+      "link": "/perl/chessgame?gid=1067213",
+      "id": "1067213",
+      "note": "The Hat Trick"
+    },
+    {
+      "date": "2021-01-07",
+      "year": "2009",
+      "players": "A Simutowe vs S Tofte",
+      "link": "/perl/chessgame?gid=1554666",
+      "id": "1554666",
+      "note": "Let Amon Tear A Sondre"
+    },
+    {
+      "date": "2021-01-06",
+      "year": "1935",
+      "players": "Chekhover vs Lasker",
+      "link": "/perl/chessgame?gid=1313000",
+      "id": "1313000",
+      "note": "Vitaly Impotent"
+    },
+    {
+      "date": "2021-01-05",
+      "year": "1990",
+      "players": "Rohde vs Dlugy",
+      "link": "/perl/chessgame?gid=1536842",
+      "id": "1536842",
+      "note": "Welcome to the Rohde-o"
+    },
+    {
+      "date": "2021-01-04",
+      "year": "1958",
+      "players": "Tal vs Tolush",
+      "link": "/perl/chessgame?gid=1139407",
+      "id": "1139407",
+      "note": "Slipped Him a Mickey"
+    },
+    {
+      "date": "2021-01-03",
+      "year": "1996",
+      "players": "Anand vs Leko",
+      "link": "/perl/chessgame?gid=1018680",
+      "id": "1018680",
+      "note": "Leggo My Leko!"
+    },
     {
       "date": "2021-01-02",
       "year": "1998",
