@@ -1,6 +1,78 @@
 {
-  "update": "2021-01-21",
+  "update": "2021-01-30",
   "list": [
+    {
+      "date": "2021-01-30",
+      "year": "1980",
+      "players": "D Allan vs L Day",
+      "link": "/perl/chessgame?gid=1037551",
+      "id": "1037551",
+      "note": "Allan A Day&apos;s Work"
+    },
+    {
+      "date": "2021-01-29",
+      "year": "2020",
+      "players": "Sarin Nihal vs Vachier-Lagrave",
+      "link": "/perl/chessgame?gid=2012741",
+      "id": "2012741",
+      "note": "Total Nihalation"
+    },
+    {
+      "date": "2021-01-28",
+      "year": "1931",
+      "players": "E Korchmar vs R Nezhmetdinov",
+      "link": "/perl/chessgame?gid=1451621",
+      "id": "1451621",
+      "note": "Torren Apart"
+    },
+    {
+      "date": "2021-01-27",
+      "year": "2004",
+      "players": "L Jiang vs P Cramling",
+      "link": "/perl/chessgame?gid=2012293",
+      "id": "2012293",
+      "note": "Jang Unchained"
+    },
+    {
+      "date": "2021-01-26",
+      "year": "1921",
+      "players": "Euwe vs W E Evill",
+      "link": "/perl/chessgame?gid=1041922",
+      "id": "1041922",
+      "note": "The Rout of Ole Evill"
+    },
+    {
+      "date": "2021-01-25",
+      "year": "1994",
+      "players": "Kramnik vs Zsuzsa Polgar",
+      "link": "/perl/chessgame?gid=1085879",
+      "id": "1085879",
+      "note": "Vlad the Improver"
+    },
+    {
+      "date": "2021-01-24",
+      "year": "1880",
+      "players": "J F Malta vs Bird",
+      "link": "/perl/chessgame?gid=1795163",
+      "id": "1795163",
+      "note": "The Maltese Falcon"
+    },
+    {
+      "date": "2021-01-23",
+      "year": "1984",
+      "players": "L Christiansen vs Fedorowicz",
+      "link": "/perl/chessgame?gid=1043086",
+      "id": "1043086",
+      "note": "All Fed Up!"
+    },
+    {
+      "date": "2021-01-22",
+      "year": "1980",
+      "players": "H Vatter vs S Berry",
+      "link": "/perl/chessgame?gid=1225126",
+      "id": "1225126",
+      "note": "The Mad Vatter"
+    },
     {
       "date": "2021-01-21",
       "year": "2019",
