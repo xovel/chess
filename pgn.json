@@ -1,6 +1,70 @@
 {
-  "update": "2021-01-30",
+  "update": "2021-02-09",
   "list": [
+    {
+      "date": "2021-02-09",
+      "year": "1997",
+      "players": "Gelfand vs Topalov",
+      "link": "/perl/chessgame?gid=1143909",
+      "id": "1143909",
+      "note": "Can You Top This?"
+    },
+    {
+      "date": "2021-02-08",
+      "year": "2008",
+      "players": "Bologan vs Caruana",
+      "link": "/perl/chessgame?gid=1492256",
+      "id": "1492256",
+      "note": "Super Bol"
+    },
+    {
+      "date": "2021-02-07",
+      "year": "2005",
+      "players": "M Medic vs M Klinova",
+      "link": "/perl/chessgame?gid=1356635",
+      "id": "1356635",
+      "note": "Medical Klinic"
+    },
+    {
+      "date": "2021-02-06",
+      "year": "2020",
+      "players": "Vitiugov vs J van Foreest",
+      "link": "/perl/chessgame?gid=1990469",
+      "id": "1990469",
+      "note": "Run, Foreest, Run"
+    },
+    {
+      "date": "2021-02-05",
+      "year": "1983",
+      "players": "D Gurevich vs Short",
+      "link": "/perl/chessgame?gid=1054881",
+      "id": "1054881",
+      "note": "Demolition of Hastings"
+    },
+    {
+      "date": "2021-02-03",
+      "year": "1935",
+      "players": "Spielmann vs J van den Bosch",
+      "link": "/perl/chessgame?gid=1130955",
+      "id": "1130955",
+      "note": "Who&apos;s The Bosch?"
+    },
+    {
+      "date": "2021-02-02",
+      "year": "2009",
+      "players": "Ding Liren vs Bu Xiangzhi",
+      "link": "/perl/chessgame?gid=1882654",
+      "id": "1882654",
+      "note": "The Fellowship of the Ding"
+    },
+    {
+      "date": "2021-02-01",
+      "year": "2020",
+      "players": "Ju Wenjun vs Goryachkina",
+      "link": "/perl/chessgame?gid=1990822",
+      "id": "1990822",
+      "note": "That&apos;s Why the Lady Is a Champ"
+    },
     {
       "date": "2021-01-30",
       "year": "1980",
