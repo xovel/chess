@@ -1,0 +1,19 @@
+[Event "Online blitz"]
+[Site "chess.com"]
+[Date "2019.12.26"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Eric S Rosen"]
+[Black "Sonja Lang"]
+[ECO "B02"]
+[WhiteElo "2358"]
+[BlackElo "1392"]
+[PlyCount "51"]
+
+1. e4 Nf6 2. Nc3 d5 3. e5 d4 4. exf6 dxc3 5. d4 cxb2 6. fxg7
+bxa1=Q 7. gxh8=Q Qxa2 8. Qxh7 a5 9. h4 Nc6 10. Nf3 a4 11. h5
+a3 12. Qg8 Qe6+ 13. Be2 a2 14. h6 a1=Q 15. h7 Qdd5 16. h8=Q
+Qda5+ 17. Kf1 Kd7 18. Qxf8 b5 19. Qe8+ Kd6 20. Bf4+ Kd5
+21. Rh5+ f5 22. Rxf5+ Qxf5 23. Qhg8+ e6 24.c4+ Ke4 25.Bd3+
+Kxf4 26.g3# 1-0

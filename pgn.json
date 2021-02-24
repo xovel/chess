@@ -1,6 +1,126 @@
 {
-  "update": "2021-02-09",
+  "update": "2021-02-24",
   "list": [
+    {
+      "date": "2021-02-24",
+      "year": "1938",
+      "players": "Alekhine vs Capablanca",
+      "link": "/perl/chessgame?gid=1013312",
+      "id": "1013312",
+      "note": "Beat A Hasty Retreat"
+    },
+    {
+      "date": "2021-02-23",
+      "year": "1975",
+      "players": "Bellon Lopez vs R Byrne",
+      "link": "/perl/chessgame?gid=1458909",
+      "id": "1458909",
+      "note": "For Whom The Bellon Tolls"
+    },
+    {
+      "date": "2021-02-22",
+      "year": "1939",
+      "players": "D Rovner vs L Guldin",
+      "link": "/perl/chessgame?gid=2020313",
+      "id": "2020313",
+      "note": "Dancing Queens"
+    },
+    {
+      "date": "2021-02-21",
+      "year": "2008",
+      "players": "D Yang vs E Perelshteyn",
+      "link": "/perl/chessgame?gid=1496999",
+      "id": "1496999",
+      "note": "Yin and Yang"
+    },
+    {
+      "date": "2021-02-20",
+      "year": "1933",
+      "players": "Alekhine vs R E Desai",
+      "link": "/perl/chessgame?gid=1012969",
+      "id": "1012969",
+      "note": "Tough to Desai"
+    },
+    {
+      "date": "2021-02-19",
+      "year": "1991",
+      "players": "Kasparov vs Anand",
+      "link": "/perl/chessgame?gid=1018270",
+      "id": "1018270",
+      "note": "Vishy&apos;s Worst Knightmare"
+    },
+    {
+      "date": "2021-02-18",
+      "year": "2019",
+      "players": "E Rosen vs S Lang",
+      "link": "/perl/chessgame?gid=1984312",
+      "id": "1984312",
+      "note": "Bring On the Dancing Girls"
+    },
+    {
+      "date": "2021-02-17",
+      "year": "1988",
+      "players": "M Homuth vs A Nickel",
+      "link": "/perl/chessgame?gid=1421566",
+      "id": "1421566",
+      "note": "Thump A Nickel"
+    },
+    {
+      "date": "2021-02-16",
+      "year": "2005",
+      "players": "T Do vs T Nguyen",
+      "link": "/perl/chessgame?gid=1584146",
+      "id": "1584146",
+      "note": "Thi For Two"
+    },
+    {
+      "date": "2021-02-15",
+      "year": "1928",
+      "players": "Stoltz vs Capablanca",
+      "link": "/perl/chessgame?gid=1793315",
+      "id": "1793315",
+      "note": "Gosta Win the Machine"
+    },
+    {
+      "date": "2021-02-14",
+      "year": "2004",
+      "players": "D Alzate vs C Samuelsen",
+      "link": "/perl/chessgame?gid=1314682",
+      "id": "1314682",
+      "note": "Super Dario"
+    },
+    {
+      "date": "2021-02-13",
+      "year": "1998",
+      "players": "P Enders vs V Gashimov",
+      "link": "/perl/chessgame?gid=1534583",
+      "id": "1534583",
+      "note": "Enders&apos; Game"
+    },
+    {
+      "date": "2021-02-12",
+      "year": "2001",
+      "players": "Kosanovic vs M Pap",
+      "link": "/perl/chessgame?gid=1212994",
+      "id": "1212994",
+      "note": "Pap Smear"
+    },
+    {
+      "date": "2021-02-11",
+      "year": "2006",
+      "players": "J Parker vs J Struk",
+      "link": "/perl/chessgame?gid=1421925",
+      "id": "1421925",
+      "note": "Struk Down"
+    },
+    {
+      "date": "2021-02-10",
+      "year": "2008",
+      "players": "Cherniaev vs G Lock",
+      "link": "/perl/chessgame?gid=1529787",
+      "id": "1529787",
+      "note": "Lock-Down"
+    },
     {
       "date": "2021-02-09",
       "year": "1997",
