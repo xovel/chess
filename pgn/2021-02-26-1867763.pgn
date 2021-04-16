@@ -1,0 +1,18 @@
+[Event "9th Chennai Open"]
+[Site "Chennai IND"]
+[Date "2017.01.23"]
+[EventDate "2017.01.18"]
+[Round "7.1"]
+[Result "0-1"]
+[White "Adam Horvath"]
+[Black "Adam Tukhaev"]
+[ECO "B45"]
+[WhiteElo "2499"]
+[BlackElo "2516"]
+[PlyCount "42"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 d6 6. Be3 Nf6
+7. Qd2 e5 8. Nb3 Be7 9. f3 O-O 10. O-O-O a5 11. Na4 Be6
+12. Kb1 d5 13. Bb6 Qc8 14. Nbc5 dxe4 15. fxe4 Bxc5 16. Nxc5
+Nd4 17. Nxe6 Nxe4 18. Qe1 Qxc2+ 19. Ka1 Nb3+ 20. axb3 a4
+21. Nc7 a3 0-1

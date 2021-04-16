@@ -1,6 +1,414 @@
 {
-  "update": "2021-02-24",
+  "update": "2021-04-16",
   "list": [
+    {
+      "date": "2021-04-16",
+      "year": "1929",
+      "players": "J Turn vs Petrov",
+      "link": "/perl/chessgame?gid=1924099",
+      "id": "1924099",
+      "note": "Take a Turn for the Worse"
+    },
+    {
+      "date": "2021-04-15",
+      "year": "2019",
+      "players": "B Yildiz vs J Gokbulut",
+      "link": "/perl/chessgame?gid=1954092",
+      "id": "1954092",
+      "note": "April 15th e-file"
+    },
+    {
+      "date": "2021-04-14",
+      "year": "1992",
+      "players": "G Loar vs B Men",
+      "link": "/perl/chessgame?gid=2012350",
+      "id": "2012350",
+      "note": "And the Lion Loared"
+    },
+    {
+      "date": "2021-04-13",
+      "year": "2005",
+      "players": "Nguyen Hoang Tuan vs That Nhu Tung Ton",
+      "link": "/perl/chessgame?gid=1531534",
+      "id": "1531534",
+      "note": "Forked Tung"
+    },
+    {
+      "date": "2021-04-12",
+      "year": "2001",
+      "players": "Ni Hua vs Aronian",
+      "link": "/perl/chessgame?gid=1190980",
+      "id": "1190980",
+      "note": "Then I Took an Aron in the Ni"
+    },
+    {
+      "date": "2021-04-11",
+      "year": "2012",
+      "players": "Aronian vs Navara",
+      "link": "/perl/chessgame?gid=1654469",
+      "id": "1654469",
+      "note": "The Guns of Navaro"
+    },
+    {
+      "date": "2021-04-10",
+      "year": "1961",
+      "players": "Filip vs K Darga",
+      "link": "/perl/chessgame?gid=1270654",
+      "id": "1270654",
+      "note": "The Hunter Becomes the Hunted"
+    },
+    {
+      "date": "2021-04-09",
+      "year": "1926",
+      "players": "Kupchik vs Capablanca",
+      "link": "/perl/chessgame?gid=1270313",
+      "id": "1270313",
+      "note": "Jersey Sure"
+    },
+    {
+      "date": "2021-04-08",
+      "year": "1988",
+      "players": "Joel Benjamin vs Rohde",
+      "link": "/perl/chessgame?gid=1026774",
+      "id": "1026774",
+      "note": "Rohde&apos;s Scholar"
+    },
+    {
+      "date": "2021-04-07",
+      "year": "1961",
+      "players": "Reshevsky vs Fischer",
+      "link": "/perl/chessgame?gid=1044540",
+      "id": "1044540",
+      "note": "My 60 Memorable Moves"
+    },
+    {
+      "date": "2021-04-06",
+      "year": "1957",
+      "players": "J Sherwin vs Fischer",
+      "link": "/perl/chessgame?gid=1044456",
+      "id": "1044456",
+      "note": "My One Memorable Game"
+    },
+    {
+      "date": "2021-04-05",
+      "year": "1889",
+      "players": "Steinitz vs V Martinez de Carvajal",
+      "link": "/perl/chessgame?gid=1718650",
+      "id": "1718650",
+      "note": "Carva Roast"
+    },
+    {
+      "date": "2021-04-04",
+      "year": "2016",
+      "players": "D Miller vs A A Taylor",
+      "link": "/perl/chessgame?gid=1826760",
+      "id": "1826760",
+      "note": "Dom KO Tay"
+    },
+    {
+      "date": "2021-04-03",
+      "year": "1988",
+      "players": "D Edelman vs Wolff",
+      "link": "/perl/chessgame?gid=1495677",
+      "id": "1495677",
+      "note": "Ain&apos;t Patrick&apos;s Day"
+    },
+    {
+      "date": "2021-04-02",
+      "year": "2003",
+      "players": "O Boyum Fossum vs Carlsen",
+      "link": "/perl/chessgame?gid=1820653",
+      "id": "1820653",
+      "note": "Flaying Fossum"
+    },
+    {
+      "date": "2021-04-01",
+      "year": "2006",
+      "players": "Beliavsky vs A Arab",
+      "link": "/perl/chessgame?gid=1414428",
+      "id": "1414428",
+      "note": "Arab Spring"
+    },
+    {
+      "date": "2021-03-31",
+      "year": "1972",
+      "players": "H Karner vs Karpov",
+      "link": "/perl/chessgame?gid=1067688",
+      "id": "1067688",
+      "note": "Two Kar Collision"
+    },
+    {
+      "date": "2021-03-30",
+      "year": "1964",
+      "players": "Fischer vs T Ellison",
+      "link": "/perl/chessgame?gid=1044191",
+      "id": "1044191",
+      "note": "Wrong, Mr. Thomas!"
+    },
+    {
+      "date": "2021-03-29",
+      "year": "1961",
+      "players": "Shamkovich vs Spassky",
+      "link": "/perl/chessgame?gid=1122042",
+      "id": "1122042",
+      "note": "I&apos;ve got thiS-pass-key"
+    },
+    {
+      "date": "2021-03-28",
+      "year": "1992",
+      "players": "Dzindzichashvili vs Rohde",
+      "link": "/perl/chessgame?gid=1040589",
+      "id": "1040589",
+      "note": "All Rohdes Lead to Rome"
+    },
+    {
+      "date": "2021-03-27",
+      "year": "1948",
+      "players": "G Stalda vs C Benini",
+      "link": "/perl/chessgame?gid=2030970",
+      "id": "2030970",
+      "note": "Goodbye, Clarice"
+    },
+    {
+      "date": "2021-03-26",
+      "year": "1855",
+      "players": "Anderssen vs Mayet",
+      "link": "/perl/chessgame?gid=1019003",
+      "id": "1019003",
+      "note": "Look e4 You Leap!"
+    },
+    {
+      "date": "2021-03-25",
+      "year": "1977",
+      "players": "Smyslov vs I Radulov",
+      "link": "/perl/chessgame?gid=1126589",
+      "id": "1126589",
+      "note": "The Hand that Rocks the Radul"
+    },
+    {
+      "date": "2021-03-24",
+      "year": "1975",
+      "players": "Sax vs Tseshkovsky",
+      "link": "/perl/chessgame?gid=1386855",
+      "id": "1386855",
+      "note": "Saxy Thang"
+    },
+    {
+      "date": "2021-03-23",
+      "year": "1957",
+      "players": "Fischer vs R Cardoso",
+      "link": "/perl/chessgame?gid=1044046",
+      "id": "1044046",
+      "note": "It Wasn&apos;t in the Cards"
+    },
+    {
+      "date": "2021-03-22",
+      "year": "1952",
+      "players": "Benko vs Petrosian",
+      "link": "/perl/chessgame?gid=1462937",
+      "id": "1462937",
+      "note": "A Whiter Shade of Pal"
+    },
+    {
+      "date": "2021-03-21",
+      "year": "1929",
+      "players": "V Kalashnikov vs Koltsov",
+      "link": "/perl/chessgame?gid=2017083",
+      "id": "2017083",
+      "note": "Kalashnikov Outguns Colts"
+    },
+    {
+      "date": "2021-03-20",
+      "year": "1927",
+      "players": "G Machate vs Saemisch",
+      "link": "/perl/chessgame?gid=1279958",
+      "id": "1279958",
+      "note": "Sword to Sword"
+    },
+    {
+      "date": "2021-03-19",
+      "year": "2006",
+      "players": "J Sinanan vs N Raptis",
+      "link": "/perl/chessgame?gid=1448105",
+      "id": "1448105",
+      "note": "Call My Theraptis"
+    },
+    {
+      "date": "2021-03-18",
+      "year": "1987",
+      "players": "P Thoren vs P Lacko",
+      "link": "/perl/chessgame?gid=1778941",
+      "id": "1778941",
+      "note": "Thoren in the Side"
+    },
+    {
+      "date": "2021-03-17",
+      "year": "1936",
+      "players": "S K Rozental vs V Makogonov",
+      "link": "/perl/chessgame?gid=1427267",
+      "id": "1427267",
+      "note": "Mac the Knife"
+    },
+    {
+      "date": "2021-03-16",
+      "year": "2016",
+      "players": "Yifan Hou vs Short",
+      "link": "/perl/chessgame?gid=1842587",
+      "id": "1842587",
+      "note": "Girls Knight Out"
+    },
+    {
+      "date": "2021-03-15",
+      "year": "2020",
+      "players": "Carlsen vs W So",
+      "link": "/perl/chessgame?gid=2014556",
+      "id": "2014556",
+      "note": "So Unexpected"
+    },
+    {
+      "date": "2021-03-14",
+      "year": "1858",
+      "players": "Morphy vs J Carr",
+      "link": "/perl/chessgame?gid=1328874",
+      "id": "1328874",
+      "note": "Jabez the Hurt"
+    },
+    {
+      "date": "2021-03-13",
+      "year": "1980",
+      "players": "Timman vs Larsen",
+      "link": "/perl/chessgame?gid=1142601",
+      "id": "1142601",
+      "note": "Bent Out of Shape"
+    },
+    {
+      "date": "2021-03-12",
+      "year": "1979",
+      "players": "Ljubojevic vs Miles",
+      "link": "/perl/chessgame?gid=1091775",
+      "id": "1091775",
+      "note": "Riga Tony"
+    },
+    {
+      "date": "2021-03-11",
+      "year": "1995",
+      "players": "Korneev vs Suba",
+      "link": "/perl/chessgame?gid=1134446",
+      "id": "1134446",
+      "note": "Shootout at the O.K. Corral"
+    },
+    {
+      "date": "2021-03-10",
+      "year": "1974",
+      "players": "D Neukirch vs L Zinn",
+      "link": "/perl/chessgame?gid=1159680",
+      "id": "1159680",
+      "note": "Zinn Master"
+    },
+    {
+      "date": "2021-03-09",
+      "year": "1937",
+      "players": "M Delage vs S Prokofiev",
+      "link": "/perl/chessgame?gid=1528271",
+      "id": "1528271",
+      "note": "The Fiery Angel"
+    },
+    {
+      "date": "2021-03-08",
+      "year": "1998",
+      "players": "R Knobel vs C Hansen",
+      "link": "/perl/chessgame?gid=1508219",
+      "id": "1508219",
+      "note": "Curt on a Hurting Rolf"
+    },
+    {
+      "date": "2021-03-07",
+      "year": "1931",
+      "players": "I A Horowitz vs A Kevitz",
+      "link": "/perl/chessgame?gid=1494463",
+      "id": "1494463",
+      "note": "In a New York Minute"
+    },
+    {
+      "date": "2021-03-06",
+      "year": "1988",
+      "players": "Van Wely vs D Kontic",
+      "link": "/perl/chessgame?gid=1147115",
+      "id": "1147115",
+      "note": "Dutch Oven"
+    },
+    {
+      "date": "2021-03-05",
+      "year": "1983",
+      "players": "R Lau vs A Bastian",
+      "link": "/perl/chessgame?gid=1496263",
+      "id": "1496263",
+      "note": "In Trouble With the Lau"
+    },
+    {
+      "date": "2021-03-04",
+      "year": "1938",
+      "players": "M David vs Botvinnik",
+      "link": "/perl/chessgame?gid=1031949",
+      "id": "1031949",
+      "note": "Goliath and David"
+    },
+    {
+      "date": "2021-03-03",
+      "year": "2006",
+      "players": "Loop vs Deep Gandalf",
+      "link": "/perl/chessgame?gid=1442268",
+      "id": "1442268",
+      "note": "One Ring To Bind Them"
+    },
+    {
+      "date": "2021-03-02",
+      "year": "2019",
+      "players": "Zeyu Xiang vs Yibo Zhou",
+      "link": "/perl/chessgame?gid=1965166",
+      "id": "1965166",
+      "note": "The XYZ Affair"
+    },
+    {
+      "date": "2021-03-01",
+      "year": "2004",
+      "players": "Granda Zuniga vs P Mascaro March",
+      "link": "/perl/chessgame?gid=1314029",
+      "id": "1314029",
+      "note": "March Madness"
+    },
+    {
+      "date": "2021-02-28",
+      "year": "1862",
+      "players": "V Green vs Steinitz",
+      "link": "/perl/chessgame?gid=1001504",
+      "id": "1001504",
+      "note": "Be My Valentine!"
+    },
+    {
+      "date": "2021-02-27",
+      "year": "2006",
+      "players": "P Hogarty vs A Krishnan",
+      "link": "/perl/chessgame?gid=1482012",
+      "id": "1482012",
+      "note": "May You Build a Ladder to the Stars"
+    },
+    {
+      "date": "2021-02-26",
+      "year": "2017",
+      "players": "A Horvath vs A Tukhaev",
+      "link": "/perl/chessgame?gid=1867763",
+      "id": "1867763",
+      "note": "Splitting Adams"
+    },
+    {
+      "date": "2021-02-25",
+      "year": "1961",
+      "players": "Petrosian vs Smyslov",
+      "link": "/perl/chessgame?gid=1106540",
+      "id": "1106540",
+      "note": "Pet Food"
+    },
     {
       "date": "2021-02-24",
       "year": "1938",

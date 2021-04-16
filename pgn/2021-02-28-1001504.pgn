@@ -1,0 +1,18 @@
+[Event "B.C.A. Grand Tourney"]
+[Site "London ENG"]
+[Date "1862.07.05"]
+[EventDate "?"]
+[Round "7.3"]
+[Result "0-1"]
+[White "Valentine Green"]
+[Black "Wilhelm Steinitz"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1.e4 c5 2.Nf3 e6 3.Nc3 d5 4.exd5 exd5 5.d4 Be6 6.Bb5+ Nc6
+7.O-O Nf6 8.Re1 Be7 9.Be3 Ng4 10.dxc5 Nxe3 11.fxe3 Bxc5 12.Nd4
+Qd6 13.Nxe6 fxe6 14.Qg4 O-O 15.Bxc6 bxc6 16.Kh1 Rf2 17.Rad1
+Raf8 18.h3 Qe5 19.e4 h5 20.Qh4 Bd6 21.g3 d4 22.Ne2 g5 23.Qxh5
+Qxe4+ 0-1
