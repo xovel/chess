@@ -1,0 +1,20 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo MNC"]
+[Date "1903.02.21"]
+[EventDate "1903.02.10"]
+[Round "9"]
+[Result "0-1"]
+[White "Colonel Moreau"]
+[Black "Carl Schlechter"]
+[ECO "C00"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "68"]
+
+1.e4 e6 2.Nf3 d5 3.exd5 exd5 4.d4 Nf6 5.Nc3 Bd6 6.Bd3 O-O
+7.O-O Bg4 8.Ne2 Nc6 9.c3 Bxf3 10.gxf3 Nh5 11.Ng3 Qh4 12.Kg2
+Bf4 13.Be3 Rae8 14.Qd2 f5 15.Rh1 Bxe3 16.fxe3 f4 17.exf4 Nxf4+
+18.Kf2 Nh3+ 19.Kg2 Nf4+ 20.Kf2 Nd8 21.Bf1 Nde6 22.Re1 Ng5
+23.Bg2 Nfh3+ 24.Kf1 Nxf3 25.Bxf3 Rxf3+ 26.Kg2 Ref8 27.Rhf1
+Rf2+ 28.Rxf2 Rxf2+ 29.Qxf2 Nxf2 30.Kxf2 Qxh2+ 31.Kf3 Qxb2
+32.Re3 Qc2 33.Ne2 Qf5+ 34.Kg3 h5 0-1

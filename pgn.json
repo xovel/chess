@@ -1,6 +1,86 @@
 {
-  "update": "2021-04-16",
+  "update": "2021-04-26",
   "list": [
+    {
+      "date": "2021-04-26",
+      "year": "2008",
+      "players": "A Lastin vs D Bocharov",
+      "link": "/perl/chessgame?gid=1504459",
+      "id": "1504459",
+      "note": "Lastin Impression"
+    },
+    {
+      "date": "2021-04-25",
+      "year": "1972",
+      "players": "Sax vs Tukmakov",
+      "link": "/perl/chessgame?gid=1391271",
+      "id": "1391271",
+      "note": "Yakety Sax"
+    },
+    {
+      "date": "2021-04-24",
+      "year": "2016",
+      "players": "Short vs Yifan Hou",
+      "link": "/perl/chessgame?gid=1842546",
+      "id": "1842546",
+      "note": "Short Hits Yifan"
+    },
+    {
+      "date": "2021-04-23",
+      "year": "2003",
+      "players": "H Runde vs Morten Jensen",
+      "link": "/perl/chessgame?gid=1488481",
+      "id": "1488481",
+      "note": "Runde Peg in a Square Hole"
+    },
+    {
+      "date": "2021-04-22",
+      "year": "1940",
+      "players": "H Burdge vs Fine",
+      "link": "/perl/chessgame?gid=1671190",
+      "id": "1671190",
+      "note": "On the Burdge of Extinction"
+    },
+    {
+      "date": "2021-04-21",
+      "year": "1959",
+      "players": "J Penrose vs B Soderborg",
+      "link": "/perl/chessgame?gid=1753288",
+      "id": "1753288",
+      "note": "The Pen is Mightier than the Sod"
+    },
+    {
+      "date": "2021-04-20",
+      "year": "1989",
+      "players": "Zsofia Polgar vs A Rabczewski",
+      "link": "/perl/chessgame?gid=1110299",
+      "id": "1110299",
+      "note": "Polgarheist"
+    },
+    {
+      "date": "2021-04-19",
+      "year": "1975",
+      "players": "Kasparov vs B Kantsler",
+      "link": "/perl/chessgame?gid=1306166",
+      "id": "1306166",
+      "note": "Rook File of a Prodigy"
+    },
+    {
+      "date": "2021-04-18",
+      "year": "1991",
+      "players": "Kamsky vs Ribli",
+      "link": "/perl/chessgame?gid=1066633",
+      "id": "1066633",
+      "note": "Barbecued Rib"
+    },
+    {
+      "date": "2021-04-17",
+      "year": "1903",
+      "players": "Moreau vs Schlechter",
+      "link": "/perl/chessgame?gid=1099416",
+      "id": "1099416",
+      "note": "The Pawn Island of Doctor Moreau"
+    },
     {
       "date": "2021-04-16",
       "year": "1929",

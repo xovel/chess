@@ -1,0 +1,28 @@
+[Event "41st US Open"]
+[Site "Dallas, TX USA"]
+[Date "1940.08.24"]
+[EventDate "?"]
+[Round "1"]
+[Result "0-1"]
+[White "Harold Burdge"]
+[Black "Reuben Fine"]
+[ECO "E33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "158"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 Nc6 5.Nf3 d6 6.a3 Bxc3+
+7.Qxc3 a5 8.b3 O-O 9.Bb2 Re8 10.Rd1 Qe7 11.e3 e5 12.dxe5 dxe5
+13.Be2 Bf5 14.O-O Ne4 15.Qc1 Nc5 16.Qc3 f6 17.Ne1 Rad8 18.Nd3
+Ne4 19.Qc1 Ng5 20.Qc3 h6 21.c5 Kh8 22.b4 Nd4 23.Bh5 Bg6 24.Bg4
+h5 25.exd4 exd4 26.Nf4 Bf7 27.Rxd4 Rxd4 28.Qxd4 hxg4 29.Qc3
+axb4 30.axb4 Qe4 31.Bc1 Bc4 32.Rd1 Bb5 33.Bd2 Qf5 34.Be3 Bc6
+35.Qd3 Qxd3 36.Rxd3 Kh7 37.h3 gxh3 38.Nxh3 Nxh3+ 39.gxh3 Ra8
+40.Rd1 Ra3 41.Kh2 Rb3 42.Rd4 Rb1 43.h4 Kg6 44.Rg4+ Kf7 45.Kg3
+Re1 46.Kh2 Rh1+ 47.Kg3 Rg1+ 48.Kf4 Rf1 49.Kg3 Ke6 50.Kf4 Kf7
+51.Kg3 Bd5 52.Rd4 c6 53.b5 Rg1+ 54.Kh2 Rb1 55.bxc6 Bxc6 56.Rg4
+Kg8 57.Rd4 Kh7 58.Rg4 Rb3 59.Rf4 Bd7 60.Rf3 Rb1 61.Rf4 Kg6
+62.f3 Rb3 63.Bf2 Bc6 64.Kg3 Rd3 65.Bg1 Kf7 66.Bf2 Ke6 67.Kg4
+Rd2 68.Kg3 Rc2 69.Be3 Rc3 70.Bd4 Rd3 71.Bf2 Ke7 72.Kg2 Kf7
+73.Bg1 Kg6 74.Kg3 Kh5 75.Rf5+ g5 76.hxg5 fxg5 77.Rf8 Bd5
+78.Rh8+ Kg6 79.Rf8 Be4 0-1
