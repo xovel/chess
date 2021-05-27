@@ -1,0 +1,17 @@
+[Event "Simul, 30b"]
+[Site "Hamburg GER"]
+[Date "1911.04.04"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Wilhelm Kluxen"]
+[Black "Jose Raul Capablanca"]
+[ECO "C54"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "39"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.cxd4 Bb4+
+7.Bd2 Bxd2+ 8.Nbxd2 d5 9.exd5 Nxd5 10.O-O O-O 11.Ne5 Nxd4
+12.Nb3 Nxb3 13.Bxd5 Nxa1 14.Bxf7+ Kh8 15.Qh5 Bf5 16.Qxf5 Qf6
+17.Ng6+ Qxg6 18.Bxg6 Rxf5 19.Bxf5 g6 20.Be4 1-0

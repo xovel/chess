@@ -1,6 +1,254 @@
 {
-  "update": "2021-04-26",
+  "update": "2021-05-27",
   "list": [
+    {
+      "date": "2021-05-27",
+      "year": "1907",
+      "players": "F Lee vs Znosko-Borovsky",
+      "link": "/perl/chessgame?gid=1151931",
+      "id": "1151931",
+      "note": "F Lee Bites"
+    },
+    {
+      "date": "2021-05-26",
+      "year": "1995",
+      "players": "S Williams vs A Dyce",
+      "link": "/perl/chessgame?gid=1730149",
+      "id": "1730149",
+      "note": "The Dyceman Cometh"
+    },
+    {
+      "date": "2021-05-25",
+      "year": "1932",
+      "players": "Ilyin-Zhenevsky vs A Model",
+      "link": "/perl/chessgame?gid=1289687",
+      "id": "1289687",
+      "note": "The Very Model of a Modern Major Zhenevsky"
+    },
+    {
+      "date": "2021-05-24",
+      "year": "1990",
+      "players": "Joel Benjamin vs W Hook",
+      "link": "/perl/chessgame?gid=1026933",
+      "id": "1026933",
+      "note": "By Hook or by Rook"
+    },
+    {
+      "date": "2021-05-23",
+      "year": "2001",
+      "players": "J Moreno Carnero vs Kengis",
+      "link": "/perl/chessgame?gid=1208607",
+      "id": "1208607",
+      "note": "Kengis Can&apos;t"
+    },
+    {
+      "date": "2021-05-22",
+      "year": "2012",
+      "players": "S Goundar vs Wongi Baek",
+      "link": "/perl/chessgame?gid=1686386",
+      "id": "1686386",
+      "note": "Goundar Baek Up the Middle"
+    },
+    {
+      "date": "2021-05-21",
+      "year": "1885",
+      "players": "L Cohn vs F M Teed",
+      "link": "/perl/chessgame?gid=1728312",
+      "id": "1728312",
+      "note": "Lou Cohn for Trouble"
+    },
+    {
+      "date": "2021-05-20",
+      "year": "1937",
+      "players": "J Silverman vs Eliskases",
+      "link": "/perl/chessgame?gid=1483937",
+      "id": "1483937",
+      "note": "Hi Yo Silverman!"
+    },
+    {
+      "date": "2021-05-19",
+      "year": "2015",
+      "players": "Caruana vs Fish",
+      "link": "/perl/chessgame?gid=1806290",
+      "id": "1806290",
+      "note": "Fish and Game"
+    },
+    {
+      "date": "2021-05-18",
+      "year": "2020",
+      "players": "Yu Yangyi vs Duda",
+      "link": "/perl/chessgame?gid=1994981",
+      "id": "1994981",
+      "note": "Yangyi Duda Dandy"
+    },
+    {
+      "date": "2021-05-17",
+      "year": "2017",
+      "players": "Kosteniuk vs L Trent",
+      "link": "/perl/chessgame?gid=1886475",
+      "id": "1886475",
+      "note": "Cancel of Trent"
+    },
+    {
+      "date": "2021-05-16",
+      "year": "2001",
+      "players": "I Novikov vs G Shahade",
+      "link": "/perl/chessgame?gid=1168661",
+      "id": "1168661",
+      "note": "GPS Malfunction"
+    },
+    {
+      "date": "2021-05-15",
+      "year": "2005",
+      "players": "Chernin vs P Bono",
+      "link": "/perl/chessgame?gid=1366278",
+      "id": "1366278",
+      "note": "Stun-ee and Cher"
+    },
+    {
+      "date": "2021-05-14",
+      "year": "2008",
+      "players": "S Golikov vs R Pasiev",
+      "link": "/perl/chessgame?gid=1512471",
+      "id": "1512471",
+      "note": "Pasiev Resistance"
+    },
+    {
+      "date": "2021-05-13",
+      "year": "2012",
+      "players": "A Deviatkin vs J P Wallace",
+      "link": "/perl/chessgame?gid=1703899",
+      "id": "1703899",
+      "note": "Standard Deviation"
+    },
+    {
+      "date": "2021-05-12",
+      "year": "1923",
+      "players": "B Beffie vs P F van Hoorn",
+      "link": "/perl/chessgame?gid=1800256",
+      "id": "1800256",
+      "note": "Kellogg&apos;s Hoorn Flakes"
+    },
+    {
+      "date": "2021-05-11",
+      "year": "1978",
+      "players": "Kasparov vs F Sideif-Sade",
+      "link": "/perl/chessgame?gid=1069704",
+      "id": "1069704",
+      "note": "Smooth Operator"
+    },
+    {
+      "date": "2021-05-10",
+      "year": "2001",
+      "players": "Carlsen vs V A Loginov",
+      "link": "/perl/chessgame?gid=1820498",
+      "id": "1820498",
+      "note": "Problem Loginov"
+    },
+    {
+      "date": "2021-05-09",
+      "year": "2013",
+      "players": "E Alekseev vs I Krush",
+      "link": "/perl/chessgame?gid=1732230",
+      "id": "1732230",
+      "note": "King Krusher"
+    },
+    {
+      "date": "2021-05-08",
+      "year": "1966",
+      "players": "Koltanowski vs W C Doby",
+      "link": "/perl/chessgame?gid=1080818",
+      "id": "1080818",
+      "note": "We Will Fight Them On The D File"
+    },
+    {
+      "date": "2021-05-07",
+      "year": "1965",
+      "players": "Keene vs R Eggmann",
+      "link": "/perl/chessgame?gid=1365999",
+      "id": "1365999",
+      "note": "You, R Eggmann!"
+    },
+    {
+      "date": "2021-05-06",
+      "year": "1941",
+      "players": "W Adams vs L S Greene",
+      "link": "/perl/chessgame?gid=1321877",
+      "id": "1321877",
+      "note": "Greene to Play and Win"
+    },
+    {
+      "date": "2021-05-05",
+      "year": "1999",
+      "players": "A Gara vs N Lakos",
+      "link": "/perl/chessgame?gid=1010293",
+      "id": "1010293",
+      "note": "Opposites Distract"
+    },
+    {
+      "date": "2021-05-04",
+      "year": "2004",
+      "players": "T Heinemann vs G Meins",
+      "link": "/perl/chessgame?gid=1274354",
+      "id": "1274354",
+      "note": "Heinemann Trophy"
+    },
+    {
+      "date": "2021-05-03",
+      "year": "1882",
+      "players": "A E Blackmar vs A F Wurm",
+      "link": "/perl/chessgame?gid=1690628",
+      "id": "1690628",
+      "note": "Dr. Wurm"
+    },
+    {
+      "date": "2021-05-02",
+      "year": "1978",
+      "players": "J Buff vs Hendricks",
+      "link": "/perl/chessgame?gid=1797919",
+      "id": "1797919",
+      "note": "The Jimmy Hendricks Experience"
+    },
+    {
+      "date": "2021-05-01",
+      "year": "1911",
+      "players": "W Kluxen vs Capablanca",
+      "link": "/perl/chessgame?gid=1476292",
+      "id": "1476292",
+      "note": "Do You Know the Way to Smash Jose?"
+    },
+    {
+      "date": "2021-04-30",
+      "year": "1965",
+      "players": "Ujtumen vs A Lein",
+      "link": "/perl/chessgame?gid=1145082",
+      "id": "1145082",
+      "note": "When The Stars A Lein"
+    },
+    {
+      "date": "2021-04-29",
+      "year": "2003",
+      "players": "Mikhalevski vs G Kafka",
+      "link": "/perl/chessgame?gid=1265430",
+      "id": "1265430",
+      "note": "The Metamorphosis"
+    },
+    {
+      "date": "2021-04-28",
+      "year": "1942",
+      "players": "Seidman vs Reshevsky",
+      "link": "/perl/chessgame?gid=1328839",
+      "id": "1328839",
+      "note": "Headliner and Seidman"
+    },
+    {
+      "date": "2021-04-27",
+      "year": "1931",
+      "players": "H C Christoffersen vs S Erdelyi",
+      "link": "/perl/chessgame?gid=1619897",
+      "id": "1619897",
+      "note": "Help Me Make It Through the Knight"
+    },
     {
       "date": "2021-04-26",
       "year": "2008",
