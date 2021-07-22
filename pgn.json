@@ -1,6 +1,438 @@
 {
-  "update": "2021-05-27",
+  "update": "2021-07-22",
   "list": [
+    {
+      "date": "2021-07-22",
+      "year": "1897",
+      "players": "L Karpinski vs E Kemeny",
+      "link": "/perl/chessgame?gid=1732517",
+      "id": "1732517",
+      "note": "The enemy of Kemeny is no fish"
+    },
+    {
+      "date": "2021-07-21",
+      "year": "1905",
+      "players": "Chigorin vs Marshall",
+      "link": "/perl/chessgame?gid=1003519",
+      "id": "1003519",
+      "note": "Gambit, Gambit, Who&apos;s Got the Gambit?"
+    },
+    {
+      "date": "2021-07-20",
+      "year": "1997",
+      "players": "H Spangenberg vs Kasparov",
+      "link": "/perl/chessgame?gid=1070895",
+      "id": "1070895",
+      "note": "Hugo Boss"
+    },
+    {
+      "date": "2021-07-19",
+      "year": "1942",
+      "players": "G Kluger vs Nagy",
+      "link": "/perl/chessgame?gid=1557852",
+      "id": "1557852",
+      "note": "Conspicuously Clever Cavalry Charge"
+    },
+    {
+      "date": "2021-07-18",
+      "year": "1997",
+      "players": "Fedorov vs P H Nielsen",
+      "link": "/perl/chessgame?gid=1079895",
+      "id": "1079895",
+      "note": "Heine Gets a Full Nelson"
+    },
+    {
+      "date": "2021-07-17",
+      "year": "1939",
+      "players": "Petrov vs R Grau",
+      "link": "/perl/chessgame?gid=1483573",
+      "id": "1483573",
+      "note": "Q-Mobile"
+    },
+    {
+      "date": "2021-07-16",
+      "year": "1988",
+      "players": "Karpov vs Timman",
+      "link": "/perl/chessgame?gid=1068611",
+      "id": "1068611",
+      "note": "A Pin, But Not a Safety Pin"
+    },
+    {
+      "date": "2021-07-15",
+      "year": "1972",
+      "players": "Rantanen vs B Denman",
+      "link": "/perl/chessgame?gid=1443863",
+      "id": "1443863",
+      "note": "Death of Brian"
+    },
+    {
+      "date": "2021-07-14",
+      "year": "2006",
+      "players": "S Azarov vs K Shanava",
+      "link": "/perl/chessgame?gid=1409413",
+      "id": "1409413",
+      "note": "Sergeing Forward"
+    },
+    {
+      "date": "2021-07-13",
+      "year": "1986",
+      "players": "Bareev vs Yakovich",
+      "link": "/perl/chessgame?gid=1443760",
+      "id": "1443760",
+      "note": "Bareev Encounter"
+    },
+    {
+      "date": "2021-07-12",
+      "year": "2021",
+      "players": "B Adhiban vs Aronian",
+      "link": "/perl/chessgame?gid=2054812",
+      "id": "2054812",
+      "note": "Baskart Case"
+    },
+    {
+      "date": "2021-07-11",
+      "year": "1912",
+      "players": "Capablanca vs H E Chambers",
+      "link": "/perl/chessgame?gid=1472746",
+      "id": "1472746",
+      "note": "Time Has Come Today"
+    },
+    {
+      "date": "2021-07-10",
+      "year": "1943",
+      "players": "M Stark vs Shainswit",
+      "link": "/perl/chessgame?gid=2037743",
+      "id": "2037743",
+      "note": "Stark Raving Mad"
+    },
+    {
+      "date": "2021-07-09",
+      "year": "2016",
+      "players": "M Silagadze vs A Galymbek",
+      "link": "/perl/chessgame?gid=1842846",
+      "id": "1842846",
+      "note": "Check and Mate"
+    },
+    {
+      "date": "2021-07-09",
+      "year": "2001",
+      "players": "T Chapman vs Kasparov",
+      "link": "/perl/chessgame?gid=1238126",
+      "id": "1238126",
+      "note": "Two Pawns for the Underdog"
+    },
+    {
+      "date": "2021-07-09",
+      "year": "1971",
+      "players": "Korchnoi vs Najdorf",
+      "link": "/perl/chessgame?gid=1082107",
+      "id": "1082107",
+      "note": "Russian tanks"
+    },
+    {
+      "date": "2021-07-09",
+      "year": "1958",
+      "players": "Fischer vs Reshevsky",
+      "link": "/perl/chessgame?gid=1008376",
+      "id": "1008376",
+      "note": "An Opening Trap to Remember"
+    },
+    {
+      "date": "2021-07-09",
+      "year": "1957",
+      "players": "Ivkov vs A Kolarov",
+      "link": "/perl/chessgame?gid=1061588",
+      "id": "1061588",
+      "note": "Breaking the Pin"
+    },
+    {
+      "date": "2021-07-08",
+      "year": "1940",
+      "players": "W Adams vs Kashdan",
+      "link": "/perl/chessgame?gid=1529223",
+      "id": "1529223",
+      "note": "the Weaver Grip"
+    },
+    {
+      "date": "2021-07-08",
+      "year": "1979",
+      "players": "Polugaevsky vs Tal",
+      "link": "/perl/chessgame?gid=1112304",
+      "id": "1112304",
+      "note": "Beat Noire"
+    },
+    {
+      "date": "2021-07-07",
+      "year": "1947",
+      "players": "Averbakh vs Kholmov",
+      "link": "/perl/chessgame?gid=1353207",
+      "id": "1353207",
+      "note": "A Pin, But Not a Safety Pin"
+    },
+    {
+      "date": "2021-07-06",
+      "year": "1937",
+      "players": "Ragozin vs V Sozin",
+      "link": "/perl/chessgame?gid=1272334",
+      "id": "1272334",
+      "note": "Ragozin Supposin&apos; That Sozin is Dozin&apos;: Ragozin Supposin&apos; Erronneously"
+    },
+    {
+      "date": "2021-07-06",
+      "year": "1967",
+      "players": "Fischer vs Myagmarsuren",
+      "link": "/perl/chessgame?gid=1044267",
+      "id": "1044267",
+      "note": "A Tangled Web We Weave"
+    },
+    {
+      "date": "2021-07-05",
+      "year": "1910",
+      "players": "Nimzowitsch vs Ed. Lasker",
+      "link": "/perl/chessgame?gid=1102347",
+      "id": "1102347",
+      "note": "Errant Aron"
+    },
+    {
+      "date": "2021-07-04",
+      "year": "1999",
+      "players": "J Polgar vs Anand",
+      "link": "/perl/chessgame?gid=1009882",
+      "id": "1009882",
+      "note": "A Novel Novelty"
+    },
+    {
+      "date": "2021-07-03",
+      "year": "1992",
+      "players": "Korchnoi vs Beliavsky",
+      "link": "/perl/chessgame?gid=1083608",
+      "id": "1083608",
+      "note": "The Hapless Queen"
+    },
+    {
+      "date": "2021-07-02",
+      "year": "1934",
+      "players": "Alekhine / Koltanowski vs Antwerp",
+      "link": "/perl/chessgame?gid=1080612",
+      "id": "1080612",
+      "note": "Simultaneous Tandem Blindfold Exhibition"
+    },
+    {
+      "date": "2021-07-01",
+      "year": "1972",
+      "players": "Portisch vs Saidy",
+      "link": "/perl/chessgame?gid=1113578",
+      "id": "1113578",
+      "note": "Quiet Manoeuvres"
+    },
+    {
+      "date": "2021-06-27",
+      "year": "1860",
+      "players": "NN vs G H Derrickson",
+      "link": "/perl/chessgame?gid=1816255",
+      "id": "1816255",
+      "note": "The Good Die Young"
+    },
+    {
+      "date": "2021-06-26",
+      "year": "1942",
+      "players": "Pinkus vs J Moskowitz",
+      "link": "/perl/chessgame?gid=1580629",
+      "id": "1580629",
+      "note": "Smiling Jack"
+    },
+    {
+      "date": "2021-06-25",
+      "year": "2021",
+      "players": "Duda vs Dubov",
+      "link": "/perl/chessgame?gid=2024089",
+      "id": "2024089",
+      "note": "Yes, I Can Top This"
+    },
+    {
+      "date": "2021-06-24",
+      "year": "2021",
+      "players": "Nepomniachtchi vs K Alekseenko",
+      "link": "/perl/chessgame?gid=2041080",
+      "id": "2041080",
+      "note": "My name is Nepo!"
+    },
+    {
+      "date": "2021-06-19",
+      "year": "1976",
+      "players": "D Moody vs D Helf",
+      "link": "/perl/chessgame?gid=1077117",
+      "id": "1077117",
+      "note": "Dewey Wins"
+    },
+    {
+      "date": "2021-06-18",
+      "year": "1940",
+      "players": "Kmoch vs Prins",
+      "link": "/perl/chessgame?gid=1535892",
+      "id": "1535892",
+      "note": "Piece Power In Chess"
+    },
+    {
+      "date": "2021-06-17",
+      "year": "1959",
+      "players": "Smyslov vs Fischer",
+      "link": "/perl/chessgame?gid=1008391",
+      "id": "1008391",
+      "note": "Fischer Test"
+    },
+    {
+      "date": "2021-06-16",
+      "year": "1981",
+      "players": "Kasparov vs Beliavsky",
+      "link": "/perl/chessgame?gid=1069907",
+      "id": "1069907",
+      "note": "Route 66"
+    },
+    {
+      "date": "2021-06-14",
+      "year": "1851",
+      "players": "Falkbeer vs Anderssen",
+      "link": "/perl/chessgame?gid=1228216",
+      "id": "1228216",
+      "note": "Like the circles that you find in the windmills of your mind"
+    },
+    {
+      "date": "2021-06-13",
+      "year": "1961",
+      "players": "G Spencer-Smith vs L E Whitehouse",
+      "link": "/perl/chessgame?gid=1784675",
+      "id": "1784675",
+      "note": "Whitehouse Brief"
+    },
+    {
+      "date": "2021-06-12",
+      "year": "2015",
+      "players": "C Picard vs Q Burri",
+      "link": "/perl/chessgame?gid=1794779",
+      "id": "1794779",
+      "note": "Q, End This!"
+    },
+    {
+      "date": "2021-06-11",
+      "year": "1955",
+      "players": "Fischer vs V Pupols",
+      "link": "/perl/chessgame?gid=1044024",
+      "id": "1044024",
+      "note": "Pupols Becomes the Teacher"
+    },
+    {
+      "date": "2021-06-10",
+      "year": "1902",
+      "players": "Lasker / Saulson / Rhodus / Wilcox vs Johnston / Uedemann / Phillips / L",
+      "link": "/perl/chessgame?gid=1380106",
+      "id": "1380106",
+      "note": "The Crowded Room"
+    },
+    {
+      "date": "2021-06-09",
+      "year": "1911",
+      "players": "Spielmann vs Alapin",
+      "link": "/perl/chessgame?gid=1000618",
+      "id": "1000618",
+      "note": "Slippery As an Eelapin"
+    },
+    {
+      "date": "2021-06-08",
+      "year": "1940",
+      "players": "Konstantinopolsky vs I Rudakovsky",
+      "link": "/perl/chessgame?gid=1444002",
+      "id": "1444002",
+      "note": "The Fall of Konstantinopolsky"
+    },
+    {
+      "date": "2021-06-07",
+      "year": "1945",
+      "players": "Bronstein vs I Rudakovsky",
+      "link": "/perl/chessgame?gid=1033585",
+      "id": "1033585",
+      "note": "No Peace at Camp David"
+    },
+    {
+      "date": "2021-06-06",
+      "year": "1966",
+      "players": "Spassky vs Petrosian",
+      "link": "/perl/chessgame?gid=1106730",
+      "id": "1106730",
+      "note": "Boris the Spider"
+    },
+    {
+      "date": "2021-06-05",
+      "year": "1938",
+      "players": "D S Polland vs H Morton",
+      "link": "/perl/chessgame?gid=1633400",
+      "id": "1633400",
+      "note": "NaCl Sandwiched"
+    },
+    {
+      "date": "2021-06-04",
+      "year": "2020",
+      "players": "Anand vs Ding Liren",
+      "link": "/perl/chessgame?gid=2000299",
+      "id": "2000299",
+      "note": "Ding-Dong! The Vish is Dead"
+    },
+    {
+      "date": "2021-06-03",
+      "year": "1987",
+      "players": "D Vaughan vs T Hill",
+      "link": "/perl/chessgame?gid=1078007",
+      "id": "1078007",
+      "note": "King Of The Hill"
+    },
+    {
+      "date": "2021-06-02",
+      "year": "1961",
+      "players": "Korchnoi vs Szabo",
+      "link": "/perl/chessgame?gid=1081385",
+      "id": "1081385",
+      "note": "Viktor-Laszlo"
+    },
+    {
+      "date": "2021-06-01",
+      "year": "1992",
+      "players": "Spassky vs Fischer",
+      "link": "/perl/chessgame?gid=1044755",
+      "id": "1044755",
+      "note": "The End of an Error"
+    },
+    {
+      "date": "2021-05-31",
+      "year": "1908",
+      "players": "Tarrasch vs Lasker",
+      "link": "/perl/chessgame?gid=1241474",
+      "id": "1241474",
+      "note": "The Lask Act"
+    },
+    {
+      "date": "2021-05-30",
+      "year": "1932",
+      "players": "Alekhine vs M Scholtz",
+      "link": "/perl/chessgame?gid=1012851",
+      "id": "1012851",
+      "note": "Guns N&apos; Moses"
+    },
+    {
+      "date": "2021-05-29",
+      "year": "1972",
+      "players": "B Johnson vs A Heikkonen",
+      "link": "/perl/chessgame?gid=2012287",
+      "id": "2012287",
+      "note": "Weakened at Bernie&apos;s"
+    },
+    {
+      "date": "2021-05-28",
+      "year": "1943",
+      "players": "A Rothman vs J Partos",
+      "link": "/perl/chessgame?gid=2049425",
+      "id": "2049425",
+      "note": "What Hath Aaron Rothman?"
+    },
     {
       "date": "2021-05-27",
       "year": "1907",

@@ -1,0 +1,23 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee NED"]
+[Date "1971.01.15"]
+[EventDate "1971.01.12"]
+[Round "4"]
+[Result "1-0"]
+[White "Viktor Korchnoi"]
+[Black "Miguel Najdorf"]
+[ECO "D41"]
+[WhiteElo "2660"]
+[BlackElo "2560"]
+[PlyCount "79"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 d5 4. d4 c5 5. cxd5 Nxd5 6. e4 Nxc3
+7. bxc3 cxd4 8. cxd4 Bb4+ 9. Bd2 Bxd2+ 10. Qxd2 O-O 11. Bc4 b6
+12. O-O Bb7 13. Rfe1 Nd7 14. Rad1 Rc8 15. Bd3 Re8 16. Qe3 Rc3
+17. e5 Qc7 18. Ng5 Nf8 19. Ne4 Bxe4 20. Qxe4 Rd8 21. h4 Qe7
+22. Qg4 Ra3 23. Bc4 b5 24. Bb3 a5 25. d5 a4 26. dxe6 axb3
+27. exf7+ Kh8 {On 27 ...Kxf7 White had probably intended
+28. e6+ Kg8 29. Rxd8 Qxd8 30. e7} 28. Rxd8 Qxd8 29. axb3 Qe7
+30. e6 Ra6 31. f4 h6 32. f5 Nh7 33. Rc1 Ra8 34. Qf4 Nf6
+35. Qc7 Qb4 36. Qc8+ Kh7 37. Qxa8 Qd4+ 38. Kf1 Qf4+ 39. Ke2
+Qe5+ 40. Kd1 1-0
