@@ -1,6 +1,158 @@
 {
-  "update": "2021-07-22",
+  "update": "2021-08-08",
   "list": [
+    {
+      "date": "2021-08-08",
+      "year": "1939",
+      "players": "Petrov vs R Grau",
+      "link": "/perl/chessgame?gid=1483573",
+      "id": "1483573",
+      "note": "Q-Mobile"
+    },
+    {
+      "date": "2021-08-08",
+      "year": "1988",
+      "players": "Karpov vs Timman",
+      "link": "/perl/chessgame?gid=1068611",
+      "id": "1068611",
+      "note": "A Pin, But Not a Safety Pin"
+    },
+    {
+      "date": "2021-08-08",
+      "year": "1920",
+      "players": "Marshall vs Stodie",
+      "link": "/perl/chessgame?gid=1095029",
+      "id": "1095029",
+      "note": "Let Me Be Frank"
+    },
+    {
+      "date": "2021-08-07",
+      "year": "1859",
+      "players": "Bird vs de Riviere",
+      "link": "/perl/chessgame?gid=1027915",
+      "id": "1027915",
+      "note": "Midnight Ride of Bird Revere"
+    },
+    {
+      "date": "2021-08-06",
+      "year": "1976",
+      "players": "T Bush vs A Carter",
+      "link": "/perl/chessgame?gid=1076942",
+      "id": "1076942",
+      "note": "Battle Of The Presidents"
+    },
+    {
+      "date": "2021-08-05",
+      "year": "1863",
+      "players": "de Riviere vs Morphy",
+      "link": "/perl/chessgame?gid=1075130",
+      "id": "1075130",
+      "note": "Morphy's Flaw"
+    },
+    {
+      "date": "2021-08-04",
+      "year": "1915",
+      "players": "Reti vs F Schubert",
+      "link": "/perl/chessgame?gid=1341489",
+      "id": "1341489",
+      "note": "The Unfinished Sacrifice"
+    },
+    {
+      "date": "2021-08-03",
+      "year": "2009",
+      "players": "Beliavsky vs Nakamura",
+      "link": "/perl/chessgame?gid=1554908",
+      "id": "1554908",
+      "note": "Rising Stars War Episode II: Attack of the Pawns"
+    },
+    {
+      "date": "2021-08-02",
+      "year": "1998",
+      "players": "D Norwood vs G Welling",
+      "link": "/perl/chessgame?gid=1357563",
+      "id": "1357563",
+      "note": "The Well in the Woods"
+    },
+    {
+      "date": "2021-08-01",
+      "year": "1972",
+      "players": "Nunn vs A Pope",
+      "link": "/perl/chessgame?gid=1580998",
+      "id": "1580998",
+      "note": "The Pope Lectured his Nun.."
+    },
+    {
+      "date": "2021-07-31",
+      "year": "1990",
+      "players": "M Marin vs R Mascarinas",
+      "link": "/perl/chessgame?gid=1498154",
+      "id": "1498154",
+      "note": "The Few, the Proud, the Marins"
+    },
+    {
+      "date": "2021-07-30",
+      "year": "2005",
+      "players": "Hydra vs Adams",
+      "link": "/perl/chessgame?gid=1341156",
+      "id": "1341156",
+      "note": "Two Heads are Better Than One"
+    },
+    {
+      "date": "2021-07-29",
+      "year": "1901",
+      "players": "Capablanca vs J Corzo",
+      "link": "/perl/chessgame?gid=1262431",
+      "id": "1262431",
+      "note": "Last Bishop of Havana"
+    },
+    {
+      "date": "2021-07-28",
+      "year": "1909",
+      "players": "Teichmann vs Spielmann",
+      "link": "/perl/chessgame?gid=1130702",
+      "id": "1130702",
+      "note": "Mann's Inhumanity To Mann"
+    },
+    {
+      "date": "2021-07-27",
+      "year": "1978",
+      "players": "Dzindzichashvili vs Fedorowicz",
+      "link": "/perl/chessgame?gid=1040107",
+      "id": "1040107",
+      "note": "Bankrupting the Fed"
+    },
+    {
+      "date": "2021-07-26",
+      "year": "2017",
+      "players": "J Xiong vs So",
+      "link": "/perl/chessgame?gid=1870248",
+      "id": "1870248",
+      "note": "So Xiong, Farewell"
+    },
+    {
+      "date": "2021-07-25",
+      "year": "2001",
+      "players": "Shirov vs Topalov",
+      "link": "/perl/chessgame?gid=1361870",
+      "id": "1361870",
+      "note": "Shirov the Top"
+    },
+    {
+      "date": "2021-07-24",
+      "year": "1999",
+      "players": "Svidler vs Anand",
+      "link": "/perl/chessgame?gid=1009904",
+      "id": "1009904",
+      "note": "Svidler, Svidler On the Wall, Who's The Passer After All?"
+    },
+    {
+      "date": "2021-07-23",
+      "year": "2002",
+      "players": "M Mrva vs Movsesian",
+      "link": "/perl/chessgame?gid=1252274",
+      "id": "1252274",
+      "note": "Multiple Reentry Vehicle Knight"
+    },
     {
       "date": "2021-07-22",
       "year": "1897",
