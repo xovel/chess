@@ -1,0 +1,19 @@
+[Event "Venice"]
+[Site "Venice ITA"]
+[Date "1974.11.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "James Tarjan"]
+[Black "Jan Timman"]
+[ECO "B56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.f4 g6 7.Nxc6
+bxc6 8.e5 Nd7 9.exd6 exd6 10.Be3 Be7 11.Qf3 d5 12.O-O-O O-O
+13.g4 Bf6 14.Bd4 Bxd4 15.Rxd4 Rb8 16.Rd2 Qb6 17.b3 Qb4 18.Be2
+Nf6 19.g5 Nh5 20.Rf1 Bg4 21.Qxg4 Qxc3 22.Rd3 Qa1+ 23.Kd2 Qxa2
+24.Qh3 Ng7 25.Bg4 Rb4 26.Rc3 Rd4+ 27.Ke3 Re4+ 28.Kf3 f5
+29.gxf6 Rxf6 30.Kg2 Qa5 31.Qd3 Qb4 32.Bf3 Rd4 0-1
