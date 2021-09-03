@@ -1,6 +1,118 @@
 {
-  "update": "2021-08-21",
+  "update": "2021-09-03",
   "list": [
+    {
+      "date": "2021-09-03",
+      "year": "1927",
+      "players": "Leonhardt vs A Brinckmann",
+      "link": "/perl/chessgame?gid=1279988",
+      "id": "1279988",
+      "note": "Brinck's Home Security"
+    },
+    {
+      "date": "2021-09-02",
+      "year": "1875",
+      "players": "Bird vs J Mason",
+      "link": "/perl/chessgame?gid=1027994",
+      "id": "1027994",
+      "note": "Bird, From, New York City"
+    },
+    {
+      "date": "2021-09-01",
+      "year": "1981",
+      "players": "Tukmakov vs Kasparov",
+      "link": "/perl/chessgame?gid=1069918",
+      "id": "1069918",
+      "note": "Tuk his breath away."
+    },
+    {
+      "date": "2021-08-31",
+      "year": "2009",
+      "players": "C Ross vs C Storey",
+      "link": "/perl/chessgame?gid=1552803",
+      "id": "1552803",
+      "note": "A Dark and Storey Knight"
+    },
+    {
+      "date": "2021-08-30",
+      "year": "1923",
+      "players": "M A Schapiro vs A Hodges",
+      "link": "/perl/chessgame?gid=1459261",
+      "id": "1459261",
+      "note": "Bishops Belong Behind Passed Pawns!"
+    },
+    {
+      "date": "2021-08-29",
+      "year": "1920",
+      "players": "Tarrasch vs J Mieses",
+      "link": "/perl/chessgame?gid=1006563",
+      "id": "1006563",
+      "note": "Mieses Two Pieces"
+    },
+    {
+      "date": "2021-08-28",
+      "year": "1996",
+      "players": "P Mai vs M Pap",
+      "link": "/perl/chessgame?gid=1079705",
+      "id": "1079705",
+      "note": "Mai Way"
+    },
+    {
+      "date": "2021-08-27",
+      "year": "1930",
+      "players": "A Macht vs Alekhine",
+      "link": "/perl/chessgame?gid=1012663",
+      "id": "1012663",
+      "note": "Playing with a macht can get you burnt"
+    },
+    {
+      "date": "2021-08-26",
+      "year": "1989",
+      "players": "Adams vs M Voiska",
+      "link": "/perl/chessgame?gid=1013863",
+      "id": "1013863",
+      "note": "The Master and Margarita"
+    },
+    {
+      "date": "2021-08-25",
+      "year": "2019",
+      "players": "M Karthikeyan vs M Matlakov",
+      "link": "/perl/chessgame?gid=1944437",
+      "id": "1944437",
+      "note": "Murali, Life is but a Dream"
+    },
+    {
+      "date": "2021-08-25",
+      "year": "1988",
+      "players": "Karpov vs Timman",
+      "link": "/perl/chessgame?gid=1068611",
+      "id": "1068611",
+      "note": "A Pin, But Not a Safety Pin"
+    },
+    {
+      "date": "2021-08-24",
+      "year": "2011",
+      "players": "Morozevich vs M Roiz",
+      "link": "/perl/chessgame?gid=1643973",
+      "id": "1643973",
+      "note": "Morozevich Rolls Roiz"
+    },
+    {
+      "date": "2021-08-23",
+      "year": "1991",
+      "players": "P Kranzl vs Blatny",
+      "link": "/perl/chessgame?gid=1030016",
+      "id": "1030016",
+      "note": "Blatant Doom Trip"
+    },
+    {
+      "date": "2021-08-22",
+      "year": "1963",
+      "players": "Petterson vs E Larsson",
+      "link": "/perl/chessgame?gid=1243214",
+      "id": "1243214",
+      "note": "Petty Larssony"
+    },
     {
       "date": "2021-08-21",
       "year": "1990",
