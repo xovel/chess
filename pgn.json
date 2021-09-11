@@ -1,6 +1,78 @@
 {
-  "update": "2021-09-03",
+  "update": "2021-09-11",
   "list": [
+    {
+      "date": "2021-09-11",
+      "year": "2015",
+      "players": "C Blocker vs J Xiong",
+      "link": "/perl/chessgame?gid=1953327",
+      "id": "1953327",
+      "note": "Pop Up Blocker"
+    },
+    {
+      "date": "2021-09-10",
+      "year": "2008",
+      "players": "A H Wohl vs So",
+      "link": "/perl/chessgame?gid=1533930",
+      "id": "1533930",
+      "note": "Going AHWOHL"
+    },
+    {
+      "date": "2021-09-09",
+      "year": "1983",
+      "players": "G Welling vs Kappler",
+      "link": "/perl/chessgame?gid=1345991",
+      "id": "1345991",
+      "note": "Welling crushers"
+    },
+    {
+      "date": "2021-09-08",
+      "year": "1986",
+      "players": "M Orr vs S Knott",
+      "link": "/perl/chessgame?gid=1584001",
+      "id": "1584001",
+      "note": "Believe It Orr Knott"
+    },
+    {
+      "date": "2021-09-07",
+      "year": "2008",
+      "players": "A Panic vs R Lovric",
+      "link": "/perl/chessgame?gid=1526509",
+      "id": "1526509",
+      "note": "Panic Attacks"
+    },
+    {
+      "date": "2021-09-06",
+      "year": "2001",
+      "players": "B Trabert vs T Grabuzova",
+      "link": "/perl/chessgame?gid=1221846",
+      "id": "1221846",
+      "note": "Up For Grabs"
+    },
+    {
+      "date": "2021-09-05",
+      "year": "1988",
+      "players": "Karpov vs Timman",
+      "link": "/perl/chessgame?gid=1068611",
+      "id": "1068611",
+      "note": "A Pin, But Not a Safety Pin"
+    },
+    {
+      "date": "2021-09-05",
+      "year": "1926",
+      "players": "A van Foreest vs Euwe",
+      "link": "/perl/chessgame?gid=1042194",
+      "id": "1042194",
+      "note": "Didn't C this 1 coming, Right?"
+    },
+    {
+      "date": "2021-09-04",
+      "year": "1979",
+      "players": "Prins vs P K Wells",
+      "link": "/perl/chessgame?gid=1528208",
+      "id": "1528208",
+      "note": "The Prins of Wells"
+    },
     {
       "date": "2021-09-03",
       "year": "1927",
