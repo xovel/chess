@@ -1,0 +1,17 @@
+[Event "67th US Open"]
+[Site "Seattle, WA USA"]
+[Date "1966.08.24"]
+[EventDate "1966.08.14"]
+[Round "10"]
+[Result "1-0"]
+[White "William James Lombardy"]
+[Black "Ronald Joseph Gross"]
+[ECO "D06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.Nc3 Nc6 5.d5 Na5 6.e4 c6 7.Ne5
+b5 8.dxc6 Qxd1+ 9.Nxd1 Ng4 10.Nxg4 Bxg4 11.Ne3 Be6 12.c7 Rc8
+13.Bd2 Nc6 14.a4 b4 15.Nd5 Bxd5 16.exd5 Nd4 17.Rc1 Rxc7
+18.Bxc4 e5 19.dxe6 Nxe6 20.O-O Bd6 21.Bxe6 Rxc1 22.Rxc1 1-0

@@ -1,6 +1,70 @@
 {
-  "update": "2021-09-11",
+  "update": "2021-09-18",
   "list": [
+    {
+      "date": "2021-09-18",
+      "year": "2011",
+      "players": "Vachier-Lagrave vs Wang Hao",
+      "link": "/perl/chessgame?gid=1604348",
+      "id": "1604348",
+      "note": "Hao to Escape from the Grave"
+    },
+    {
+      "date": "2021-09-17",
+      "year": "1966",
+      "players": "Lombardy vs R J Gross",
+      "link": "/perl/chessgame?gid=1092765",
+      "id": "1092765",
+      "note": "Gross Blunder"
+    },
+    {
+      "date": "2021-09-16",
+      "year": "2015",
+      "players": "C Lelievre vs M Francois",
+      "link": "/perl/chessgame?gid=1828601",
+      "id": "1828601",
+      "note": "Long lievre le France"
+    },
+    {
+      "date": "2021-09-15",
+      "year": "2017",
+      "players": "D Anton Guijarro vs D Howell",
+      "link": "/perl/chessgame?gid=1877634",
+      "id": "1877634",
+      "note": "Howell I Know Unless I c4 Myself?"
+    },
+    {
+      "date": "2021-09-15",
+      "year": "1988",
+      "players": "Karpov vs Timman",
+      "link": "/perl/chessgame?gid=1068611",
+      "id": "1068611",
+      "note": "A Pin, But Not a Safety Pin"
+    },
+    {
+      "date": "2021-09-14",
+      "year": "1974",
+      "players": "K Commons vs Soltis",
+      "link": "/perl/chessgame?gid=1366871",
+      "id": "1366871",
+      "note": "Summer Soltice"
+    },
+    {
+      "date": "2021-09-13",
+      "year": "1992",
+      "players": "J Polgar vs Anand",
+      "link": "/perl/chessgame?gid=1018365",
+      "id": "1018365",
+      "note": "The Lady or the Tiger?"
+    },
+    {
+      "date": "2021-09-12",
+      "year": "1986",
+      "players": "Sax vs Anand",
+      "link": "/perl/chessgame?gid=1017907",
+      "id": "1017907",
+      "note": "Sax Seeks Sacs"
+    },
     {
       "date": "2021-09-11",
       "year": "2015",
