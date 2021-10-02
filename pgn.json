@@ -1,6 +1,118 @@
 {
-  "update": "2021-09-18",
+  "update": "2021-10-02",
   "list": [
+    {
+      "date": "2021-10-02",
+      "year": "1988",
+      "players": "D Bailey vs L Day",
+      "link": "/perl/chessgame?gid=1037702",
+      "id": "1037702",
+      "note": "Every Doug has his Day"
+    },
+    {
+      "date": "2021-10-01",
+      "year": "2005",
+      "players": "L E Johannessen vs Carlsen",
+      "link": "/perl/chessgame?gid=1327081",
+      "id": "1327081",
+      "note": "Always Look on the Bright Side of Leif"
+    },
+    {
+      "date": "2021-09-30",
+      "year": "2011",
+      "players": "D Freeman vs K McDonald",
+      "link": "/perl/chessgame?gid=1972589",
+      "id": "1972589",
+      "note": "Stick a fork in it, it's done."
+    },
+    {
+      "date": "2021-09-29",
+      "year": "1993",
+      "players": "Timman vs Murey",
+      "link": "/perl/chessgame?gid=1143269",
+      "id": "1143269",
+      "note": "Murey, Murey, quite contrary"
+    },
+    {
+      "date": "2021-09-28",
+      "year": "1993",
+      "players": "Oll vs J M Hodgson",
+      "link": "/perl/chessgame?gid=1105796",
+      "id": "1105796",
+      "note": "No Blood For Oll"
+    },
+    {
+      "date": "2021-09-27",
+      "year": "1995",
+      "players": "P Popovic vs Gligoric",
+      "link": "/perl/chessgame?gid=1309292",
+      "id": "1309292",
+      "note": "Petar Popovic pushed a pair of pretty passers"
+    },
+    {
+      "date": "2021-09-26",
+      "year": "2008",
+      "players": "P Poobalasingam vs J Radovanovic",
+      "link": "/perl/chessgame?gid=1481722",
+      "id": "1481722",
+      "note": "The Grand Pooba"
+    },
+    {
+      "date": "2021-09-25",
+      "year": "2009",
+      "players": "K Arakhamia-Grant vs S Knight",
+      "link": "/perl/chessgame?gid=1532279",
+      "id": "1532279",
+      "note": "What's A Nice Girl Like You Doing On A Knight Like This?"
+    },
+    {
+      "date": "2021-09-24",
+      "year": "1915",
+      "players": "Capablanca vs P H Moise",
+      "link": "/perl/chessgame?gid=1912487",
+      "id": "1912487",
+      "note": "Come on Fail the Moise"
+    },
+    {
+      "date": "2021-09-23",
+      "year": "1960",
+      "players": "Averbakh vs C Purdy",
+      "link": "/perl/chessgame?gid=1329062",
+      "id": "1329062",
+      "note": "You Know The Rules, And So Do I"
+    },
+    {
+      "date": "2021-09-22",
+      "year": "1972",
+      "players": "J Krzyszton vs Julius Nielsen",
+      "link": "/perl/chessgame?gid=1617249",
+      "id": "1617249",
+      "note": "Krzysztonite"
+    },
+    {
+      "date": "2021-09-21",
+      "year": "2005",
+      "players": "F Jenni vs P Carlsson",
+      "link": "/perl/chessgame?gid=1356141",
+      "id": "1356141",
+      "note": "Nc7-5309/Jenni"
+    },
+    {
+      "date": "2021-09-20",
+      "year": "1938",
+      "players": "Stahlberg vs Petrov",
+      "link": "/perl/chessgame?gid=1004894",
+      "id": "1004894",
+      "note": "A Weaker Shade of Pale"
+    },
+    {
+      "date": "2021-09-19",
+      "year": "1967",
+      "players": "I Figler vs N Kasimov",
+      "link": "/perl/chessgame?gid=1788675",
+      "id": "1788675",
+      "note": "Graphic Display Kasimovas"
+    },
     {
       "date": "2021-09-18",
       "year": "2011",
