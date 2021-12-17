@@ -1,0 +1,16 @@
+[Event "corr"]
+[Site "corr"]
+[Date "1970.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Gerhard Niemand"]
+[Black "Peter Keffler"]
+[ECO "C57"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "30"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 Bc5 5.Bxf7+ Ke7 6.Bb3 Rf8
+7.O-O d6 8.Nc3 Qe8 9.Nd5+ Kd8 10.Nxf6 gxf6 11.Nxh7 Rh8 12.Nxf6
+Qg6 13.Nd5 Bg4 14.Qe1 Bf3 15.g3 Qxg3+ 0-1

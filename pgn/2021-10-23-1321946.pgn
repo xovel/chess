@@ -1,0 +1,26 @@
+[Event "Steinitz - Blackburne"]
+[Site "London ENG"]
+[Date "1876.02.29"]
+[EventDate "1876.02.17"]
+[Round "6"]
+[Result "0-1"]
+[White "Joseph Henry Blackburne"]
+[Black "Wilhelm Steinitz"]
+[ECO "C45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "132"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Qh4 5.Nb5 Bb4+ 6.Bd2 Qxe4+
+7.Be2 Kd8 8.O-O Bxd2 9.Qxd2 a6 10.N5a3 Qd4 11.Qg5+ Qf6 12.Qd2
+Qxb2 13.Nc4 Qd4 14.Qc1 Nge7 15.Nbd2 d6 16.Rd1 Be6 17.Qa3 Nd5
+18.Nb3 Qc3 19.Bf1 Ndb4 20.Ne3 Re8 21.Rd2 Bxb3 22.Rad1 Rxe3
+23.fxe3 Nxc2 24.Qc1 Qxe3+ 25.Kh1 Ba4 26.Bc4 N2d4 27.Re1 Qf4
+28.Rf1 Qh6 29.Qb2 Qe3 30.Bxf7 Bb5 31.Rfd1 Nf5 32.a4 Ne5
+33.axb5 Nxf7 34.Re2 Qh6 35.Qb3 axb5 36.g4 Nd4 37.Rxd4 Ra1+
+38.Kg2 Qf6 39.Rde4 Ne5 40.Rf2 Qg6 41.Ref4 c6 42.Qe3 Kc7 43.h3
+h5 44.Rf5 hxg4 45.Rg5 gxh3+ 46.Kh2 Ra3 47.Qxe5 dxe5 48.Rxg6 b4
+49.Rb2 c5 50.Rf2 Rd3 51.Rc2 b6 52.Re6 b3 53.Rb2 c4 54.Rxe5 Kc6
+55.Rg5 Rd5 56.Rxg7 Kc5 57.Kxh3 Kb4 58.Rb1 b5 59.Rg4 Rd2 60.Rg5
+b2 61.Kg3 c3 62.Kf3 Kc4 63.Rgg1 Kb3 64.Ke3 Rd8 65.Rbf1 c2
+66.Ke2 Ka2 0-1

@@ -1,0 +1,15 @@
+[Event "Moscow"]
+[Site "Moscow URS"]
+[Date "1938.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Abrikossowoski"]
+[Black "Parkow"]
+[ECO "C40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "18"]
+
+1.e4 e5 2.Nf3 d5 3.exd5 Qxd5 4.Nc3 Qa5 5.Qe2 Nc6 6.d3 Bg4
+7.Bd2 Nd4 8.Qxe5+ Qxe5+ 9.Nxe5 Nxc2# 0-1
