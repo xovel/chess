@@ -1,6 +1,78 @@
 {
-  "update": "2021-12-17",
+  "update": "2021-12-26",
   "list": [
+    {
+      "date": "2021-12-26",
+      "year": "1936",
+      "players": "Fazekas vs Pirc",
+      "link": "/perl/chessgame?gid=1503264",
+      "id": "1503264",
+      "note": "On the Feast of Stefan"
+    },
+    {
+      "date": "2021-12-25",
+      "year": "2009",
+      "players": "C Boor vs K C Meekins",
+      "link": "/perl/chessgame?gid=2168052",
+      "id": "2168052",
+      "note": "The Meekins Shall Inherit the Earth"
+    },
+    {
+      "date": "2021-12-24",
+      "year": "2011",
+      "players": "Ding Liren vs Li Chao",
+      "link": "/perl/chessgame?gid=1690734",
+      "id": "1690734",
+      "note": "Ding Down, Merry Li on High"
+    },
+    {
+      "date": "2021-12-23",
+      "year": "2013",
+      "players": "Nisipeanu vs S Gordon",
+      "link": "/perl/chessgame?gid=1718218",
+      "id": "1718218",
+      "note": "Sacks in the City"
+    },
+    {
+      "date": "2021-12-22",
+      "year": "2019",
+      "players": "V Artemiev vs A Gallego Alcaraz",
+      "link": "/perl/chessgame?gid=1943677",
+      "id": "1943677",
+      "note": "Escape from Alcaraz"
+    },
+    {
+      "date": "2021-12-21",
+      "year": "1903",
+      "players": "Moreau vs Marshall",
+      "link": "/perl/chessgame?gid=1094552",
+      "id": "1094552",
+      "note": "Military Intelligence"
+    },
+    {
+      "date": "2021-12-20",
+      "year": "1876",
+      "players": "F G Rowe vs W G Ward",
+      "link": "/perl/chessgame?gid=1337292",
+      "id": "1337292",
+      "note": "Damage of F G Rowe"
+    },
+    {
+      "date": "2021-12-19",
+      "year": "2011",
+      "players": "D Anton Guijarro vs A Franco",
+      "link": "/perl/chessgame?gid=1739337",
+      "id": "1739337",
+      "note": "Los Pol&#xED;gamos"
+    },
+    {
+      "date": "2021-12-18",
+      "year": "2009",
+      "players": "M Apicella vs K Dragun",
+      "link": "/perl/chessgame?gid=1537276",
+      "id": "1537276",
+      "note": "Dragun Sicilian"
+    },
     {
       "date": "2021-12-17",
       "year": "1980",
