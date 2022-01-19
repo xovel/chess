@@ -1,6 +1,150 @@
 {
-  "update": "2022-01-01",
+  "update": "2022-01-19",
   "list": [
+    {
+      "date": "2022-01-19",
+      "year": "2005",
+      "players": "Anand vs Adams",
+      "link": "/perl/chessgame?gid=1361575",
+      "id": "1361575",
+      "note": "A A Meeting"
+    },
+    {
+      "date": "2022-01-18",
+      "year": "2005",
+      "players": "H Hayrapetyan vs T Sanikidze",
+      "link": "/perl/chessgame?gid=1355766",
+      "id": "1355766",
+      "note": "Sani Side Down"
+    },
+    {
+      "date": "2022-01-17",
+      "year": "2013",
+      "players": "Aronian vs Gelfand",
+      "link": "/perl/chessgame?gid=1712941",
+      "id": "1712941",
+      "note": "Candidates&apos; debate."
+    },
+    {
+      "date": "2022-01-16",
+      "year": "1977",
+      "players": "L Pospisil vs A Baran",
+      "link": "/perl/chessgame?gid=1427669",
+      "id": "1427669",
+      "note": "Mission Impospisil"
+    },
+    {
+      "date": "2022-01-15",
+      "year": "1937",
+      "players": "Alekhine vs V Mikenas",
+      "link": "/perl/chessgame?gid=1004569",
+      "id": "1004569",
+      "note": "Mikenas Work Overtime"
+    },
+    {
+      "date": "2022-01-14",
+      "year": "2011",
+      "players": "Kramnik vs Carlsen",
+      "link": "/perl/chessgame?gid=1604585",
+      "id": "1604585",
+      "note": "The Client"
+    },
+    {
+      "date": "2022-01-13",
+      "year": "1910",
+      "players": "C Jaffe vs A Souweine",
+      "link": "/perl/chessgame?gid=2190929",
+      "id": "2190929",
+      "note": "Souweine Hunt"
+    },
+    {
+      "date": "2022-01-12",
+      "year": "1842",
+      "players": "J Schulten vs Saint-Amant",
+      "link": "/perl/chessgame?gid=1257995",
+      "id": "1257995",
+      "note": "Schult I alzo zacrifice my Queen?"
+    },
+    {
+      "date": "2022-01-11",
+      "year": "2021",
+      "players": "M Andersen vs Salinas Herrera",
+      "link": "/perl/chessgame?gid=2061894",
+      "id": "2061894",
+      "note": "Hot Chile"
+    },
+    {
+      "date": "2022-01-10",
+      "year": "1994",
+      "players": "Karpov vs Polgar",
+      "link": "/perl/chessgame?gid=1069162",
+      "id": "1069162",
+      "note": "Mansplaining"
+    },
+    {
+      "date": "2022-01-09",
+      "year": "1981",
+      "players": "Tisdall vs G D Lee",
+      "link": "/perl/chessgame?gid=1282938",
+      "id": "1282938",
+      "note": "Tis Not Dull"
+    },
+    {
+      "date": "2022-01-08",
+      "year": "2018",
+      "players": "AlphaZero vs Stockfish",
+      "link": "/perl/chessgame?gid=1937930",
+      "id": "1937930",
+      "note": "Alpha-Seltzer"
+    },
+    {
+      "date": "2022-01-07",
+      "year": "1910",
+      "players": "Schlechter vs Lasker",
+      "link": "/perl/chessgame?gid=1121161",
+      "id": "1121161",
+      "note": "Helter Schlechter"
+    },
+    {
+      "date": "2022-01-06",
+      "year": "1883",
+      "players": "R Steel vs J Mason",
+      "link": "/perl/chessgame?gid=1228273",
+      "id": "1228273",
+      "note": "Stop the Steel"
+    },
+    {
+      "date": "2022-01-05",
+      "year": "1943",
+      "players": "G Ravinsky vs Panov",
+      "link": "/perl/chessgame?gid=1421392",
+      "id": "1421392",
+      "note": "Grigory Chant"
+    },
+    {
+      "date": "2022-01-04",
+      "year": "1997",
+      "players": "A Kulashko vs S J Solomon",
+      "link": "/perl/chessgame?gid=1487754",
+      "id": "1487754",
+      "note": "Song of Solomon"
+    },
+    {
+      "date": "2022-01-03",
+      "year": "1979",
+      "players": "J Pokojowczyk vs Timoscenko",
+      "link": "/perl/chessgame?gid=1299518",
+      "id": "1299518",
+      "note": "Nobody Keres about your Attack"
+    },
+    {
+      "date": "2022-01-02",
+      "year": "1932",
+      "players": "I Rabinovich vs Ilyin-Zhenevsky",
+      "link": "/perl/chessgame?gid=1289690",
+      "id": "1289690",
+      "note": "Open Channel D"
+    },
     {
       "date": "2022-01-01",
       "year": "1971",

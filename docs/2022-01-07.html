@@ -1,0 +1,200 @@
+<html>
+
+<head>
+  <meta name="keywords" content="chess, chess games, ajedrez, scacchi, schach, PGN">
+  <title>Schlechter vs Lasker (1910) Helter Schlechter</title>
+
+  <style type="text/css">
+    HR {
+      size: 1
+    }
+
+    A {
+      text-decoration: none
+    }
+
+    A:hover {
+      color: #FF0000;
+      text-decoration: underline
+    }
+
+    SELECT {
+      background: #DDDDDD;
+      font-family: Verdana, Arial, Helvetica;
+      font-size: 8pt;
+      border-color: #FFFFFF #777777 #777777 #FFFFFF;
+    }
+
+    .fixedText {
+      width: 344px;
+      padding: 1px;
+      border-style: solid;
+      border-color: #996633;
+      border-width: 1px;
+      background-color: #FFFFDD;
+      font-family: Verdana, Arial, Helvetica, sans-serif;
+      font-size: 9px
+    }
+  </style>
+
+  <!-- start OLGA header -->
+  <!-- meta charset="utf-8" -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <div id="olga-data" sessid="1" color_light="#FFCC99" color_dark="#CC9966" labels="Y" pgn='[Event "Lasker - Schlechter World Championship Match"]
+[Site "Vienna AUH"]
+[Date "1910.01.22"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Carl Schlechter"]
+[Black "Emanuel Lasker"]
+[ECO "C66"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "116"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O d6 5.d4 Bd7 6.Nc3 Be7 7.Bg5 O-O 8.dxe5 Nxe5 9.Bxd7 Nfxd7 10.Bxe7 Nxf3+ 11.Qxf3 Qxe7 12.Nd5 Qd8 13.Rad1 Re8 14.Rfe1 Nb6 15.Qc3 Nxd5 16.Rxd5 Re6 17.Rd3 Qe7 18.Rg3 Rg6 19.Ree3 Re8 20.h3 Kf8 21.Rxg6 hxg6 22.Qb4 c6 23.Qa3 a6 24.Qb3 Rd8 25.c4 Rd7 26.Qd1 Qe5 27.Qg4 Ke8 28.Qe2 Kd8 29.Qd2 Kc7 30.a3 Re7 31.b4 b5 32.cxb5 axb5 33.g3 g5 34.Kg2 Re8 35.Qd1 f6 36.Qb3 Qe6 37.Qd1 Rh8 38.g4 Qc4 39.a4 Qxb4 40.axb5 Qxb5 41.Rb3 Qa6 42.Qd4 Re8 43.Rb1 Re5 44.Qb4 Qb5 45.Qe1 Qd3 46.Rb4 c5 47.Ra4 c4 48.Qa1 Qxe4+ 49.Kh2 Rb5 50.Qa2 Qe5+ 51.Kg1 Qe1+ 52.Kh2 d5 53.Ra8 Qb4 54.Kg2 Qc5 55.Qa6 Rb8 56.Ra7+ Kd8 57.Rxg7 Qb6 58.Qa3 Kc8 1-0' ratio="80" notes='[0,"Notes by Jose Raul Capablanca from \"The Chess Weekly\", 1910.",15,"Of course if 8...dxe5 9.Bxc6 would win a pawn.",19,"If 10...Qxe7 probably 11.Nxd4",41,"With every exchange Black&rsquo;s position becomes better. Whatever positional advantage White had is fast disappearing.",57,"White, apparently satisfied with his position has allowed the black king to move over to the queenside, without making any attempt to stop him. White now starts an advance of the queen side pawns, which is checked by Black at once.",63,"Black&rsquo;s strategy has been of a very high order. He has now a very fine game.",76,"Black&rsquo;s position was becoming too alarmingly strong. White prefers to give up a pawn and go for the Black king, rather than be boxed in without a chance to move anything.",77,"39...bxa4, and if 40.Qxa4 Rb8, should be considered. It looks very much as though Black would win. The position is worth studying. By playing 40...Rb8, Black threatens to play 41...Rxb4 and then 42...Rb1, with a murderous check in sight at f1.",83,"If Black were satisfied with a draw, 42...Rb8 would have accomplished it. The champion&rsquo;s play is better, as he could have drawn if he wished up to the fifty-fourth move.",91,"46...Rb5 gave Black some chances of winning.",105,"He could have easily drawn the game by perpetual check, as White could not afford to play 54.Kg2 and 55.f3 because of 55...Qd4.",107,"A most rare case of chess blindness on the part of Dr. Lasker. 54...Rb8 would at least draw.",109,"It was bad now, but he might have tried 55...Qb6 56.Qc8+ Kd6 57.Ra6 Qxa6 58.Qxa6+ Kc5 and fight it out with the two passed pawns and his rook against the queen."]'>
+  </div>
+  <script src="https://cdn.bootcss.com/chess.js/0.10.2/chess.js"></script>
+  <link href="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.css" rel="stylesheet">
+  <link href="./assets/chessboard.min.css" rel="stylesheet">
+  <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.js"></script>
+  <script src="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.js"></script>
+  <script src="./assets/chessboard.min.js"></script>
+  <script src="./assets/olga.js"></script>
+  <link rel="stylesheet" href="./assets/olga.css">
+  <style>
+    .ui-widget-content {
+      background: #cedc98;
+      border: 1px solid #DDDDDD;
+      color: #333333;
+    }
+  </style>
+  <script type="text/javascript">
+    var startLoading = function () {
+      $.prototype.offset = function () {
+        return {
+          left: this[0].offsetLeft,
+          top: this[0].offsetTop
+        };
+      };
+      var board = ChessBoard("board", {
+        draggable: false,
+        position: ''
+      });
+      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status',
+        'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
+    }
+  </script>
+  <!-- end OLGA header -->
+  <script type="text/javascript">
+    function OpenWin(pagename) {
+      SmallWin = window.open(pagename, 'popup', 'scrollbars,resizable,toolbar=no,height=394,width=412,left=200,top=200');
+      if (window.focus) {
+        SmallWin.focus();
+      }
+    }
+  </script>
+</head>
+
+<body bgcolor="#FFFFFF" vlink="#9900FF" link="#0000FF" onload="startLoading();">
+  <center>
+    <font face="verdana,arial,helvetica" size=+1>
+      <B>Schlechter</B>
+      <font color=#333333>vs</font>
+      <B>Lasker</B>
+    </font>
+    <br>
+    <font face="georgia,palatino,times new roman,times" size=-1>
+      <B>"Helter Schlechter"</B>
+      <font size=-2>(game of the day 2022-01-07)</font>
+      <br> Lasker - Schlechter World Championship Match (1910.01.22), Vienna AUH
+      <br> Ruy Lopez(C66)
+      <B>&#183;</B>&nbsp; 1-0
+    </font>
+  </center>
+  <font size="2">
+
+    <!--beginolga-->
+    <div id="board_container" class="totem">
+      <div id="board" style="margin:auto;"></div>
+      <div id="pgn_buttons" class="button_row">
+        <button id="startB" type="button" class="pgn_buttonc">&#171;</button>
+        <button id="prevB" type="button" class="pgn_buttona">&lt;</button>
+        <button id="nextB" type="button" class="pgn_buttonb">&gt;</button>
+        <button id="endB" type="button" class="pgn_buttonc">&#187;</button>
+        <button id="autoB" type="button" class="pgn_buttonc">+</button>
+      </div>
+      <div id="status_t"></div>
+    </div>
+    <div id="variations" class="totem-toggle variations">
+      <div class="analysis_t">ANALYSIS
+        <a id="ab" onclick="exitVariation();">[
+          <font style="color:#0000ff;font-weight:bold;">x</font>]</a>
+      </div>
+      <div id="vb" class="variation_box" tabindex="0" onmouseup="disableShortcutKeysAndStoreStatus();" onblur="restoreShortcutKeysStatus();"
+        onfocusout="restoreShortcutKeysStatus();"></div>
+    </div>
+    <div id="lower_container" class="totem">
+      <div id="notes" class="note_box"></div>
+      <div id="score_box" class="score_box"></div>
+      <br/>
+      <div id="board-options" style="display:none">
+        <div class="col-1" style="width:14%;float:left;margin-left: 4%;">
+          <p style="text-align: center; font-size:1.0em; margin-bottom: 2px;">Light
+            <br/>Squares</p>
+          <input type='color' id='lightColor' class="option_item" onInput="setLightColor(this.value);delayedNotify();" />
+        </div>
+        <div class="col-2" style="width:14%;float:left; margin-left:1%;">
+          <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">Dark
+            <br/>Squares</p>
+          <input type='color' id='darkColor' class="option_item" onInput="setDarkColor(this.value);delayedNotify();" />
+        </div>
+        <div class="col-3" style="width:13%;float:left; margin-left:1%;">
+          <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">Flip
+            <br/>Board</p>
+          <input type="image" src="./assets/img/orientation.png" class="option_item" onclick="flipOrientation();" />
+        </div>
+        <div class="col-4" style="width:32px; height:32px;float:left; margin-left: 2%;">
+          <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">&nbsp;
+            <br>Labels</p>
+          <button name="notation" class="option_item" id="notation" onclick="toggleNotation();delayedNotify();">&nbsp;ON&nbsp;</button>
+        </div>
+        <div class="col-5" style="width:8%;float:left; margin-left:4%;">
+          <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">&nbsp;
+            <br>Shrink</p>
+          <input type="image" src="./assets/img/Pawn_sm.png" class="option_item" onclick="downscaleOLGA();delayedNotify();" />
+        </div>
+        <div class="col-6" style="width:8%;float:left; margin-left:4%;">
+          <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">&nbsp;
+            <br>Grow</p>
+          <input type="image" src="./assets/img/Pawn_big.png" class="option_item" onclick="upscaleOLGA();delayedNotify();" />
+        </div>
+        <div class="col-6" style="width:13%;float:left; margin-left:3%;">
+          <p style="text-align: center;font-size:1.0em;margin-bottom:2px;">&nbsp;
+            <br>Copy</p>
+          <input id="cpy_fen_btn" type="image" src="./assets/img/fen.png" class="option_item" style="border:solid black 1px;" onclick="copyFEN();"
+          />
+        </div>
+      </div>
+
+    </div>
+
+    <div id="status" class="status_toggle">
+      <button class="options_link" onclick="toggleOptions();">
+        <img id="cog_img" src="./assets/img/cog.png" />&nbsp;SETTINGS</button>
+
+      <button class="engine_button" onclick="sendForAnalysis();">
+        <img id="cog_img" src="./assets/img/new_window.png" />&nbsp;ENGINE&nbsp;&nbsp;&nbsp;&nbsp;</button>
+      <div id="fb" class="fen_box"></div>
+    </div>
+    <div id="snackbar">FEN COPIED</div>
+    <!--endolga-->
+
+  </font>
+
+</body>
+
+</html>
