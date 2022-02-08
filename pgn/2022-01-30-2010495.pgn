@@ -1,0 +1,23 @@
+[Event "MIT Faculty - Boylston CC"]
+[Site "USA"]
+[Date "1957.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Claude Shannon"]
+[Black "James E Warren"]
+[ECO "B21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Boston Sunday Globe, 1957.05.26, p.A62"]
+[PlyCount "88"]
+
+1.e4 c5 2.f4 Nc6 3.Nf3 d6 4.Nc3 g6 5.Bc4 Bg7 6.O-O Nf6 7.d4
+cxd4 8.Nxd4 Qb6 9.Be3 Ng4 10.Nd5 Nxe3 11.Nxb6 Nxd1 12.Nxc6
+bxc6 13.Nxa8 Ne3 14.Ba6 Kd7 15.Bxc8+ Rxc8 16.Rf3 Rxa8 17.Rxe3
+Bd4 18.Re1 Rb8 19.b3 a5 20.a4 Rb4 21.Kf2 c5 22.Kf3 Bxe3
+23.Rxe3 c4 24.g4 Kc6 25.Rc3 Kc5 26.Ke3 e6 27.g5 d5 28.exd5
+exd5 29.Kd2 d4 30.Rh3 d3 31.bxc4 dxc2 32.Kxc2 Rxa4 33.Rxh7
+Rxc4+ 34.Kb3 Rxf4 35.Rh8 Kd5 36.Ra8 a4+ 37.Ka3 Ke5 38.Ra5+ Ke6
+39.Rb5 Rh4 40.Rc5 Rxh2 41.Kxa4 Rf2 42.Rc6+ Ke5 43.Kb4 Rf5
+44.Rc7 Kf4 0-1

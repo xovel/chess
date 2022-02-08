@@ -1,6 +1,166 @@
 {
-  "update": "2022-01-19",
+  "update": "2022-02-08",
   "list": [
+    {
+      "date": "2022-02-08",
+      "year": "1962",
+      "players": "Keene vs G C Lund",
+      "link": "/perl/chessgame?gid=1328859",
+      "id": "1328859",
+      "note": "Teenage Waste Lund"
+    },
+    {
+      "date": "2022-02-07",
+      "year": "1949",
+      "players": "Tal vs J I Zilber",
+      "link": "/perl/chessgame?gid=1139129",
+      "id": "1139129",
+      "note": "All That&apos;s Zilber is not Gold"
+    },
+    {
+      "date": "2022-02-06",
+      "year": "1983",
+      "players": "P J Morris vs Ward",
+      "link": "/perl/chessgame?gid=1705210",
+      "id": "1705210",
+      "note": "Philip Morris Rolled and Smoked"
+    },
+    {
+      "date": "2022-02-05",
+      "year": "1960",
+      "players": "Bondarevsky vs K Lloyd",
+      "link": "/perl/chessgame?gid=1697637",
+      "id": "1697637",
+      "note": "Pester Lloyd"
+    },
+    {
+      "date": "2022-02-04",
+      "year": "1984",
+      "players": "Benko vs W Hartmann",
+      "link": "/perl/chessgame?gid=1306160",
+      "id": "1306160",
+      "note": "A Wolfram in Sheep&apos;s Clothing"
+    },
+    {
+      "date": "2022-02-03",
+      "year": "1919",
+      "players": "R P Michell vs Capablanca",
+      "link": "/perl/chessgame?gid=1056005",
+      "id": "1056005",
+      "note": "Prehistoric Hedgehog"
+    },
+    {
+      "date": "2022-02-02",
+      "year": "1990",
+      "players": "Ljubojevic vs Meng-Kong Wong",
+      "link": "/perl/chessgame?gid=1092510",
+      "id": "1092510",
+      "note": "If Ljub-ing You Is White, I Don&apos;t Want to Be Wong"
+    },
+    {
+      "date": "2022-02-01",
+      "year": "1919",
+      "players": "P H Williams vs W D Wight",
+      "link": "/perl/chessgame?gid=1633262",
+      "id": "1633262",
+      "note": "One-Cent Magenta"
+    },
+    {
+      "date": "2022-01-31",
+      "year": "1951",
+      "players": "A Coles vs H Daly",
+      "link": "/perl/chessgame?gid=1645536",
+      "id": "1645536",
+      "note": "Carrying Coles to Nudecastle"
+    },
+    {
+      "date": "2022-01-30",
+      "year": "1957",
+      "players": "C Shannon vs James E Warren",
+      "link": "/perl/chessgame?gid=2010495",
+      "id": "2010495",
+      "note": "Claude Burst"
+    },
+    {
+      "date": "2022-01-29",
+      "year": "1968",
+      "players": "Spassky vs Korchnoi",
+      "link": "/perl/chessgame?gid=1081832",
+      "id": "1081832",
+      "note": "Leningrad Cowboys"
+    },
+    {
+      "date": "2022-01-28",
+      "year": "1993",
+      "players": "Kasparov vs W Cotrina",
+      "link": "/perl/chessgame?gid=1264235",
+      "id": "1264235",
+      "note": "Hurricane Cotrina"
+    },
+    {
+      "date": "2022-01-27",
+      "year": "2017",
+      "players": "A Kalaiyalahan vs D Jameson",
+      "link": "/perl/chessgame?gid=1874021",
+      "id": "1874021",
+      "note": "Jameson On The Rocks"
+    },
+    {
+      "date": "2022-01-26",
+      "year": "2004",
+      "players": "Carlsen vs S Papa",
+      "link": "/perl/chessgame?gid=1306113",
+      "id": "1306113",
+      "note": "Karolus Magnus et Leo Papa"
+    },
+    {
+      "date": "2022-01-25",
+      "year": "1961",
+      "players": "F Olafsson vs J H Donner",
+      "link": "/perl/chessgame?gid=1488452",
+      "id": "1488452",
+      "note": "Bled Donner"
+    },
+    {
+      "date": "2022-01-24",
+      "year": "2019",
+      "players": "F Vallejo Pons vs Carlsen",
+      "link": "/perl/chessgame?gid=1954368",
+      "id": "1954368",
+      "note": "Vallejo of Tears"
+    },
+    {
+      "date": "2022-01-23",
+      "year": "2020",
+      "players": "L&apos;Ami vs A Smirnov",
+      "link": "/perl/chessgame?gid=1990211",
+      "id": "1990211",
+      "note": "Rooks are for Rookies"
+    },
+    {
+      "date": "2022-01-22",
+      "year": "1984",
+      "players": "M Bosboom vs E Teichmann",
+      "link": "/perl/chessgame?gid=1077524",
+      "id": "1077524",
+      "note": "Does M Bosboom Look Big In This?"
+    },
+    {
+      "date": "2022-01-21",
+      "year": "1858",
+      "players": "Morphy vs Harrwitz",
+      "link": "/perl/chessgame?gid=1055947",
+      "id": "1055947",
+      "note": "Daniel, You&apos;re a Star"
+    },
+    {
+      "date": "2022-01-20",
+      "year": "1971",
+      "players": "A Zaitsev vs Adorjan",
+      "link": "/perl/chessgame?gid=1015594",
+      "id": "1015594",
+      "note": "Do as Zaitsev, not as Ado"
+    },
     {
       "date": "2022-01-19",
       "year": "2005",
