@@ -1,0 +1,17 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata ARG"]
+[Date "1948.03.29"]
+[EventDate "1948.03.13"]
+[Round "15"]
+[Result "1-0"]
+[White "Alberic O'Kelly de Galway"]
+[Black "Arnold Denker"]
+[ECO "C63"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "39"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 f5 4.Nc3 fxe4 5.Nxe4 d5 6.Nxe5 dxe4
+7.Nxc6 bxc6 8.Bxc6+ Bd7 9.Qh5+ Ke7 10.Qe5+ Be6 11.d4 exd3
+12.Bg5+ Nf6 13.O-O-O Kf7 14.Rhe1 Bxa2 15.Qa5 Be6 16.Bxf6 Qxf6
+17.Rxe6 Qxf2 18.Rxd3 Kxe6 19.Qd5+ Ke7 20.Qe5+ 1-0

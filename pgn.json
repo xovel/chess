@@ -1,6 +1,94 @@
 {
-  "update": "2022-02-08",
+  "update": "2022-02-19",
   "list": [
+    {
+      "date": "2022-02-19",
+      "year": "2005",
+      "players": "P Lafuente vs Shredder",
+      "link": "/perl/chessgame?gid=1352348",
+      "id": "1352348",
+      "note": "Errare Humanum Est"
+    },
+    {
+      "date": "2022-02-18",
+      "year": "1982",
+      "players": "Goldin vs Efimov",
+      "link": "/perl/chessgame?gid=1443773",
+      "id": "1443773",
+      "note": "The Goldin Rule"
+    },
+    {
+      "date": "2022-02-17",
+      "year": "2013",
+      "players": "Caruana vs G Meier",
+      "link": "/perl/chessgame?gid=1710338",
+      "id": "1710338",
+      "note": "Smells Like Home Cooking"
+    },
+    {
+      "date": "2022-02-16",
+      "year": "2000",
+      "players": "E Spaete vs H Strater",
+      "link": "/perl/chessgame?gid=1420929",
+      "id": "1420929",
+      "note": "This is Spaete!"
+    },
+    {
+      "date": "2022-02-15",
+      "year": "2014",
+      "players": "Aronian vs Nakamura",
+      "link": "/perl/chessgame?gid=1745560",
+      "id": "1745560",
+      "note": "Nak, Nak, Nak King on Levon's Door"
+    },
+    {
+      "date": "2022-02-14",
+      "year": "2016",
+      "players": "Dragnev vs C Daly",
+      "link": "/perl/chessgame?gid=1835320",
+      "id": "1835320",
+      "note": "Valentin's Daly Massacre"
+    },
+    {
+      "date": "2022-02-13",
+      "year": "1996",
+      "players": "Kasparov vs Anand",
+      "link": "/perl/chessgame?gid=1018724",
+      "id": "1018724",
+      "note": "Gazza Razzamatazza"
+    },
+    {
+      "date": "2022-02-12",
+      "year": "2011",
+      "players": "Koneru vs Yifan Hou",
+      "link": "/perl/chessgame?gid=1647770",
+      "id": "1647770",
+      "note": "Hou's on First"
+    },
+    {
+      "date": "2022-02-11",
+      "year": "2009",
+      "players": "Polgar vs Gelfand",
+      "link": "/perl/chessgame?gid=1565422",
+      "id": "1565422",
+      "note": "Polgaroid Picture"
+    },
+    {
+      "date": "2022-02-10",
+      "year": "1951",
+      "players": "Botvinnik vs Bronstein",
+      "link": "/perl/chessgame?gid=1032203",
+      "id": "1032203",
+      "note": "Zugzwang!"
+    },
+    {
+      "date": "2022-02-09",
+      "year": "1948",
+      "players": "O'Kelly vs Denker",
+      "link": "/perl/chessgame?gid=1104149",
+      "id": "1104149",
+      "note": "Machine-Gun O' Kelly"
+    },
     {
       "date": "2022-02-08",
       "year": "1962",
