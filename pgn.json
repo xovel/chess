@@ -1,6 +1,126 @@
 {
-  "update": "2022-02-19",
+  "update": "2022-03-06",
   "list": [
+    {
+      "date": "2022-03-06",
+      "year": "1993",
+      "players": "Z Varga vs S Kustar",
+      "link": "/perl/chessgame?gid=1606859",
+      "id": "1606859",
+      "note": "Kustar's Last Stand"
+    },
+    {
+      "date": "2022-03-05",
+      "year": "1883",
+      "players": "J Mortimer vs A Skipworth",
+      "link": "/perl/chessgame?gid=1001932",
+      "id": "1001932",
+      "note": "Le Mort d'Arthur"
+    },
+    {
+      "date": "2022-03-04",
+      "year": "1990",
+      "players": "Chernin vs Polgar",
+      "link": "/perl/chessgame?gid=1110925",
+      "id": "1110925",
+      "note": "Fell from the Cher"
+    },
+    {
+      "date": "2022-03-03",
+      "year": "1989",
+      "players": "W Zili vs Hug",
+      "link": "/perl/chessgame?gid=1617275",
+      "id": "1617275",
+      "note": "The Immortal Hug-Z.Wang Game"
+    },
+    {
+      "date": "2022-03-02",
+      "year": "1979",
+      "players": "J Johnson vs J Cline",
+      "link": "/perl/chessgame?gid=1296636",
+      "id": "1296636",
+      "note": "\"Magic\" Johnson"
+    },
+    {
+      "date": "2022-03-01",
+      "year": "2008",
+      "players": "Karjakin vs Ivanchuk",
+      "link": "/perl/chessgame?gid=1511653",
+      "id": "1511653",
+      "note": "Justice for Ukraine"
+    },
+    {
+      "date": "2022-02-28",
+      "year": "2009",
+      "players": "Karjakin vs Ivanchuk",
+      "link": "/perl/chessgame?gid=1541023",
+      "id": "1541023",
+      "note": "An Eye for An Eye"
+    },
+    {
+      "date": "2022-02-27",
+      "year": "2016",
+      "players": "S Maze vs Vachier-Lagrave",
+      "link": "/perl/chessgame?gid=1814925",
+      "id": "1814925",
+      "note": "Walking Through a Maze"
+    },
+    {
+      "date": "2022-02-26",
+      "year": "1967",
+      "players": "Fischer vs J Pascual",
+      "link": "/perl/chessgame?gid=1044270",
+      "id": "1044270",
+      "note": "A Lesson For Uncle Joe"
+    },
+    {
+      "date": "2022-02-25",
+      "year": "1926",
+      "players": "Pinkus vs Santasiere",
+      "link": "/perl/chessgame?gid=1120793",
+      "id": "1120793",
+      "note": "Think Pink"
+    },
+    {
+      "date": "2022-02-24",
+      "year": "1900",
+      "players": "A W Fox vs Karper",
+      "link": "/perl/chessgame?gid=1912482",
+      "id": "1912482",
+      "note": "Karper Die Him"
+    },
+    {
+      "date": "2022-02-23",
+      "year": "1993",
+      "players": "J Kristiansen vs Deep Blue",
+      "link": "/perl/chessgame?gid=1472188",
+      "id": "1472188",
+      "note": "Forever in Blue-Jens"
+    },
+    {
+      "date": "2022-02-22",
+      "year": "1982",
+      "players": "Henley vs Miles",
+      "link": "/perl/chessgame?gid=1097453",
+      "id": "1097453",
+      "note": "The end of the innocence"
+    },
+    {
+      "date": "2022-02-21",
+      "year": "1986",
+      "players": "Korchnoi vs Gheorghiu",
+      "link": "/perl/chessgame?gid=1083045",
+      "id": "1083045",
+      "note": "Marching through Gheorghiu"
+    },
+    {
+      "date": "2022-02-20",
+      "year": "2018",
+      "players": "S Dushyant vs Z Harari",
+      "link": "/perl/chessgame?gid=1937552",
+      "id": "1937552",
+      "note": "A Long Way to Tip Harari"
+    },
     {
       "date": "2022-02-19",
       "year": "2005",

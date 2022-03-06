@@ -1,0 +1,21 @@
+[Event "Copenhagen"]
+[Site "Copenhagen DEN"]
+[Date "1993.02.??"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Jens Kristiansen"]
+[Black "Deep Blue (Computer)"]
+[ECO "C28"]
+[WhiteElo "2445"]
+[BlackElo "?"]
+[PlyCount "79"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Nc6 4. Nc3 Na5 5. Nge2 Nxc4 6. dxc4
+Bc5 7. O-O d6 8. Qd3 Be6 9. b3 O-O 10. Bg5 h6 11. Be3 Nd7
+12. Ng3 Qh4 13. Nf5 Bxf5 14. exf5 Rab8 15. Ne4 Bb6 16. Rae1
+Ba5 17. Re2 Bb6 18. a4 Kh8 19. Kh1 Bxe3 20. fxe3 Nf6 21. Nxf6
+Qxf6 22. e4 Rg8 23. Qe3 b6 24. Rf3 Ra8 25. Ref2 Kh7 26. g4
+Rgd8 27. Rh3 Kg8 28. Rh5 c6 29. Rd2 Rab8 30. h4 Qe7 31. g5 Kh7
+32. f6 Qe6 33. Qf3 Rh8 34. Rg2 a6 35. Qg3 g6 36. Rxh6+ Kg8
+37. Rxh8+ Kxh8 38. h5 Kg8 39. Qh4 Qe8 40. Rh2 1-0
