@@ -1,6 +1,62 @@
 {
-  "update": "2022-03-06",
+  "update": "2022-03-13",
   "list": [
+    {
+      "date": "2022-03-13",
+      "year": "2010",
+      "players": "Ruan Lufei vs Zhang Xiaowen",
+      "link": "/perl/chessgame?gid=1602098",
+      "id": "1602098",
+      "note": "Race Among the Ruans"
+    },
+    {
+      "date": "2022-03-12",
+      "year": "2022",
+      "players": "K Babazada vs M Iskandarov",
+      "link": "/perl/chessgame?gid=2244258",
+      "id": "2244258",
+      "note": "Four Queens Defense"
+    },
+    {
+      "date": "2022-03-11",
+      "year": "1904",
+      "players": "O Bernstein vs J Mieses",
+      "link": "/perl/chessgame?gid=1262408",
+      "id": "1262408",
+      "note": "The theory of black holes"
+    },
+    {
+      "date": "2022-03-10",
+      "year": "1921",
+      "players": "Euwe vs Yates",
+      "link": "/perl/chessgame?gid=1042013",
+      "id": "1042013",
+      "note": "Supermax: Where They Keep the Worst of Dewhirst"
+    },
+    {
+      "date": "2022-03-09",
+      "year": "2003",
+      "players": "P Hulshof vs L&apos;Ami",
+      "link": "/perl/chessgame?gid=1324097",
+      "id": "1324097",
+      "note": "Fixed Bayonet"
+    },
+    {
+      "date": "2022-03-08",
+      "year": "1916",
+      "players": "H Buehler vs Lasker",
+      "link": "/perl/chessgame?gid=1380420",
+      "id": "1380420",
+      "note": "Emanuel Lasker&apos;s Off Day"
+    },
+    {
+      "date": "2022-03-07",
+      "year": "1974",
+      "players": "Petrosian vs N Rashkovsky",
+      "link": "/perl/chessgame?gid=1641497",
+      "id": "1641497",
+      "note": "Nukhim the King"
+    },
     {
       "date": "2022-03-06",
       "year": "1993",
