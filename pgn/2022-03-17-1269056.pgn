@@ -1,0 +1,16 @@
+[Event "Hamburg"]
+[Site "Hamburg GER"]
+[Date "1916.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Victor Kahn"]
+[Black "Carl Hartlaub"]
+[ECO "C61"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "32"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nd4 4.Bc4 Qf6 5.Nxd4 exd4 6.O-O b6
+7.c3 Bb7 8.e5 Qg6 9.f3 d3 10.Qb3 Nh6 11.Bd5 Bc5+ 12.Kh1 Nf5
+13.g4 Qh6 14.gxf5 Qh3 15.Rd1 Qxf3+ 16.Bxf3 Bxf3# 0-1

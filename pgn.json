@@ -1,6 +1,110 @@
 {
-  "update": "2022-03-13",
+  "update": "2022-03-26",
   "list": [
+    {
+      "date": "2022-03-26",
+      "year": "1952",
+      "players": "C Vlagsma vs A Babel",
+      "link": "/perl/chessgame?gid=1623152",
+      "id": "1623152",
+      "note": "The Confusion of Tongues"
+    },
+    {
+      "date": "2022-03-25",
+      "year": "1981",
+      "players": "I A Kopylov vs S Korolev",
+      "link": "/perl/chessgame?gid=1476277",
+      "id": "1476277",
+      "note": "Advance your King! Do you Kopy?"
+    },
+    {
+      "date": "2022-03-24",
+      "year": "1946",
+      "players": "A Sandrin vs S Rubinow",
+      "link": "/perl/chessgame?gid=1655874",
+      "id": "1655874",
+      "note": "Sol R Eclipse"
+    },
+    {
+      "date": "2022-03-23",
+      "year": "1886",
+      "players": "A Hodges vs J Daniels",
+      "link": "/perl/chessgame?gid=2081019",
+      "id": "2081019",
+      "note": "The Tennessee Morphy"
+    },
+    {
+      "date": "2022-03-22",
+      "year": "1991",
+      "players": "Shirov vs Andersson",
+      "link": "/perl/chessgame?gid=1123344",
+      "id": "1123344",
+      "note": "The Swedish Inquisition"
+    },
+    {
+      "date": "2022-03-21",
+      "year": "2011",
+      "players": "L Pantsulaia vs Polgar",
+      "link": "/perl/chessgame?gid=1611292",
+      "id": "1611292",
+      "note": "Caught with his Pants down"
+    },
+    {
+      "date": "2022-03-20",
+      "year": "1989",
+      "players": "Dzindzichashvili vs Soltis",
+      "link": "/perl/chessgame?gid=1040395",
+      "id": "1040395",
+      "note": "Soltis-troying"
+    },
+    {
+      "date": "2022-03-19",
+      "year": "1986",
+      "players": "Balashov vs Beliavsky",
+      "link": "/perl/chessgame?gid=1024991",
+      "id": "1024991",
+      "note": "The Balashov Ballet"
+    },
+    {
+      "date": "2022-03-18",
+      "year": "1950",
+      "players": "Boleslavsky vs Smyslov",
+      "link": "/perl/chessgame?gid=1125597",
+      "id": "1125597",
+      "note": "The Bolero"
+    },
+    {
+      "date": "2022-03-17",
+      "year": "1916",
+      "players": "V Kahn vs C Hartlaub",
+      "link": "/perl/chessgame?gid=1269056",
+      "id": "1269056",
+      "note": "The Art of the Checkmate"
+    },
+    {
+      "date": "2022-03-16",
+      "year": "1995",
+      "players": "Adams vs D Bisby",
+      "link": "/perl/chessgame?gid=1014626",
+      "id": "1014626",
+      "note": "Slip Him a Mickey Pin"
+    },
+    {
+      "date": "2022-03-15",
+      "year": "1976",
+      "players": "W Martz vs Miles",
+      "link": "/perl/chessgame?gid=1096986",
+      "id": "1096986",
+      "note": "Beware the Ideas of Martz"
+    },
+    {
+      "date": "2022-03-14",
+      "year": "2013",
+      "players": "Bacrot vs Ivanchuk",
+      "link": "/perl/chessgame?gid=1719243",
+      "id": "1719243",
+      "note": "No Woman, No Cry"
+    },
     {
       "date": "2022-03-13",
       "year": "2010",
