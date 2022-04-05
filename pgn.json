@@ -1,6 +1,86 @@
 {
-  "update": "2022-03-26",
+  "update": "2022-04-05",
   "list": [
+    {
+      "date": "2022-04-05",
+      "year": "1946",
+      "players": "Fine vs R Greene",
+      "link": "/perl/chessgame?gid=1921241",
+      "id": "1921241",
+      "note": "Mr. Greene did it in the simul with the Bishop"
+    },
+    {
+      "date": "2022-04-04",
+      "year": "1957",
+      "players": "D Byrne vs Fischer",
+      "link": "/perl/chessgame?gid=1044427",
+      "id": "1044427",
+      "note": "Game of the Minute"
+    },
+    {
+      "date": "2022-04-03",
+      "year": "1981",
+      "players": "Hort vs Seirawan",
+      "link": "/perl/chessgame?gid=1058245",
+      "id": "1058245",
+      "note": "Say no pun upon Yas"
+    },
+    {
+      "date": "2022-04-02",
+      "year": "1982",
+      "players": "L Schneider vs Tal",
+      "link": "/perl/chessgame?gid=1140615",
+      "id": "1140615",
+      "note": "The One That Got Away"
+    },
+    {
+      "date": "2022-04-01",
+      "year": "1979",
+      "players": "J Eising vs L Schneider",
+      "link": "/perl/chessgame?gid=2241047",
+      "id": "2241047",
+      "note": "Lars Aktion Hero"
+    },
+    {
+      "date": "2022-03-31",
+      "year": "1964",
+      "players": "Fischer vs J Rubens",
+      "link": "/perl/chessgame?gid=1728528",
+      "id": "1728528",
+      "note": "Bobby vs J.R."
+    },
+    {
+      "date": "2022-03-30",
+      "year": "1992",
+      "players": "K Georgiev vs Miles",
+      "link": "/perl/chessgame?gid=1098271",
+      "id": "1098271",
+      "note": "The way the cookie Krumbles"
+    },
+    {
+      "date": "2022-03-29",
+      "year": "2006",
+      "players": "Kramnik vs Topalov",
+      "link": "/perl/chessgame?gid=1430918",
+      "id": "1430918",
+      "note": "Playing for the Throne"
+    },
+    {
+      "date": "2022-03-28",
+      "year": "1997",
+      "players": "Topalov vs Kramnik",
+      "link": "/perl/chessgame?gid=1143908",
+      "id": "1143908",
+      "note": "My Path to the Top"
+    },
+    {
+      "date": "2022-03-27",
+      "year": "1949",
+      "players": "A Chistiakov vs Petrosian",
+      "link": "/perl/chessgame?gid=1106167",
+      "id": "1106167",
+      "note": "Stay in your cage, Tiger!"
+    },
     {
       "date": "2022-03-26",
       "year": "1952",

@@ -1,0 +1,63 @@
+[Event "Kramnik - Topalov World Championship Match"]
+[Site "Elista RUS"]
+[Date "2006.09.23"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Vladimir Kramnik"]
+[Black "Veselin Topalov"]
+[ECO "E04"]
+[WhiteElo "2743"]
+[BlackElo "2813"]
+[PlyCount "149"]
+
+1.d4 {Notes by various authors, as indicated.} Nf6 2.c4 e6
+3.Nf3 d5 4.g3 dxc4 5.Bg2 Bb4+ 6.Bd2 a5 {Something of a
+sideline which has been played by Grischuk and Efimenko. --
+Malcolm Pein} 7.Qc2 {The calmest move which ensures the regain
+of the c4 pawn. Of the other moves; 7.O-O is sound; 7.a3
+wastes time; 7.Bxb4 doesn't seem right but has been played,
+7.Nc3 gambits a pawn for decent compensation and is not how
+Kramnik wants to play against Topalov in game one. 7.Qc1 was
+played by Jan Gustafsson against Efimenko and there is also
+7.Na3!? when 7...Bxa3 8.bxa3 is also reasonable
+compensation. -- Malcom Pein} Bxd2+ 8.Qxd2 c6 9.a4 b5 10.axb5
+cxb5 11.Qg5 O-O 12.Qxb5 Ba6 13.Qa4 {If instead 13 Qxa5 Black
+replies 13 ... Bb7 14 Qxd8 Rxa1 and now a safe move is 15
+Qxf8+. However it is tempting to try 15 Qb6 Rxb1+ 16 Kd2 which
+looks good for White. For the refutation see the (Times)
+puzzle. -- Keene} Qb6 14.O-O Qxb2 15.Nbd2 Bb5 16.Nxc4 Bxa4
+17.Nxb2 Bb5 18.Ne5 Ra7 19.Bf3 Nbd7 20.Nec4 Rb8 21.Rfb1 g5 {A
+great move from Topalov, typically aggressive. Kramnik needs
+to play e2-e3 and Topalov has worked out he can exploit the f3
+square. -- Malcom Pein} 22.e3 g4 23.Bd1 Bc6 24.Rc1 Be4 25.Na4
+Rb4 26.Nd6 Bf3 27.Bxf3 gxf3 28.Nc8 Ra8 29.Ne7+ Kg7 30.Nc6 Rb3
+31.Nc5 Rb5 32.h3 Nxc5 33.Rxc5 Rb2 34.Rg5+ Kh6 35.Rgxa5 Rxa5
+36.Nxa5 Ne4 37.Rf1 Nd2 38.Rc1 Ne4 39.Rf1 {Having sacrificed a
+pawn, Topalov could have forced a draw here by repeating the
+position. Instead, he boldly sought to extract the win but
+went a step too far. -- Keene} f6 40.Nc6 Nd2 41.Rd1 Ne4 42.Rf1
+Kg6 43.Nd8 {! Played after a long thought. It is essential to
+tie one black piece down otherwise he will have a completely
+free hand. -- Malcolm Pein} Rb6 44.Rc1 h5 45.Ra1 h4 46.gxh4
+Kh5 47.Ra2 Kxh4 48.Kh2 Kh5 49.Rc2 Kh6 50.Ra2 Kg6 51.Rc2 Kf5
+{Now white is given an opportunity to change the course of the
+fight - 52.Nc6 Rb7 53.d5 e5 54.h4 Kg4 55.Rc4 Kf5 56.Rc2 and
+black can choose between the repetition after 56...Kg4 and
+double-edged 56...Nd6, rekindling the fire on the board:
+56...Nd6 57.Kh3 Ke4 Probably it's safer not to make extra
+movements and choose calm 52.Ra2. -- Sakaev} 52.Ra2 Rb5 53.Nc6
+Rb7 54.Ra5+ Kg6 55.Ra2 Kh5 56.d5 e5 {If instead 56 ... Rg7
+then White replies 57 dxe6 Rg2+ 58 Kh1 Nxf2+ (58 ... Kg6 59
+Nd8 keeps the black king out and wins) 59 Rxf2 Rxf2 60 e7 Rf1+
+61 Kh2 Rf2+ 62 Kg3 Rg2+ 63 Kxf3 Rg8 64 Ke4 with a winning
+position. -- Keene} 57.Ra4 f5 { "The losing blunder. Black
+must play 57 Nxf2 58 Kg3 e4 59 Kxf2 Rb2+ with a draw by
+perpetual. If White attempts to evade this the black f-pawn
+will promote." -- Keene; "A big mistake. Black could be fixed
+at draw, for example by 57.Nf2 58.Kg3 e4 59.Kf2 Rb2 with
+perpetual check, cause f pawn will promote otherwise." --
+Inarkiev} 58.Nxe5 Rb2 59.Nd3 Rb7 60.Rd4 Rb6 61.d6 Nxd6 62.Kg3
+Ne4+ 63.Kxf3 Kg5 64.h4+ Kf6 65.Rd5 Nc3 66.Rd8 Rb1 67.Rf8+ Ke6
+68.Nf4+ Ke5 69.Re8+ Kf6 70.Nh5+ Kg6 71.Ng3 Rb2 72.h5+ Kf7
+73.Re5 Nd1 74.Ne2 Kf6 75.Rd5 1-0
