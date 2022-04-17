@@ -1,6 +1,102 @@
 {
-  "update": "2022-04-05",
+  "update": "2022-04-17",
   "list": [
+    {
+      "date": "2022-04-17",
+      "year": "2013",
+      "players": "A Granovskiy vs U Grochocinska",
+      "link": "/perl/chessgame?gid=2072187",
+      "id": "2072187",
+      "note": "Three Days and Three Knights"
+    },
+    {
+      "date": "2022-04-16",
+      "year": "2006",
+      "players": "Morozevich vs A Moiseenko",
+      "link": "/perl/chessgame?gid=1410108",
+      "id": "1410108",
+      "note": "Gimme some MO"
+    },
+    {
+      "date": "2022-04-15",
+      "year": "1955",
+      "players": "Reshevsky vs I A Horowitz",
+      "link": "/perl/chessgame?gid=1056940",
+      "id": "1056940",
+      "note": "Al Benoni&apos;s Adagio"
+    },
+    {
+      "date": "2022-04-14",
+      "year": "1959",
+      "players": "Tal vs E Bhend",
+      "link": "/perl/chessgame?gid=1139485",
+      "id": "1139485",
+      "note": "Bhend it Like Edwin"
+    },
+    {
+      "date": "2022-04-13",
+      "year": "2019",
+      "players": "Grischuk vs Topalov",
+      "link": "/perl/chessgame?gid=1952391",
+      "id": "1952391",
+      "note": "Grishop Pair"
+    },
+    {
+      "date": "2022-04-12",
+      "year": "1947",
+      "players": "A C Martin vs E Wolk",
+      "link": "/perl/chessgame?gid=2262993",
+      "id": "2262993",
+      "note": "Wolk This Way"
+    },
+    {
+      "date": "2022-04-11",
+      "year": "1974",
+      "players": "Browne vs Saidy",
+      "link": "/perl/chessgame?gid=1714813",
+      "id": "1714813",
+      "note": "A Pin, But Not a Saidy Pin"
+    },
+    {
+      "date": "2022-04-10",
+      "year": "1922",
+      "players": "Hromadka vs Tarrasch",
+      "link": "/perl/chessgame?gid=1006890",
+      "id": "1006890",
+      "note": "Hromadkable"
+    },
+    {
+      "date": "2022-04-09",
+      "year": "1871",
+      "players": "Steinitz vs A Sich",
+      "link": "/perl/chessgame?gid=1337144",
+      "id": "1337144",
+      "note": "A Sich Mess Unto Death"
+    },
+    {
+      "date": "2022-04-08",
+      "year": "1976",
+      "players": "J Letzelter vs Nunn",
+      "link": "/perl/chessgame?gid=1102867",
+      "id": "1102867",
+      "note": "Haifa Lootin&apos;"
+    },
+    {
+      "date": "2022-04-07",
+      "year": "2017",
+      "players": "Ivanchuk vs Wei Yi",
+      "link": "/perl/chessgame?gid=1888446",
+      "id": "1888446",
+      "note": "King Of The Hill"
+    },
+    {
+      "date": "2022-04-06",
+      "year": "2008",
+      "players": "A Simutowe vs S Bergsson",
+      "link": "/perl/chessgame?gid=1487427",
+      "id": "1487427",
+      "note": "Turning Water Into Win"
+    },
     {
       "date": "2022-04-05",
       "year": "1946",
