@@ -1,6 +1,126 @@
 {
-  "update": "2022-04-17",
+  "update": "2022-05-02",
   "list": [
+    {
+      "date": "2022-05-02",
+      "year": "1964",
+      "players": "Tal vs B Dudley",
+      "link": "/perl/chessgame?gid=1139670",
+      "id": "1139670",
+      "note": "Dudley Demented"
+    },
+    {
+      "date": "2022-05-01",
+      "year": "2018",
+      "players": "Bluebaum vs Vitiugov",
+      "link": "/perl/chessgame?gid=1916997",
+      "id": "1916997",
+      "note": "Veni Vidi Viti"
+    },
+    {
+      "date": "2022-04-30",
+      "year": "2009",
+      "players": "A Gabrielian vs M Krylov",
+      "link": "/perl/chessgame?gid=1542971",
+      "id": "1542971",
+      "note": "King Artur&apos;s Gambit"
+    },
+    {
+      "date": "2022-04-29",
+      "year": "1975",
+      "players": "Unzicker vs Tal",
+      "link": "/perl/chessgame?gid=1140266",
+      "id": "1140266",
+      "note": "Zick Moves"
+    },
+    {
+      "date": "2022-04-28",
+      "year": "2005",
+      "players": "P H Nielsen vs Karjakin",
+      "link": "/perl/chessgame?gid=1329111",
+      "id": "1329111",
+      "note": "Tactics 101"
+    },
+    {
+      "date": "2022-04-27",
+      "year": "2010",
+      "players": "P Papp vs M Lomineishvili",
+      "link": "/perl/chessgame?gid=1577367",
+      "id": "1577367",
+      "note": "Ma and Pa Skittles"
+    },
+    {
+      "date": "2022-04-26",
+      "year": "1972",
+      "players": "Spassky vs Fischer",
+      "link": "/perl/chessgame?gid=1044727",
+      "id": "1044727",
+      "note": "The Revolution Will Not Be Televised"
+    },
+    {
+      "date": "2022-04-25",
+      "year": "1936",
+      "players": "A Pichler vs Rellstab",
+      "link": "/perl/chessgame?gid=1597877",
+      "id": "1597877",
+      "note": "Sweet Pichler"
+    },
+    {
+      "date": "2022-04-24",
+      "year": "1953",
+      "players": "Taimanov vs Averbakh",
+      "link": "/perl/chessgame?gid=1137814",
+      "id": "1137814",
+      "note": "The King&apos;s Gambit, deferred"
+    },
+    {
+      "date": "2022-04-23",
+      "year": "1950",
+      "players": "L Barden vs W Adams",
+      "link": "/perl/chessgame?gid=1572074",
+      "id": "1572074",
+      "note": "White to Play and Grin"
+    },
+    {
+      "date": "2022-04-22",
+      "year": "2004",
+      "players": "Harikrishna vs Nisipeanu",
+      "link": "/perl/chessgame?gid=1305825",
+      "id": "1305825",
+      "note": "Hairy Peanut"
+    },
+    {
+      "date": "2022-04-21",
+      "year": "1989",
+      "players": "P Sinton vs Ken Pow",
+      "link": "/perl/chessgame?gid=1578491",
+      "id": "1578491",
+      "note": "Kapow!"
+    },
+    {
+      "date": "2022-04-20",
+      "year": "2011",
+      "players": "Wojtaszek vs S Williams",
+      "link": "/perl/chessgame?gid=1624386",
+      "id": "1624386",
+      "note": "A Patzer&apos;s Revenge"
+    },
+    {
+      "date": "2022-04-19",
+      "year": "1970",
+      "players": "D Cooper vs O Sarapu",
+      "link": "/perl/chessgame?gid=1370829",
+      "id": "1370829",
+      "note": "David Cooper Failed"
+    },
+    {
+      "date": "2022-04-18",
+      "year": "2001",
+      "players": "Jakovenko vs J Werle",
+      "link": "/perl/chessgame?gid=1205493",
+      "id": "1205493",
+      "note": "The Russians Have Fixed Werle Chess!"
+    },
     {
       "date": "2022-04-17",
       "year": "2013",
