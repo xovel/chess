@@ -1,6 +1,110 @@
 {
-  "update": "2022-05-02",
+  "update": "2022-05-15",
   "list": [
+    {
+      "date": "2022-05-15",
+      "year": "2012",
+      "players": "I Swan vs I Hera",
+      "link": "/perl/chessgame?gid=1671879",
+      "id": "1671879",
+      "note": "Hera&apos;s Revenge"
+    },
+    {
+      "date": "2022-05-14",
+      "year": "1977",
+      "players": "Sax vs Sveshnikov",
+      "link": "/perl/chessgame?gid=1160324",
+      "id": "1160324",
+      "note": "Careful with That Sax, Eugene"
+    },
+    {
+      "date": "2022-05-13",
+      "year": "2006",
+      "players": "G Pankov vs K Szabo",
+      "link": "/perl/chessgame?gid=1435215",
+      "id": "1435215",
+      "note": "Don&apos;t Mention the War!"
+    },
+    {
+      "date": "2022-05-12",
+      "year": "1948",
+      "players": "A Rothman vs G Katz",
+      "link": "/perl/chessgame?gid=1792595",
+      "id": "1792595",
+      "note": "Cool for Katz"
+    },
+    {
+      "date": "2022-05-11",
+      "year": "1890",
+      "players": "P Gaspary vs J N Berger",
+      "link": "/perl/chessgame?gid=1345331",
+      "id": "1345331",
+      "note": "Carry Gaspar Off"
+    },
+    {
+      "date": "2022-05-10",
+      "year": "2005",
+      "players": "Nisipeanu vs A Moreno Garcia",
+      "link": "/perl/chessgame?gid=1795362",
+      "id": "1795362",
+      "note": "Giuoco &apos;peanu"
+    },
+    {
+      "date": "2022-05-09",
+      "year": "1961",
+      "players": "Tal vs Parma",
+      "link": "/perl/chessgame?gid=1105372",
+      "id": "1105372",
+      "note": "We Don&apos;t Tal About Bruno"
+    },
+    {
+      "date": "2022-05-08",
+      "year": "2009",
+      "players": "S Khukhashvili vs M Krupa",
+      "link": "/perl/chessgame?gid=1559518",
+      "id": "1559518",
+      "note": "Sopiko on a Ropiko"
+    },
+    {
+      "date": "2022-05-07",
+      "year": "1924",
+      "players": "R Scrivener vs N Whitaker",
+      "link": "/perl/chessgame?gid=1633297",
+      "id": "1633297",
+      "note": "Beaten by the Scrivener"
+    },
+    {
+      "date": "2022-05-06",
+      "year": "1859",
+      "players": "Anderssen vs de Riviere",
+      "link": "/perl/chessgame?gid=1336545",
+      "id": "1336545",
+      "note": "Crossing de Riviere"
+    },
+    {
+      "date": "2022-05-05",
+      "year": "1987",
+      "players": "G Kool vs Polgar",
+      "link": "/perl/chessgame?gid=1110738",
+      "id": "1110738",
+      "note": "Too Kool for School"
+    },
+    {
+      "date": "2022-05-04",
+      "year": "1968",
+      "players": "A Feneridis vs E Frost",
+      "link": "/perl/chessgame?gid=1657675",
+      "id": "1657675",
+      "note": "A Touch Of Frost"
+    },
+    {
+      "date": "2022-05-03",
+      "year": "1882",
+      "players": "Steinitz vs C Newman",
+      "link": "/perl/chessgame?gid=1718618",
+      "id": "1718618",
+      "note": "Cardinal Newman"
+    },
     {
       "date": "2022-05-02",
       "year": "1964",
