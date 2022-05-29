@@ -1,0 +1,17 @@
+[Event "Blindfold simul, 2b"]
+[Site "Paris FRA"]
+[Date "1838.03.22"]
+[EventDate "1836.??.??"]
+[Round "?"]
+[Result "0-1"]
+[White "Jouy"]
+[Black "Louis Charles Mahe De La Bourdonnais"]
+[ECO "C37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "34"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. Ne5 Qh4+ 6. Kf1 f3
+7. Nxf7 Nc6 8. d4 Bg7 9. c3 Nf6 10. Nxh8 d5 11. exd5 Ne4
+12. Qe1 g3 13. Bd3 fxg2+ 14. Kxg2 Bh3+ 15. Kg1 Nxd4 16. Qxe4+
+Qxe4 17. Bxe4 Ne2# 0-1

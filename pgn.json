@@ -1,6 +1,118 @@
 {
-  "update": "2022-05-15",
+  "update": "2022-05-29",
   "list": [
+    {
+      "date": "2022-05-29",
+      "year": "1927",
+      "players": "Alekhine vs Tartakower",
+      "link": "/perl/chessgame?gid=1007667",
+      "id": "1007667",
+      "note": "To kower in fear!"
+    },
+    {
+      "date": "2022-05-28",
+      "year": "2016",
+      "players": "Wei Yi vs Navara",
+      "link": "/perl/chessgame?gid=1813944",
+      "id": "1813944",
+      "note": "Navar take a sacrifice"
+    },
+    {
+      "date": "2022-05-27",
+      "year": "1959",
+      "players": "Spassky vs Geller",
+      "link": "/perl/chessgame?gid=1048900",
+      "id": "1048900",
+      "note": "Efim&apos; Hell!"
+    },
+    {
+      "date": "2022-05-26",
+      "year": "1932",
+      "players": "E Hahn vs J Vitense",
+      "link": "/perl/chessgame?gid=1280889",
+      "id": "1280889",
+      "note": "Is it a Bird?"
+    },
+    {
+      "date": "2022-05-25",
+      "year": "1987",
+      "players": "N Brunni vs R Torrance",
+      "link": "/perl/chessgame?gid=1736378",
+      "id": "1736378",
+      "note": "Hawaii 1-0"
+    },
+    {
+      "date": "2022-05-24",
+      "year": "2021",
+      "players": "A Esipenko vs Carlsen",
+      "link": "/perl/chessgame?gid=2021289",
+      "id": "2021289",
+      "note": "Andrey the Giant"
+    },
+    {
+      "date": "2022-05-23",
+      "year": "1999",
+      "players": "D Rogozenco vs J Gallagher",
+      "link": "/perl/chessgame?gid=1009448",
+      "id": "1009448",
+      "note": "No Ordinary Joe"
+    },
+    {
+      "date": "2022-05-22",
+      "year": "2006",
+      "players": "Nunn vs Smeets",
+      "link": "/perl/chessgame?gid=1427166",
+      "id": "1427166",
+      "note": "I shall Smeet thee"
+    },
+    {
+      "date": "2022-05-21",
+      "year": "1975",
+      "players": "A Kushnir vs Evans",
+      "link": "/perl/chessgame?gid=1434640",
+      "id": "1434640",
+      "note": "Deadlier Than the Male"
+    },
+    {
+      "date": "2022-05-20",
+      "year": "1971",
+      "players": "I Nei vs Tal",
+      "link": "/perl/chessgame?gid=1140014",
+      "id": "1140014",
+      "note": "Taking I Nei"
+    },
+    {
+      "date": "2022-05-19",
+      "year": "2010",
+      "players": "Ivanchuk vs Polgar",
+      "link": "/perl/chessgame?gid=1600882",
+      "id": "1600882",
+      "note": "I Am Like A Broken Vasyl"
+    },
+    {
+      "date": "2022-05-18",
+      "year": "1838",
+      "players": "Jouy vs La Bourdonnais",
+      "link": "/perl/chessgame?gid=1075468",
+      "id": "1075468",
+      "note": "Jumping for Jouy"
+    },
+    {
+      "date": "2022-05-17",
+      "year": "1969",
+      "players": "Hecht vs Suttles",
+      "link": "/perl/chessgame?gid=1135859",
+      "id": "1135859",
+      "note": "What the Hecht happened?"
+    },
+    {
+      "date": "2022-05-16",
+      "year": "2013",
+      "players": "M Yilmaz vs Nepomniachtchi",
+      "link": "/perl/chessgame?gid=1739484",
+      "id": "1739484",
+      "note": "Opening Is Error. Resign! - I. Nepo"
+    },
     {
       "date": "2022-05-15",
       "year": "2012",
