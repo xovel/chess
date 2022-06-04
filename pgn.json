@@ -1,6 +1,54 @@
 {
-  "update": "2022-05-29",
+  "update": "2022-06-04",
   "list": [
+    {
+      "date": "2022-06-04",
+      "year": "1996",
+      "players": "J Heikkinen vs G Angus",
+      "link": "/perl/chessgame?gid=1338687",
+      "id": "1338687",
+      "note": "Duhm And Diemer"
+    },
+    {
+      "date": "2022-06-03",
+      "year": "1888",
+      "players": "W Pollock vs T C Gibbons",
+      "link": "/perl/chessgame?gid=1948844",
+      "id": "1948844",
+      "note": "Do the Funky Gibbons"
+    },
+    {
+      "date": "2022-06-02",
+      "year": "1873",
+      "players": "S Rosenthal vs Steinitz",
+      "link": "/perl/chessgame?gid=1132616",
+      "id": "1132616",
+      "note": "Withered Rose"
+    },
+    {
+      "date": "2022-06-01",
+      "year": "2021",
+      "players": "Firouzja vs Rapport",
+      "link": "/perl/chessgame?gid=2079964",
+      "id": "2079964",
+      "note": "&quot;The Fast and Firouzjous&quot;"
+    },
+    {
+      "date": "2022-05-31",
+      "year": "1988",
+      "players": "F Braga vs G Gruen",
+      "link": "/perl/chessgame?gid=1033117",
+      "id": "1033117",
+      "note": "...Something to Braga &apos;bout...."
+    },
+    {
+      "date": "2022-05-30",
+      "year": "2001",
+      "players": "A Nadanian vs Sakaev",
+      "link": "/perl/chessgame?gid=1701533",
+      "id": "1701533",
+      "note": "The Ashot Heard Round the World"
+    },
     {
       "date": "2022-05-29",
       "year": "1927",

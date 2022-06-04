@@ -1,0 +1,23 @@
+[Event "Casual game"]
+[Site "Simpson's Divan, London ENG"]
+[Date "1888.03.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "William Henry Krause Pollock"]
+[Black "Thomas Charles Gibbons"]
+[ECO "C52"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "British Chess Magazine, November 1899, p.474"]
+[PlyCount "62"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. O-O Nf6
+7. Qc2 O-O 8. Ba3 d6 9. d4 exd4 10. cxd4 Bb6 11. Rfd1 Bg4
+12. e5 Bxf3 13. gxf3 Nh5 14. Qe4 Qg5+ 15. Kh1 Kh8 16. Bc1 f5
+17. Qe2 f4 18. Rg1 Qh6 19. Bb2 Ne7 20. exd6 Nf5 21. d7 Rf6
+22. d5 Rf7 23. Rae1 Be3 24. Bd3 Nfg3+ 25. fxg3 Nxg3+ 26. Rxg3
+fxg3 27. Bc1 Rxf3 28. d6 Rf2 29. Qxf2 gxf2 30. Rxe3 Qg6
+31. Bxg6 f1=Q# 0-1
