@@ -1,6 +1,126 @@
 {
-  "update": "2022-06-04",
+  "update": "2022-06-18",
   "list": [
+    {
+      "date": "2022-06-18",
+      "year": "2002",
+      "players": "D Gormally vs S Meenakshi",
+      "link": "/perl/chessgame?gid=1252673",
+      "id": "1252673",
+      "note": "I don&apos;t Gormally win, but when I do, I sac by queen"
+    },
+    {
+      "date": "2022-06-17",
+      "year": "1982",
+      "players": "Browne vs Smyslov",
+      "link": "/perl/chessgame?gid=1126718",
+      "id": "1126718",
+      "note": "Take Walt on the Queen Side"
+    },
+    {
+      "date": "2022-06-16",
+      "year": "1988",
+      "players": "Sofia Polgar vs Westerinen",
+      "link": "/perl/chessgame?gid=1109485",
+      "id": "1109485",
+      "note": "The Male Chauvinist Defense"
+    },
+    {
+      "date": "2022-06-15",
+      "year": "1913",
+      "players": "A W Ryder vs G Walcott",
+      "link": "/perl/chessgame?gid=1813590",
+      "id": "1813590",
+      "note": "Easy Ryder"
+    },
+    {
+      "date": "2022-06-14",
+      "year": "1978",
+      "players": "Y Gruenfeld vs M Basman",
+      "link": "/perl/chessgame?gid=1026262",
+      "id": "1026262",
+      "note": "Basman, The Dark Knight"
+    },
+    {
+      "date": "2022-06-13",
+      "year": "1862",
+      "players": "Blackburne vs Steinitz",
+      "link": "/perl/chessgame?gid=1575299",
+      "id": "1575299",
+      "note": "Four Thousand Holes in Blackburne&apos;s Position"
+    },
+    {
+      "date": "2022-06-12",
+      "year": "1939",
+      "players": "Petrov vs R Grau",
+      "link": "/perl/chessgame?gid=1483573",
+      "id": "1483573",
+      "note": "Q-Mobile"
+    },
+    {
+      "date": "2022-06-12",
+      "year": "1994",
+      "players": "Kasparov vs Timman",
+      "link": "/perl/chessgame?gid=1017845",
+      "id": "1017845",
+      "note": "A Pawn, But Not a Safe D-Pawn"
+    },
+    {
+      "date": "2022-06-11",
+      "year": "1988",
+      "players": "Karpov vs Timman",
+      "link": "/perl/chessgame?gid=1068611",
+      "id": "1068611",
+      "note": "A Pin, But Not a Safety Pin"
+    },
+    {
+      "date": "2022-06-10",
+      "year": "1932",
+      "players": "Euwe vs Flohr",
+      "link": "/perl/chessgame?gid=1042367",
+      "id": "1042367",
+      "note": "Euwe Look Good On The Dunce Flohr"
+    },
+    {
+      "date": "2022-06-09",
+      "year": "1964",
+      "players": "R Nezhmetdinov vs Antoshin",
+      "link": "/perl/chessgame?gid=1102281",
+      "id": "1102281",
+      "note": "So Close Yet So Far"
+    },
+    {
+      "date": "2022-06-08",
+      "year": "2001",
+      "players": "S Lalic vs Arkell",
+      "link": "/perl/chessgame?gid=1206342",
+      "id": "1206342",
+      "note": "Battle of the Exes"
+    },
+    {
+      "date": "2022-06-07",
+      "year": "1964",
+      "players": "Fischer vs J Warren",
+      "link": "/perl/chessgame?gid=1255146",
+      "id": "1255146",
+      "note": "Warren Peace"
+    },
+    {
+      "date": "2022-06-06",
+      "year": "1975",
+      "players": "Evans vs L Day",
+      "link": "/perl/chessgame?gid=1037476",
+      "id": "1037476",
+      "note": "Lar&apos;s Lone Pine Pin Lays Law Low"
+    },
+    {
+      "date": "2022-06-05",
+      "year": "1960",
+      "players": "N Namzhil vs Szabo",
+      "link": "/perl/chessgame?gid=1137009",
+      "id": "1137009",
+      "note": "The Mongolian NN"
+    },
     {
       "date": "2022-06-04",
       "year": "1996",

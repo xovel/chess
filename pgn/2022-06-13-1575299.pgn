@@ -1,0 +1,18 @@
+[Event "Steinitz - Blackburne m"]
+[Site "London ENG"]
+[Date "1862.12.??"]
+[EventDate "1863.01.??"]
+[Round "4"]
+[Result "0-1"]
+[White "Joseph Henry Blackburne"]
+[Black "Wilhelm Steinitz"]
+[ECO "A82"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "38"]
+
+1. d4 f5 2. e4 fxe4 3. Nc3 e6 4. Nxe4 Nf6 5. Bg5 Be7 6. Bd3
+Nxe4 7. Bxe7 Qxe7 8. Bxe4 O-O 9. c3 Nc6 10. Qe2 d5 11. Bc2 Qg5
+12. g3 e5 13. dxe5 Bg4 14. Qe3 Qh5 15. f4 Nxe5 16. fxe5 Rae8
+17. Bxh7+ Kxh7 18. Qd4 Qg5 19. h4 Qxe5+ { Bachmann:
+Schachmeister Steinitz Bd. 1, p. 55} 0-1
