@@ -1,6 +1,110 @@
 {
-  "update": "2022-06-18",
+  "update": "2022-06-30",
   "list": [
+    {
+      "date": "2022-06-30",
+      "year": "1862",
+      "players": "Paulsen vs Anderssen",
+      "link": "/perl/chessgame?gid=1019124",
+      "id": "1019124",
+      "note": "Paulsen of Interest"
+    },
+    {
+      "date": "2022-06-29",
+      "year": "2008",
+      "players": "R Lovkov vs R Nechepurenko",
+      "link": "/perl/chessgame?gid=1488033",
+      "id": "1488033",
+      "note": "These Romans Are Crazy!"
+    },
+    {
+      "date": "2022-06-28",
+      "year": "1977",
+      "players": "NN vs F Rhine",
+      "link": "/perl/chessgame?gid=1701532",
+      "id": "1701532",
+      "note": "Strangers on a Train"
+    },
+    {
+      "date": "2022-06-27",
+      "year": "1962",
+      "players": "F Parr vs R G Wade",
+      "link": "/perl/chessgame?gid=1153418",
+      "id": "1153418",
+      "note": "Don&apos;t Rain On My Parr-Wade"
+    },
+    {
+      "date": "2022-06-26",
+      "year": "2000",
+      "players": "Polgar vs Khalifman",
+      "link": "/perl/chessgame?gid=1403212",
+      "id": "1403212",
+      "note": "Polverised"
+    },
+    {
+      "date": "2022-06-25",
+      "year": "1965",
+      "players": "Keene vs R G Wade",
+      "link": "/perl/chessgame?gid=1555230",
+      "id": "1555230",
+      "note": "Ray v Wade"
+    },
+    {
+      "date": "2022-06-24",
+      "year": "1914",
+      "players": "Capablanca vs Tarrasch",
+      "link": "/perl/chessgame?gid=1272218",
+      "id": "1272218",
+      "note": "Misfortune Seldom Comes Alone"
+    },
+    {
+      "date": "2022-06-23",
+      "year": "1988",
+      "players": "Ivanchuk vs A Graf",
+      "link": "/perl/chessgame?gid=1059963",
+      "id": "1059963",
+      "note": "Sinking of the Graf&apos;s Play"
+    },
+    {
+      "date": "2022-06-22",
+      "year": "1963",
+      "players": "Mednis vs Fischer",
+      "link": "/perl/chessgame?gid=1044579",
+      "id": "1044579",
+      "note": "Fisching ... in Meddy waters ..."
+    },
+    {
+      "date": "2022-06-21",
+      "year": "1909",
+      "players": "Reti vs Meitner",
+      "link": "/perl/chessgame?gid=1485684",
+      "id": "1485684",
+      "note": "Reti-o-activity"
+    },
+    {
+      "date": "2022-06-20",
+      "year": "1988",
+      "players": "Karpov vs Timman",
+      "link": "/perl/chessgame?gid=1068611",
+      "id": "1068611",
+      "note": "A Pin, But Not a Safety Pin"
+    },
+    {
+      "date": "2022-06-20",
+      "year": "1957",
+      "players": "Euwe vs Fischer",
+      "link": "/perl/chessgame?gid=1044436",
+      "id": "1044436",
+      "note": "hors d&apos;Euwe"
+    },
+    {
+      "date": "2022-06-19",
+      "year": "1958",
+      "players": "Posch vs Dorrer",
+      "link": "/perl/chessgame?gid=1557826",
+      "id": "1557826",
+      "note": "Posch Spice"
+    },
     {
       "date": "2022-06-18",
       "year": "2002",
