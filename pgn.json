@@ -1,6 +1,30 @@
 {
-  "update": "2022-06-30",
+  "update": "2022-07-03",
   "list": [
+    {
+      "date": "2022-07-03",
+      "year": "1992",
+      "players": "Anand vs I Sokolov",
+      "link": "/perl/chessgame?gid=1018291",
+      "id": "1018291",
+      "note": "Viswanathan Swift"
+    },
+    {
+      "date": "2022-07-02",
+      "year": "1977",
+      "players": "Tseshkovsky vs Lputian",
+      "link": "/perl/chessgame?gid=1386238",
+      "id": "1386238",
+      "note": "Lputian Minaturized"
+    },
+    {
+      "date": "2022-07-01",
+      "year": "1995",
+      "players": "M Greengard vs J Rivero",
+      "link": "/perl/chessgame?gid=1321913",
+      "id": "1321913",
+      "note": "Mig Fighter"
+    },
     {
       "date": "2022-06-30",
       "year": "1862",
