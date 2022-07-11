@@ -1,6 +1,70 @@
 {
-  "update": "2022-07-03",
+  "update": "2022-07-11",
   "list": [
+    {
+      "date": "2022-07-11",
+      "year": "1858",
+      "players": "Morphy vs P Journoud",
+      "link": "/perl/chessgame?gid=1258197",
+      "id": "1258197",
+      "note": "Journoud's End"
+    },
+    {
+      "date": "2022-07-10",
+      "year": "1958",
+      "players": "Spassky vs Tolush",
+      "link": "/perl/chessgame?gid=1128414",
+      "id": "1128414",
+      "note": "Russian Hackers"
+    },
+    {
+      "date": "2022-07-09",
+      "year": "1977",
+      "players": "Razuvaev vs L Gutman",
+      "link": "/perl/chessgame?gid=1320231",
+      "id": "1320231",
+      "note": "Gut Instinct"
+    },
+    {
+      "date": "2022-07-08",
+      "year": "1922",
+      "players": "Capablanca vs E S Maddock",
+      "link": "/perl/chessgame?gid=1076229",
+      "id": "1076229",
+      "note": "I Fall To Pieces"
+    },
+    {
+      "date": "2022-07-07",
+      "year": "1911",
+      "players": "V Kautsky vs J Knapp",
+      "link": "/perl/chessgame?gid=2260981",
+      "id": "2260981",
+      "note": "Kaut Knapping"
+    },
+    {
+      "date": "2022-07-06",
+      "year": "2021",
+      "players": "Mendonca vs Mishra",
+      "link": "/perl/chessgame?gid=2056223",
+      "id": "2056223",
+      "note": "Searching For Abhi Mishra"
+    },
+    {
+      "date": "2022-07-05",
+      "year": "1892",
+      "players": "Lasker vs E N Olly",
+      "link": "/perl/chessgame?gid=1995690",
+      "id": "1995690",
+      "note": "Stun E N Olly"
+    },
+    {
+      "date": "2022-07-04",
+      "year": "1893",
+      "players": "R Hodgson vs F K Esling",
+      "link": "/perl/chessgame?gid=1666632",
+      "id": "1666632",
+      "note": "My Sweet Lord"
+    },
     {
       "date": "2022-07-03",
       "year": "1992",
