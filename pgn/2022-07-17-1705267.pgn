@@ -1,0 +1,20 @@
+[Event "Tradewise Gibraltar"]
+[Site "La Caleta GIB"]
+[Date "2013.01.22"]
+[EventDate "2013.01.22"]
+[Round "1"]
+[Result "0-1"]
+[White "Alexander Lipecki"]
+[Black "A R Saleh Salem"]
+[ECO "B20"]
+[WhiteElo "2138"]
+[BlackElo "2538"]
+[PlyCount "62"]
+
+1. e4 c5 2. b4 cxb4 3. a3 bxa3 4. Nxa3 d6 5. d4 Nf6 6. Bd3 Nc6
+7. Ne2 g6 8. c3 Bg7 9. O-O O-O 10. f4 d5 11. e5 Ne4 12. Bxe4
+dxe4 13. Ng3 f6 14. Nxe4 fxe5 15. Qb3+ Kh8 16. dxe5 Bf5
+17. Ng5 Qd3 18. Nb5 Bxe5 19. Rf3 Qe2 20. Ra2 Qe1+ 21. Rf1 Qxc1
+22. Rxc1 Bxf4 23. Re1 Bxg5 24. Nc7 Rad8 25. Qxb7 Ne5 26. Rxe5
+Rd1+ 27. Kf2 Bd3+ 28. Qf3 Rf1+ 29. Kg3 R1xf3+ 30. gxf3 Bf4+
+31. Kg2 Bxe5 0-1

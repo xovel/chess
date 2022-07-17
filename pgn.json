@@ -1,6 +1,54 @@
 {
-  "update": "2022-07-11",
+  "update": "2022-07-17",
   "list": [
+    {
+      "date": "2022-07-17",
+      "year": "2013",
+      "players": "A Lipecki vs A R Saleh Salem",
+      "link": "/perl/chessgame?gid=1705267",
+      "id": "1705267",
+      "note": "Salem&apos;s Lot"
+    },
+    {
+      "date": "2022-07-16",
+      "year": "1988",
+      "players": "Kasparov vs Ivanchuk",
+      "link": "/perl/chessgame?gid=1070341",
+      "id": "1070341",
+      "note": "Speaking the King&apos;s English"
+    },
+    {
+      "date": "2022-07-15",
+      "year": "1895",
+      "players": "Pillsbury vs F W Doerr",
+      "link": "/perl/chessgame?gid=2077018",
+      "id": "2077018",
+      "note": "Be A Doerr, Not A Taker"
+    },
+    {
+      "date": "2022-07-14",
+      "year": "1939",
+      "players": "Capablanca vs G Wheatcroft",
+      "link": "/perl/chessgame?gid=1004957",
+      "id": "1004957",
+      "note": "Cream of Wheatcroft"
+    },
+    {
+      "date": "2022-07-13",
+      "year": "1957",
+      "players": "Pelikan vs R A Redolfi",
+      "link": "/perl/chessgame?gid=1466227",
+      "id": "1466227",
+      "note": "A Wonderful Bird Played By Pelikan"
+    },
+    {
+      "date": "2022-07-12",
+      "year": "1885",
+      "players": "I Orchard vs R A Proctor",
+      "link": "/perl/chessgame?gid=1716965",
+      "id": "1716965",
+      "note": "Can&apos;t See The Wood For The Trees"
+    },
     {
       "date": "2022-07-11",
       "year": "1858",
