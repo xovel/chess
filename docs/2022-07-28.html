@@ -1,0 +1,200 @@
+<html>
+
+<head>
+  <meta name="keywords" content="chess, chess games, ajedrez, scacchi, schach, PGN">
+  <title>Nakamura vs Caruana (2014) Fab Five</title>
+
+  <style type="text/css">
+    HR {
+      size: 1
+    }
+
+    A {
+      text-decoration: none
+    }
+
+    A:hover {
+      color: #FF0000;
+      text-decoration: underline
+    }
+
+    SELECT {
+      background: #DDDDDD;
+      font-family: Verdana, Arial, Helvetica;
+      font-size: 8pt;
+      border-color: #FFFFFF #777777 #777777 #FFFFFF;
+    }
+
+    .fixedText {
+      width: 344px;
+      padding: 1px;
+      border-style: solid;
+      border-color: #996633;
+      border-width: 1px;
+      background-color: #FFFFDD;
+      font-family: Verdana, Arial, Helvetica, sans-serif;
+      font-size: 9px
+    }
+  </style>
+
+  <!-- start OLGA header -->
+  <!-- meta charset="utf-8" -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <div id="olga-data" sessid="1" color_light="#FFCC99" color_dark="#CC9966" labels="Y" pgn='[Event "Sinquefield Cup"]
+[Site "Saint Louis, MO USA"]
+[Date "2014.08.31"]
+[EventDate "2014.08.27"]
+[Round "5"]
+[Result "0-1"]
+[White "Hikaru Nakamura"]
+[Black "Fabiano Caruana"]
+[ECO "D11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "134"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nbd2 Bf5 5.Nh4 Be4 6.f3 Bg6 7.e3 e6 8.g3 Be7 9.a3 Nbd7 10.cxd5 cxd5 11.Nxg6 hxg6 12.Bd3 e5 13.O-O O-O 14.Qb3 Qc8 15.Nb1 exd4 16.exd4 Nb8 17.Nc3 Nc6 18.Be3 Qd7 19.Rad1 Rfd8 20.Rfe1 Ne8 21.Bf2 Nc7 22.Bf1 Bf6 23.Qa2 g5 24.b4 g6 25.Qd2 Kg7 26.b5 Ne7 27.Be3 Ne6 28.Bh3 Nf5 29.Bxf5 gxf5 30.f4 g4 31.Qd3 Rac8 32.Rc1 Rc4 33.Ne2 Nc7 34.Nc3 Rc8 35.h3 gxh3 36.Kh2 Nxb5 37.Nxb5 Qxb5 38.Kxh3 Qd7 39.Kg2 b5 40.Rb1 a6 41.Rbc1 Qe6 42.Bf2 Rxc1 43.Rxe6 fxe6 44.g4 fxg4 45.Qe2 Kf7 46.Qd3 R1c2 47.Qh7+ Ke8 48.f5 Bxd4 49.Qg6+ Kd8 50.Qxe6 Rxf2+ 51.Kg3 Rc3+ 52.Kxg4 Rg2+ 53.Kf4 Rf2+ 54.Kg4 Kc7 55.Qe7+ Kb6 56.Qd8+ Rc7 57.Qxd5 Bc5 58.Qd8 Kb7 59.f6 Bxa3 60.Qd5+ Kb6 61.Qd8 Bc5 62.Qb8+ Rb7 63.Qd8+ Ka7 64.Qd5 Bb6 65.Kg5 Rc7 66.Kg6 b4 67.Qe6 Bd4 0-1' ratio="80" notes='[]'>
+  </div>
+  <script src="https://cdn.bootcss.com/chess.js/0.10.2/chess.js"></script>
+  <link href="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.css" rel="stylesheet">
+  <link href="./assets/chessboard.min.css" rel="stylesheet">
+  <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.js"></script>
+  <script src="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.js"></script>
+  <script src="./assets/chessboard.min.js"></script>
+  <script src="./assets/olga.js"></script>
+  <link rel="stylesheet" href="./assets/olga.css">
+  <style>
+    .ui-widget-content {
+      background: #cedc98;
+      border: 1px solid #DDDDDD;
+      color: #333333;
+    }
+  </style>
+  <script type="text/javascript">
+    var startLoading = function () {
+      $.prototype.offset = function () {
+        return {
+          left: this[0].offsetLeft,
+          top: this[0].offsetTop
+        };
+      };
+      var board = ChessBoard("board", {
+        draggable: false,
+        position: ''
+      });
+      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status',
+        'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
+    }
+  </script>
+  <!-- end OLGA header -->
+  <script type="text/javascript">
+    function OpenWin(pagename) {
+      SmallWin = window.open(pagename, 'popup', 'scrollbars,resizable,toolbar=no,height=394,width=412,left=200,top=200');
+      if (window.focus) {
+        SmallWin.focus();
+      }
+    }
+  </script>
+</head>
+
+<body bgcolor="#FFFFFF" vlink="#9900FF" link="#0000FF" onload="startLoading();">
+  <center>
+    <font face="verdana,arial,helvetica" size=+1>
+      <B>Nakamura</B>
+      <font color=#333333>vs</font>
+      <B>Caruana</B>
+    </font>
+    <br>
+    <font face="georgia,palatino,times new roman,times" size=-1>
+      <B>"Fab Five"</B>
+      <font size=-2>(game of the day 2022-07-28)</font>
+      <br> Sinquefield Cup (2014.08.31), Saint Louis, MO USA
+      <br> Queen's Gambit Declined Slav(D11)
+      <B>&#183;</B>&nbsp; 0-1
+    </font>
+  </center>
+  <font size="2">
+
+    <!--beginolga-->
+    <div id="board_container" class="totem">
+      <div id="board" style="margin:auto;"></div>
+      <div id="pgn_buttons" class="button_row">
+        <button id="startB" type="button" class="pgn_buttonc">&#171;</button>
+        <button id="prevB" type="button" class="pgn_buttona">&lt;</button>
+        <button id="nextB" type="button" class="pgn_buttonb">&gt;</button>
+        <button id="endB" type="button" class="pgn_buttonc">&#187;</button>
+        <button id="autoB" type="button" class="pgn_buttonc">+</button>
+      </div>
+      <div id="status_t"></div>
+    </div>
+    <div id="variations" class="totem-toggle variations">
+      <div class="analysis_t">ANALYSIS
+        <a id="ab" onclick="exitVariation();">[
+          <font style="color:#0000ff;font-weight:bold;">x</font>]</a>
+      </div>
+      <div id="vb" class="variation_box" tabindex="0" onmouseup="disableShortcutKeysAndStoreStatus();" onblur="restoreShortcutKeysStatus();"
+        onfocusout="restoreShortcutKeysStatus();"></div>
+    </div>
+    <div id="lower_container" class="totem">
+      <div id="notes" class="note_box"></div>
+      <div id="score_box" class="score_box"></div>
+      <br/>
+      <div id="board-options" style="display:none">
+        <div class="col-1" style="width:14%;float:left;margin-left: 4%;">
+          <p style="text-align: center; font-size:1.0em; margin-bottom: 2px;">Light
+            <br/>Squares</p>
+          <input type='color' id='lightColor' class="option_item" onInput="setLightColor(this.value);delayedNotify();" />
+        </div>
+        <div class="col-2" style="width:14%;float:left; margin-left:1%;">
+          <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">Dark
+            <br/>Squares</p>
+          <input type='color' id='darkColor' class="option_item" onInput="setDarkColor(this.value);delayedNotify();" />
+        </div>
+        <div class="col-3" style="width:13%;float:left; margin-left:1%;">
+          <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">Flip
+            <br/>Board</p>
+          <input type="image" src="./assets/img/orientation.png" class="option_item" onclick="flipOrientation();" />
+        </div>
+        <div class="col-4" style="width:32px; height:32px;float:left; margin-left: 2%;">
+          <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">&nbsp;
+            <br>Labels</p>
+          <button name="notation" class="option_item" id="notation" onclick="toggleNotation();delayedNotify();">&nbsp;ON&nbsp;</button>
+        </div>
+        <div class="col-5" style="width:8%;float:left; margin-left:4%;">
+          <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">&nbsp;
+            <br>Shrink</p>
+          <input type="image" src="./assets/img/Pawn_sm.png" class="option_item" onclick="downscaleOLGA();delayedNotify();" />
+        </div>
+        <div class="col-6" style="width:8%;float:left; margin-left:4%;">
+          <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">&nbsp;
+            <br>Grow</p>
+          <input type="image" src="./assets/img/Pawn_big.png" class="option_item" onclick="upscaleOLGA();delayedNotify();" />
+        </div>
+        <div class="col-6" style="width:13%;float:left; margin-left:3%;">
+          <p style="text-align: center;font-size:1.0em;margin-bottom:2px;">&nbsp;
+            <br>Copy</p>
+          <input id="cpy_fen_btn" type="image" src="./assets/img/fen.png" class="option_item" style="border:solid black 1px;" onclick="copyFEN();"
+          />
+        </div>
+      </div>
+
+    </div>
+
+    <div id="status" class="status_toggle">
+      <button class="options_link" onclick="toggleOptions();">
+        <img id="cog_img" src="./assets/img/cog.png" />&nbsp;SETTINGS</button>
+
+      <button class="engine_button" onclick="sendForAnalysis();">
+        <img id="cog_img" src="./assets/img/new_window.png" />&nbsp;ENGINE&nbsp;&nbsp;&nbsp;&nbsp;</button>
+      <div id="fb" class="fen_box"></div>
+    </div>
+    <div id="snackbar">FEN COPIED</div>
+    <!--endolga-->
+
+  </font>
+
+</body>
+
+</html>

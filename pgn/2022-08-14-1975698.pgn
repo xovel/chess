@@ -1,0 +1,21 @@
+[Event "Chigorin Memorial"]
+[Site "St. Petersburg RUS"]
+[Date "2019.10.06"]
+[EventDate "2019.10.05"]
+[Round "2.77"]
+[Result "0-1"]
+[White "Timofei Pereverzev"]
+[Black "Martin Stukan"]
+[ECO "B92"]
+[WhiteElo "1479"]
+[BlackElo "2295"]
+[PlyCount "72"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5
+7. Nb3 Be7 8. Be3 Be6 9. O-O Nbd7 10. Qd2 Rc8 11. a4 Nb6
+12. Rfd1 Nc4 13. Bxc4 Rxc4 14. f3 O-O 15. a5 Qc8 16. Ra4 Rc6
+17. Nc1 d5 18. exd5 Nxd5 19. Nxd5 Bxd5 20. c3 Rd8 21. Qc2 Rg6
+22. Kh1 Qc6 23. Rf1 Bc4 24. Re1 Be6 25. Bb6 Bh3 26. Rg1 Rd7
+27. Ne2 Bf5 28. Qb3 Rd2 29. Rc4 Qe6 30. Nc1 Rxb2 31. Qa4 Bf8
+32. Rc7 Bh3 33. g3 Rh6 34. Be3 Rxh2+ 35. Kxh2 Bf1+ 36. Bxh6
+Qh3# 0-1

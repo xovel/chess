@@ -1,0 +1,17 @@
+[Event "Baden-Baden"]
+[Site "Baden-Baden GER"]
+[Date "1870.07.19"]
+[EventDate "1870.07.18"]
+[Round "2"]
+[Result "0-1"]
+[White "Simon Winawer"]
+[Black "Cecil Valentine De Vere"]
+[ECO "C15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "32"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd3 dxe4 5. Bxe4 c5 6. Nge2
+cxd4 7. Nxd4 Bxc3+ 8. bxc3 Qa5 9. Qf3 Nf6 10. Bxb7 Bxb7
+11. Qxb7 Qxc3+ 12. Ke2 Qxd4 13. Qxa8 O-O 14. Rb1 Qc4+ 15. Ke1
+Nc6 16. Qb7 Nd4 0-1
