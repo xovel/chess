@@ -1,0 +1,17 @@
+[Event "Keres mem open"]
+[Site "Tallinn EST"]
+[Date "2001.07.26"]
+[EventDate "2001.07.25"]
+[Round "2"]
+[Result "0-1"]
+[White "Sergei Karjakin"]
+[Black "Gerrit Prakken"]
+[ECO "C78"]
+[WhiteElo "2171"]
+[BlackElo "2345"]
+[PlyCount "40"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7
+7. c3 Nxe4 8. d4 exd4 9. Re1 Na5 10. Ng5 d5 11. Rxe4+ dxe4
+12. Nxf7 Qf6 13. Bg5 Qf5 14. Nxh8 Nxb3 15. axb3 Qxg5 16. h4
+Qf5 17. cxd4 Bd6 18. d5 O-O-O 19. Qd4 Rxh8 20. Nc3 Qe5 0-1

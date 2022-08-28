@@ -1,6 +1,70 @@
 {
-  "update": "2022-08-20",
+  "update": "2022-08-28",
   "list": [
+    {
+      "date": "2022-08-28",
+      "year": "1969",
+      "players": "G Gasparov vs V Vepkhvishvili",
+      "link": "/perl/chessgame?gid=1505368",
+      "id": "1505368",
+      "note": "The Great Gaspy"
+    },
+    {
+      "date": "2022-08-27",
+      "year": "2001",
+      "players": "Karjakin vs G Prakken",
+      "link": "/perl/chessgame?gid=1176954",
+      "id": "1176954",
+      "note": "Release the Prakken!"
+    },
+    {
+      "date": "2022-08-26",
+      "year": "2022",
+      "players": "Caruana vs D Gukesh",
+      "link": "/perl/chessgame?gid=2346348",
+      "id": "2346348",
+      "note": "Absolutely, Fabi Less."
+    },
+    {
+      "date": "2022-08-25",
+      "year": "2008",
+      "players": "T Bond vs A J Goldsby",
+      "link": "/perl/chessgame?gid=1543375",
+      "id": "1543375",
+      "note": "Goldfinger"
+    },
+    {
+      "date": "2022-08-24",
+      "year": "2022",
+      "players": "M Wadsworth vs H Grieve",
+      "link": "/perl/chessgame?gid=2361239",
+      "id": "2361239",
+      "note": "For Harry, England, and Saint George!"
+    },
+    {
+      "date": "2022-08-23",
+      "year": "1995",
+      "players": "Leko vs G Bakhtadze",
+      "link": "/perl/chessgame?gid=1090497",
+      "id": "1090497",
+      "note": "Inglorious Bakhtadze"
+    },
+    {
+      "date": "2022-08-22",
+      "year": "2002",
+      "players": "O Hole vs Carlsen",
+      "link": "/perl/chessgame?gid=1325109",
+      "id": "1325109",
+      "note": "Hole in Øen"
+    },
+    {
+      "date": "2022-08-21",
+      "year": "2022",
+      "players": "H Grieve vs D Gormally",
+      "link": "/perl/chessgame?gid=2358765",
+      "id": "2358765",
+      "note": "When Harry met Danny"
+    },
     {
       "date": "2022-08-20",
       "year": "1963",
