@@ -1,6 +1,62 @@
 {
-  "update": "2022-08-28",
+  "update": "2022-09-04",
   "list": [
+    {
+      "date": "2022-09-04",
+      "year": "1936",
+      "players": "Alekhine vs Poindle",
+      "link": "/perl/chessgame?gid=1013233",
+      "id": "1013233",
+      "note": "Poindless"
+    },
+    {
+      "date": "2022-09-03",
+      "year": "1995",
+      "players": "D Lucky vs Browne",
+      "link": "/perl/chessgame?gid=1035799",
+      "id": "1035799",
+      "note": "Better Lucky Than Good"
+    },
+    {
+      "date": "2022-09-02",
+      "year": "2006",
+      "players": "Topalov vs Kramnik",
+      "link": "/perl/chessgame?gid=1431114",
+      "id": "1431114",
+      "note": "Vladder Control"
+    },
+    {
+      "date": "2022-09-01",
+      "year": "2009",
+      "players": "N Kosintseva vs Ju Wenjun",
+      "link": "/perl/chessgame?gid=1555569",
+      "id": "1555569",
+      "note": "Wandering Ju"
+    },
+    {
+      "date": "2022-08-31",
+      "year": "2021",
+      "players": "Caruana vs R Jumabayev",
+      "link": "/perl/chessgame?gid=2063194",
+      "id": "2063194",
+      "note": "O Lord, Jumabayev!"
+    },
+    {
+      "date": "2022-08-30",
+      "year": "1972",
+      "players": "L Christiansen vs D Krystall",
+      "link": "/perl/chessgame?gid=1088465",
+      "id": "1088465",
+      "note": "As Happy As Larry"
+    },
+    {
+      "date": "2022-08-29",
+      "year": "2006",
+      "players": "L E Johannessen vs Carlsen",
+      "link": "/perl/chessgame?gid=1420659",
+      "id": "1420659",
+      "note": "A Midnight Summer's Cream"
+    },
     {
       "date": "2022-08-28",
       "year": "1969",
