@@ -5,7 +5,7 @@ const path = require('path');
 
 const cheerio = require('cheerio');
 
-const getHTML = require('./util/getHTML');
+const getHTML = require('./util/fetch');
 const wFile = require('./util/wFile');
 const dateFormat = require('./util/dateFormat');
 

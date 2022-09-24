@@ -1,6 +1,6 @@
 'use strict';
 
-const getHTML = require('./util/getHTML');
+const getHTML = require('./util/fetch');
 const wFile = require('./util/wFile');
 
 const pgn = require('./pgn.json');
