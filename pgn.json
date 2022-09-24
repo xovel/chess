@@ -1,6 +1,166 @@
 {
-  "update": "2022-09-04",
+  "update": "2022-09-24",
   "list": [
+    {
+      "date": "2022-09-24",
+      "year": "2005",
+      "players": "S Williams vs Carlsen",
+      "link": "/perl/chessgame?gid=1375766",
+      "id": "1375766",
+      "note": "Ginger Ninja"
+    },
+    {
+      "date": "2022-09-23",
+      "year": "2006",
+      "players": "Anand vs Ponomariov",
+      "link": "/perl/chessgame?gid=1411277",
+      "id": "1411277",
+      "note": "Pawnomarchof"
+    },
+    {
+      "date": "2022-09-22",
+      "year": "1935",
+      "players": "Alekhine vs E Serracino Inglott",
+      "link": "/perl/chessgame?gid=1013109",
+      "id": "1013109",
+      "note": "Maltese Double-Cross"
+    },
+    {
+      "date": "2022-09-21",
+      "year": "2022",
+      "players": "Niemann vs Carlsen",
+      "link": "/perl/chessgame?gid=2378838",
+      "id": "2378838",
+      "note": "Mokey Baer Says, Don't Feed the Fire"
+    },
+    {
+      "date": "2022-09-20",
+      "year": "1850",
+      "players": "Bird vs Pinkerley",
+      "link": "/perl/chessgame?gid=1027880",
+      "id": "1027880",
+      "note": "Sink the Pink"
+    },
+    {
+      "date": "2022-09-19",
+      "year": "1973",
+      "players": "W Brown vs H Ploss",
+      "link": "/perl/chessgame?gid=1035272",
+      "id": "1035272",
+      "note": "Boss Queen Toss Is No Mishegoss for \"No-Loss\" Ploss"
+    },
+    {
+      "date": "2022-09-18",
+      "year": "1969",
+      "players": "Huebner vs A S Segal",
+      "link": "/perl/chessgame?gid=1470121",
+      "id": "1470121",
+      "note": "The Segal Has Landed"
+    },
+    {
+      "date": "2022-09-17",
+      "year": "1967",
+      "players": "Wead vs P Larsson",
+      "link": "/perl/chessgame?gid=1224906",
+      "id": "1224906",
+      "note": "Getting Wead through the Mail"
+    },
+    {
+      "date": "2022-09-16",
+      "year": "1979",
+      "players": "J Peters vs B Gibbons",
+      "link": "/perl/chessgame?gid=1601041",
+      "id": "1601041",
+      "note": "Chess-Playing Surrender Monkeys"
+    },
+    {
+      "date": "2022-09-15",
+      "year": "2011",
+      "players": "D Wiebe vs B Sambuev",
+      "link": "/perl/chessgame?gid=1647574",
+      "id": "1647574",
+      "note": "House of the Dragon"
+    },
+    {
+      "date": "2022-09-14",
+      "year": "1973",
+      "players": "V Bergraser vs M Weiner",
+      "link": "/perl/chessgame?gid=1162389",
+      "id": "1162389",
+      "note": "Weiners can be losers"
+    },
+    {
+      "date": "2022-09-13",
+      "year": "1947",
+      "players": "Reshevsky vs Stahlberg",
+      "link": "/perl/chessgame?gid=2267807",
+      "id": "2267807",
+      "note": "Creatio ex nihilo"
+    },
+    {
+      "date": "2022-09-12",
+      "year": "1936",
+      "players": "Hromadka vs K Havasi",
+      "link": "/perl/chessgame?gid=1597775",
+      "id": "1597775",
+      "note": "Two flew over the KHuKHoo's nest"
+    },
+    {
+      "date": "2022-09-11",
+      "year": "2022",
+      "players": "Polgar vs Carlsen",
+      "link": "/perl/chessgame?gid=2325478",
+      "id": "2325478",
+      "note": "Long Live The Queen"
+    },
+    {
+      "date": "2022-09-10",
+      "year": "2006",
+      "players": "Carlsen vs Beliavsky",
+      "link": "/perl/chessgame?gid=1427422",
+      "id": "1427422",
+      "note": "Into the Beliav the Whale"
+    },
+    {
+      "date": "2022-09-09",
+      "year": "1975",
+      "players": "Keene vs F J Sanz Alonso",
+      "link": "/perl/chessgame?gid=1539897",
+      "id": "1539897",
+      "note": "Long Live the Keene!"
+    },
+    {
+      "date": "2022-09-08",
+      "year": "2020",
+      "players": "Niemann vs S Maze",
+      "link": "/perl/chessgame?gid=2016789",
+      "id": "2016789",
+      "note": "Take No Prisoners"
+    },
+    {
+      "date": "2022-09-07",
+      "year": "2022",
+      "players": "Carlsen vs Niemann",
+      "link": "/perl/chessgame?gid=2372960",
+      "id": "2372960",
+      "note": "Where There's Moke, There's Fire"
+    },
+    {
+      "date": "2022-09-06",
+      "year": "1900",
+      "players": "Pillsbury vs G Marco",
+      "link": "/perl/chessgame?gid=1000091",
+      "id": "1000091",
+      "note": "The Logical Song"
+    },
+    {
+      "date": "2022-09-05",
+      "year": "1908",
+      "players": "Lasker vs E W Witchard",
+      "link": "/perl/chessgame?gid=1380149",
+      "id": "1380149",
+      "note": "The Suspicions of Mr Witchard"
+    },
     {
       "date": "2022-09-04",
       "year": "1936",

@@ -1,0 +1,16 @@
+[Event "corr-1"]
+[Site "corr-1"]
+[Date "1967.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Wead"]
+[Black "P Larsson"]
+[ECO "C57"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "26"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 Bc5 5.Nxf7 Bxf2+ 6.Kf1 Qe7
+7.Nxh8 d5 8.exd5 Nd4 9.Be2 Bh4 10.g3 Bh3+ 11.Ke1 Ne4 12.d3
+Nxg3 13.Be3 Ne4+ 0-1
