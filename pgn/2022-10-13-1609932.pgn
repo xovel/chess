@@ -1,0 +1,16 @@
+[Event "Blindfold simul"]
+[Site "New York, NY USA"]
+[Date "1889.05.25"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Mikhail Chigorin"]
+[Black "Julius Irving Livingston"]
+[ECO "C21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "32"]
+
+1.e4 e5 2.d4 exd4 3.c3 dxc3 4.Nxc3 Bb4 5.Nf3 Bxc3+ 6.bxc3 c6
+7.Bc4 Ne7 8.Qd6 O-O 9.Bg5 Qa5 10.Bxe7 Qxc3+ 11.Nd2 Qxa1+
+12.Ke2 Qxh1 13.Bxf8 Qxg2 14.Qe7 d5 15.Qd8 Qg4+ 16.f3 Qd7 0-1

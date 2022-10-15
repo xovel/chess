@@ -1,6 +1,174 @@
 {
-  "update": "2022-09-24",
+  "update": "2022-10-15",
   "list": [
+    {
+      "date": "2022-10-15",
+      "year": "1977",
+      "players": "M Rohde vs Benjamin",
+      "link": "/perl/chessgame?gid=2051509",
+      "id": "2051509",
+      "note": "Rohde Rage"
+    },
+    {
+      "date": "2022-10-14",
+      "year": "2022",
+      "players": "Short vs N Salimova",
+      "link": "/perl/chessgame?gid=2207489",
+      "id": "2207489",
+      "note": "Honest Girl vs Savoury Mulligan"
+    },
+    {
+      "date": "2022-10-13",
+      "year": "1889",
+      "players": "Chigorin vs J Livingston",
+      "link": "/perl/chessgame?gid=1609932",
+      "id": "1609932",
+      "note": "Dr Livingstone, I presume?"
+    },
+    {
+      "date": "2022-10-12",
+      "year": "2016",
+      "players": "So vs Kasparov",
+      "link": "/perl/chessgame?gid=1820152",
+      "id": "1820152",
+      "note": "The Immortal Blitz Game"
+    },
+    {
+      "date": "2022-10-11",
+      "year": "2001",
+      "players": "Baburin vs G Shahade",
+      "link": "/perl/chessgame?gid=1211626",
+      "id": "1211626",
+      "note": "135 Degrees in Shahade"
+    },
+    {
+      "date": "2022-10-10",
+      "year": "2015",
+      "players": "Aronian vs Ding Liren",
+      "link": "/perl/chessgame?gid=1782855",
+      "id": "1782855",
+      "note": "Ding's Indian Defence"
+    },
+    {
+      "date": "2022-10-09",
+      "year": "2019",
+      "players": "Z Tan vs S Wafa",
+      "link": "/perl/chessgame?gid=1947108",
+      "id": "1947108",
+      "note": "Tan Plays that Shrook the World"
+    },
+    {
+      "date": "2022-10-08",
+      "year": "1994",
+      "players": "J A Curdo vs R Byrne",
+      "link": "/perl/chessgame?gid=1361815",
+      "id": "1361815",
+      "note": "Forty Years at the Top"
+    },
+    {
+      "date": "2022-10-07",
+      "year": "1993",
+      "players": "Grischuk vs S Guliev",
+      "link": "/perl/chessgame?gid=1580024",
+      "id": "1580024",
+      "note": "Faith will Guliev mountains"
+    },
+    {
+      "date": "2022-10-06",
+      "year": "2022",
+      "players": "Carlsen vs Niemann",
+      "link": "/perl/chessgame?gid=2357495",
+      "id": "2357495",
+      "note": "Never Beat Your Heroes"
+    },
+    {
+      "date": "2022-10-05",
+      "year": "1980",
+      "players": "A Profumo vs P Beggi",
+      "link": "/perl/chessgame?gid=1525668",
+      "id": "1525668",
+      "note": "The Profumo Affair"
+    },
+    {
+      "date": "2022-10-04",
+      "year": "1858",
+      "players": "Loewenthal vs Morphy",
+      "link": "/perl/chessgame?gid=1281900",
+      "id": "1281900",
+      "note": "Around the Board in 80 Moves"
+    },
+    {
+      "date": "2022-10-03",
+      "year": "2019",
+      "players": "B Jacobson vs Niemann",
+      "link": "/perl/chessgame?gid=2123002",
+      "id": "2123002",
+      "note": "Let's Go Brandon"
+    },
+    {
+      "date": "2022-10-02",
+      "year": "2008",
+      "players": "S Knight vs V Georgiev",
+      "link": "/perl/chessgame?gid=1499197",
+      "id": "1499197",
+      "note": "Knight of the Square Table"
+    },
+    {
+      "date": "2022-10-01",
+      "year": "2013",
+      "players": "Onischuk vs Iturrizaga Bonelli",
+      "link": "/perl/chessgame?gid=1728988",
+      "id": "1728988",
+      "note": "Bad to the Bone"
+    },
+    {
+      "date": "2022-09-30",
+      "year": "1977",
+      "players": "J Whitehead vs P Biyiasas",
+      "link": "/perl/chessgame?gid=1233582",
+      "id": "1233582",
+      "note": "Blood and Gör"
+    },
+    {
+      "date": "2022-09-29",
+      "year": "2022",
+      "players": "Niemann vs H S Gretarsson",
+      "link": "/perl/chessgame?gid=2267264",
+      "id": "2267264",
+      "note": "Flawless Victory"
+    },
+    {
+      "date": "2022-09-28",
+      "year": "1937",
+      "players": "Sokov vs Volk",
+      "link": "/perl/chessgame?gid=1427479",
+      "id": "1427479",
+      "note": "High Volkage Line"
+    },
+    {
+      "date": "2022-09-27",
+      "year": "2013",
+      "players": "E Manet vs N Giffard",
+      "link": "/perl/chessgame?gid=1712156",
+      "id": "1712156",
+      "note": "Painted Into A Corner"
+    },
+    {
+      "date": "2022-09-26",
+      "year": "1902",
+      "players": "Nebermann vs Silbermann",
+      "link": "/perl/chessgame?gid=1075931",
+      "id": "1075931",
+      "note": "The Phantom of the Opera"
+    },
+    {
+      "date": "2022-09-25",
+      "year": "2019",
+      "players": "Wang Hao vs Bu Xiangzhi",
+      "link": "/perl/chessgame?gid=1974951",
+      "id": "1974951",
+      "note": "Wang Wow!"
+    },
     {
       "date": "2022-09-24",
       "year": "2005",

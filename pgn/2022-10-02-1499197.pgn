@@ -1,0 +1,18 @@
+[Event "Mexican Open"]
+[Site "Aguascalientes MEX"]
+[Date "2008.03.??"]
+[EventDate "2008.03.18"]
+[Round "1"]
+[Result "1-0"]
+[White "Simon Knight"]
+[Black "Vladimir Georgiev"]
+[ECO "D04"]
+[WhiteElo "2130"]
+[BlackElo "2581"]
+[PlyCount "45"]
+
+1.d4 Nf6 2.Nf3 d5 3.e3 c6 4.Bd3 Bg4 5.Nbd2 Nbd7 6.O-O e5 7.e4
+dxe4 8.Bxe4 Nxe4 9.Nxe4 f5 10.Neg5 e4 11.Re1 Be7 12.Ne6 Qb6
+13.h3 Bxf3 14.gxf3 Kf7 15.fxe4 Kxe6 16.exf5+ Kf7 17.Qh5+ g6
+18.Qe2 Rhe8 19.Bh6 Bb4 20.Qc4+ Kf6 21.Re6+ Kxf5 22.d5 Rxe6
+23.Qf4# 1-0
