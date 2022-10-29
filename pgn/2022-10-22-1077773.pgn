@@ -1,0 +1,17 @@
+[Event "corres EUR"]
+[Site "EUR corr"]
+[Date "1986.??.??"]
+[EventDate "1986.??.??"]
+[Round "?"]
+[Result "0-1"]
+[White "O Muller"]
+[Black "Oystein Sande"]
+[ECO "C36"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "32"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. Bb5+ c6 6. dxc6
+Nxc6 7. d4 Bd6 8. O-O O-O 9. Na3 Bc7 10. c3 h6 11. Qc2 g5
+12. Bd3 Nh5 13. Nc4 Re8 14. Bd2 g4 15. Nfe5 Nxe5 16. Nxe5 Rxe5
+0-1

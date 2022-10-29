@@ -1,6 +1,118 @@
 {
-  "update": "2022-10-15",
+  "update": "2022-10-29",
   "list": [
+    {
+      "date": "2022-10-29",
+      "year": "1984",
+      "players": "G G Haase vs K Boyd",
+      "link": "/perl/chessgame?gid=1801791",
+      "id": "1801791",
+      "note": "Kendallabra"
+    },
+    {
+      "date": "2022-10-28",
+      "year": "1988",
+      "players": "J Palkovi vs L Kiss",
+      "link": "/perl/chessgame?gid=1243622",
+      "id": "1243622",
+      "note": "Kiss In The Dark"
+    },
+    {
+      "date": "2022-10-27",
+      "year": "1876",
+      "players": "A Jerome vs NN",
+      "link": "/perl/chessgame?gid=2246667",
+      "id": "2246667",
+      "note": "Three Pieces in a Bout"
+    },
+    {
+      "date": "2022-10-26",
+      "year": "1958",
+      "players": "R Cardoso vs Bronstein",
+      "link": "/perl/chessgame?gid=1034032",
+      "id": "1034032",
+      "note": "The Wildest Card"
+    },
+    {
+      "date": "2022-10-25",
+      "year": "2000",
+      "players": "T Romsdal vs R Tozer",
+      "link": "/perl/chessgame?gid=1232344",
+      "id": "1232344",
+      "note": "Bulltozer Roms da Land"
+    },
+    {
+      "date": "2022-10-24",
+      "year": "2004",
+      "players": "V Papin vs Vachier-Lagrave",
+      "link": "/perl/chessgame?gid=1486707",
+      "id": "1486707",
+      "note": "L' Affaire Papin"
+    },
+    {
+      "date": "2022-10-23",
+      "year": "1976",
+      "players": "R Joynt vs Shamkovich",
+      "link": "/perl/chessgame?gid=1122331",
+      "id": "1122331",
+      "note": "Smoking R Joynt"
+    },
+    {
+      "date": "2022-10-22",
+      "year": "1986",
+      "players": "O Muller vs O Sande",
+      "link": "/perl/chessgame?gid=1077773",
+      "id": "1077773",
+      "note": "Sande in the Wheels"
+    },
+    {
+      "date": "2022-10-21",
+      "year": "1984",
+      "players": "J Peters vs Seirawan",
+      "link": "/perl/chessgame?gid=1400970",
+      "id": "1400970",
+      "note": "Yasser, Caro-Wonn"
+    },
+    {
+      "date": "2022-10-20",
+      "year": "1980",
+      "players": "K Georgiev vs Kasparov",
+      "link": "/perl/chessgame?gid=1069878",
+      "id": "1069878",
+      "note": "Kasparov Krumbles"
+    },
+    {
+      "date": "2022-10-19",
+      "year": "1968",
+      "players": "D Keller vs Pomar Salamanca",
+      "link": "/perl/chessgame?gid=1440934",
+      "id": "1440934",
+      "note": "Keller Queen"
+    },
+    {
+      "date": "2022-10-18",
+      "year": "1984",
+      "players": "G Sanders vs L Storch",
+      "link": "/perl/chessgame?gid=1595452",
+      "id": "1595452",
+      "note": "It's Gary Sanders' Show"
+    },
+    {
+      "date": "2022-10-17",
+      "year": "2022",
+      "players": "Carlsen vs A Naumann",
+      "link": "/perl/chessgame?gid=2385149",
+      "id": "2385149",
+      "note": "You Say Niemann, I Say Naumann, Let's Call the Whole Thing Off"
+    },
+    {
+      "date": "2022-10-16",
+      "year": "2010",
+      "players": "D Foord vs E Kirk",
+      "link": "/perl/chessgame?gid=1567594",
+      "id": "1567594",
+      "note": "Let Dom Eat Kirk"
+    },
     {
       "date": "2022-10-15",
       "year": "1977",
