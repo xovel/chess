@@ -1,6 +1,70 @@
 {
-  "update": "2022-10-29",
+  "update": "2022-11-06",
   "list": [
+    {
+      "date": "2022-11-06",
+      "year": "1918",
+      "players": "O Chajes vs Marshall",
+      "link": "/perl/chessgame?gid=1095019",
+      "id": "1095019",
+      "note": "Reverse the Chajes"
+    },
+    {
+      "date": "2022-11-05",
+      "year": "2001",
+      "players": "C Hanley vs Lupulescu",
+      "link": "/perl/chessgame?gid=1203918",
+      "id": "1203918",
+      "note": "2001: A Space Oddity"
+    },
+    {
+      "date": "2022-11-04",
+      "year": "1882",
+      "players": "Bird vs P Ware",
+      "link": "/perl/chessgame?gid=1001750",
+      "id": "1001750",
+      "note": "Worse for Ware"
+    },
+    {
+      "date": "2022-11-03",
+      "year": "1941",
+      "players": "P Leepin vs P Mross",
+      "link": "/perl/chessgame?gid=1273013",
+      "id": "1273013",
+      "note": "Leepin Into the Fray"
+    },
+    {
+      "date": "2022-11-02",
+      "year": "1967",
+      "players": "I Aloni vs M Czerniak",
+      "link": "/perl/chessgame?gid=1493294",
+      "id": "1493294",
+      "note": "Zero Shades of Grey"
+    },
+    {
+      "date": "2022-11-01",
+      "year": "2011",
+      "players": "R Hess vs Tiviakov",
+      "link": "/perl/chessgame?gid=1652518",
+      "id": "1652518",
+      "note": "Hess Speak for Itself"
+    },
+    {
+      "date": "2022-10-31",
+      "year": "2005",
+      "players": "Leko vs Svidler",
+      "link": "/perl/chessgame?gid=1327822",
+      "id": "1327822",
+      "note": "Peter-Peter, Pumpkin Eater"
+    },
+    {
+      "date": "2022-10-30",
+      "year": "1942",
+      "players": "W Mueller vs K Junge",
+      "link": "/perl/chessgame?gid=1366798",
+      "id": "1366798",
+      "note": "Junge Knight in a Landscape"
+    },
     {
       "date": "2022-10-29",
       "year": "1984",

@@ -1,0 +1,17 @@
+[Event "Munich"]
+[Site "Munich GER"]
+[Date "1941.09.11"]
+[EventDate "1941.09.08"]
+[Round "5"]
+[Result "0-1"]
+[White "Peter Leepin"]
+[Black "Paul Mross"]
+[ECO "A16"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "38"]
+
+1.c4 Nf6 2.Nc3 b6 3.d4 e6 4.f3 d5 5.Bg5 Be7 6.e3 h6 7.Bh4 O-O
+8.Qb3 Bb7 9. Bd3 Nc6 10.cxd5 Na5 11.Qd1 Nxd5 12.Bxe7 Qxe7
+13.Kf2 Rad8 14.Nge2 c5 15.Rc1 Nxe3 16.Kxe3 cxd4+ 17.Nxd4 Rxd4
+18.Bh7+ Kxh7 19.Qxd4 Rd8 0-1
