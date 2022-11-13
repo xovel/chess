@@ -1,6 +1,62 @@
 {
-  "update": "2022-11-06",
+  "update": "2022-11-13",
   "list": [
+    {
+      "date": "2022-11-13",
+      "year": "2014",
+      "players": "Saric vs Jobava",
+      "link": "/perl/chessgame?gid=1744329",
+      "id": "1744329",
+      "note": "Baadur Skin of His Teeth"
+    },
+    {
+      "date": "2022-11-12",
+      "year": "2005",
+      "players": "G Pap vs L Seres",
+      "link": "/perl/chessgame?gid=1439867",
+      "id": "1439867",
+      "note": "Pap KO to nab Seres? Ba! Not OK, Pap"
+    },
+    {
+      "date": "2022-11-11",
+      "year": "1911",
+      "players": "T F Lawrence vs A W Fox",
+      "link": "/perl/chessgame?gid=1533822",
+      "id": "1533822",
+      "note": "Fox on the Run"
+    },
+    {
+      "date": "2022-11-10",
+      "year": "2022",
+      "players": "M Lu vs L Mkrtchian",
+      "link": "/perl/chessgame?gid=2407056",
+      "id": "2407056",
+      "note": "1812 Overture"
+    },
+    {
+      "date": "2022-11-09",
+      "year": "2000",
+      "players": "T Laasanen vs Bagirov",
+      "link": "/perl/chessgame?gid=1231547",
+      "id": "1231547",
+      "note": "A Game to Die for"
+    },
+    {
+      "date": "2022-11-08",
+      "year": "2016",
+      "players": "D Citra vs R Vaishali",
+      "link": "/perl/chessgame?gid=1823235",
+      "id": "1823235",
+      "note": "Anti-Citra Mechanism"
+    },
+    {
+      "date": "2022-11-07",
+      "year": "1917",
+      "players": "Reshevsky vs Rubinstein",
+      "link": "/perl/chessgame?gid=1119772",
+      "id": "1119772",
+      "note": "Semi Reshevsky"
+    },
     {
       "date": "2022-11-06",
       "year": "1918",
