@@ -1,0 +1,18 @@
+[Event "zt 2.5"]
+[Site "Buenos Aires ARG"]
+[Date "2000.07.29"]
+[EventDate "2000.07.26"]
+[Round "4"]
+[Result "0-1"]
+[White "Pablo Zarnicki"]
+[Black "Fabian Fiorito"]
+[ECO "B01"]
+[WhiteElo "2488"]
+[BlackElo "2418"]
+[PlyCount "44"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 e6 4. dxe6 Bxe6 5. d4 Bb4+ 6. Bd2
+Qe7 7. Bxb4 Qxb4+ 8. Qd2 Qe7 9. Qe3 Nc6 10. Nf3 Ng4 11. Qe2
+O-O-O 12. h3 Rhe8 13. hxg4 Qb4+ 14. Qd2 Bxg4+ 15. Be2 Rxe2+
+16. Kxe2 Nxd4+ 17. Kf1 Qxc4+ 18. Kg1 Nxf3+ 19. gxf3 Bxf3
+20. Rh3 Qg4+ 21. Rg3 Qh5 22. Rxf3 Qxf3 0-1

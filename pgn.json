@@ -1,6 +1,110 @@
 {
-  "update": "2022-11-13",
+  "update": "2022-11-26",
   "list": [
+    {
+      "date": "2022-11-26",
+      "year": "2000",
+      "players": "P Zarnicki vs F Fiorito",
+      "link": "/perl/chessgame?gid=1232007",
+      "id": "1232007",
+      "note": "Fiorito Bandito"
+    },
+    {
+      "date": "2022-11-25",
+      "year": "2022",
+      "players": "P Lalic vs M Grigoryan",
+      "link": "/perl/chessgame?gid=2413770",
+      "id": "2413770",
+      "note": "Flying Horses and Meri Go Round"
+    },
+    {
+      "date": "2022-11-24",
+      "year": "1976",
+      "players": "M Sibarevic vs Bukic",
+      "link": "/perl/chessgame?gid=1433399",
+      "id": "1433399",
+      "note": "Duel In Banja"
+    },
+    {
+      "date": "2022-11-23",
+      "year": "2015",
+      "players": "Zhao Xue vs N Pogonina",
+      "link": "/perl/chessgame?gid=1788712",
+      "id": "1788712",
+      "note": "Angelina Pogonina"
+    },
+    {
+      "date": "2022-11-22",
+      "year": "1984",
+      "players": "R Filguth vs C A A da Silva",
+      "link": "/perl/chessgame?gid=1752349",
+      "id": "1752349",
+      "note": "He's the One They Call Rubens Filguth"
+    },
+    {
+      "date": "2022-11-22",
+      "year": "1942",
+      "players": "Euwe vs A van den Hoek",
+      "link": "/perl/chessgame?gid=1042568",
+      "id": "1042568",
+      "note": "Black Hoek Down"
+    },
+    {
+      "date": "2022-11-21",
+      "year": "1939",
+      "players": "Petrov vs R Grau",
+      "link": "/perl/chessgame?gid=1483573",
+      "id": "1483573",
+      "note": "Q-Mobile"
+    },
+    {
+      "date": "2022-11-19",
+      "year": "1952",
+      "players": "Biegler vs Peperle",
+      "link": "/perl/chessgame?gid=1250800",
+      "id": "1250800",
+      "note": "Budapest Bloodbath"
+    },
+    {
+      "date": "2022-11-18",
+      "year": "1930",
+      "players": "Rellstab vs Kashdan",
+      "link": "/perl/chessgame?gid=1321101",
+      "id": "1321101",
+      "note": "Holiday for Kings"
+    },
+    {
+      "date": "2022-11-17",
+      "year": "1976",
+      "players": "Hodgson vs Paunovic",
+      "link": "/perl/chessgame?gid=1385894",
+      "id": "1385894",
+      "note": "Telexcellence"
+    },
+    {
+      "date": "2022-11-16",
+      "year": "1989",
+      "players": "V Antonov vs C Kamp",
+      "link": "/perl/chessgame?gid=2383212",
+      "id": "2383212",
+      "note": "Mein Kamp"
+    },
+    {
+      "date": "2022-11-15",
+      "year": "2001",
+      "players": "J Bosch vs J Algra",
+      "link": "/perl/chessgame?gid=1174325",
+      "id": "1174325",
+      "note": "The Garden of Sacrificial Delights"
+    },
+    {
+      "date": "2022-11-14",
+      "year": "1977",
+      "players": "S Wagman vs E Joppen",
+      "link": "/perl/chessgame?gid=2039347",
+      "id": "2039347",
+      "note": "A Jolly S Wagman"
+    },
     {
       "date": "2022-11-13",
       "year": "2014",
