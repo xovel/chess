@@ -1,6 +1,70 @@
 {
-  "update": "2022-11-26",
+  "update": "2022-12-04",
   "list": [
+    {
+      "date": "2022-12-04",
+      "year": "1921",
+      "players": "Breyer vs A Vajda",
+      "link": "/perl/chessgame?gid=1529613",
+      "id": "1529613",
+      "note": "Arpad Eloquent"
+    },
+    {
+      "date": "2022-12-03",
+      "year": "2012",
+      "players": "Jobava vs M Gagunashvili",
+      "link": "/perl/chessgame?gid=2128096",
+      "id": "2128096",
+      "note": "I’m Bad, I’m Nationwide"
+    },
+    {
+      "date": "2022-12-02",
+      "year": "2014",
+      "players": "D Dvirnyy vs R Akesson",
+      "link": "/perl/chessgame?gid=1745986",
+      "id": "1745986",
+      "note": "Too Wise You Are, Too Wise You Be ..."
+    },
+    {
+      "date": "2022-12-01",
+      "year": "2006",
+      "players": "M Bosboom vs V Ouwendijk",
+      "link": "/perl/chessgame?gid=1422123",
+      "id": "1422123",
+      "note": "Tick, Tick... Bosboom!"
+    },
+    {
+      "date": "2022-11-30",
+      "year": "1983",
+      "players": "Timman vs Henley",
+      "link": "/perl/chessgame?gid=1142788",
+      "id": "1142788",
+      "note": "Texas Holdem"
+    },
+    {
+      "date": "2022-11-29",
+      "year": "2021",
+      "players": "V Fedoseev vs Carlsen",
+      "link": "/perl/chessgame?gid=2069037",
+      "id": "2069037",
+      "note": "Hell in a Cell"
+    },
+    {
+      "date": "2022-11-28",
+      "year": "1999",
+      "players": "Zaw Win Lay vs Zaw Oo",
+      "link": "/perl/chessgame?gid=1406360",
+      "id": "1406360",
+      "note": "Zaws 2: Just When You Thought it was Safe to Take Back in the Center"
+    },
+    {
+      "date": "2022-11-27",
+      "year": "1954",
+      "players": "Flohr vs R Nezhmetdinov",
+      "link": "/perl/chessgame?gid=1102167",
+      "id": "1102167",
+      "note": "Knocked To The Flohr"
+    },
     {
       "date": "2022-11-26",
       "year": "2000",
