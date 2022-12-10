@@ -1,6 +1,46 @@
 {
-  "update": "2022-12-04",
+  "update": "2022-12-09",
   "list": [
+    {
+      "date": "2022-12-09",
+      "year": "1922",
+      "players": "Reshevsky vs S Katz",
+      "link": "/perl/chessgame?gid=1819064",
+      "id": "1819064",
+      "note": "The Rocking Horse"
+    },
+    {
+      "date": "2022-12-08",
+      "year": "1868",
+      "players": "F E Lamb vs Steinitz",
+      "link": "/perl/chessgame?gid=2423596",
+      "id": "2423596",
+      "note": "Flambéed"
+    },
+    {
+      "date": "2022-12-07",
+      "year": "1988",
+      "players": "I Rogers vs Huebner",
+      "link": "/perl/chessgame?gid=1117284",
+      "id": "1117284",
+      "note": "Captain Kangaroo"
+    },
+    {
+      "date": "2022-12-06",
+      "year": "1975",
+      "players": "S J Hutchings vs Keene",
+      "link": "/perl/chessgame?gid=1290320",
+      "id": "1290320",
+      "note": "Keenetic Energy"
+    },
+    {
+      "date": "2022-12-05",
+      "year": "1913",
+      "players": "L Asztalos vs Breyer",
+      "link": "/perl/chessgame?gid=1316455",
+      "id": "1316455",
+      "note": "Livin' on a Breyer"
+    },
     {
       "date": "2022-12-04",
       "year": "1921",

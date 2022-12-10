@@ -1,0 +1,79 @@
+[Event "Barcelona Zonal"]
+[Site "Barcelona ESP"]
+[Date "1975.10.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "Stuart James Hutchings"]
+[Black "Raymond Keene"]
+[ECO "C05"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "54"]
+
+1. e4 {This game was awarded the prize for 'the best attacking
+combination'. Notes by Raymond Keene. } e6 2. d4 d5 3. Nd2 Nf6
+{It is a foible of mine that I have usually preferred this
+risky move to 3...c5 which gives good chances of equality,
+according to theory.} 4. e5 Nfd7 5. Bd3 {The most formidable
+try for White is 5 f4, seeking to create an unassailable
+central bulwark. In that case, however, I would like to
+suggest 5...c5 6 c3 Nc6 7 Ndf3 Qb6 8 g3 and only now 8...Qa5!?
+'sacrificing' a tempo. The point is that 7...Qa5 can be met
+strongly by 8 dxc5! Qxc5, when Black's queen is misplaced and
+White can utilise d4 as a springboard for his pieces. With the
+insertion of the extra move g2-g3 this line is less impressive
+for White, since his kingside has been loosened and it is
+impossible, for example, to transfer a rook along the third
+rank from f1 via f3 to g3 or h3 where it could otherwise have
+participated in an attack against Black's cramped king's
+wing.} 5...c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4 f6 9. exf6 {If 9
+Nf4 Black can offer an advantageous exchange sacrifice to gain
+central control with 9...Nxd4! (that is why it is important to
+exchange on d4 at move 7 before playing ...f7-f6) 10 Qh5+ Ke7
+11 Ng6+ hxg6 etc.} 9...Nxf6 10. O-O Bd6 11. Nf3 Qc7 12. Nc3 a6
+13. Bg5 {! White's plan, and a highly dangerous one for Black,
+is to gain control of the dark squares by means of the
+manoeuvre Bg5-h4-g3. Note, however, that White must be
+cautious with his move order. If 13 Re1? O-O 14 Bg5 then
+14...Ng4! 15 h3 Nxf2! 16 Kxf2 Bg3+ gives Black a winning
+attack.} 13...Ng4 {!? My new idea, introduced for the first
+time in this game. The logic of the bold knight move is to
+employ Black's aggressively posted pieces to challenge White
+on his home territory - the dark squares. 13...Ng4 was
+mentioned in Informator 21 as one of the important theoretical
+novelties of 1975. By transferring the king's knight from f6
+(via g4 and h6) to either f5 or f7, Black hopes to intensify
+his dark square operations, mainly directed against White's
+queen's bishop.} 14. h3 Nh6 {White can now place Black's
+position under immense strain with the subtle 15 Qb1!,
+e.g. 15...Nf7 16 Bxh7 Nxd4 17 Nxd4 Nxg5 18 Qg6+ Kf8 and now
+either 19 Qxg5 or Bellin's interesting piece sacrifice 19 f4!?
+Nxh7 20 f5 Kg8 21 fxe6. Another super-sharp possibility,
+suggested by Timman, is 15 Qb1 Rf8!? 16 Bxh7 Rxf3 simply
+offering a positional exchange sacrifice to dislocate White's
+momentum. In the game White falls in too readily with Black's
+schemes.} 15. Bxh6 {? It looks good to inflict doubled
+isolated h-pawns on Black's position, the more so since White
+can easily prevent Black from castling into queenside safety,
+but this turns out to be a near fatal error.} 15...gxh6
+16. Qe2 O-O {! A surprising move, castling into the shattered
+wing, but it soon transpires that Black can build up intense
+pressure against White's exposed kingside pawn-front by
+massing his major pieces on the f- and g-files, and combining
+this with the activity of his bishop pair.} 17. Rad1 Qg7
+18. Kh1 Kh8 19. Bb1 Rg8 20. g3 {White's position is clearly
+critical and from now on he also begins to defend weakly. He
+should have minimised targets with 20 Rg1, although the rook
+would then be poorly placed.} 20...Bd7 21. Rfe1 {If 21 Na4
+Raf8 22 Nb6 Be8 23 Qxe6 Bc7-+.} 21...Raf8 {The finishing touch
+to Black's mobilisation. White now accelerates the end by
+allowing Black's queen's bishop to join in the attack.}
+22. Ne5 {?} Nxe5 23. dxe5 Bc5 24. Rf1 Bc6 25. Qc2 Rf7 {Black
+could already play 25...Bxf2 26 Rxf2 d4+ 27 Ne4 Qxg3, but in
+any case White has no constructive moves left.} 26. Rde1 {The
+concluding combination is not very difficult, but what
+influenced the prize judges was probably the logic of a dark
+square counter-attack beginning with 13...Ng4!? and
+culminating in ...} 26...Bxf2 {!} 27. Rxf2 Qxg3 {If 28 Rxf7
+Qxe1+ or 28 Nd1 Qxh3+ 29 Rh2 Qf1+ 30 Rxf1 Rxf1 mate.} 0-1

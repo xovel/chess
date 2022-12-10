@@ -1,0 +1,21 @@
+[Event "Plaza"]
+[Site "Wellington NZL"]
+[Date "1988.03.15"]
+[EventDate "1988.03.15"]
+[Round "1"]
+[Result "1-0"]
+[White "Ian Rogers"]
+[Black "Robert Huebner"]
+[ECO "B90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "77"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3
+Be7 8.Be2 O-O 9.g4 Be6 10.g5 Nfd7 11.Qd2 Nb6 12.h4 N8d7
+13.O-O-O Rc8 14.Kb1 Nc4 15.Bxc4 Rxc4 16.f3 Qc7 17.h5 Rc8 18.g6
+fxg6 19.hxg6 hxg6 20.Nd5 Qd8 21.c3 R4c6 22.Rdg1 Nf8 23.f4 exf4
+24.Nxf4 d5 25.Nxd5 Rc4 26.Bd4 Bxd5 27.Rh8+ Kf7 28.exd5 Qxd5
+29.Rf1+ Bf6 30.Bxf6 Qe4+ 31.Ka1 gxf6 32.Re1 Qf5 33.Nd4 Qg5
+34.Qh2 Rxd4 35.Rxf8+ Kxf8 36.Qh8+ Kf7 37.Qxc8 Qe5 38.Qxb7+ Kf8
+39.Qh1 1-0
