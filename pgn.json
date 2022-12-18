@@ -1,6 +1,78 @@
 {
-  "update": "2022-12-09",
+  "update": "2022-12-18",
   "list": [
+    {
+      "date": "2022-12-18",
+      "year": "1992",
+      "players": "Fischer vs Spassky",
+      "link": "/perl/chessgame?gid=1044395",
+      "id": "1044395",
+      "note": "Antiques Roadshow"
+    },
+    {
+      "date": "2022-12-17",
+      "year": "1998",
+      "players": "T Palmer vs W Surlow",
+      "link": "/perl/chessgame?gid=1379744",
+      "id": "1379744",
+      "note": "The Palmer Method"
+    },
+    {
+      "date": "2022-12-16",
+      "year": "2010",
+      "players": "E Podolchenko vs D Howell",
+      "link": "/perl/chessgame?gid=1594932",
+      "id": "1594932",
+      "note": "I Pod"
+    },
+    {
+      "date": "2022-12-15",
+      "year": "1904",
+      "players": "P W Bridgman vs G W Tucker",
+      "link": "/perl/chessgame?gid=1886708",
+      "id": "1886708",
+      "note": "Now Cracks a Nobel Heart"
+    },
+    {
+      "date": "2022-12-14",
+      "year": "1996",
+      "players": "A H Wohl vs Gipslis",
+      "link": "/perl/chessgame?gid=1051502",
+      "id": "1051502",
+      "note": "A Wohl New Level"
+    },
+    {
+      "date": "2022-12-13",
+      "year": "2022",
+      "players": "P Lalic vs G Wall",
+      "link": "/perl/chessgame?gid=2423595",
+      "id": "2423595",
+      "note": "Breaking the Seventh Wall"
+    },
+    {
+      "date": "2022-12-12",
+      "year": "1977",
+      "players": "P Cleghorn vs Evans",
+      "link": "/perl/chessgame?gid=1352009",
+      "id": "1352009",
+      "note": "This Is What Happens, Larry"
+    },
+    {
+      "date": "2022-12-11",
+      "year": "1947",
+      "players": "G T Crown vs J Thorn Leeson",
+      "link": "/perl/chessgame?gid=1829599",
+      "id": "1829599",
+      "note": "A Crown of Thorns"
+    },
+    {
+      "date": "2022-12-10",
+      "year": "2017",
+      "players": "P Korning vs R Christophe-hayot",
+      "link": "/perl/chessgame?gid=1860730",
+      "id": "1860730",
+      "note": "What's the Story, Korning Glory?"
+    },
     {
       "date": "2022-12-09",
       "year": "1922",
