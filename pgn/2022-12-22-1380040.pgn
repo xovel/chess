@@ -1,0 +1,20 @@
+[Event "Simul, 25b"]
+[Site "Manchester ENG"]
+[Date "1898.12.16"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Emanuel Lasker"]
+[Black "Francis Charles Carroll"]
+[ECO "C45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "72"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nxc6 bxc6 6.e5 Qe7
+7.Qe2 Nd5 8.c4 Qb4+ 9.Qd2 Nf4 10.Nc3 Ng6 11.f4 Ba6 12.a3 Qb3
+13.Qd4 Be7 14.Bd3 O-O 15.O-O d6 16.Qe4 d5 17.cxd5 cxd5 18.Qf3
+d4 19.Bxg6 dxc3 20.Be4 Rad8 21.f5 Bxf1 22.f6 Bc5+ 23.Be3 Bxe3+
+24.Qxe3 cxb2 25.Qg5 Qe3+ 26.Qxe3 bxa1=Q 27.Qg5 Bc4+ 28.Kf2
+Qf1+ 29.Kg3 Qe1+ 30.Kh3 Be6+ 31.g4 Qf1+ 32.Kh4 Qf2+ 33.Kh3 g6
+34.Qh6 Rd3+ 35.Bxd3 Qf3+ 36.Kh4 Qxg4+ 0-1

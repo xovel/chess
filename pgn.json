@@ -1,6 +1,46 @@
 {
-  "update": "2022-12-18",
+  "update": "2022-12-23",
   "list": [
+    {
+      "date": "2022-12-23",
+      "year": "1863",
+      "players": "Morphy vs Maurian",
+      "link": "/perl/chessgame?gid=1238232",
+      "id": "1238232",
+      "note": "Miracle on 34th Move"
+    },
+    {
+      "date": "2022-12-22",
+      "year": "1898",
+      "players": "Lasker vs F Carroll",
+      "link": "/perl/chessgame?gid=1380040",
+      "id": "1380040",
+      "note": "Carroll Zinger"
+    },
+    {
+      "date": "2022-12-21",
+      "year": "2022",
+      "players": "L P Supi vs K Plichta",
+      "link": "/perl/chessgame?gid=2417991",
+      "id": "2417991",
+      "note": "Supi Causing Kamil Plichta Defense Quite Atrocious"
+    },
+    {
+      "date": "2022-12-20",
+      "year": "1967",
+      "players": "H Keller vs K Janetschek",
+      "link": "/perl/chessgame?gid=1702546",
+      "id": "1702546",
+      "note": "The early bird gets the worm"
+    },
+    {
+      "date": "2022-12-19",
+      "year": "1989",
+      "players": "Short vs J Nogueiras",
+      "link": "/perl/chessgame?gid=1124390",
+      "id": "1124390",
+      "note": "The French Come Short. Jesus is not the Messi-ah"
+    },
     {
       "date": "2022-12-18",
       "year": "1992",
