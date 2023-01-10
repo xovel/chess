@@ -1,6 +1,150 @@
 {
-  "update": "2022-12-23",
+  "update": "2023-01-10",
   "list": [
+    {
+      "date": "2023-01-10",
+      "year": "1972",
+      "players": "V Mamoshin vs V Kolker",
+      "link": "/perl/chessgame?gid=2445568",
+      "id": "2445568",
+      "note": "The Art of the Half-Point"
+    },
+    {
+      "date": "2023-01-09",
+      "year": "2016",
+      "players": "Topalov vs S Nadir",
+      "link": "/perl/chessgame?gid=1829688",
+      "id": "1829688",
+      "note": "Top to Bottom"
+    },
+    {
+      "date": "2023-01-08",
+      "year": "2022",
+      "players": "Carlsen vs Rapport",
+      "link": "/perl/chessgame?gid=2445369",
+      "id": "2445369",
+      "note": "Lord Almaty"
+    },
+    {
+      "date": "2023-01-07",
+      "year": "2012",
+      "players": "Nakamura vs S Williams",
+      "link": "/perl/chessgame?gid=1694802",
+      "id": "1694802",
+      "note": "Nak Down Ginger"
+    },
+    {
+      "date": "2023-01-06",
+      "year": "1910",
+      "players": "J Brach Sr vs J R von Pessler",
+      "link": "/perl/chessgame?gid=1265582",
+      "id": "1265582",
+      "note": "Spring Cleaning"
+    },
+    {
+      "date": "2023-01-05",
+      "year": "1992",
+      "players": "Tal vs Lautier",
+      "link": "/perl/chessgame?gid=1089819",
+      "id": "1089819",
+      "note": "And for my final trick..."
+    },
+    {
+      "date": "2023-01-04",
+      "year": "1903",
+      "players": "Znosko-Borovsky vs H Seyboth",
+      "link": "/perl/chessgame?gid=1151880",
+      "id": "1151880",
+      "note": "Black Seyboth"
+    },
+    {
+      "date": "2023-01-03",
+      "year": "1855",
+      "players": "Cochrane vs Somacarana",
+      "link": "/perl/chessgame?gid=1547697",
+      "id": "1547697",
+      "note": "The Brewing of Soma"
+    },
+    {
+      "date": "2023-01-02",
+      "year": "2018",
+      "players": "V Laznicka vs Rapport",
+      "link": "/perl/chessgame?gid=1918882",
+      "id": "1918882",
+      "note": "A Little R &amp; R"
+    },
+    {
+      "date": "2023-01-01",
+      "year": "1976",
+      "players": "Bereziuk vs A Izhnin",
+      "link": "/perl/chessgame?gid=1458995",
+      "id": "1458995",
+      "note": "The Born of a New Variation"
+    },
+    {
+      "date": "2022-12-31",
+      "year": "1928",
+      "players": "Bogoljubov vs Capablanca",
+      "link": "/perl/chessgame?gid=1030854",
+      "id": "1030854",
+      "note": "Bogged Down"
+    },
+    {
+      "date": "2022-12-30",
+      "year": "2016",
+      "players": "Rapport vs Pelletier",
+      "link": "/perl/chessgame?gid=1833686",
+      "id": "1833686",
+      "note": "Pelle!"
+    },
+    {
+      "date": "2022-12-29",
+      "year": "1980",
+      "players": "K Metge vs E Allen",
+      "link": "/perl/chessgame?gid=1481212",
+      "id": "1481212",
+      "note": "Uppercut in Upper Hutt"
+    },
+    {
+      "date": "2022-12-28",
+      "year": "1958",
+      "players": "S Postma vs A Nijssen",
+      "link": "/perl/chessgame?gid=1788336",
+      "id": "1788336",
+      "note": "Please Mr. Postma, Check For Me"
+    },
+    {
+      "date": "2022-12-27",
+      "year": "2013",
+      "players": "S Wastney vs M K A Russell",
+      "link": "/perl/chessgame?gid=1704641",
+      "id": "1704641",
+      "note": "Great Scott!"
+    },
+    {
+      "date": "2022-12-26",
+      "year": "1864",
+      "players": "Blackburne vs Sisson",
+      "link": "/perl/chessgame?gid=1947613",
+      "id": "1947613",
+      "note": "Sisson's Beating"
+    },
+    {
+      "date": "2022-12-25",
+      "year": "2014",
+      "players": "E Nakar vs A Merry",
+      "link": "/perl/chessgame?gid=1775597",
+      "id": "1775597",
+      "note": "Merry Christmas"
+    },
+    {
+      "date": "2022-12-24",
+      "year": "2022",
+      "players": "A Donchenko vs M Krzyzanowski",
+      "link": "/perl/chessgame?gid=2433207",
+      "id": "2433207",
+      "note": "Dasher Don a-Blitzin'"
+    },
     {
       "date": "2022-12-23",
       "year": "1863",
