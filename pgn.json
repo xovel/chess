@@ -1,6 +1,110 @@
 {
-  "update": "2023-01-10",
+  "update": "2023-01-23",
   "list": [
+    {
+      "date": "2023-01-23",
+      "year": "2023",
+      "players": "M Warmerdam vs J Pechac",
+      "link": "/perl/chessgame?gid=2452969",
+      "id": "2452969",
+      "note": "Dutch Windmill"
+    },
+    {
+      "date": "2023-01-22",
+      "year": "1985",
+      "players": "Speelman vs Tal",
+      "link": "/perl/chessgame?gid=2457627",
+      "id": "2457627",
+      "note": "Sting in the Tal"
+    },
+    {
+      "date": "2023-01-21",
+      "year": "2023",
+      "players": "N Abdusattorov vs P Maghsoodloo",
+      "link": "/perl/chessgame?gid=2456509",
+      "id": "2456509",
+      "note": "Noddy's Tataland Adventures"
+    },
+    {
+      "date": "2023-01-20",
+      "year": "1957",
+      "players": "D Byrne vs R Byrne",
+      "link": "/perl/chessgame?gid=1654168",
+      "id": "1654168",
+      "note": "Spare"
+    },
+    {
+      "date": "2023-01-19",
+      "year": "2023",
+      "players": "Giri vs Carlsen",
+      "link": "/perl/chessgame?gid=2456506",
+      "id": "2456506",
+      "note": "12 Years a Slave"
+    },
+    {
+      "date": "2023-01-18",
+      "year": "2023",
+      "players": "E Roebers vs L'Ami",
+      "link": "/perl/chessgame?gid=2453801",
+      "id": "2453801",
+      "note": "Highway Roebery"
+    },
+    {
+      "date": "2023-01-17",
+      "year": "2019",
+      "players": "A Hong vs T Polgar-Shutzman",
+      "link": "/perl/chessgame?gid=1961514",
+      "id": "1961514",
+      "note": "Honger Games"
+    },
+    {
+      "date": "2023-01-16",
+      "year": "2014",
+      "players": "Negi vs A Istratescu",
+      "link": "/perl/chessgame?gid=1747237",
+      "id": "1747237",
+      "note": "A Knight at the Casino"
+    },
+    {
+      "date": "2023-01-15",
+      "year": "1956",
+      "players": "I Aloni vs Bronstein",
+      "link": "/perl/chessgame?gid=1033948",
+      "id": "1033948",
+      "note": "Aloni in the Dark"
+    },
+    {
+      "date": "2023-01-14",
+      "year": "1978",
+      "players": "G Bono vs R Eberlein",
+      "link": "/perl/chessgame?gid=2452052",
+      "id": "2452052",
+      "note": "Cue Bono"
+    },
+    {
+      "date": "2023-01-13",
+      "year": "1989",
+      "players": "Psakhis vs E Martinovsky",
+      "link": "/perl/chessgame?gid=1115427",
+      "id": "1115427",
+      "note": "P Sak His Queen"
+    },
+    {
+      "date": "2023-01-12",
+      "year": "2011",
+      "players": "Le Quang Liem vs Dominguez Perez",
+      "link": "/perl/chessgame?gid=1644237",
+      "id": "1644237",
+      "note": "The Liem King"
+    },
+    {
+      "date": "2023-01-11",
+      "year": "1992",
+      "players": "Rublevsky vs C Gabriel",
+      "link": "/perl/chessgame?gid=1119975",
+      "id": "1119975",
+      "note": "Angel Dust"
+    },
     {
       "date": "2023-01-10",
       "year": "1972",
