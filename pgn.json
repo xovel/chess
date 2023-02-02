@@ -1,6 +1,86 @@
 {
-  "update": "2023-01-23",
+  "update": "2023-02-02",
   "list": [
+    {
+      "date": "2023-02-02",
+      "year": "1858",
+      "players": "T Barnes vs Morphy",
+      "link": "/perl/chessgame?gid=1258271",
+      "id": "1258271",
+      "note": "Barnes &amp; Noble"
+    },
+    {
+      "date": "2023-02-01",
+      "year": "1978",
+      "players": "I Hakki vs D Chen",
+      "link": "/perl/chessgame?gid=2122741",
+      "id": "2122741",
+      "note": "Hakki Sac"
+    },
+    {
+      "date": "2023-01-31",
+      "year": "1981",
+      "players": "Tal vs A Vitolinsh",
+      "link": "/perl/chessgame?gid=1140579",
+      "id": "1140579",
+      "note": "Alvis Has Left The Building"
+    },
+    {
+      "date": "2023-01-30",
+      "year": "1905",
+      "players": "J Mieses vs Von Bardeleben",
+      "link": "/perl/chessgame?gid=1002994",
+      "id": "1002994",
+      "note": "I hate those Mieses to pieces."
+    },
+    {
+      "date": "2023-01-29",
+      "year": "2023",
+      "players": "Carlsen vs N Abdusattorov",
+      "link": "/perl/chessgame?gid=2457584",
+      "id": "2457584",
+      "note": "Even Homer Nods"
+    },
+    {
+      "date": "2023-01-28",
+      "year": "2001",
+      "players": "P Skatchkov vs K Krovelschikov",
+      "link": "/perl/chessgame?gid=1171402",
+      "id": "1171402",
+      "note": "I'm the Skatman"
+    },
+    {
+      "date": "2023-01-27",
+      "year": "1971",
+      "players": "Geller vs Velimirovic",
+      "link": "/perl/chessgame?gid=1049608",
+      "id": "1049608",
+      "note": "Hot Shower, Cold Shower"
+    },
+    {
+      "date": "2023-01-26",
+      "year": "1995",
+      "players": "T Oral vs G Vescovi",
+      "link": "/perl/chessgame?gid=1319511",
+      "id": "1319511",
+      "note": "Oral Exam"
+    },
+    {
+      "date": "2023-01-25",
+      "year": "1862",
+      "players": "S Urusov vs Ben",
+      "link": "/perl/chessgame?gid=1257949",
+      "id": "1257949",
+      "note": "Ben There, Done That"
+    },
+    {
+      "date": "2023-01-24",
+      "year": "1929",
+      "players": "G Abrahams vs R Thynne",
+      "link": "/perl/chessgame?gid=2425156",
+      "id": "2425156",
+      "note": "On Thynne Ice"
+    },
     {
       "date": "2023-01-23",
       "year": "2023",
