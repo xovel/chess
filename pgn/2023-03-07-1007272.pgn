@@ -1,0 +1,53 @@
+[Event "Baden-Baden"]
+[Site "Baden-Baden GER"]
+[Date "1925.05.05"]
+[EventDate "1925.04.16"]
+[Round "15"]
+[Result "1-0"]
+[White "Aron Nimzowitsch"]
+[Black "Stefano Rosselli del Turco"]
+[ECO "A06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "49"]
+
+1.Nf3 {Notes by Nimzowitsch} d5 2.b3 c5 3.e3 Nc6 4.Bb2 Bg4
+5.h3 Bxf3 6.Qxf3 e5 7.Bb5 Qd6 8.e4 {We have here to do with
+the remarkable situation which we have already had occasion to
+notice, namely the one in which we do not at once cause the
+doubled Pawns by Bxc6+, bxc6, but rather bring this about by a
+roundabout way. As a matter of fact after 8 Bxc6+?, bxc6, we
+should never be able to force our obstinate opponent to
+accomodate us by playing ...d4, e.g., 8.Bxc6+ bxc6 9 e4 Nf6
+etc.} d4 9.Na3 {Threatening 10 Nc4 Qc7 11 Bxc6+ bxc6 and the
+weakness of the doubled Pawns is evident.} f6 10.Nc4 Qd7
+11.Qh5+ {The manouver of the Queen is intended to help prevent
+Black's castling on the Q side; not on the K side as one might
+at first site think.} g6 12.Qf3 Qc7 {Not ...O-O-O because of
+Na5 and the covering move ...Nge7 is ruled out because of
+Qxf6.} 13.Qg4 {! Now she rejoices in the observation post she
+has won for herself. This Q manouver has quite a hyper-modern
+air to it.} Kf7 {White threatened 14 Qe6+ Kd8 (or ...Be7 15
+Na5) 15 Bxc6 and the unpleasant doubled Pawn is a fact.} 14.f4
+h5 15.Qf3 exf4 16.Bxc6 {At the right moment, for the Q dare
+not retake. For instance 16...Qxc6 17 Qxf4 Re8 18 O-O!! Qxe4
+(...Rxe4 Ne5+) 19 Qc7+!! and wins (19...Qe7 20 Nd6+ followed
+by 21 Nxe8)} bxc6 {At last White has achieved his end, at the
+cost it is true of a Pawn, but here this plays but a
+subordinate role.} 17.O-O g5 {For (see the previous note)
+Black's position can be broken up. (Obviously White must not
+allow Black to safeguard his position by Kt...e7-g6-e5.) To
+break up Black's game three Pawn moves are necessary, (i) c3
+(ii) e5 (iii) h4. If White contented himself with only two of
+these his work were but half done. In the game all three are
+brought about.} 18.c3 {!} Rd8 {Now this Rook is happily
+tethered! (to his Pawn at d4).} 19.Rae1 {!} Ne7 20.e5 Nf5
+21.cxd4 {!} Nxd4 {If 21...cxd4 then 22 exf6 Kxf6 23 Qe4 and
+...Ng3 is impracticable on account of Bxd4+} 22.Qe4 Be7 {The
+reply to ...f5 would have been Qb1, an attacking move in the
+best modern spirit. For example, 22...f5 23 Qe4 Ke6 (to
+protect the f-Pawn) 24 Qd3! and 25 Nd6! with a decisive
+attack.} 23.h4 {! Now the undermined Black position tumbles
+like a house of cards.} Qd7 24.exf6 Bxf6 25.hxg5 {For after
+25...Bg7 26 Ne5+ Bxe5 27 Qxe5 Black's King is a pathetic
+figure in his helplessness.} 1-0

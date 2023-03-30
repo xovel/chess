@@ -1,0 +1,17 @@
+[Event "Zugdidi"]
+[Site "Zugdidi RUE"]
+[Date "1892.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Prince Andrey Dadian of Mingrelia"]
+[Black "M Bitcham"]
+[ECO "C56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "39"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Nxe4 6.Re1 d5
+7.Bxd5 Qxd5 8.Nc3 Qc4 9.Rxe4+ Be6 10.Bg5 Bc5 11.Nd2 Qa6 12.Nb3
+Bb6 13.Nd5 h6 14.Nc5 Qb5 15.Rxe6+ Kf8 16.Nd7+ Kg8 17.Qg4 h5
+18.N5f6+ gxf6 19.Bh6+ hxg4 20.Nxf6# 1-0

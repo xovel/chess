@@ -1,0 +1,16 @@
+[Event "corr"]
+[Site "corr"]
+[Date "1944.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Patricia Peper"]
+[Black "Gene E Pearce"]
+[ECO "C50"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "27"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.Bg5 O-O 6.Nc3 d6 7.Nd5
+Kh8 8.Bxf6 gxf6 9.Qd2 f5 10.Qh6 f6 11.Nh4 Rf7 12.Ng6+ Kg8
+13.Nxf6+ Qxf6 14.Qf8# 1-0
