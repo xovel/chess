@@ -1,6 +1,166 @@
 {
-  "update": "2023-03-30",
+  "update": "2023-04-19",
   "list": [
+    {
+      "date": "2023-04-19",
+      "year": "2023",
+      "players": "Nepomniachtchi vs Ding Liren",
+      "link": "/perl/chessgame?gid=2479640",
+      "id": "2479640",
+      "note": "French Disconnection"
+    },
+    {
+      "date": "2023-04-18",
+      "year": "2017",
+      "players": "Aronian vs Navara",
+      "link": "/perl/chessgame?gid=1883748",
+      "id": "1883748",
+      "note": "Making Armenia Great Again"
+    },
+    {
+      "date": "2023-04-17",
+      "year": "2010",
+      "players": "Shirov vs Dominguez Perez",
+      "link": "/perl/chessgame?gid=1571289",
+      "id": "1571289",
+      "note": "Too Quick on the Draw"
+    },
+    {
+      "date": "2023-04-16",
+      "year": "2004",
+      "players": "T Bakre vs B Zawadzka",
+      "link": "/perl/chessgame?gid=1358096",
+      "id": "1358096",
+      "note": "Bakre worse than his Bite"
+    },
+    {
+      "date": "2023-04-15",
+      "year": "1991",
+      "players": "Anand vs Ivanchuk",
+      "link": "/perl/chessgame?gid=1018218",
+      "id": "1018218",
+      "note": "The Brother from Another Planet"
+    },
+    {
+      "date": "2023-04-14",
+      "year": "1993",
+      "players": "Kasparov vs Short",
+      "link": "/perl/chessgame?gid=1070681",
+      "id": "1070681",
+      "note": "Making Plans for Nigel"
+    },
+    {
+      "date": "2023-04-13",
+      "year": "1923",
+      "players": "O Tenner vs O Chajes",
+      "link": "/perl/chessgame?gid=1459256",
+      "id": "1459256",
+      "note": "Perfect Tenner"
+    },
+    {
+      "date": "2023-04-12",
+      "year": "2023",
+      "players": "Ding Liren vs Nepomniachtchi",
+      "link": "/perl/chessgame?gid=2473637",
+      "id": "2473637",
+      "note": "Bull in a China Shop"
+    },
+    {
+      "date": "2023-04-11",
+      "year": "1959",
+      "players": "Spassky vs A Reshko",
+      "link": "/perl/chessgame?gid=1128417",
+      "id": "1128417",
+      "note": "Spassibo"
+    },
+    {
+      "date": "2023-04-10",
+      "year": "2014",
+      "players": "E Rains vs H Bennett",
+      "link": "/perl/chessgame?gid=1744236",
+      "id": "1744236",
+      "note": "Why does it always rain on me?"
+    },
+    {
+      "date": "2023-04-09",
+      "year": "2019",
+      "players": "Nepomniachtchi vs Wei Yi",
+      "link": "/perl/chessgame?gid=1984146",
+      "id": "1984146",
+      "note": "Peace, Peace, Thou Hippopotamus!"
+    },
+    {
+      "date": "2023-04-08",
+      "year": "2006",
+      "players": "Negi vs Lagno",
+      "link": "/perl/chessgame?gid=1442124",
+      "id": "1442124",
+      "note": "Castle Early and Often?"
+    },
+    {
+      "date": "2023-04-07",
+      "year": "2023",
+      "players": "T Foster vs P Lalic",
+      "link": "/perl/chessgame?gid=2468296",
+      "id": "2468296",
+      "note": "The Long Good Friday"
+    },
+    {
+      "date": "2023-04-06",
+      "year": "1958",
+      "players": "W M Byland vs L Kellner",
+      "link": "/perl/chessgame?gid=1785154",
+      "id": "1785154",
+      "note": "You Picked a Fine Line to Beat Me, Lucille"
+    },
+    {
+      "date": "2023-04-05",
+      "year": "2023",
+      "players": "S Williams vs A Rakhmangulova",
+      "link": "/perl/chessgame?gid=2467913",
+      "id": "2467913",
+      "note": "Ginger Spice"
+    },
+    {
+      "date": "2023-04-04",
+      "year": "1842",
+      "players": "NN vs E Daniels",
+      "link": "/perl/chessgame?gid=2470091",
+      "id": "2470091",
+      "note": "Stormy Daniels"
+    },
+    {
+      "date": "2023-04-03",
+      "year": "2006",
+      "players": "Kramnik vs Topalov",
+      "link": "/perl/chessgame?gid=1431154",
+      "id": "1431154",
+      "note": "Veni, Vidi, WC"
+    },
+    {
+      "date": "2023-04-02",
+      "year": "1890",
+      "players": "Bird vs Lasker",
+      "link": "/perl/chessgame?gid=1028146",
+      "id": "1028146",
+      "note": "Flight Risk"
+    },
+    {
+      "date": "2023-04-01",
+      "year": "1979",
+      "players": "A J Love vs K Jensen",
+      "link": "/perl/chessgame?gid=1536628",
+      "id": "1536628",
+      "note": "You Give Love a Bad Name"
+    },
+    {
+      "date": "2023-03-31",
+      "year": "1930",
+      "players": "Bogoljubov vs Nimzowitsch",
+      "link": "/perl/chessgame?gid=1007914",
+      "id": "1007914",
+      "note": "Gestalt Mode"
+    },
     {
       "date": "2023-03-30",
       "year": "2013",
