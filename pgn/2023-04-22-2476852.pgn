@@ -1,0 +1,23 @@
+[Event "FIDE World Championship 2023"]
+[Site "Astana KAZ"]
+[Date "2023.04.15"]
+[Round "5"]
+[White "Nepomniachtchi, Ian"]
+[Black "Liren, Ding"]
+[Result "1-0"]
+[TimeControl "40/7200:20/3600:900+30"]
+[WhiteFideId "4168119"]
+[BlackFideId "8603677"]
+[WhiteElo "2795"]
+[BlackElo "2788"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7
+6. d3 b5 7. Bb3 d6 8. c3 O-O 9. h3 Bb7 10. a4 Na5
+11. Ba2 c5 12. Bg5 h6 13. Bxf6 Bxf6 14. axb5 axb5 15. Nbd2 Nc6
+16. Bd5 Rxa1 17. Qxa1 Qd7 18. Re1 Ra8 19. Qd1 Bd8 20. Nf1 Ne7
+21. Bxb7 Qxb7 22. Ne3 Bb6 23. h4 Qc6 24. h5 c4 25. d4 exd4
+26. Nxd4 Qc5 27. Qg4 Qe5 28. Nf3 Qe6 29. Nf5 Nxf5 30. exf5 Qf6
+31. Qe4 Rb8 32. Re2 Bc5 33. g4 Qd8 34. Qd5 Kf8 35. Kf1 Rc8
+36. Re4 Rb8 37. g5 hxg5 38. Rg4 Ra8 39. Nxg5 Ra1+ 40. Ke2 Qe7+
+41. Ne4 Qe8 42. Kf3 Qa8 43. Qxa8+ Rxa8 44. f6 g6 45. hxg6 fxg6
+46. Rxg6 Ra2 47. Kg4 Rxb2 48. Rh6 1-0
