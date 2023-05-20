@@ -1,6 +1,102 @@
 {
-  "update": "2023-05-08",
+  "update": "2023-05-20",
   "list": [
+    {
+      "date": "2023-05-20",
+      "year": "1946",
+      "players": "Smyslov vs C Kottnauer",
+      "link": "/perl/chessgame?gid=1125510",
+      "id": "1125510",
+      "note": "Malicious File"
+    },
+    {
+      "date": "2023-05-19",
+      "year": "2018",
+      "players": "Nakamura vs N Grandelius",
+      "link": "/perl/chessgame?gid=1908845",
+      "id": "1908845",
+      "note": "Come into my parlour"
+    },
+    {
+      "date": "2023-05-18",
+      "year": "1834",
+      "players": "W M Popert vs McDonnell",
+      "link": "/perl/chessgame?gid=2501036",
+      "id": "2501036",
+      "note": "Hot Poperty"
+    },
+    {
+      "date": "2023-05-17",
+      "year": "1975",
+      "players": "Adorjan vs J Flesch",
+      "link": "/perl/chessgame?gid=1015737",
+      "id": "1015737",
+      "note": "Just a Flesch Wound"
+    },
+    {
+      "date": "2023-05-16",
+      "year": "1926",
+      "players": "Colle vs Gruenfeld",
+      "link": "/perl/chessgame?gid=1279187",
+      "id": "1279187",
+      "note": "The Colle-culator"
+    },
+    {
+      "date": "2023-05-15",
+      "year": "1914",
+      "players": "Spielmann vs Schlechter",
+      "link": "/perl/chessgame?gid=1121226",
+      "id": "1121226",
+      "note": "Viennese Whirl"
+    },
+    {
+      "date": "2023-05-14",
+      "year": "1992",
+      "players": "G Giorgadze vs Adorjan",
+      "link": "/perl/chessgame?gid=1016765",
+      "id": "1016765",
+      "note": "Black is OK Forever!"
+    },
+    {
+      "date": "2023-05-13",
+      "year": "2012",
+      "players": "J L Munoz vs Grischuk",
+      "link": "/perl/chessgame?gid=1684419",
+      "id": "1684419",
+      "note": "Dark Side of the Munoz"
+    },
+    {
+      "date": "2023-05-12",
+      "year": "1953",
+      "players": "Sliwa vs G Stoltz",
+      "link": "/perl/chessgame?gid=1278136",
+      "id": "1278136",
+      "note": "Tricks Up My Sliwa"
+    },
+    {
+      "date": "2023-05-11",
+      "year": "1845",
+      "players": "W Pulling vs J O'Sullivan",
+      "link": "/perl/chessgame?gid=2031577",
+      "id": "2031577",
+      "note": "Pulling a Fast One"
+    },
+    {
+      "date": "2023-05-10",
+      "year": "1932",
+      "players": "Fine vs A Simonson",
+      "link": "/perl/chessgame?gid=1043707",
+      "id": "1043707",
+      "note": "Oh My Darling, Clemenz Fine."
+    },
+    {
+      "date": "2023-05-09",
+      "year": "1998",
+      "players": "M Kolesar vs O Sikorova",
+      "link": "/perl/chessgame?gid=2176055",
+      "id": "2176055",
+      "note": "Siege of Milan"
+    },
     {
       "date": "2023-05-08",
       "year": "1941",
