@@ -1,6 +1,94 @@
 {
-  "update": "2023-05-20",
+  "update": "2023-05-31",
   "list": [
+    {
+      "date": "2023-05-31",
+      "year": "1941",
+      "players": "F Nuernberg vs K Junge",
+      "link": "/perl/chessgame?gid=1272951",
+      "id": "1272951",
+      "note": "Trial and Error"
+    },
+    {
+      "date": "2023-05-30",
+      "year": "1993",
+      "players": "Benjamin vs M Manik",
+      "link": "/perl/chessgame?gid=1027226",
+      "id": "1027226",
+      "note": "Manik Depression"
+    },
+    {
+      "date": "2023-05-29",
+      "year": "1993",
+      "players": "Oll vs Anand",
+      "link": "/perl/chessgame?gid=1018390",
+      "id": "1018390",
+      "note": "Same Oll, Same Oll"
+    },
+    {
+      "date": "2023-05-28",
+      "year": "1996",
+      "players": "J Xie vs S Lalic",
+      "link": "/perl/chessgame?gid=2036772",
+      "id": "2036772",
+      "note": "Oh, Susanna, Don't You Cry for Xie"
+    },
+    {
+      "date": "2023-05-27",
+      "year": "1981",
+      "players": "Martin Perez vs Catalan",
+      "link": "/perl/chessgame?gid=1229198",
+      "id": "1229198",
+      "note": "Oh, Vienna!"
+    },
+    {
+      "date": "2023-05-26",
+      "year": "2007",
+      "players": "Van Wely vs Svidler",
+      "link": "/perl/chessgame?gid=1448483",
+      "id": "1448483",
+      "note": "Rook van Wely"
+    },
+    {
+      "date": "2023-05-25",
+      "year": "2011",
+      "players": "Nakamura vs Ivanchuk",
+      "link": "/perl/chessgame?gid=1649035",
+      "id": "1649035",
+      "note": "Ke2 Brute?"
+    },
+    {
+      "date": "2023-05-24",
+      "year": "2019",
+      "players": "Gledura vs V Kovalev",
+      "link": "/perl/chessgame?gid=1943543",
+      "id": "1943543",
+      "note": "The Trouble with Triples"
+    },
+    {
+      "date": "2023-05-23",
+      "year": "1997",
+      "players": "T Kosintseva vs N Kosintseva",
+      "link": "/perl/chessgame?gid=2187445",
+      "id": "2187445",
+      "note": "Hot Systhéme"
+    },
+    {
+      "date": "2023-05-22",
+      "year": "2023",
+      "players": "Wojtaszek vs Carlsen",
+      "link": "/perl/chessgame?gid=2503860",
+      "id": "2503860",
+      "note": "Wojt is OK!"
+    },
+    {
+      "date": "2023-05-21",
+      "year": "1982",
+      "players": "Adorjan vs B Kouatly",
+      "link": "/perl/chessgame?gid=1016110",
+      "id": "1016110",
+      "note": "Black is KO!"
+    },
     {
       "date": "2023-05-20",
       "year": "1946",
