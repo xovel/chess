@@ -41,13 +41,12 @@ function genMonthHTML(year, month) {
   const title = `${year}-${month < 10 ? '0' + month : month}`;
   const date = new Date();
   date.setFullYear(year);
-  date.setMonth(month);
-  date.setDate(0); // Get days in specified month, ~~it's a black tech~~.
+  // Get days in specified month, ~~it's a black tech~~.
+  date.setMonth(month, 0);
 
   const days = date.getDate();
 
-  date.setMonth(month - 1);
-  date.setDate(1);
+  date.setMonth(month - 1, 1);
   const startDay = date.getDay();
 
   // Calender of month
