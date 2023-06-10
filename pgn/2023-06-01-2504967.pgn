@@ -1,0 +1,22 @@
+[Event "Odds game"]
+[Site "St. George's CC, London ENG"]
+[Date "1861.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Arthur Hay"]
+[Black "Hugh Alexander Kennedy"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "The Era, 1861.05.12, p.5"]
+[PlyCount "66"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. e4 Nc6 2. d4 e5 3. d5 Nce7 4. Bg5 d6 5. Be2 c6 6. Nf3 Qb6 7. Nh4 Qxb2 8. Nd2
+cxd5 9. Rb1 Qd4 10. Bxe7 Bxe7 11. Bb5+ Kd8 12. Nf5 Bxf5 13. exf5 Bg5 14. Bd3 e4
+15. Nb3 Qc3+ 16. Kf1 exd3 17. cxd3 Ne7 18. h4 Bf6 19. d4 Nc6 20. Rh3 Qc4+ 21.
+Kg1 Nxd4 22. Nxd4 Qxd4 23. Rd3 Qxh4 24. Rxd5 Ke8 25. Rxd6 Rd8 26. Re6+ Kf8 27.
+Qf3 h5 28. Rxb7 Kg8 29. Qb3 Kh7 30. Rb4 Bd4 31. g3 Bxf2+ 32. Kxf2 Rd2+ 33. Ke1
+Qh2 {White mates in 5} 1-0

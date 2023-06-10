@@ -1,6 +1,78 @@
 {
-  "update": "2023-05-31",
+  "update": "2023-06-10",
   "list": [
+    {
+      "date": "2023-06-10",
+      "year": "2023",
+      "players": "J K Holliday vs A Ghasi",
+      "link": "/perl/chessgame?gid=2477609",
+      "id": "2477609",
+      "note": "Death Takes a Holliday"
+    },
+    {
+      "date": "2023-06-09",
+      "year": "1995",
+      "players": "V Beznosikov vs I Koba",
+      "link": "/perl/chessgame?gid=1227401",
+      "id": "1227401",
+      "note": "Stopped in His Trax"
+    },
+    {
+      "date": "2023-06-08",
+      "year": "1951",
+      "players": "Kashdan vs J Gonzalez de Vega",
+      "link": "/perl/chessgame?gid=1529302",
+      "id": "1529302",
+      "note": "The Sign of Zorro"
+    },
+    {
+      "date": "2023-06-07",
+      "year": "1966",
+      "players": "P H Mori vs C Duarte",
+      "link": "/perl/chessgame?gid=2511385",
+      "id": "2511385",
+      "note": "Memento Mori"
+    },
+    {
+      "date": "2023-06-05",
+      "year": "2019",
+      "players": "O Pollack vs R Cumming",
+      "link": "/perl/chessgame?gid=1983113",
+      "id": "1983113",
+      "note": "Cumming Through the Ruy"
+    },
+    {
+      "date": "2023-06-04",
+      "year": "1940",
+      "players": "Bronstein vs L Morgulis",
+      "link": "/perl/chessgame?gid=1228721",
+      "id": "1228721",
+      "note": "Valar Morgulis"
+    },
+    {
+      "date": "2023-06-03",
+      "year": "2009",
+      "players": "G Prakken vs B Tiller",
+      "link": "/perl/chessgame?gid=1554557",
+      "id": "1554557",
+      "note": "Natural Bjorn Tiller"
+    },
+    {
+      "date": "2023-06-02",
+      "year": "2004",
+      "players": "N Paikidze vs A Haast",
+      "link": "/perl/chessgame?gid=1590514",
+      "id": "1590514",
+      "note": "The Diary of Anne Haast"
+    },
+    {
+      "date": "2023-06-01",
+      "year": "1861",
+      "players": "A Hay vs H Kennedy",
+      "link": "/perl/chessgame?gid=2504967",
+      "id": "2504967",
+      "note": "OMG, Hay killed Kennedy!"
+    },
     {
       "date": "2023-05-31",
       "year": "1941",
