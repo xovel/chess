@@ -1,6 +1,142 @@
 {
-  "update": "2023-06-10",
+  "update": "2023-06-27",
   "list": [
+    {
+      "date": "2023-06-27",
+      "year": "1959",
+      "players": "Gufeld vs Tal",
+      "link": "/perl/chessgame?gid=1139464",
+      "id": "1139464",
+      "note": "Gufeld's Evergreen"
+    },
+    {
+      "date": "2023-06-26",
+      "year": "1930",
+      "players": "D Przepiorka vs Nimzowitsch",
+      "link": "/perl/chessgame?gid=1280571",
+      "id": "1280571",
+      "note": "One percent inspiration and 99% przepiration"
+    },
+    {
+      "date": "2023-06-25",
+      "year": "2001",
+      "players": "A Ushenina vs Lagno",
+      "link": "/perl/chessgame?gid=1306778",
+      "id": "1306778",
+      "note": "Ukraine Girls Really Knock Me Out"
+    },
+    {
+      "date": "2023-06-24",
+      "year": "2014",
+      "players": "J D Williams vs S Azarov",
+      "link": "/perl/chessgame?gid=1775304",
+      "id": "1775304",
+      "note": "Rough Justus"
+    },
+    {
+      "date": "2023-06-23",
+      "year": "1937",
+      "players": "Bogoljubov vs Alekhine",
+      "link": "/perl/chessgame?gid=1013241",
+      "id": "1013241",
+      "note": "Bogo Cop"
+    },
+    {
+      "date": "2023-06-22",
+      "year": "1996",
+      "players": "Deep Blue vs Kasparov",
+      "link": "/perl/chessgame?gid=1070878",
+      "id": "1070878",
+      "note": "Man of the Match"
+    },
+    {
+      "date": "2023-06-21",
+      "year": "2022",
+      "players": "T Beerdsen vs S Royal",
+      "link": "/perl/chessgame?gid=2521409",
+      "id": "2521409",
+      "note": "Royal Flush"
+    },
+    {
+      "date": "2023-06-20",
+      "year": "1932",
+      "players": "Kashdan vs M Leysens",
+      "link": "/perl/chessgame?gid=2220293",
+      "id": "2220293",
+      "note": "Leysens to Kill"
+    },
+    {
+      "date": "2023-06-19",
+      "year": "2017",
+      "players": "A Liang vs Lenderman",
+      "link": "/perl/chessgame?gid=1876391",
+      "id": "1876391",
+      "note": "Lender Bender"
+    },
+    {
+      "date": "2023-06-18",
+      "year": "2020",
+      "players": "A Suleymanli vs Indjic",
+      "link": "/perl/chessgame?gid=1992175",
+      "id": "1992175",
+      "note": "Suleymanli the Magnificent"
+    },
+    {
+      "date": "2023-06-17",
+      "year": "1980",
+      "players": "Karpov vs Van der Wiel",
+      "link": "/perl/chessgame?gid=1068138",
+      "id": "1068138",
+      "note": "Karpov Bombing"
+    },
+    {
+      "date": "2023-06-16",
+      "year": "2007",
+      "players": "R Hrzica vs J Armas",
+      "link": "/perl/chessgame?gid=1454564",
+      "id": "1454564",
+      "note": "We Will Rok You"
+    },
+    {
+      "date": "2023-06-15",
+      "year": "2021",
+      "players": "Kosteniuk vs I Krush",
+      "link": "/perl/chessgame?gid=2079662",
+      "id": "2079662",
+      "note": "No Kost Too Great"
+    },
+    {
+      "date": "2023-06-14",
+      "year": "2017",
+      "players": "C Rice vs I Snape",
+      "link": "/perl/chessgame?gid=1907557",
+      "id": "1907557",
+      "note": "Snape, Crackle and Pop"
+    },
+    {
+      "date": "2023-06-13",
+      "year": "1948",
+      "players": "Barcza vs O Troianescu",
+      "link": "/perl/chessgame?gid=1583706",
+      "id": "1583706",
+      "note": "Classico unReal"
+    },
+    {
+      "date": "2023-06-12",
+      "year": "1884",
+      "players": "C Knapton vs Gunsberg",
+      "link": "/perl/chessgame?gid=2516484",
+      "id": "2516484",
+      "note": "Knap, Crackle and Pop"
+    },
+    {
+      "date": "2023-06-11",
+      "year": "1996",
+      "players": "M Notkin vs A Rychagov",
+      "link": "/perl/chessgame?gid=2172228",
+      "id": "2172228",
+      "note": "Much Ado About Notkin"
+    },
     {
       "date": "2023-06-10",
       "year": "2023",
