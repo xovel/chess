@@ -1,6 +1,46 @@
 {
-  "update": "2023-06-27",
+  "update": "2023-07-02",
   "list": [
+    {
+      "date": "2023-07-02",
+      "year": "1992",
+      "players": "Adams vs Short",
+      "link": "/perl/chessgame?gid=1014159",
+      "id": "1014159",
+      "note": "No Checks Please, We're British"
+    },
+    {
+      "date": "2023-07-01",
+      "year": "2004",
+      "players": "Robson vs Y Hou",
+      "link": "/perl/chessgame?gid=1560941",
+      "id": "1560941",
+      "note": "Danger Ray Robson!"
+    },
+    {
+      "date": "2023-06-30",
+      "year": "2023",
+      "players": "P Dupre vs P Lalic",
+      "link": "/perl/chessgame?gid=2476234",
+      "id": "2476234",
+      "note": "You and Me, Dupre"
+    },
+    {
+      "date": "2023-06-29",
+      "year": "1964",
+      "players": "Keene vs B Eley",
+      "link": "/perl/chessgame?gid=1359311",
+      "id": "1359311",
+      "note": "Burying the Pede"
+    },
+    {
+      "date": "2023-06-28",
+      "year": "1978",
+      "players": "E Mednis vs Lombardy",
+      "link": "/perl/chessgame?gid=1092917",
+      "id": "1092917",
+      "note": "Bill and Ed's Excellent Adventure"
+    },
     {
       "date": "2023-06-27",
       "year": "1959",
