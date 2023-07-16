@@ -1,6 +1,118 @@
 {
-  "update": "2023-07-02",
+  "update": "2023-07-16",
   "list": [
+    {
+      "date": "2023-07-16",
+      "year": "2016",
+      "players": "J R Adair vs S Franklin",
+      "link": "/perl/chessgame?gid=1849666",
+      "id": "1849666",
+      "note": "In The Firing Line"
+    },
+    {
+      "date": "2023-07-15",
+      "year": "1926",
+      "players": "Rubinstein vs Alekhine",
+      "link": "/perl/chessgame?gid=1119839",
+      "id": "1119839",
+      "note": "Lekhine on the Sixth with a Diamond"
+    },
+    {
+      "date": "2023-07-14",
+      "year": "1968",
+      "players": "Larsen vs J Acers",
+      "link": "/perl/chessgame?gid=1318254",
+      "id": "1318254",
+      "note": "Take A Sad Pawn And Make It Benter"
+    },
+    {
+      "date": "2023-07-13",
+      "year": "1967",
+      "players": "Browne vs J Acers",
+      "link": "/perl/chessgame?gid=2288553",
+      "id": "2288553",
+      "note": "Hey Jude, don't make Bc8 bad..."
+    },
+    {
+      "date": "2023-07-12",
+      "year": "1909",
+      "players": "Capablanca vs N Whitaker",
+      "link": "/perl/chessgame?gid=1789605",
+      "id": "1789605",
+      "note": "Grandmaster Norm"
+    },
+    {
+      "date": "2023-07-11",
+      "year": "1912",
+      "players": "Capablanca vs H Zirn",
+      "link": "/perl/chessgame?gid=1794848",
+      "id": "1794848",
+      "note": "Harry Zirn Floored"
+    },
+    {
+      "date": "2023-07-10",
+      "year": "1978",
+      "players": "Geller vs Sveshnikov",
+      "link": "/perl/chessgame?gid=1049943",
+      "id": "1049943",
+      "note": "Talkin' 'Bout my Variation"
+    },
+    {
+      "date": "2023-07-09",
+      "year": "1949",
+      "players": "Tartakower vs Golombek",
+      "link": "/perl/chessgame?gid=1619451",
+      "id": "1619451",
+      "note": "When Harry Met Savielly"
+    },
+    {
+      "date": "2023-07-08",
+      "year": "1964",
+      "players": "J Mora Corbera vs Suttles",
+      "link": "/perl/chessgame?gid=1135784",
+      "id": "1135784",
+      "note": "Mora less a draw"
+    },
+    {
+      "date": "2023-07-07",
+      "year": "1865",
+      "players": "W Kornfeld vs Zukertort",
+      "link": "/perl/chessgame?gid=1075704",
+      "id": "1075704",
+      "note": "Sufferin' Zukertort"
+    },
+    {
+      "date": "2023-07-06",
+      "year": "2015",
+      "players": "Duda vs D Abel",
+      "link": "/perl/chessgame?gid=1802882",
+      "id": "1802882",
+      "note": "Abel Was I Ere I Saw Duda"
+    },
+    {
+      "date": "2023-07-05",
+      "year": "1975",
+      "players": "Bijl vs Remis",
+      "link": "/perl/chessgame?gid=1076882",
+      "id": "1076882",
+      "note": "Don't Let the Name Fool You"
+    },
+    {
+      "date": "2023-07-04",
+      "year": "1994",
+      "players": "A Shneider vs Kasparov",
+      "link": "/perl/chessgame?gid=1070712",
+      "id": "1070712",
+      "note": "The Lyon King"
+    },
+    {
+      "date": "2023-07-03",
+      "year": "1990",
+      "players": "P Zimmermann vs D Tobler",
+      "link": "/perl/chessgame?gid=1251445",
+      "id": "1251445",
+      "note": "Tobler Owned"
+    },
     {
       "date": "2023-07-02",
       "year": "1992",

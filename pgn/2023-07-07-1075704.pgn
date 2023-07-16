@@ -1,0 +1,16 @@
+[Event "Posen"]
+[Site "Posen"]
+[Date "1865.??.??"]
+[EventDate "1865.??.??"]
+[Round "?"]
+[Result "0-1"]
+[White "W Kornfeld"]
+[Black "Johannes Zukertort"]
+[ECO "C33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "28"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 d5 4. Bxd5 Nf6 5. Nc3 Bb4 6. Nge2
+c6 7. Bb3 Bg4 8. d3 Nxe4 9. dxe4 Qh4+ 10. Kf1 f3 11. gxf3 Bh3+
+12. Kg1 Bc5+ 13. Nd4 Bxd4+ 14. Qxd4 Qe1# 0-1
