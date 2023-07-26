@@ -1,0 +1,17 @@
+[Event "Blindfold simul, 25b"]
+[Site "Kosice CSR"]
+[Date "1921.01.30"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Gyula Breyer"]
+[Black "Oppenheimer"]
+[ECO "B15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "35"]
+
+1.d4 d5 2.Nc3 c6 3.e4 e6 4.e5 Bb4 5.Nf3 Bxc3+ 6.bxc3 b6 7.Bd3
+Ne7 8.g4 O-O 9.g5 h5 10.Nh4 g6 11.Ba3 Kg7 12.Qf3 Nd7 13.Qf6+
+Nxf6 14.gxf6+ Kh7 15.fxe7 Qxe7 16.Bxe7 Re8 17.Bf6 Bd7 18.Nf3
+1-0

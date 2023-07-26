@@ -1,0 +1,16 @@
+[Event "Thorpe"]
+[Site "Thorpe ENG"]
+[Date "1874.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "John Odin Howard Taylor"]
+[Black "NN"]
+[ECO "C37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "25"]
+
+1. e4 e5 2. f4 exf4 3. Nc3 g5 4. Nf3 g4 5. Ne5 Qh4+ 6. g3 fxg3
+7. Qxg4 g2+ 8. Qxh4 gxh1=Q 9. Nd5 Na6 10. d4 Be7 11. Qxe7+
+Nxe7 12. Nf6+ Kd8 13. Nxf7# 1-0

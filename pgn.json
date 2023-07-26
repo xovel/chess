@@ -1,6 +1,86 @@
 {
-  "update": "2023-07-16",
+  "update": "2023-07-26",
   "list": [
+    {
+      "date": "2023-07-26",
+      "year": "2018",
+      "players": "Wei Yi vs G Jones",
+      "link": "/perl/chessgame?gid=1908523",
+      "id": "1908523",
+      "note": "Do you know da wei?"
+    },
+    {
+      "date": "2023-07-25",
+      "year": "2007",
+      "players": "S Siebrecht vs W Schwaninger",
+      "link": "/perl/chessgame?gid=1752342",
+      "id": "1752342",
+      "note": "Schwaninger's Rat"
+    },
+    {
+      "date": "2023-07-24",
+      "year": "2007",
+      "players": "I Smirnov vs D Kutuzov",
+      "link": "/perl/chessgame?gid=1450253",
+      "id": "1450253",
+      "note": "The War on Vodka"
+    },
+    {
+      "date": "2023-07-23",
+      "year": "1993",
+      "players": "Short vs Kasparov",
+      "link": "/perl/chessgame?gid=1070682",
+      "id": "1070682",
+      "note": "A Day Late and a Dollar Short"
+    },
+    {
+      "date": "2023-07-22",
+      "year": "2014",
+      "players": "Karjakin vs Carlsen",
+      "link": "/perl/chessgame?gid=1758666",
+      "id": "1758666",
+      "note": "Far Side of Crazy"
+    },
+    {
+      "date": "2023-07-21",
+      "year": "1921",
+      "players": "Breyer vs Oppenheimer",
+      "link": "/perl/chessgame?gid=1529601",
+      "id": "1529601",
+      "note": "Now I Am Become Blind"
+    },
+    {
+      "date": "2023-07-20",
+      "year": "1986",
+      "players": "Beliavsky vs Timman",
+      "link": "/perl/chessgame?gid=1143003",
+      "id": "1143003",
+      "note": "Safe, Legal, and Rare"
+    },
+    {
+      "date": "2023-07-19",
+      "year": "1874",
+      "players": "J O H Taylor vs NN",
+      "link": "/perl/chessgame?gid=1337260",
+      "id": "1337260",
+      "note": "JOHT This Down"
+    },
+    {
+      "date": "2023-07-18",
+      "year": "1926",
+      "players": "Maroczy vs G Beihoff",
+      "link": "/perl/chessgame?gid=1746612",
+      "id": "1746612",
+      "note": "The Maroczy Blind"
+    },
+    {
+      "date": "2023-07-17",
+      "year": "1975",
+      "players": "L De Veauce vs Speelman",
+      "link": "/perl/chessgame?gid=1743505",
+      "id": "1743505",
+      "note": "A Banner With the Strange De Veauce: Excelsior!"
+    },
     {
       "date": "2023-07-16",
       "year": "2016",
