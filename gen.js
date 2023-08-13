@@ -49,9 +49,11 @@ function genIndex() {
   })));
 }
 
-function genPGN(force) {
+async function genPGN(force) {
   // Generate static files.
-  list.forEach(item => {
+  const arr = list.slice().reverse();
+  for (let i = 0; i < arr.length; i++) {
+    const item = arr[i];
     const pgnPath = path.join(__dirname, 'pgn', `${item.date}-${item.id}.pgn`);
     const destPath = path.join(__dirname, distFolder, `${item.date}.html`);
     if (fs.existsSync(destPath) && !force) {
@@ -84,16 +86,16 @@ function genPGN(force) {
         return data[name] || '';
       });
 
-      wFile(path.join(__dirname, distFolder, `${item.date}.html`), ret);
+      await wFile(path.join(__dirname, distFolder, `${item.date}.html`), ret);
     }
-  });
+  };
 }
 
 if (isForce) {
   del(distFolder + '/**/*').then(() => {
     genIndex();
     copyAssets();
-    genPGN();
+    genPGN(true);
   })
 } else {
   genIndex();
