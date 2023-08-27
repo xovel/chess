@@ -57,7 +57,7 @@ async function genPGN(force) {
     const pgnPath = path.join(__dirname, 'pgn', `${item.date}-${item.id}.pgn`);
     const destPath = path.join(__dirname, distFolder, `${item.date}.html`);
     if (fs.existsSync(destPath) && !force) {
-      return;
+      continue;
     }
     if (fs.existsSync(pgnPath)) {
       const pgnContent = fs.readFileSync(pgnPath);
