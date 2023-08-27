@@ -1,6 +1,118 @@
 {
-  "update": "2023-08-13",
+  "update": "2023-08-27",
   "list": [
+    {
+      "date": "2023-08-27",
+      "year": "1975",
+      "players": "Tal vs Petrosian",
+      "link": "/perl/chessgame?gid=1140291",
+      "id": "1140291",
+      "note": "Fairytal"
+    },
+    {
+      "date": "2023-08-26",
+      "year": "1850",
+      "players": "Shumov vs C Jaenisch",
+      "link": "/perl/chessgame?gid=1257957",
+      "id": "1257957",
+      "note": "The Excelsior Game"
+    },
+    {
+      "date": "2023-08-25",
+      "year": "2005",
+      "players": "Q Bao vs Hoang Thong Tu",
+      "link": "/perl/chessgame?gid=1584222",
+      "id": "1584222",
+      "note": "Bao Constrictor"
+    },
+    {
+      "date": "2023-08-24",
+      "year": "2013",
+      "players": "A R Saleh Salem vs Smeets",
+      "link": "/perl/chessgame?gid=1728639",
+      "id": "1728639",
+      "note": "Witch Hunt"
+    },
+    {
+      "date": "2023-08-23",
+      "year": "1997",
+      "players": "Granda Zuniga vs Short",
+      "link": "/perl/chessgame?gid=1053052",
+      "id": "1053052",
+      "note": "Get Shorty"
+    },
+    {
+      "date": "2023-08-22",
+      "year": "1999",
+      "players": "D Monokroussos vs L Barcarola",
+      "link": "/perl/chessgame?gid=1531040",
+      "id": "1531040",
+      "note": "Sac, sac…stalemate!"
+    },
+    {
+      "date": "2023-08-21",
+      "year": "1988",
+      "players": "A Nokso-Koivisto vs A Pyhala",
+      "link": "/perl/chessgame?gid=1615338",
+      "id": "1615338",
+      "note": "Nice Finnish!"
+    },
+    {
+      "date": "2023-08-20",
+      "year": "2013",
+      "players": "Harikrishna vs Van Wely",
+      "link": "/perl/chessgame?gid=1705080",
+      "id": "1705080",
+      "note": "Penta Gun"
+    },
+    {
+      "date": "2023-08-19",
+      "year": "2023",
+      "players": "A Muzychuk vs N Salimova",
+      "link": "/perl/chessgame?gid=2558357",
+      "id": "2558357",
+      "note": "Sweet Caro Line"
+    },
+    {
+      "date": "2023-08-18",
+      "year": "2019",
+      "players": "Anand vs Mamedyarov",
+      "link": "/perl/chessgame?gid=1943574",
+      "id": "1943574",
+      "note": "D5ing all logic"
+    },
+    {
+      "date": "2023-08-17",
+      "year": "1958",
+      "players": "A Matanovic vs Tal",
+      "link": "/perl/chessgame?gid=1139400",
+      "id": "1139400",
+      "note": "Mata of Life and Death"
+    },
+    {
+      "date": "2023-08-16",
+      "year": "1994",
+      "players": "A Flaata vs O Hole",
+      "link": "/perl/chessgame?gid=1565395",
+      "id": "1565395",
+      "note": "The Bloody Hole Story"
+    },
+    {
+      "date": "2023-08-15",
+      "year": "1991",
+      "players": "A Passov vs J Sammour-Hasbun",
+      "link": "/perl/chessgame?gid=1499199",
+      "id": "1499199",
+      "note": "Sammour Please!"
+    },
+    {
+      "date": "2023-08-14",
+      "year": "2023",
+      "players": "Duda vs Caruana",
+      "link": "/perl/chessgame?gid=2557604",
+      "id": "2557604",
+      "note": "Pins, but not Safety Pins"
+    },
     {
       "date": "2023-08-13",
       "year": "1975",
