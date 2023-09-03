@@ -1,6 +1,62 @@
 {
-  "update": "2023-08-27",
+  "update": "2023-09-03",
   "list": [
+    {
+      "date": "2023-09-03",
+      "year": "1979",
+      "players": "P van der Weide vs G Ligterink",
+      "link": "/perl/chessgame?gid=1531962",
+      "id": "1531962",
+      "note": "AnniNh1lation"
+    },
+    {
+      "date": "2023-09-02",
+      "year": "2010",
+      "players": "E Alekseev vs E Inarkiev",
+      "link": "/perl/chessgame?gid=1583052",
+      "id": "1583052",
+      "note": "Siege of Inarkiev"
+    },
+    {
+      "date": "2023-09-01",
+      "year": "2009",
+      "players": "V Gunina vs A Bodnaruk",
+      "link": "/perl/chessgame?gid=1566288",
+      "id": "1566288",
+      "note": "Queen of Adrenaline"
+    },
+    {
+      "date": "2023-08-31",
+      "year": "2023",
+      "players": "K Tsatsalashvili vs S Khademalsharieh",
+      "link": "/perl/chessgame?gid=2563450",
+      "id": "2563450",
+      "note": "Tsatsal Folks!"
+    },
+    {
+      "date": "2023-08-30",
+      "year": "2013",
+      "players": "Naiditsch vs Anand",
+      "link": "/perl/chessgame?gid=1710776",
+      "id": "1710776",
+      "note": "Et in Arcadia Ego"
+    },
+    {
+      "date": "2023-08-29",
+      "year": "2008",
+      "players": "A Adly vs M Sebag",
+      "link": "/perl/chessgame?gid=1511936",
+      "id": "1511936",
+      "note": "In Sebag"
+    },
+    {
+      "date": "2023-08-28",
+      "year": "2008",
+      "players": "A Khruschiov vs Dvoirys",
+      "link": "/perl/chessgame?gid=1518185",
+      "id": "1518185",
+      "note": "We Will Bury You!"
+    },
     {
       "date": "2023-08-27",
       "year": "1975",
