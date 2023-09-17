@@ -1,6 +1,118 @@
 {
-  "update": "2023-09-03",
+  "update": "2023-09-17",
   "list": [
+    {
+      "date": "2023-09-17",
+      "year": "1991",
+      "players": "R Seltzer vs J Curdo",
+      "link": "/perl/chessgame?gid=1531862",
+      "id": "1531862",
+      "note": "Clubbed Soda"
+    },
+    {
+      "date": "2023-09-16",
+      "year": "1984",
+      "players": "Oll vs G Miralles",
+      "link": "/perl/chessgame?gid=1545648",
+      "id": "1545648",
+      "note": "Oll Figured Out"
+    },
+    {
+      "date": "2023-09-15",
+      "year": "1994",
+      "players": "E Schiller vs G Schwartzman",
+      "link": "/perl/chessgame?gid=1371272",
+      "id": "1371272",
+      "note": "'Cause This Is Schiller, Schiller Knight"
+    },
+    {
+      "date": "2023-09-14",
+      "year": "1977",
+      "players": "G Jacoby vs E Marnier",
+      "link": "/perl/chessgame?gid=2074205",
+      "id": "2074205",
+      "note": "Not-So-Grand Marnier"
+    },
+    {
+      "date": "2023-09-13",
+      "year": "1987",
+      "players": "Geller vs Anand",
+      "link": "/perl/chessgame?gid=1017939",
+      "id": "1017939",
+      "note": "The Soothsayer"
+    },
+    {
+      "date": "2023-09-12",
+      "year": "1952",
+      "players": "M Oren vs I Dyner",
+      "link": "/perl/chessgame?gid=1557884",
+      "id": "1557884",
+      "note": "Dyner Dash"
+    },
+    {
+      "date": "2023-09-11",
+      "year": "2023",
+      "players": "K Hanache vs P Lalic",
+      "link": "/perl/chessgame?gid=2569647",
+      "id": "2569647",
+      "note": "Hanache in the UK"
+    },
+    {
+      "date": "2023-09-10",
+      "year": "2010",
+      "players": "R Leitao vs Caruana",
+      "link": "/perl/chessgame?gid=1596073",
+      "id": "1596073",
+      "note": "Ay Caruana!"
+    },
+    {
+      "date": "2023-09-09",
+      "year": "1898",
+      "players": "Steinitz vs A Fritz",
+      "link": "/perl/chessgame?gid=1002944",
+      "id": "1002944",
+      "note": "Fritz 0.0"
+    },
+    {
+      "date": "2023-09-08",
+      "year": "2007",
+      "players": "de Firmian vs E Thingstad",
+      "link": "/perl/chessgame?gid=1469370",
+      "id": "1469370",
+      "note": "The Thingstad Dreams Are Made Of"
+    },
+    {
+      "date": "2023-09-07",
+      "year": "1908",
+      "players": "Lasker vs F C Short",
+      "link": "/perl/chessgame?gid=1994459",
+      "id": "1994459",
+      "note": "Try That in a Small Town"
+    },
+    {
+      "date": "2023-09-06",
+      "year": "1906",
+      "players": "J Mieses vs Taubenhaus",
+      "link": "/perl/chessgame?gid=1335952",
+      "id": "1335952",
+      "note": "Bleak Haus"
+    },
+    {
+      "date": "2023-09-05",
+      "year": "2017",
+      "players": "V Akobian vs Caruana",
+      "link": "/perl/chessgame?gid=1870234",
+      "id": "1870234",
+      "note": "Never Play f6"
+    },
+    {
+      "date": "2023-09-04",
+      "year": "1977",
+      "players": "Nigmadzianov vs L Kaplun",
+      "link": "/perl/chessgame?gid=1242867",
+      "id": "1242867",
+      "note": "Enigmadzianov"
+    },
     {
       "date": "2023-09-03",
       "year": "1979",
