@@ -1,6 +1,158 @@
 {
-  "update": "2023-09-17",
+  "update": "2023-10-06",
   "list": [
+    {
+      "date": "2023-10-06",
+      "year": "2008",
+      "players": "Jakovenko vs I Cheparinov",
+      "link": "/perl/chessgame?gid=1501666",
+      "id": "1501666",
+      "note": "Last Knight a DJ Saved My Life"
+    },
+    {
+      "date": "2023-10-05",
+      "year": "2017",
+      "players": "Firouzja vs Bluebaum",
+      "link": "/perl/chessgame?gid=1863407",
+      "id": "1863407",
+      "note": "Over the horizon"
+    },
+    {
+      "date": "2023-10-04",
+      "year": "1980",
+      "players": "Kasparov vs E Torre",
+      "link": "/perl/chessgame?gid=1041401",
+      "id": "1041401",
+      "note": "The Torreador"
+    },
+    {
+      "date": "2023-10-03",
+      "year": "1991",
+      "players": "Y Lemieux vs M Poupinel",
+      "link": "/perl/chessgame?gid=2511816",
+      "id": "2511816",
+      "note": "Scarlet Poupinel"
+    },
+    {
+      "date": "2023-10-02",
+      "year": "1982",
+      "players": "E Karklins vs A C Chow",
+      "link": "/perl/chessgame?gid=1711819",
+      "id": "1711819",
+      "note": "Chow Down"
+    },
+    {
+      "date": "2023-10-01",
+      "year": "2006",
+      "players": "M Drasko vs A Evdokimov",
+      "link": "/perl/chessgame?gid=1423455",
+      "id": "1423455",
+      "note": "Milan Soccer Club"
+    },
+    {
+      "date": "2023-09-30",
+      "year": "1992",
+      "players": "Krasenkow vs Sveshnikov",
+      "link": "/perl/chessgame?gid=1086313",
+      "id": "1086313",
+      "note": "Kras Behavior"
+    },
+    {
+      "date": "2023-09-29",
+      "year": "1978",
+      "players": "Mac Hack VI vs D Levy",
+      "link": "/perl/chessgame?gid=2099252",
+      "id": "2099252",
+      "note": "Leviathan"
+    },
+    {
+      "date": "2023-09-28",
+      "year": "2023",
+      "players": "Anand vs So",
+      "link": "/perl/chessgame?gid=2573316",
+      "id": "2573316",
+      "note": "French Cooking"
+    },
+    {
+      "date": "2023-09-27",
+      "year": "1968",
+      "players": "M Basman vs Keene",
+      "link": "/perl/chessgame?gid=1359268",
+      "id": "1359268",
+      "note": "Basman vs. The Penguin"
+    },
+    {
+      "date": "2023-09-26",
+      "year": "1981",
+      "players": "F Rhine vs D Sprenkle",
+      "link": "/perl/chessgame?gid=1443742",
+      "id": "1443742",
+      "note": "Sparkling Rhine"
+    },
+    {
+      "date": "2023-09-25",
+      "year": "2012",
+      "players": "Mamedyarov vs A Brkic",
+      "link": "/perl/chessgame?gid=1687272",
+      "id": "1687272",
+      "note": "Sank like a Brkic"
+    },
+    {
+      "date": "2023-09-24",
+      "year": "2023",
+      "players": "Niemann vs A Woodward",
+      "link": "/perl/chessgame?gid=2573773",
+      "id": "2573773",
+      "note": "Babe in the Woods"
+    },
+    {
+      "date": "2023-09-23",
+      "year": "1921",
+      "players": "S Mlotkowski vs S Factor",
+      "link": "/perl/chessgame?gid=1451463",
+      "id": "1451463",
+      "note": "X-Factor"
+    },
+    {
+      "date": "2023-09-22",
+      "year": "1955",
+      "players": "J H Donner vs Panno",
+      "link": "/perl/chessgame?gid=1153198",
+      "id": "1153198",
+      "note": "Book him, Panno!"
+    },
+    {
+      "date": "2023-09-21",
+      "year": "2009",
+      "players": "A Volokitin vs M Kobalia",
+      "link": "/perl/chessgame?gid=1539454",
+      "id": "1539454",
+      "note": "Koba the Dread"
+    },
+    {
+      "date": "2023-09-20",
+      "year": "1994",
+      "players": "K Volke vs M Schaefer",
+      "link": "/perl/chessgame?gid=1365400",
+      "id": "1365400",
+      "note": "Where There's a Windmill, There's a Way"
+    },
+    {
+      "date": "2023-09-19",
+      "year": "1890",
+      "players": "H Caro vs Lasker",
+      "link": "/perl/chessgame?gid=1330550",
+      "id": "1330550",
+      "note": "Horatio, I am dead"
+    },
+    {
+      "date": "2023-09-18",
+      "year": "1903",
+      "players": "Moreau vs Albin",
+      "link": "/perl/chessgame?gid=1099453",
+      "id": "1099453",
+      "note": "Null Hypothesis"
+    },
     {
       "date": "2023-09-17",
       "year": "1991",
