@@ -1,0 +1,35 @@
+[Event "6th American Chess Congress"]
+[Site "New York, NY USA"]
+[Date "1889.03.29"]
+[EventDate "1889.03.25"]
+[Round "5"]
+[Result "1-0"]
+[White "Joseph Henry Blackburne"]
+[Black "James Mason"]
+[ECO "C10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1.e4 {Notes by Blackburne.} e6 2.d4 d5 3.Nc3 Nc6 {The other
+Knight is better. In some forms of this opening it is of
+importance to be able to advance P-QB4.} 4.Nf3 Bb4 5.Bd3 Nf6
+6.e5 {PxP leads to an old drawing variation.} Ne4 7.Bd2 Nxd2
+8.Qxd2 h6 {Probably intended as a waiting move, but it creates
+a weakness on the King's side.} 9.O-O O-O 10.Qe3 Bxc3 11.bxc3 Na5
+{Trying to force an opening on the Queen's side.} 12.Nd2 b6
+13.f4 Qe7 14.Rf3 c5 15.Rg3 f5 {If P goes to B5, White plays
+P-B5; and if PxB, then P-B6, winning.} 16.exf6 Qxf6 17.Rf1
+cxd4 18.cxd4 Nc6 19.c3 Ne7 {Now he is able to guard the weak
+Kt-3, and threaten an exchange by Kt-B4.} 20.Qe1 Nf5 21.Rh3
+Nd6 22.Rff3 Bd7 23.g4 Rf7 24.Qg3 Ne8 {He has no means of
+repelling the King's Knight's Pawn, and so brings his Knight
+round to defend his most vulnerable point. If instead he had
+played:- 24...P-KKt4 25.PxP QxP 26.QxKt RxR 27.RxR... and
+wins.} 25.g5 {Now the attack is overwhelming.} hxg5 26.fxg5
+Qd8 27.Qh4 Rf5 {Giving up the exchange but he had nothing
+better. If 27. ... K-Bsq 28.RxR+ KxR 29.P-Kt6+ K-Bsq 30.R-B3+
+Kt-B3 31.Q-R8+ K-K2 32.QxP+ ... winning easily.} 28.Bxf5 exf5
+29.Re3 {To prevent the King escaping to the Queen's side.} Kf8
+{He might as well have resigned now.} 30.Qh8+ Kf7 31.g6+ Kf6
+32.Rhg3 {He cannot escape mate next move.} 1-0

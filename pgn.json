@@ -1,6 +1,134 @@
 {
-  "update": "2023-10-28",
+  "update": "2023-11-12",
   "list": [
+    {
+      "date": "2023-11-12",
+      "year": "1888",
+      "players": "H Charlick vs W F Harrison",
+      "link": "/perl/chessgame?gid=2605398",
+      "id": "2605398",
+      "note": "Men of Charlick"
+    },
+    {
+      "date": "2023-11-11",
+      "year": "2023",
+      "players": "P Lalic vs J P Allen",
+      "link": "/perl/chessgame?gid=2603024",
+      "id": "2603024",
+      "note": "Allen a Knight's Work"
+    },
+    {
+      "date": "2023-11-10",
+      "year": "2011",
+      "players": "S Kasparov vs T Schulze",
+      "link": "/perl/chessgame?gid=2012902",
+      "id": "2012902",
+      "note": "Colorado Territory"
+    },
+    {
+      "date": "2023-11-09",
+      "year": "1885",
+      "players": "Blackburne vs J B L'Oste",
+      "link": "/perl/chessgame?gid=2602212",
+      "id": "2602212",
+      "note": "L'Oste in Space"
+    },
+    {
+      "date": "2023-11-08",
+      "year": "1932",
+      "players": "Spielmann vs Eliskases",
+      "link": "/perl/chessgame?gid=1040762",
+      "id": "1040762",
+      "note": "Noteboom Goes the Dynamite"
+    },
+    {
+      "date": "2023-11-07",
+      "year": "2023",
+      "players": "E Roebers vs E Danielian",
+      "link": "/perl/chessgame?gid=2602247",
+      "id": "2602247",
+      "note": "Come On Eline"
+    },
+    {
+      "date": "2023-11-06",
+      "year": "2000",
+      "players": "D Salinnikov vs I Gaponenko",
+      "link": "/perl/chessgame?gid=1241132",
+      "id": "1241132",
+      "note": "Mind the Gap"
+    },
+    {
+      "date": "2023-11-05",
+      "year": "1889",
+      "players": "Blackburne vs J Mason",
+      "link": "/perl/chessgame?gid=1002090",
+      "id": "1002090",
+      "note": "Englishman In New York"
+    },
+    {
+      "date": "2023-11-04",
+      "year": "1995",
+      "players": "F Cathely vs M Hadzikaric",
+      "link": "/perl/chessgame?gid=1286111",
+      "id": "1286111",
+      "note": "Just for the Halibut..."
+    },
+    {
+      "date": "2023-11-03",
+      "year": "2023",
+      "players": "B Adhiban vs Iturrizaga Bonelli",
+      "link": "/perl/chessgame?gid=2601627",
+      "id": "2601627",
+      "note": "The Beast Game Prize"
+    },
+    {
+      "date": "2023-11-03",
+      "year": "1939",
+      "players": "Petrov vs R Grau",
+      "link": "/perl/chessgame?gid=1483573",
+      "id": "1483573",
+      "note": "Q-Mobile"
+    },
+    {
+      "date": "2023-11-02",
+      "year": "2001",
+      "players": "S Pina Vega vs B Lopez",
+      "link": "/perl/chessgame?gid=1165492",
+      "id": "1165492",
+      "note": "Pina Collida"
+    },
+    {
+      "date": "2023-11-01",
+      "year": "1873",
+      "players": "C H Capon vs J O H Taylor",
+      "link": "/perl/chessgame?gid=1337193",
+      "id": "1337193",
+      "note": "Taylor Swift"
+    },
+    {
+      "date": "2023-10-31",
+      "year": "1939",
+      "players": "Koltanowski vs W Woodbury",
+      "link": "/perl/chessgame?gid=1080685",
+      "id": "1080685",
+      "note": "The Ghost of Morphy Bids You Move!"
+    },
+    {
+      "date": "2023-10-30",
+      "year": "2023",
+      "players": "D Lazavik vs Wojtaszek",
+      "link": "/perl/chessgame?gid=2600671",
+      "id": "2600671",
+      "note": "Take my Queen, please"
+    },
+    {
+      "date": "2023-10-29",
+      "year": "1889",
+      "players": "Tarrasch vs M Kuerschner",
+      "link": "/perl/chessgame?gid=1341064",
+      "id": "1341064",
+      "note": "Chandler's Unchained Melody!!"
+    },
     {
       "date": "2023-10-28",
       "year": "1967",
