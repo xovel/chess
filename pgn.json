@@ -1,6 +1,174 @@
 {
-  "update": "2023-11-12",
+  "update": "2023-12-03",
   "list": [
+    {
+      "date": "2023-12-03",
+      "year": "2015",
+      "players": "Bacrot vs Z Almasi",
+      "link": "/perl/chessgame?gid=1808798",
+      "id": "1808798",
+      "note": "Bac Against the Wall"
+    },
+    {
+      "date": "2023-12-02",
+      "year": "2009",
+      "players": "N Bacon vs D Housieaux",
+      "link": "/perl/chessgame?gid=1537237",
+      "id": "1537237",
+      "note": "Housieaux Daddy and What Does He Do?"
+    },
+    {
+      "date": "2023-12-01",
+      "year": "2006",
+      "players": "Carlsen vs Beliavsky",
+      "link": "/perl/chessgame?gid=1387434",
+      "id": "1387434",
+      "note": "Bellyupsky"
+    },
+    {
+      "date": "2023-11-30",
+      "year": "1915",
+      "players": "Capablanca vs Leede / Korkus",
+      "link": "/perl/chessgame?gid=1795389",
+      "id": "1795389",
+      "note": "Teamwork Makes the Dream Work"
+    },
+    {
+      "date": "2023-11-29",
+      "year": "1991",
+      "players": "Korchnoi vs Kasparov",
+      "link": "/perl/chessgame?gid=1070534",
+      "id": "1070534",
+      "note": "They're getting old young these days."
+    },
+    {
+      "date": "2023-11-28",
+      "year": "1846",
+      "players": "Kieseritzky vs C W Vitzthum von Eckstaedt",
+      "link": "/perl/chessgame?gid=1630926",
+      "id": "1630926",
+      "note": "The Bonnie Early Morra"
+    },
+    {
+      "date": "2023-11-27",
+      "year": "1987",
+      "players": "Yurtaev vs S Matveeva",
+      "link": "/perl/chessgame?gid=1151365",
+      "id": "1151365",
+      "note": "Lady in Distress"
+    },
+    {
+      "date": "2023-11-26",
+      "year": "2023",
+      "players": "Giri vs Duda",
+      "link": "/perl/chessgame?gid=2612563",
+      "id": "2612563",
+      "note": "Duda's draw not in. It onwards a dud."
+    },
+    {
+      "date": "2023-11-25",
+      "year": "1991",
+      "players": "G Timmerman vs S Pedersen",
+      "link": "/perl/chessgame?gid=1461107",
+      "id": "1461107",
+      "note": "Prince of Denmark's March"
+    },
+    {
+      "date": "2023-11-24",
+      "year": "1983",
+      "players": "S J Solomon vs P Garbett",
+      "link": "/perl/chessgame?gid=1443775",
+      "id": "1443775",
+      "note": "The Wisdom of Solomon"
+    },
+    {
+      "date": "2023-11-23",
+      "year": "1872",
+      "players": "Grand vs Steinitz",
+      "link": "/perl/chessgame?gid=1337160",
+      "id": "1337160",
+      "note": "Grand - Master"
+    },
+    {
+      "date": "2023-11-22",
+      "year": "1861",
+      "players": "G MacDonnell vs S Boden",
+      "link": "/perl/chessgame?gid=1227788",
+      "id": "1227788",
+      "note": "Old MacDonnell Had a Charm"
+    },
+    {
+      "date": "2023-11-21",
+      "year": "1975",
+      "players": "N Povah vs P R Kemp",
+      "link": "/perl/chessgame?gid=1580525",
+      "id": "1580525",
+      "note": "Povadis?"
+    },
+    {
+      "date": "2023-11-20",
+      "year": "1936",
+      "players": "Capablanca vs Reshevsky",
+      "link": "/perl/chessgame?gid=1008293",
+      "id": "1008293",
+      "note": "Capablanca's Endgame Manual"
+    },
+    {
+      "date": "2023-11-19",
+      "year": "2023",
+      "players": "N Theodorou vs Radjabov",
+      "link": "/perl/chessgame?gid=2610222",
+      "id": "2610222",
+      "note": "Beware of Greek Gifts"
+    },
+    {
+      "date": "2023-11-18",
+      "year": "2004",
+      "players": "M Parligras vs Jobava",
+      "link": "/perl/chessgame?gid=1289187",
+      "id": "1289187",
+      "note": "Shred to Pirces"
+    },
+    {
+      "date": "2023-11-17",
+      "year": "2014",
+      "players": "Topalov vs Caruana",
+      "link": "/perl/chessgame?gid=1772616",
+      "id": "1772616",
+      "note": "Spot an aura -Caruana tops"
+    },
+    {
+      "date": "2023-11-16",
+      "year": "1897",
+      "players": "Charousek vs F Gutmayer",
+      "link": "/perl/chessgame?gid=1036182",
+      "id": "1036182",
+      "note": "Blood and Gutmayer"
+    },
+    {
+      "date": "2023-11-15",
+      "year": "1909",
+      "players": "Capablanca vs L L Labatt",
+      "link": "/perl/chessgame?gid=1483587",
+      "id": "1483587",
+      "note": "Labatt's Blue Ribbon"
+    },
+    {
+      "date": "2023-11-14",
+      "year": "1906",
+      "players": "Duras vs Teichmann",
+      "link": "/perl/chessgame?gid=1039766",
+      "id": "1039766",
+      "note": "In dignity unsurpassed"
+    },
+    {
+      "date": "2023-11-13",
+      "year": "2006",
+      "players": "M Umansky vs D D van Geet",
+      "link": "/perl/chessgame?gid=1507573",
+      "id": "1507573",
+      "note": "The Dynamic Dudemansky"
+    },
     {
       "date": "2023-11-12",
       "year": "1888",
