@@ -1,0 +1,16 @@
+[Event "Berkeley"]
+[Site "Berkeley, CA USA"]
+[Date "1975.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Robert Bruce Fickling"]
+[Black "Richard Hobbs"]
+[ECO "C57"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "26"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 Bc5 5.Bxf7+ Ke7 6.Bb3 Rf8
+7.Qe2 d6 8.Nc3 Qe8 9.Nd5+ Nxd5 10.Bxd5 Bxf2+ 11.Kd1 Nd4 12.Qc4
+Qh5+ 13.Nf3 Rxf3 0-1

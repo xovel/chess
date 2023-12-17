@@ -1,6 +1,118 @@
 {
-  "update": "2023-12-03",
+  "update": "2023-12-17",
   "list": [
+    {
+      "date": "2023-12-17",
+      "year": "1964",
+      "players": "Sven Wesen vs B Plato",
+      "link": "/perl/chessgame?gid=2168325",
+      "id": "2168325",
+      "note": "Plato's Cave"
+    },
+    {
+      "date": "2023-12-16",
+      "year": "1984",
+      "players": "Suba vs Sax",
+      "link": "/perl/chessgame?gid=1133735",
+      "id": "1133735",
+      "note": "Suba diving"
+    },
+    {
+      "date": "2023-12-15",
+      "year": "1938",
+      "players": "Fine vs Euwe",
+      "link": "/perl/chessgame?gid=1042467",
+      "id": "1042467",
+      "note": "New Cases in Viennese Psychiatry"
+    },
+    {
+      "date": "2023-12-14",
+      "year": "1996",
+      "players": "E Bang vs M Umansky",
+      "link": "/perl/chessgame?gid=1464482",
+      "id": "1464482",
+      "note": "The Big Bang Theory"
+    },
+    {
+      "date": "2023-12-13",
+      "year": "2001",
+      "players": "K Revesz vs I Werle",
+      "link": "/perl/chessgame?gid=1194462",
+      "id": "1194462",
+      "note": "Give it a Werle"
+    },
+    {
+      "date": "2023-12-12",
+      "year": "2006",
+      "players": "Nijboer vs Timman",
+      "link": "/perl/chessgame?gid=1419020",
+      "id": "1419020",
+      "note": "Everybody Needs Good Nijboers"
+    },
+    {
+      "date": "2023-12-11",
+      "year": "1956",
+      "players": "Korchnoi vs B Djurasevic",
+      "link": "/perl/chessgame?gid=1081052",
+      "id": "1081052",
+      "note": "Djurasevic Park"
+    },
+    {
+      "date": "2023-12-10",
+      "year": "2023",
+      "players": "Niemann vs M Bartel",
+      "link": "/perl/chessgame?gid=2617103",
+      "id": "2617103",
+      "note": "Bartel of Wounded Nie"
+    },
+    {
+      "date": "2023-12-09",
+      "year": "2023",
+      "players": "J Moussard vs Adams",
+      "link": "/perl/chessgame?gid=2615911",
+      "id": "2615911",
+      "note": "Lemon Mousse"
+    },
+    {
+      "date": "2023-12-08",
+      "year": "1975",
+      "players": "R B Fickling vs R Hobbs",
+      "link": "/perl/chessgame?gid=1225036",
+      "id": "1225036",
+      "note": "Nasty, brutish, and short."
+    },
+    {
+      "date": "2023-12-07",
+      "year": "1956",
+      "players": "Petrosian vs Simagin",
+      "link": "/perl/chessgame?gid=1106312",
+      "id": "1106312",
+      "note": "Simagin There's No Heaven"
+    },
+    {
+      "date": "2023-12-06",
+      "year": "1936",
+      "players": "Alekhine vs C H Alexander",
+      "link": "/perl/chessgame?gid=1008355",
+      "id": "1008355",
+      "note": "That's Hugh!"
+    },
+    {
+      "date": "2023-12-05",
+      "year": "1975",
+      "players": "P Lukacs vs J Flesch",
+      "link": "/perl/chessgame?gid=1385887",
+      "id": "1385887",
+      "note": "The Way of All Flesch"
+    },
+    {
+      "date": "2023-12-04",
+      "year": "1978",
+      "players": "P Hensman vs P W Power",
+      "link": "/perl/chessgame?gid=1536599",
+      "id": "1536599",
+      "note": "Power surge"
+    },
     {
       "date": "2023-12-03",
       "year": "2015",
