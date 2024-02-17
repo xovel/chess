@@ -8,7 +8,7 @@ const wFile = require('./util/wFile');
 // const dateFormat = require('./util/dateFormat');
 
 // Change it if necessary.
-const name = '2022_09_24_14_44_01_www.chessgames.com_perl_gamesoftheday';
+const name = '2024-02-17';
 // const name = 'www.chessgames.com_perl_gamesoftheday';
 
 const filePath = path.resolve('cache', `${name}.html`);

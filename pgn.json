@@ -1,6 +1,510 @@
 {
-  "update": "2023-12-17",
+  "update": "2024-02-17",
   "list": [
+    {
+      "date": "2024-02-17",
+      "year": "1854",
+      "players": "Hardy vs F G Janssens",
+      "link": "/perl/chessgame?gid=2286427",
+      "id": "2286427",
+      "note": "Kismet Hardy"
+    },
+    {
+      "date": "2024-02-16",
+      "year": "1999",
+      "players": "Anand vs Kasparov",
+      "link": "/perl/chessgame?gid=1257987",
+      "id": "1257987",
+      "note": "Be Careful What You Vish For"
+    },
+    {
+      "date": "2024-02-15",
+      "year": "1965",
+      "players": "L Zinn vs R Strand",
+      "link": "/perl/chessgame?gid=1158503",
+      "id": "1158503",
+      "note": "Runic Symbols"
+    },
+    {
+      "date": "2024-02-14",
+      "year": "2008",
+      "players": "Smeets vs Bacrot",
+      "link": "/perl/chessgame?gid=1482222",
+      "id": "1482222",
+      "note": "White as a Smeets"
+    },
+    {
+      "date": "2024-02-13",
+      "year": "2022",
+      "players": "B Derakhshani vs A Zapolskis",
+      "link": "/perl/chessgame?gid=2357911",
+      "id": "2357911",
+      "note": "Borna to be Wild"
+    },
+    {
+      "date": "2024-02-12",
+      "year": "2013",
+      "players": "I Krush vs A Ushenina",
+      "link": "/perl/chessgame?gid=1712851",
+      "id": "1712851",
+      "note": "The Fall of the House of Ushe"
+    },
+    {
+      "date": "2024-02-11",
+      "year": "1903",
+      "players": "Gunsberg vs J Mieses",
+      "link": "/perl/chessgame?gid=1054782",
+      "id": "1054782",
+      "note": "Esprit de corpse"
+    },
+    {
+      "date": "2024-02-10",
+      "year": "1952",
+      "players": "G Kluger vs J Szily",
+      "link": "/perl/chessgame?gid=1534669",
+      "id": "1534669",
+      "note": "Better Clever Than Szily"
+    },
+    {
+      "date": "2024-02-09",
+      "year": "1934",
+      "players": "I A Horowitz vs Fine",
+      "link": "/perl/chessgame?gid=1043741",
+      "id": "1043741",
+      "note": "A Fine Attack"
+    },
+    {
+      "date": "2024-02-08",
+      "year": "1943",
+      "players": "E Zagoryansky vs P Romanovsky",
+      "link": "/perl/chessgame?gid=1606512",
+      "id": "1606512",
+      "note": "Arsenievich: An Old Ace"
+    },
+    {
+      "date": "2024-02-07",
+      "year": "1939",
+      "players": "Petrov vs R Grau",
+      "link": "/perl/chessgame?gid=1483573",
+      "id": "1483573",
+      "note": "Q-Mobile"
+    },
+    {
+      "date": "2024-02-07",
+      "year": "1929",
+      "players": "Nimzowitsch vs Euwe",
+      "link": "/perl/chessgame?gid=1042316",
+      "id": "1042316",
+      "note": "Good Knight and Good Luck"
+    },
+    {
+      "date": "2024-02-06",
+      "year": "1978",
+      "players": "Alburt vs Kasparov",
+      "link": "/perl/chessgame?gid=1017147",
+      "id": "1017147",
+      "note": "Triangulation Strangulation"
+    },
+    {
+      "date": "2024-02-05",
+      "year": "1962",
+      "players": "Geller vs Benko",
+      "link": "/perl/chessgame?gid=1049006",
+      "id": "1049006",
+      "note": "Benko's Ghost"
+    },
+    {
+      "date": "2024-02-04",
+      "year": "2023",
+      "players": "Robson vs Niemann",
+      "link": "/perl/chessgame?gid=2591043",
+      "id": "2591043",
+      "note": "Heartbreak Hotel"
+    },
+    {
+      "date": "2024-02-03",
+      "year": "1981",
+      "players": "M Reinert vs P E Nielsen",
+      "link": "/perl/chessgame?gid=1284442",
+      "id": "1284442",
+      "note": "Poul the pin!"
+    },
+    {
+      "date": "2024-02-02",
+      "year": "2017",
+      "players": "Y Hou vs M Muzychuk",
+      "link": "/perl/chessgame?gid=1860221",
+      "id": "1860221",
+      "note": "Muzy Is For Nothing, Checks For Free"
+    },
+    {
+      "date": "2024-02-01",
+      "year": "2018",
+      "players": "Nepomniachtchi vs Gelfand",
+      "link": "/perl/chessgame?gid=1923283",
+      "id": "1923283",
+      "note": "The Walk of Life"
+    },
+    {
+      "date": "2024-01-31",
+      "year": "1954",
+      "players": "Petrosian vs H Corral",
+      "link": "/perl/chessgame?gid=1258111",
+      "id": "1258111",
+      "note": "Gunfight at the OK Corral"
+    },
+    {
+      "date": "2024-01-30",
+      "year": "1907",
+      "players": "M Morgan / S L Stadelman vs Lasker",
+      "link": "/perl/chessgame?gid=1380382",
+      "id": "1380382",
+      "note": "A Room With a View"
+    },
+    {
+      "date": "2024-01-29",
+      "year": "1977",
+      "players": "Black Knight vs Kaissa",
+      "link": "/perl/chessgame?gid=1162214",
+      "id": "1162214",
+      "note": "Tis but a scratch"
+    },
+    {
+      "date": "2024-01-28",
+      "year": "1954",
+      "players": "O Bernstein vs Robatsch",
+      "link": "/perl/chessgame?gid=1494687",
+      "id": "1494687",
+      "note": "I, Robatsch"
+    },
+    {
+      "date": "2024-01-27",
+      "year": "1895",
+      "players": "G Makovetz vs Charousek",
+      "link": "/perl/chessgame?gid=1036130",
+      "id": "1036130",
+      "note": "Makovetz Poundation"
+    },
+    {
+      "date": "2024-01-26",
+      "year": "1935",
+      "players": "E G Sergeant vs Capablanca",
+      "link": "/perl/chessgame?gid=1224089",
+      "id": "1224089",
+      "note": "Honneur et Fidélité"
+    },
+    {
+      "date": "2024-01-25",
+      "year": "1980",
+      "players": "D Root vs Browne",
+      "link": "/perl/chessgame?gid=1434069",
+      "id": "1434069",
+      "note": "Root 6...d6"
+    },
+    {
+      "date": "2024-01-24",
+      "year": "2010",
+      "players": "Velimirovic vs V Cmilyte",
+      "link": "/perl/chessgame?gid=1637314",
+      "id": "1637314",
+      "note": "The Man With Too Much Chess Talent"
+    },
+    {
+      "date": "2024-01-23",
+      "year": "1994",
+      "players": "Kasparov vs Shirov",
+      "link": "/perl/chessgame?gid=1070699",
+      "id": "1070699",
+      "note": "Take my Book, Take my Rook"
+    },
+    {
+      "date": "2024-01-22",
+      "year": "1953",
+      "players": "M Bonch-Osmolovsky vs B Baranov",
+      "link": "/perl/chessgame?gid=1411113",
+      "id": "1411113",
+      "note": "Bonch Yourself"
+    },
+    {
+      "date": "2024-01-21",
+      "year": "1954",
+      "players": "C Guimard vs Boleslavsky",
+      "link": "/perl/chessgame?gid=1460546",
+      "id": "1460546",
+      "note": "Que Rico, Carlito!"
+    },
+    {
+      "date": "2024-01-20",
+      "year": "1972",
+      "players": "Benko vs J P Dominguez Sanz",
+      "link": "/perl/chessgame?gid=1159282",
+      "id": "1159282",
+      "note": "Take It to the Benko"
+    },
+    {
+      "date": "2024-01-19",
+      "year": "2024",
+      "players": "E Roebers vs Niemann",
+      "link": "/perl/chessgame?gid=2651799",
+      "id": "2651799",
+      "note": "Good Vibrations"
+    },
+    {
+      "date": "2024-01-18",
+      "year": "2004",
+      "players": "Karjakin vs Kramnik",
+      "link": "/perl/chessgame?gid=1296238",
+      "id": "1296238",
+      "note": "The Berlin Fall"
+    },
+    {
+      "date": "2024-01-17",
+      "year": "1949",
+      "players": "E Diemer vs Fleck",
+      "link": "/perl/chessgame?gid=1271769",
+      "id": "1271769",
+      "note": "Carpe Diemer"
+    },
+    {
+      "date": "2024-01-16",
+      "year": "1926",
+      "players": "S Factor vs C Jaffe",
+      "link": "/perl/chessgame?gid=1508184",
+      "id": "1508184",
+      "note": "Don't rook back in anger"
+    },
+    {
+      "date": "2024-01-15",
+      "year": "2014",
+      "players": "K Meier vs A Niyibizi",
+      "link": "/perl/chessgame?gid=1771703",
+      "id": "1771703",
+      "note": "Don't go with Patience into that good night; Rage - against the dying light!"
+    },
+    {
+      "date": "2024-01-14",
+      "year": "2008",
+      "players": "Y Hou vs V Golubenko",
+      "link": "/perl/chessgame?gid=1519291",
+      "id": "1519291",
+      "note": "Hi Hou, Hi Hou, It's Off to Work V Go"
+    },
+    {
+      "date": "2024-01-13",
+      "year": "2002",
+      "players": "Anand vs Ponomariov",
+      "link": "/perl/chessgame?gid=1252877",
+      "id": "1252877",
+      "note": "Knights are overrated."
+    },
+    {
+      "date": "2024-01-12",
+      "year": "1945",
+      "players": "Fine vs Boleslavsky",
+      "link": "/perl/chessgame?gid=1043951",
+      "id": "1043951",
+      "note": "Radio Heads"
+    },
+    {
+      "date": "2024-01-11",
+      "year": "1908",
+      "players": "Alekhine vs Koehnlein",
+      "link": "/perl/chessgame?gid=1011711",
+      "id": "1011711",
+      "note": "The effects of Ale-Koeh-Colle"
+    },
+    {
+      "date": "2024-01-10",
+      "year": "1999",
+      "players": "Miles vs D Monokroussos",
+      "link": "/perl/chessgame?gid=1531053",
+      "id": "1531053",
+      "note": "Breaking the Mono-Tony"
+    },
+    {
+      "date": "2024-01-09",
+      "year": "1990",
+      "players": "E Ermenkov vs G West",
+      "link": "/perl/chessgame?gid=1566169",
+      "id": "1566169",
+      "note": "Go West young man!"
+    },
+    {
+      "date": "2024-01-08",
+      "year": "1909",
+      "players": "Capablanca vs W R Pratt",
+      "link": "/perl/chessgame?gid=1801778",
+      "id": "1801778",
+      "note": "Pratt to catch a mackerel"
+    },
+    {
+      "date": "2024-01-07",
+      "year": "1991",
+      "players": "Yermolinsky vs Fedorowicz",
+      "link": "/perl/chessgame?gid=1043524",
+      "id": "1043524",
+      "note": "The Ballad of John and Yermo"
+    },
+    {
+      "date": "2024-01-06",
+      "year": "2007",
+      "players": "M Carballo Noya vs J Aagaard",
+      "link": "/perl/chessgame?gid=2468211",
+      "id": "2468211",
+      "note": "Getting to Noya"
+    },
+    {
+      "date": "2024-01-05",
+      "year": "2010",
+      "players": "A Sandalakis vs E Klasan",
+      "link": "/perl/chessgame?gid=1576751",
+      "id": "1576751",
+      "note": "All Shook Up"
+    },
+    {
+      "date": "2024-01-04",
+      "year": "2007",
+      "players": "Ivanchuk vs Bacrot",
+      "link": "/perl/chessgame?gid=1478015",
+      "id": "1478015",
+      "note": "Karma Chameleon"
+    },
+    {
+      "date": "2024-01-03",
+      "year": "2023",
+      "players": "Dubov vs Nepomniachtchi",
+      "link": "/perl/chessgame?gid=2633743",
+      "id": "2633743",
+      "note": "Hold Your Horses"
+    },
+    {
+      "date": "2024-01-02",
+      "year": "1976",
+      "players": "Petrosian vs N Rashkovsky",
+      "link": "/perl/chessgame?gid=1107108",
+      "id": "1107108",
+      "note": "Many are called, but few are Petrosian"
+    },
+    {
+      "date": "2024-01-01",
+      "year": "1978",
+      "players": "E Preissmann vs L Day",
+      "link": "/perl/chessgame?gid=1037524",
+      "id": "1037524",
+      "note": "Oh Happy Day"
+    },
+    {
+      "date": "2023-12-31",
+      "year": "2023",
+      "players": "Firouzja vs H Tirard",
+      "link": "/perl/chessgame?gid=2631181",
+      "id": "2631181",
+      "note": "Good King Wesley was locked out on the feast of Stephen"
+    },
+    {
+      "date": "2023-12-30",
+      "year": "2018",
+      "players": "S Lobanov vs J Christiansen",
+      "link": "/perl/chessgame?gid=1936305",
+      "id": "1936305",
+      "note": "We Three Queens of Orient Are"
+    },
+    {
+      "date": "2023-12-29",
+      "year": "1872",
+      "players": "Blackburne vs C Puller",
+      "link": "/perl/chessgame?gid=1319994",
+      "id": "1319994",
+      "note": "Puller Cracker"
+    },
+    {
+      "date": "2023-12-28",
+      "year": "1931",
+      "players": "W Winter vs Capablanca",
+      "link": "/perl/chessgame?gid=1284175",
+      "id": "1284175",
+      "note": "It's the Most Blunderful Time of the Year"
+    },
+    {
+      "date": "2023-12-27",
+      "year": "2000",
+      "players": "Miles vs P Acs",
+      "link": "/perl/chessgame?gid=2626968",
+      "id": "2626968",
+      "note": "2000 Miles"
+    },
+    {
+      "date": "2023-12-26",
+      "year": "2016",
+      "players": "M A Goumaneh vs J Dempsey",
+      "link": "/perl/chessgame?gid=1833960",
+      "id": "1833960",
+      "note": "Boxing Day"
+    },
+    {
+      "date": "2023-12-25",
+      "year": "1913",
+      "players": "S Rosenfeld vs Lasker",
+      "link": "/perl/chessgame?gid=2207520",
+      "id": "2207520",
+      "note": "O Come, O Come, Emanuel!"
+    },
+    {
+      "date": "2023-12-24",
+      "year": "1986",
+      "players": "L Christiansen vs H Olafsson",
+      "link": "/perl/chessgame?gid=1088981",
+      "id": "1088981",
+      "note": "The Nb4 Christiansen"
+    },
+    {
+      "date": "2023-12-23",
+      "year": "2016",
+      "players": "Wei Yi vs Carlsen",
+      "link": "/perl/chessgame?gid=1826224",
+      "id": "1826224",
+      "note": "The Adoration of the Mag - Yi"
+    },
+    {
+      "date": "2023-12-22",
+      "year": "2011",
+      "players": "Kryvoruchko vs I Nyzhnyk",
+      "link": "/perl/chessgame?gid=1608417",
+      "id": "1608417",
+      "note": "3 Y's Men"
+    },
+    {
+      "date": "2023-12-21",
+      "year": "2001",
+      "players": "A Wei vs B Ward",
+      "link": "/perl/chessgame?gid=1209487",
+      "id": "1209487",
+      "note": "A Wei in a mangle"
+    },
+    {
+      "date": "2023-12-20",
+      "year": "2001",
+      "players": "Mecking vs Brazil",
+      "link": "/perl/chessgame?gid=1578746",
+      "id": "1578746",
+      "note": "Coup d'Etat"
+    },
+    {
+      "date": "2023-12-19",
+      "year": "2016",
+      "players": "Z Almasi vs S Maze",
+      "link": "/perl/chessgame?gid=1820998",
+      "id": "1820998",
+      "note": "Labyrinth"
+    },
+    {
+      "date": "2023-12-18",
+      "year": "2008",
+      "players": "M de la Cruz vs D Rivera",
+      "link": "/perl/chessgame?gid=1522958",
+      "id": "1522958",
+      "note": "Driving Miss Daisy"
+    },
     {
       "date": "2023-12-17",
       "year": "1964",

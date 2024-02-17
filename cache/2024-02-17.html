@@ -1,0 +1,1769 @@
+
+
+<html>
+<head>
+<meta name="keywords" content="chess, chess games, ajedrez, scacchi, schach, PGN">
+<meta name="description" content="The internet's oldest and best chess database and community.">
+<meta charset="UTF-8">
+
+<link rel="stylesheet" href="/bootstrap/css/bootstrap.min.css">
+
+<link rel="stylesheet" href="/css/cgc2a.css" />
+<title>Games of the Day</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script async src="/js/hide-ad.js"></script>
+
+	<script src="https://increaserev.com/ads/ob/tage/aaw.chessgames.js" async></script>
+	<script>
+		window.googletag = window.googletag || { cmd: [] };
+		let interstitialSlot;
+		googletag.cmd.push(() => {
+		// Define a web interstitial ad slot.
+		interstitialSlot = googletag.defineOutOfPageSlot(
+		"/21722279357/interstitial_ob_chessgames_2",
+		googletag.enums.OutOfPageFormat.INTERSTITIAL,
+		);
+		if (interstitialSlot) {
+		interstitialSlot.addService(googletag.pubads()).setConfig({
+		interstitial: {
+		triggers: {
+		unhideWindow: true,
+		},
+		},
+		});
+		googletag.pubads().addEventListener("slotOnload", (event) => {
+		if (interstitialSlot === event.slot) {
+		}
+		});
+		}
+		googletag.pubads().enableSingleRequest();
+		googletag.pubads().collapseEmptyDivs();
+		googletag.enableServices();
+		});
+	</script>
+	<script>googletag.cmd.push(()=>{googletag.display(interstitialSlot);});</script>
+
+<!-- Google reCAPTCHA integration -->
+<script src="https://www.google.com/recaptcha/api.js?render=6LcPzqQUAAAAAKp0xQoWaR1mMZqtQ00O-Z6uAzQJ"></script>
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '292563634274827');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=292563634274827&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+
+
+
+
+
+
+
+		<script type="text/javascript">
+                function OpenWin(pagename) {
+                        SmallWin = window.open(pagename,'popup','scrollbars,resizable,toolbar=no,height=394,width=412,left=200,top=200');
+                        if (window.focus) {
+                                SmallWin.focus();
+                        }
+                }
+		</script>
+
+
+
+
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000"
+    },
+    "button": {
+      "background": "#f1d600"
+    }
+  },
+  "content": {
+    "href": "https://www.chessgames.com/chessprivacy.html"
+  }
+})});
+</script>
+
+
+</head>
+
+<body>
+
+
+<table border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" width="100%">
+<tr>
+<td valign="top" align="left" background="/chessimages/header_stripes.gif"><a href="/index.html"><img src="/chessimages/chessgameslogo.png"
+style="margin-left:-6px;" width="431" height="60" border="0" alt="chessgames.com"></a></td>
+
+<td width="100%" background="/chessimages/header_stripes.gif" align="right" valign="top"><img src="/chessimages/header_menu.gif"
+style="margin-right:-6px;" width="238" height="60" usemap="#navbar" border="0"></td>
+</tr>
+</table>
+<map name="navbar">
+<area shape=rect coords="9,21,62,40" href="/index.html">
+<area shape=rect coords="65,21,118,40" href="/perl/chessnew">
+<area shape=rect coords="121,21,174,40" href="/perl/chessuser">
+<area shape=rect coords="177,21,230,40" href="/chesshelp.html">
+</map>
+
+
+<!--beginmenu--><div class="cgc-ns1 xsm w-100pct b1s000000 bc-FFFFEE tc-000000 center tcenter" style="margin-bottom:4px; padding:2px;">
+<a href="/perl/chessmembers">Members</a> <b>&#183;</b>
+<a href="/perl/chessprofile.pl">Prefs</a> <b>&#183;</b>
+<a href="/perl/analyzer.pl">Laboratory</a> <b>&#183;</b>
+<a href="/perl/collections">Collections</a> <b>&#183;</b>
+<a href="/perl/explorer">Openings</a> <b>&#183;</b>
+<a href="/perl/chessending">Endgames</a> <b>&#183;</b>
+<a href="/perl/sacrifices">Sacrifices</a> <b>&#183;</b>
+<a href="/perl/history">History</a> <b>&#183;</b>
+<a href="/perl/searchkibitzes">Search Kibitzing</a> <b>&#183;</b>
+<a href="/perl/chessforum.pl">Kibitzer's Caf&eacute;</a> <b>&#183;</b>
+<a href="/perl/chessnew?chessforums=1">Chessforums</a> <b>&#183;</b>
+<a href="/perl/tournaments">Tournament Index</a> <b>&#183;</b>
+<a href="/directory/">Players</a> <b>&#183;</b>
+<a href="#kibitzing"><img src="/chessimages/arrow_down.gif" width="7" height="8" border="0">Kibitzing</a>
+</div>
+<!--endmenu-->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-169342218-1"></script>
+<script>
+ window.dataLayer = window.dataLayer || [];
+ function gtag(){dataLayer.push(arguments);}
+ gtag('js', new Date());
+
+ gtag('config', 'UA-169342218-1');
+</script>
+
+<!--TEMP - SSM for maintenance-->
+<!--
+<div>
+<h6 style="text-align:center;color:red;width:80%;margin:0 auto;">Chessgames.com will be unavailable February 7, 2024 from 3:20PM through 3:40PM(UTC/GMT) for maintenance.<br>
+We apologize for this inconvenience.</h6>
+</div>
+-->
+<!--TEMP - SSM END-->
+
+
+
+
+
+
+<div data-aaad='true' data-aa-adunit='/21722279357/stickyfooter_OB_chessgames'></div>
+<div data-aaad='true' data-aa-adunit='/21722279357/1200x250_OB_Chessgames'></div>
+
+
+&nbsp;
+<br>
+<center>
+<table border="0" cellpadding="0" cellspacing="0" width="315">
+<tr>
+<td align="center">
+<font face="verdana,arial,helvetica"><img src="/chessimages/gamesoftheday.jpg" alt="Games of the Day Archive" width="315" height="313">
+<br><br>
+<table border="0" cellpadding="1" cellspacing="0" width="399" bgcolor="#996600">
+<tr>
+<td>
+<table border="0" cellpadding="10" cellspacing="0" width="399" bgcolor="#FFFFCC">
+<tr>
+<td>
+<font face="verdana,arial,helvetica" size="-2">
+Do you have a pun suggestion for Chessgames? Visit our
+<a href="/perl/submitpun">Game of the Day Submission Page</a> and
+enter your idea to be voted upon by other members! Or, see our
+<a href="/perl/punjudge">Pun Voting Booth</a> to vote on games.
+</font>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<font size="-1">Feb-17</font><br>
+<font size="-1"><b>Kismet Hardy</b></font><br>
+<a href="/perl/chessgame?gid=2286427">Hardy vs F G Janssens,&nbsp;1854</a><br>
+<p>
+<font size="-1">Feb-16</font><br>
+<font size="-1"><b>Be Careful What You Vish For</b></font><br>
+<a href="/perl/chessgame?gid=1257987">Anand vs Kasparov,&nbsp;1999</a><br>
+<p>
+<font size="-1">Feb-15</font><br>
+<font size="-1"><b>Runic Symbols</b></font><br>
+<a href="/perl/chessgame?gid=1158503">L Zinn vs R Strand,&nbsp;1965</a><br>
+<p>
+<font size="-1">Feb-14</font><br>
+<font size="-1"><b>White as a Smeets</b></font><br>
+<a href="/perl/chessgame?gid=1482222">Smeets vs Bacrot,&nbsp;2008</a><br>
+<p>
+<font size="-1">Feb-13</font><br>
+<font size="-1"><b>Borna to be Wild</b></font><br>
+<a href="/perl/chessgame?gid=2357911">B Derakhshani vs A Zapolskis,&nbsp;2022</a><br>
+<p>
+<font size="-1">Feb-12</font><br>
+<font size="-1"><b>The Fall of the House of Ushe</b></font><br>
+<a href="/perl/chessgame?gid=1712851">I Krush vs A Ushenina,&nbsp;2013</a><br>
+<p>
+<font size="-1">Feb-11</font><br>
+<font size="-1"><b>Esprit de corpse</b></font><br>
+<a href="/perl/chessgame?gid=1054782">Gunsberg vs J Mieses,&nbsp;1903</a><br>
+<p>
+<font size="-1">Feb-10</font><br>
+<font size="-1"><b>Better Clever Than Szily</b></font><br>
+<a href="/perl/chessgame?gid=1534669">G Kluger vs J Szily,&nbsp;1952</a><br>
+<p>
+<font size="-1">Feb-09</font><br>
+<font size="-1"><b>A Fine Attack</b></font><br>
+<a href="/perl/chessgame?gid=1043741">I A Horowitz vs Fine,&nbsp;1934</a><br>
+<p>
+<font size="-1">Feb-08</font><br>
+<font size="-1"><b>Arsenievich: An Old Ace</b></font><br>
+<a href="/perl/chessgame?gid=1606512">E Zagoryansky vs P Romanovsky,&nbsp;1943</a><br>
+<p>
+<font size="-1">Feb-07</font><br>
+<font size="-1"><b>Q-Mobile</b></font><br>
+<a href="/perl/chessgame?gid=1483573">Petrov vs R Grau,&nbsp;1939</a><br>
+<p>
+<font size="-1">Feb-07</font><br>
+<font size="-1"><b>Good Knight and Good Luck</b></font><br>
+<a href="/perl/chessgame?gid=1042316">Nimzowitsch vs Euwe,&nbsp;1929</a><br>
+<p>
+<font size="-1">Feb-06</font><br>
+<font size="-1"><b>Triangulation Strangulation</b></font><br>
+<a href="/perl/chessgame?gid=1017147">Alburt vs Kasparov,&nbsp;1978</a><br>
+<p>
+<font size="-1">Feb-05</font><br>
+<font size="-1"><b>Benko's Ghost</b></font><br>
+<a href="/perl/chessgame?gid=1049006">Geller vs Benko,&nbsp;1962</a><br>
+<p>
+<font size="-1">Feb-04</font><br>
+<font size="-1"><b>Heartbreak Hotel</b></font><br>
+<a href="/perl/chessgame?gid=2591043">Robson vs Niemann,&nbsp;2023</a><br>
+<p>
+<font size="-1">Feb-03</font><br>
+<font size="-1"><b>Poul the pin!</b></font><br>
+<a href="/perl/chessgame?gid=1284442">M Reinert vs P E Nielsen,&nbsp;1981</a><br>
+<p>
+<font size="-1">Feb-02</font><br>
+<font size="-1"><b>Muzy Is For Nothing, Checks For Free</b></font><br>
+<a href="/perl/chessgame?gid=1860221">Y Hou vs M Muzychuk,&nbsp;2017</a><br>
+<p>
+<font size="-1">Feb-01</font><br>
+<font size="-1"><b>The Walk of Life</b></font><br>
+<a href="/perl/chessgame?gid=1923283">Nepomniachtchi vs Gelfand,&nbsp;2018</a><br>
+<p>
+<font size="-1">Jan-31</font><br>
+<font size="-1"><b>Gunfight at the OK Corral</b></font><br>
+<a href="/perl/chessgame?gid=1258111">Petrosian vs H Corral,&nbsp;1954</a><br>
+<p>
+<font size="-1">Jan-30</font><br>
+<font size="-1"><b>A Room With a View</b></font><br>
+<a href="/perl/chessgame?gid=1380382">M Morgan / S L Stadelman vs Lasker,&nbsp;1907</a><br>
+<p>
+<font size="-1">Jan-29</font><br>
+<font size="-1"><b>Tis but a scratch</b></font><br>
+<a href="/perl/chessgame?gid=1162214">Black Knight vs Kaissa,&nbsp;1977</a><br>
+<p>
+<font size="-1">Jan-28</font><br>
+<font size="-1"><b>I, Robatsch</b></font><br>
+<a href="/perl/chessgame?gid=1494687">O Bernstein vs Robatsch,&nbsp;1954</a><br>
+<p>
+<font size="-1">Jan-27</font><br>
+<font size="-1"><b>Makovetz Poundation</b></font><br>
+<a href="/perl/chessgame?gid=1036130">G Makovetz vs Charousek,&nbsp;1895</a><br>
+<p>
+<font size="-1">Jan-26</font><br>
+<font size="-1"><b>Honneur et Fidélité</b></font><br>
+<a href="/perl/chessgame?gid=1224089">E G Sergeant vs Capablanca,&nbsp;1935</a><br>
+<p>
+<font size="-1">Jan-25</font><br>
+<font size="-1"><b>Root 6...d6</b></font><br>
+<a href="/perl/chessgame?gid=1434069">D Root vs Browne,&nbsp;1980</a><br>
+<p>
+<font size="-1">Jan-24</font><br>
+<font size="-1"><b>The Man With Too Much Chess Talent</b></font><br>
+<a href="/perl/chessgame?gid=1637314">Velimirovic vs V Cmilyte,&nbsp;2010</a><br>
+<p>
+<font size="-1">Jan-23</font><br>
+<font size="-1"><b>Take my Book, Take my Rook</b></font><br>
+<a href="/perl/chessgame?gid=1070699">Kasparov vs Shirov,&nbsp;1994</a><br>
+<p>
+<font size="-1">Jan-22</font><br>
+<font size="-1"><b>Bonch Yourself</b></font><br>
+<a href="/perl/chessgame?gid=1411113">M Bonch-Osmolovsky vs B Baranov,&nbsp;1953</a><br>
+<p>
+<font size="-1">Jan-21</font><br>
+<font size="-1"><b>Que Rico, Carlito!</b></font><br>
+<a href="/perl/chessgame?gid=1460546">C Guimard vs Boleslavsky,&nbsp;1954</a><br>
+<p>
+<font size="-1">Jan-20</font><br>
+<font size="-1"><b>Take It to the Benko</b></font><br>
+<a href="/perl/chessgame?gid=1159282">Benko vs J P Dominguez Sanz,&nbsp;1972</a><br>
+<p>
+<font size="-1">Jan-19</font><br>
+<font size="-1"><b>Good Vibrations</b></font><br>
+<a href="/perl/chessgame?gid=2651799">E Roebers vs Niemann,&nbsp;2024</a><br>
+<p>
+<font size="-1">Jan-18</font><br>
+<font size="-1"><b>The Berlin Fall</b></font><br>
+<a href="/perl/chessgame?gid=1296238">Karjakin vs Kramnik,&nbsp;2004</a><br>
+<p>
+<font size="-1">Jan-17</font><br>
+<font size="-1"><b>Carpe Diemer</b></font><br>
+<a href="/perl/chessgame?gid=1271769">E Diemer vs Fleck,&nbsp;1949</a><br>
+<p>
+<font size="-1">Jan-16</font><br>
+<font size="-1"><b>Don't rook back in anger</b></font><br>
+<a href="/perl/chessgame?gid=1508184">S Factor vs C Jaffe,&nbsp;1926</a><br>
+<p>
+<font size="-1">Jan-15</font><br>
+<font size="-1"><b>Don't go with Patience into that good night; Rage - against the dying light!</b></font><br>
+<a href="/perl/chessgame?gid=1771703">K Meier vs A Niyibizi,&nbsp;2014</a><br>
+<p>
+<font size="-1">Jan-14</font><br>
+<font size="-1"><b>Hi Hou, Hi Hou, It's Off to Work V Go</b></font><br>
+<a href="/perl/chessgame?gid=1519291">Y Hou vs V Golubenko,&nbsp;2008</a><br>
+<p>
+<font size="-1">Jan-13</font><br>
+<font size="-1"><b>Knights are overrated.</b></font><br>
+<a href="/perl/chessgame?gid=1252877">Anand vs Ponomariov,&nbsp;2002</a><br>
+<p>
+<font size="-1">Jan-12</font><br>
+<font size="-1"><b>Radio Heads</b></font><br>
+<a href="/perl/chessgame?gid=1043951">Fine vs Boleslavsky,&nbsp;1945</a><br>
+<p>
+<font size="-1">Jan-11</font><br>
+<font size="-1"><b>The effects of Ale-Koeh-Colle</b></font><br>
+<a href="/perl/chessgame?gid=1011711">Alekhine vs Koehnlein,&nbsp;1908</a><br>
+<p>
+<font size="-1">Jan-10</font><br>
+<font size="-1"><b>Breaking the Mono-Tony</b></font><br>
+<a href="/perl/chessgame?gid=1531053">Miles vs D Monokroussos,&nbsp;1999</a><br>
+<p>
+<font size="-1">Jan-09</font><br>
+<font size="-1"><b>Go West young man!</b></font><br>
+<a href="/perl/chessgame?gid=1566169">E Ermenkov vs G West,&nbsp;1990</a><br>
+<p>
+<font size="-1">Jan-08</font><br>
+<font size="-1"><b>Pratt to catch a mackerel</b></font><br>
+<a href="/perl/chessgame?gid=1801778">Capablanca vs W R Pratt,&nbsp;1909</a><br>
+<p>
+<font size="-1">Jan-07</font><br>
+<font size="-1"><b>The Ballad of John and Yermo</b></font><br>
+<a href="/perl/chessgame?gid=1043524">Yermolinsky vs Fedorowicz,&nbsp;1991</a><br>
+<p>
+<font size="-1">Jan-06</font><br>
+<font size="-1"><b>Getting to Noya</b></font><br>
+<a href="/perl/chessgame?gid=2468211">M Carballo Noya vs J Aagaard,&nbsp;2007</a><br>
+<p>
+<font size="-1">Jan-05</font><br>
+<font size="-1"><b>All Shook Up</b></font><br>
+<a href="/perl/chessgame?gid=1576751">A Sandalakis vs E Klasan,&nbsp;2010</a><br>
+<p>
+<font size="-1">Jan-04</font><br>
+<font size="-1"><b>Karma Chameleon</b></font><br>
+<a href="/perl/chessgame?gid=1478015">Ivanchuk vs Bacrot,&nbsp;2007</a><br>
+<p>
+<font size="-1">Jan-03</font><br>
+<font size="-1"><b>Hold Your Horses</b></font><br>
+<a href="/perl/chessgame?gid=2633743">Dubov vs Nepomniachtchi,&nbsp;2023</a><br>
+<p>
+<font size="-1">Jan-02</font><br>
+<font size="-1"><b>Many are called, but few are Petrosian</b></font><br>
+<a href="/perl/chessgame?gid=1107108">Petrosian vs N Rashkovsky,&nbsp;1976</a><br>
+<p>
+<font size="-1">Jan-01</font><br>
+<font size="-1"><b>Oh Happy Day</b></font><br>
+<a href="/perl/chessgame?gid=1037524">E Preissmann vs L Day,&nbsp;1978</a><br>
+<p>
+<font size="-1">Dec-31</font><br>
+<font size="-1"><b>Good King Wesley was locked out on the feast of Stephen</b></font><br>
+<a href="/perl/chessgame?gid=2631181">Firouzja vs H Tirard,&nbsp;2023</a><br>
+<p>
+<font size="-1">Dec-30</font><br>
+<font size="-1"><b>We Three Queens of Orient Are</b></font><br>
+<a href="/perl/chessgame?gid=1936305">S Lobanov vs J Christiansen,&nbsp;2018</a><br>
+<p>
+<font size="-1">Dec-29</font><br>
+<font size="-1"><b>Puller Cracker</b></font><br>
+<a href="/perl/chessgame?gid=1319994">Blackburne vs C Puller,&nbsp;1872</a><br>
+<p>
+<font size="-1">Dec-28</font><br>
+<font size="-1"><b>It's the Most Blunderful Time of the Year</b></font><br>
+<a href="/perl/chessgame?gid=1284175">W Winter vs Capablanca,&nbsp;1931</a><br>
+<p>
+<font size="-1">Dec-27</font><br>
+<font size="-1"><b>2000 Miles</b></font><br>
+<a href="/perl/chessgame?gid=2626968">Miles vs P Acs,&nbsp;2000</a><br>
+<p>
+<font size="-1">Dec-26</font><br>
+<font size="-1"><b>Boxing Day</b></font><br>
+<a href="/perl/chessgame?gid=1833960">M A Goumaneh vs J Dempsey,&nbsp;2016</a><br>
+<p>
+<font size="-1">Dec-25</font><br>
+<font size="-1"><b>O Come, O Come, Emanuel!</b></font><br>
+<a href="/perl/chessgame?gid=2207520">S Rosenfeld vs Lasker,&nbsp;1913</a><br>
+<p>
+<font size="-1">Dec-24</font><br>
+<font size="-1"><b>The Nb4 Christiansen</b></font><br>
+<a href="/perl/chessgame?gid=1088981">L Christiansen vs H Olafsson,&nbsp;1986</a><br>
+<p>
+<font size="-1">Dec-23</font><br>
+<font size="-1"><b>The Adoration of the Mag - Yi</b></font><br>
+<a href="/perl/chessgame?gid=1826224">Wei Yi vs Carlsen,&nbsp;2016</a><br>
+<p>
+<font size="-1">Dec-22</font><br>
+<font size="-1"><b>3 Y's Men</b></font><br>
+<a href="/perl/chessgame?gid=1608417">Kryvoruchko vs I Nyzhnyk,&nbsp;2011</a><br>
+<p>
+<font size="-1">Dec-21</font><br>
+<font size="-1"><b>A Wei in a mangle</b></font><br>
+<a href="/perl/chessgame?gid=1209487">A Wei vs B Ward,&nbsp;2001</a><br>
+<p>
+<font size="-1">Dec-20</font><br>
+<font size="-1"><b>Coup d'Etat</b></font><br>
+<a href="/perl/chessgame?gid=1578746">Mecking vs Brazil,&nbsp;2001</a><br>
+<p>
+<font size="-1">Dec-19</font><br>
+<font size="-1"><b>Labyrinth</b></font><br>
+<a href="/perl/chessgame?gid=1820998">Z Almasi vs S Maze,&nbsp;2016</a><br>
+<p>
+<font size="-1">Dec-18</font><br>
+<font size="-1"><b>Driving Miss Daisy</b></font><br>
+<a href="/perl/chessgame?gid=1522958">M de la Cruz vs D Rivera,&nbsp;2008</a><br>
+<p>
+<font size="-1">Dec-17</font><br>
+<font size="-1"><b>Plato's Cave</b></font><br>
+<a href="/perl/chessgame?gid=2168325">S Wesen vs B Plato,&nbsp;1964</a><br>
+<p>
+<font size="-1">Dec-16</font><br>
+<font size="-1"><b>Suba diving</b></font><br>
+<a href="/perl/chessgame?gid=1133735">Suba vs Sax,&nbsp;1984</a><br>
+<p>
+<font size="-1">Dec-15</font><br>
+<font size="-1"><b>New Cases in Viennese Psychiatry</b></font><br>
+<a href="/perl/chessgame?gid=1042467">Fine vs Euwe,&nbsp;1938</a><br>
+<p>
+<font size="-1">Dec-14</font><br>
+<font size="-1"><b>The Big Bang Theory</b></font><br>
+<a href="/perl/chessgame?gid=1464482">E Bang vs M Umansky,&nbsp;1996</a><br>
+<p>
+<font size="-1">Dec-13</font><br>
+<font size="-1"><b>Give it a Werle</b></font><br>
+<a href="/perl/chessgame?gid=1194462">K Revesz vs I Werle,&nbsp;2001</a><br>
+<p>
+<font size="-1">Dec-12</font><br>
+<font size="-1"><b>Everybody Needs Good Nijboers</b></font><br>
+<a href="/perl/chessgame?gid=1419020">Nijboer vs Timman,&nbsp;2006</a><br>
+<p>
+<font size="-1">Dec-11</font><br>
+<font size="-1"><b>Djurasevic Park</b></font><br>
+<a href="/perl/chessgame?gid=1081052">Korchnoi vs B Djurasevic,&nbsp;1956</a><br>
+<p>
+<font size="-1">Dec-10</font><br>
+<font size="-1"><b>Bartel of Wounded Nie</b></font><br>
+<a href="/perl/chessgame?gid=2617103">Niemann vs M Bartel,&nbsp;2023</a><br>
+<p>
+<font size="-1">Dec-09</font><br>
+<font size="-1"><b>Lemon Mousse</b></font><br>
+<a href="/perl/chessgame?gid=2615911">J Moussard vs Adams,&nbsp;2023</a><br>
+<p>
+<font size="-1">Dec-08</font><br>
+<font size="-1"><b>Nasty, brutish, and short.</b></font><br>
+<a href="/perl/chessgame?gid=1225036">R B Fickling vs R Hobbs,&nbsp;1975</a><br>
+<p>
+<font size="-1">Dec-07</font><br>
+<font size="-1"><b>Simagin There's No Heaven</b></font><br>
+<a href="/perl/chessgame?gid=1106312">Petrosian vs Simagin,&nbsp;1956</a><br>
+<p>
+<font size="-1">Dec-06</font><br>
+<font size="-1"><b>That's Hugh!</b></font><br>
+<a href="/perl/chessgame?gid=1008355">Alekhine vs C H Alexander,&nbsp;1936</a><br>
+<p>
+<font size="-1">Dec-05</font><br>
+<font size="-1"><b>The Way of All Flesch</b></font><br>
+<a href="/perl/chessgame?gid=1385887">P Lukacs vs J Flesch,&nbsp;1975</a><br>
+<p>
+<font size="-1">Dec-04</font><br>
+<font size="-1"><b>Power surge</b></font><br>
+<a href="/perl/chessgame?gid=1536599">P Hensman vs P W Power,&nbsp;1978</a><br>
+<p>
+<font size="-1">Dec-03</font><br>
+<font size="-1"><b>Bac Against the Wall</b></font><br>
+<a href="/perl/chessgame?gid=1808798">Bacrot vs Z Almasi,&nbsp;2015</a><br>
+<p>
+<font size="-1">Dec-02</font><br>
+<font size="-1"><b>Housieaux Daddy and What Does He Do?</b></font><br>
+<a href="/perl/chessgame?gid=1537237">N Bacon vs D Housieaux,&nbsp;2009</a><br>
+<p>
+<font size="-1">Dec-01</font><br>
+<font size="-1"><b>Bellyupsky</b></font><br>
+<a href="/perl/chessgame?gid=1387434">Carlsen vs A Beliavsky,&nbsp;2006</a><br>
+<p>
+<font size="-1">Nov-30</font><br>
+<font size="-1"><b>Teamwork Makes the Dream Work</b></font><br>
+<a href="/perl/chessgame?gid=1795389">Capablanca vs Leede / Korkus,&nbsp;1915</a><br>
+<p>
+<font size="-1">Nov-29</font><br>
+<font size="-1"><b>They're getting old young these days.</b></font><br>
+<a href="/perl/chessgame?gid=1070534">Korchnoi vs Kasparov,&nbsp;1991</a><br>
+<p>
+<font size="-1">Nov-28</font><br>
+<font size="-1"><b>The Bonnie Early Morra</b></font><br>
+<a href="/perl/chessgame?gid=1630926">Kieseritzky vs C W Vitzthum von Eckstaedt,&nbsp;1846</a><br>
+<p>
+<font size="-1">Nov-27</font><br>
+<font size="-1"><b>Lady in Distress</b></font><br>
+<a href="/perl/chessgame?gid=1151365">Yurtaev vs S Matveeva,&nbsp;1987</a><br>
+<p>
+<font size="-1">Nov-26</font><br>
+<font size="-1"><b>Duda's draw not in. It onwards a dud.</b></font><br>
+<a href="/perl/chessgame?gid=2612563">Giri vs Duda,&nbsp;2023</a><br>
+<p>
+<font size="-1">Nov-25</font><br>
+<font size="-1"><b>Prince of Denmark's March</b></font><br>
+<a href="/perl/chessgame?gid=1461107">G Timmerman vs S Pedersen,&nbsp;1991</a><br>
+<p>
+<font size="-1">Nov-24</font><br>
+<font size="-1"><b>The Wisdom of Solomon</b></font><br>
+<a href="/perl/chessgame?gid=1443775">S J Solomon vs P Garbett,&nbsp;1983</a><br>
+<p>
+<font size="-1">Nov-23</font><br>
+<font size="-1"><b>Grand - Master</b></font><br>
+<a href="/perl/chessgame?gid=1337160">Grand vs Steinitz,&nbsp;1872</a><br>
+<p>
+<font size="-1">Nov-22</font><br>
+<font size="-1"><b>Old MacDonnell Had a Charm</b></font><br>
+<a href="/perl/chessgame?gid=1227788">G MacDonnell vs S Boden,&nbsp;1861</a><br>
+<p>
+<font size="-1">Nov-21</font><br>
+<font size="-1"><b>Povadis?</b></font><br>
+<a href="/perl/chessgame?gid=1580525">N Povah vs P R Kemp,&nbsp;1975</a><br>
+<p>
+<font size="-1">Nov-20</font><br>
+<font size="-1"><b>Capablanca's Endgame Manual</b></font><br>
+<a href="/perl/chessgame?gid=1008293">Capablanca vs Reshevsky,&nbsp;1936</a><br>
+<p>
+<font size="-1">Nov-19</font><br>
+<font size="-1"><b>Beware of Greek Gifts</b></font><br>
+<a href="/perl/chessgame?gid=2610222">N Theodorou vs Radjabov,&nbsp;2023</a><br>
+<p>
+<font size="-1">Nov-18</font><br>
+<font size="-1"><b>Shred to Pirces</b></font><br>
+<a href="/perl/chessgame?gid=1289187">M Parligras vs Jobava,&nbsp;2004</a><br>
+<p>
+<font size="-1">Nov-17</font><br>
+<font size="-1"><b>Spot an aura -Caruana tops</b></font><br>
+<a href="/perl/chessgame?gid=1772616">Topalov vs Caruana,&nbsp;2014</a><br>
+<p>
+<font size="-1">Nov-16</font><br>
+<font size="-1"><b>Blood and Gutmayer</b></font><br>
+<a href="/perl/chessgame?gid=1036182">Charousek vs F Gutmayer,&nbsp;1897</a><br>
+<p>
+<font size="-1">Nov-15</font><br>
+<font size="-1"><b>Labatt's Blue Ribbon</b></font><br>
+<a href="/perl/chessgame?gid=1483587">Capablanca vs L L Labatt,&nbsp;1909</a><br>
+<p>
+<font size="-1">Nov-14</font><br>
+<font size="-1"><b>In dignity unsurpassed</b></font><br>
+<a href="/perl/chessgame?gid=1039766">Duras vs Teichmann,&nbsp;1906</a><br>
+<p>
+<font size="-1">Nov-13</font><br>
+<font size="-1"><b>The Dynamic Dudemansky</b></font><br>
+<a href="/perl/chessgame?gid=1507573">M Umansky vs D D van Geet,&nbsp;2006</a><br>
+<p>
+<font size="-1">Nov-12</font><br>
+<font size="-1"><b>Men of Charlick</b></font><br>
+<a href="/perl/chessgame?gid=2605398">H Charlick vs W F Harrison,&nbsp;1888</a><br>
+<p>
+<font size="-1">Nov-11</font><br>
+<font size="-1"><b>Allen a Knight's Work</b></font><br>
+<a href="/perl/chessgame?gid=2603024">P Lalic vs J P Allen,&nbsp;2023</a><br>
+<p>
+<font size="-1">Nov-10</font><br>
+<font size="-1"><b>Colorado Territory</b></font><br>
+<a href="/perl/chessgame?gid=2012902">S Kasparov vs T Schulze,&nbsp;2011</a><br>
+<p>
+<font size="-1">Nov-09</font><br>
+<font size="-1"><b>L'Oste in Space</b></font><br>
+<a href="/perl/chessgame?gid=2602212">Blackburne vs J B L'Oste,&nbsp;1885</a><br>
+<p>
+<font size="-1">Nov-08</font><br>
+<font size="-1"><b>Noteboom Goes the Dynamite</b></font><br>
+<a href="/perl/chessgame?gid=1040762">Spielmann vs Eliskases,&nbsp;1932</a><br>
+<p>
+<font size="-1">Nov-07</font><br>
+<font size="-1"><b>Come On Eline</b></font><br>
+<a href="/perl/chessgame?gid=2602247">E Roebers vs E Danielian,&nbsp;2023</a><br>
+<p>
+<font size="-1">Nov-06</font><br>
+<font size="-1"><b>Mind the Gap</b></font><br>
+<a href="/perl/chessgame?gid=1241132">D Salinnikov vs I Gaponenko,&nbsp;2000</a><br>
+<p>
+<font size="-1">Nov-05</font><br>
+<font size="-1"><b>Englishman In New York</b></font><br>
+<a href="/perl/chessgame?gid=1002090">Blackburne vs J Mason,&nbsp;1889</a><br>
+<p>
+<font size="-1">Nov-04</font><br>
+<font size="-1"><b>Just for the Halibut...</b></font><br>
+<a href="/perl/chessgame?gid=1286111">F Cathely vs M Hadzikaric,&nbsp;1995</a><br>
+<p>
+<font size="-1">Nov-03</font><br>
+<font size="-1"><b>The Beast Game Prize</b></font><br>
+<a href="/perl/chessgame?gid=2601627">B Adhiban vs Iturrizaga Bonelli,&nbsp;2023</a><br>
+<p>
+<font size="-1">Nov-02</font><br>
+<font size="-1"><b>Pina Collida</b></font><br>
+<a href="/perl/chessgame?gid=1165492">S Pina Vega vs B Lopez,&nbsp;2001</a><br>
+<p>
+<font size="-1">Nov-01</font><br>
+<font size="-1"><b>Taylor Swift</b></font><br>
+<a href="/perl/chessgame?gid=1337193">C H Capon vs J O H Taylor,&nbsp;1873</a><br>
+<p>
+<font size="-1">Oct-31</font><br>
+<font size="-1"><b>The Ghost of Morphy Bids You Move!</b></font><br>
+<a href="/perl/chessgame?gid=1080685">Koltanowski vs W Woodbury,&nbsp;1939</a><br>
+<p>
+<font size="-1">Oct-30</font><br>
+<font size="-1"><b>Take my Queen, please</b></font><br>
+<a href="/perl/chessgame?gid=2600671">D Lazavik vs Wojtaszek,&nbsp;2023</a><br>
+<p>
+<font size="-1">Oct-29</font><br>
+<font size="-1"><b>Chandler's Unchained Melody!!</b></font><br>
+<a href="/perl/chessgame?gid=1341064">Tarrasch vs M Kuerschner,&nbsp;1889</a><br>
+<p>
+<font size="-1">Oct-28</font><br>
+<font size="-1"><b>Through the Rinder</b></font><br>
+<a href="/perl/chessgame?gid=1047152">N Gaprindashvili vs E Rinder,&nbsp;1967</a><br>
+<p>
+<font size="-1">Oct-27</font><br>
+<font size="-1"><b>Trompe le Monde</b></font><br>
+<a href="/perl/chessgame?gid=1018843">Anand vs Karpov,&nbsp;1998</a><br>
+<p>
+<font size="-1">Oct-26</font><br>
+<font size="-1"><b>Niemann Is An Island</b></font><br>
+<a href="/perl/chessgame?gid=2598908">Niemann vs E Amar,&nbsp;2023</a><br>
+<p>
+<font size="-1">Oct-25</font><br>
+<font size="-1"><b>Safarli, So Goodly</b></font><br>
+<a href="/perl/chessgame?gid=1905323">E Safarli vs A Moiseenko,&nbsp;2017</a><br>
+<p>
+<font size="-1">Oct-24</font><br>
+<font size="-1"><b>Groß Negligence</b></font><br>
+<a href="/perl/chessgame?gid=1487779">B Olsson vs Bronstein,&nbsp;1990</a><br>
+<p>
+<font size="-1">Oct-23</font><br>
+<font size="-1"><b>Check This Out!</b></font><br>
+<a href="/perl/chessgame?gid=1012681">Alekhine vs A Popovic,&nbsp;1930</a><br>
+<p>
+<font size="-1">Oct-22</font><br>
+<font size="-1"><b>Sasha nice game</b></font><br>
+<a href="/perl/chessgame?gid=1330290">A Belezky vs G Phillips,&nbsp;2005</a><br>
+<p>
+<font size="-1">Oct-21</font><br>
+<font size="-1"><b>Deep Dark Foreest</b></font><br>
+<a href="/perl/chessgame?gid=2237088">J van Foreest vs Giri,&nbsp;2022</a><br>
+<p>
+<font size="-1">Oct-20</font><br>
+<font size="-1"><b>The League of Red Heads</b></font><br>
+<a href="/perl/chessgame?gid=1553179">Shirov vs S Williams,&nbsp;2006</a><br>
+<p>
+<font size="-1">Oct-19</font><br>
+<font size="-1"><b>The Dubov Abides</b></font><br>
+<a href="/perl/chessgame?gid=1956850">Dubov vs Giri,&nbsp;2019</a><br>
+<p>
+<font size="-1">Oct-18</font><br>
+<font size="-1"><b>Mmm!</b></font><br>
+<a href="/perl/chessgame?gid=1066958">Yates vs H Mattison,&nbsp;1929</a><br>
+<p>
+<font size="-1">Oct-17</font><br>
+<font size="-1"><b>The Dragon's Tower</b></font><br>
+<a href="/perl/chessgame?gid=1049309">S Bouaziz vs Geller,&nbsp;1967</a><br>
+<p>
+<font size="-1">Oct-16</font><br>
+<font size="-1"><b>Permanent Revolution</b></font><br>
+<a href="/perl/chessgame?gid=1033635">F Zita vs Bronstein,&nbsp;1946</a><br>
+<p>
+<font size="-1">Oct-15</font><br>
+<font size="-1"><b>The Song of Roland</b></font><br>
+<a href="/perl/chessgame?gid=1282940">R Beyen vs Filip,&nbsp;1971</a><br>
+<p>
+<font size="-1">Oct-14</font><br>
+<font size="-1"><b>Quarantined Queen</b></font><br>
+<a href="/perl/chessgame?gid=1565514">Jobava vs Grischuk,&nbsp;2009</a><br>
+<p>
+<font size="-1">Oct-13</font><br>
+<font size="-1"><b>Watch this!</b></font><br>
+<a href="/perl/chessgame?gid=2589818">A Suleymenov vs Carlsen,&nbsp;2023</a><br>
+<p>
+<font size="-1">Oct-12</font><br>
+<font size="-1"><b>Under Siege</b></font><br>
+<a href="/perl/chessgame?gid=1248508">Nakamura vs A Lesiege,&nbsp;2002</a><br>
+<p>
+<font size="-1">Oct-11</font><br>
+<font size="-1"><b>Drop back and punt</b></font><br>
+<a href="/perl/chessgame?gid=1690423">G Wall vs W Puntier Andujar,&nbsp;2012</a><br>
+<p>
+<font size="-1">Oct-10</font><br>
+<font size="-1"><b>Rid Me Of This Treybalsome Bishop</b></font><br>
+<a href="/perl/chessgame?gid=1007113">K Treybal vs Nimzowitsch,&nbsp;1923</a><br>
+<p>
+<font size="-1">Oct-09</font><br>
+<font size="-1"><b>Boris Good Enough</b></font><br>
+<a href="/perl/chessgame?gid=2585707">B Bilunov vs A Kudriashov,&nbsp;1962</a><br>
+<p>
+<font size="-1">Oct-08</font><br>
+<font size="-1"><b>Rook Loose and Fancy Free</b></font><br>
+<a href="/perl/chessgame?gid=2388550">A Liang vs Aronian,&nbsp;2022</a><br>
+<p>
+<font size="-1">Oct-07</font><br>
+<font size="-1"><b>You Dohrn Understand! I Coulda Had Class.</b></font><br>
+<a href="/perl/chessgame?gid=1233720">Dohrn vs W Class,&nbsp;1988</a><br>
+<p>
+<font size="-1">Oct-06</font><br>
+<font size="-1"><b>Last Knight a DJ Saved My Life</b></font><br>
+<a href="/perl/chessgame?gid=1501666">Jakovenko vs I Cheparinov,&nbsp;2008</a><br>
+<p>
+<font size="-1">Oct-05</font><br>
+<font size="-1"><b>Over the horizon</b></font><br>
+<a href="/perl/chessgame?gid=1863407">Firouzja vs Bluebaum,&nbsp;2017</a><br>
+<p>
+<font size="-1">Oct-04</font><br>
+<font size="-1"><b>The Torreador</b></font><br>
+<a href="/perl/chessgame?gid=1041401">Kasparov vs E Torre,&nbsp;1980</a><br>
+<p>
+<font size="-1">Oct-03</font><br>
+<font size="-1"><b>Scarlet Poupinel</b></font><br>
+<a href="/perl/chessgame?gid=2511816">Y Lemieux vs M Poupinel,&nbsp;1991</a><br>
+<p>
+<font size="-1">Oct-02</font><br>
+<font size="-1"><b>Chow Down</b></font><br>
+<a href="/perl/chessgame?gid=1711819">E Karklins vs A C Chow,&nbsp;1982</a><br>
+<p>
+<font size="-1">Oct-01</font><br>
+<font size="-1"><b>Milan Soccer Club</b></font><br>
+<a href="/perl/chessgame?gid=1423455">M Drasko vs A Evdokimov,&nbsp;2006</a><br>
+<p>
+<font size="-1">Sep-30</font><br>
+<font size="-1"><b>Kras Behavior</b></font><br>
+<a href="/perl/chessgame?gid=1086313">Krasenkow vs Sveshnikov,&nbsp;1992</a><br>
+<p>
+<font size="-1">Sep-29</font><br>
+<font size="-1"><b>Leviathan</b></font><br>
+<a href="/perl/chessgame?gid=2099252">Mac Hack VI vs D Levy,&nbsp;1978</a><br>
+<p>
+<font size="-1">Sep-28</font><br>
+<font size="-1"><b>French Cooking</b></font><br>
+<a href="/perl/chessgame?gid=2573316">Anand vs So,&nbsp;2023</a><br>
+<p>
+<font size="-1">Sep-27</font><br>
+<font size="-1"><b>Basman vs. The Penguin</b></font><br>
+<a href="/perl/chessgame?gid=1359268">M Basman vs Keene,&nbsp;1968</a><br>
+<p>
+<font size="-1">Sep-26</font><br>
+<font size="-1"><b>Sparkling Rhine</b></font><br>
+<a href="/perl/chessgame?gid=1443742">F Rhine vs D Sprenkle,&nbsp;1981</a><br>
+<p>
+<font size="-1">Sep-25</font><br>
+<font size="-1"><b>Sank like a Brkic</b></font><br>
+<a href="/perl/chessgame?gid=1687272">Mamedyarov vs A Brkic,&nbsp;2012</a><br>
+<p>
+<font size="-1">Sep-24</font><br>
+<font size="-1"><b>Babe in the Woods</b></font><br>
+<a href="/perl/chessgame?gid=2573773">Niemann vs A Woodward,&nbsp;2023</a><br>
+<p>
+<font size="-1">Sep-23</font><br>
+<font size="-1"><b>X-Factor</b></font><br>
+<a href="/perl/chessgame?gid=1451463">S Mlotkowski vs S Factor,&nbsp;1921</a><br>
+<p>
+<font size="-1">Sep-22</font><br>
+<font size="-1"><b>Book him, Panno!</b></font><br>
+<a href="/perl/chessgame?gid=1153198">J H Donner vs Panno,&nbsp;1955</a><br>
+<p>
+<font size="-1">Sep-21</font><br>
+<font size="-1"><b>Koba the Dread</b></font><br>
+<a href="/perl/chessgame?gid=1539454">A Volokitin vs M Kobalia,&nbsp;2009</a><br>
+<p>
+<font size="-1">Sep-20</font><br>
+<font size="-1"><b>Where There's a Windmill, There's a Way</b></font><br>
+<a href="/perl/chessgame?gid=1365400">K Volke vs M Schaefer,&nbsp;1994</a><br>
+<p>
+<font size="-1">Sep-19</font><br>
+<font size="-1"><b>Horatio, I am dead</b></font><br>
+<a href="/perl/chessgame?gid=1330550">H Caro vs Lasker,&nbsp;1890</a><br>
+<p>
+<font size="-1">Sep-18</font><br>
+<font size="-1"><b>Null Hypothesis</b></font><br>
+<a href="/perl/chessgame?gid=1099453">Moreau vs Albin,&nbsp;1903</a><br>
+<p>
+<font size="-1">Sep-17</font><br>
+<font size="-1"><b>Clubbed Soda</b></font><br>
+<a href="/perl/chessgame?gid=1531862">R Seltzer vs J Curdo,&nbsp;1991</a><br>
+<p>
+<font size="-1">Sep-16</font><br>
+<font size="-1"><b>Oll Figured Out</b></font><br>
+<a href="/perl/chessgame?gid=1545648">Oll vs G Miralles,&nbsp;1984</a><br>
+<p>
+<font size="-1">Sep-15</font><br>
+<font size="-1"><b>'Cause This Is Schiller, Schiller Knight</b></font><br>
+<a href="/perl/chessgame?gid=1371272">E Schiller vs G Schwartzman,&nbsp;1994</a><br>
+<p>
+<font size="-1">Sep-14</font><br>
+<font size="-1"><b>Not-So-Grand Marnier</b></font><br>
+<a href="/perl/chessgame?gid=2074205">G Jacoby vs E Marnier,&nbsp;1977</a><br>
+<p>
+<font size="-1">Sep-13</font><br>
+<font size="-1"><b>The Soothsayer</b></font><br>
+<a href="/perl/chessgame?gid=1017939">Geller vs Anand,&nbsp;1987</a><br>
+<p>
+<font size="-1">Sep-12</font><br>
+<font size="-1"><b>Dyner Dash</b></font><br>
+<a href="/perl/chessgame?gid=1557884">M Oren vs I Dyner,&nbsp;1952</a><br>
+<p>
+<font size="-1">Sep-11</font><br>
+<font size="-1"><b>Hanache in the UK</b></font><br>
+<a href="/perl/chessgame?gid=2569647">K Hanache vs P Lalic,&nbsp;2023</a><br>
+<p>
+<font size="-1">Sep-10</font><br>
+<font size="-1"><b>Ay Caruana!</b></font><br>
+<a href="/perl/chessgame?gid=1596073">R Leitao vs Caruana,&nbsp;2010</a><br>
+<p>
+<font size="-1">Sep-09</font><br>
+<font size="-1"><b>Fritz 0.0</b></font><br>
+<a href="/perl/chessgame?gid=1002944">Steinitz vs A Fritz,&nbsp;1898</a><br>
+<p>
+<font size="-1">Sep-08</font><br>
+<font size="-1"><b>The Thingstad Dreams Are Made Of</b></font><br>
+<a href="/perl/chessgame?gid=1469370">de Firmian vs E Thingstad,&nbsp;2007</a><br>
+<p>
+<font size="-1">Sep-07</font><br>
+<font size="-1"><b>Try That in a Small Town</b></font><br>
+<a href="/perl/chessgame?gid=1994459">Lasker vs F C Short,&nbsp;1908</a><br>
+<p>
+<font size="-1">Sep-06</font><br>
+<font size="-1"><b>Bleak Haus</b></font><br>
+<a href="/perl/chessgame?gid=1335952">J Mieses vs Taubenhaus,&nbsp;1906</a><br>
+<p>
+<font size="-1">Sep-05</font><br>
+<font size="-1"><b>Never Play f6</b></font><br>
+<a href="/perl/chessgame?gid=1870234">V Akobian vs Caruana,&nbsp;2017</a><br>
+<p>
+<font size="-1">Sep-04</font><br>
+<font size="-1"><b>Enigmadzianov</b></font><br>
+<a href="/perl/chessgame?gid=1242867">Nigmadzianov vs L Kaplun,&nbsp;1977</a><br>
+<p>
+<font size="-1">Sep-03</font><br>
+<font size="-1"><b>AnniNh1lation</b></font><br>
+<a href="/perl/chessgame?gid=1531962">P van der Weide vs G Ligterink,&nbsp;1979</a><br>
+<p>
+<font size="-1">Sep-02</font><br>
+<font size="-1"><b>Siege of Inarkiev</b></font><br>
+<a href="/perl/chessgame?gid=1583052">E Alekseev vs E Inarkiev,&nbsp;2010</a><br>
+<p>
+<font size="-1">Sep-01</font><br>
+<font size="-1"><b>Queen of Adrenaline</b></font><br>
+<a href="/perl/chessgame?gid=1566288">V Gunina vs A Bodnaruk,&nbsp;2009</a><br>
+<p>
+<font size="-1">Aug-31</font><br>
+<font size="-1"><b>Tsatsal Folks!</b></font><br>
+<a href="/perl/chessgame?gid=2563450">K Tsatsalashvili vs S Khademalsharieh,&nbsp;2023</a><br>
+<p>
+<font size="-1">Aug-30</font><br>
+<font size="-1"><b>Et in Arcadia Ego</b></font><br>
+<a href="/perl/chessgame?gid=1710776">Naiditsch vs Anand,&nbsp;2013</a><br>
+<p>
+<font size="-1">Aug-29</font><br>
+<font size="-1"><b>In Sebag</b></font><br>
+<a href="/perl/chessgame?gid=1511936">A Adly vs M Sebag,&nbsp;2008</a><br>
+<p>
+<font size="-1">Aug-28</font><br>
+<font size="-1"><b>We Will Bury You!</b></font><br>
+<a href="/perl/chessgame?gid=1518185">A Khruschiov vs Dvoirys,&nbsp;2008</a><br>
+<p>
+<font size="-1">Aug-27</font><br>
+<font size="-1"><b>Fairytal</b></font><br>
+<a href="/perl/chessgame?gid=1140291">Tal vs Petrosian,&nbsp;1975</a><br>
+<p>
+<font size="-1">Aug-26</font><br>
+<font size="-1"><b>The Excelsior Game</b></font><br>
+<a href="/perl/chessgame?gid=1257957">Shumov vs C Jaenisch,&nbsp;1850</a><br>
+<p>
+<font size="-1">Aug-25</font><br>
+<font size="-1"><b>Bao Constrictor</b></font><br>
+<a href="/perl/chessgame?gid=1584222">Q Bao vs H T Tu,&nbsp;2005</a><br>
+<p>
+<font size="-1">Aug-24</font><br>
+<font size="-1"><b>Witch Hunt</b></font><br>
+<a href="/perl/chessgame?gid=1728639">A R Saleh Salem vs Smeets,&nbsp;2013</a><br>
+<p>
+<font size="-1">Aug-23</font><br>
+<font size="-1"><b>Get Shorty</b></font><br>
+<a href="/perl/chessgame?gid=1053052">Granda Zuniga vs Short,&nbsp;1997</a><br>
+<p>
+<font size="-1">Aug-22</font><br>
+<font size="-1"><b>Sac, sac…stalemate!</b></font><br>
+<a href="/perl/chessgame?gid=1531040">D Monokroussos vs L Barcarola,&nbsp;1999</a><br>
+<p>
+<font size="-1">Aug-21</font><br>
+<font size="-1"><b>Nice Finnish!</b></font><br>
+<a href="/perl/chessgame?gid=1615338">A Nokso-Koivisto vs A Pyhala,&nbsp;1988</a><br>
+<p>
+<font size="-1">Aug-20</font><br>
+<font size="-1"><b>Penta Gun</b></font><br>
+<a href="/perl/chessgame?gid=1705080">Harikrishna vs Van Wely,&nbsp;2013</a><br>
+<p>
+<font size="-1">Aug-19</font><br>
+<font size="-1"><b>Sweet Caro Line</b></font><br>
+<a href="/perl/chessgame?gid=2558357">A Muzychuk vs N Salimova,&nbsp;2023</a><br>
+<p>
+<font size="-1">Aug-18</font><br>
+<font size="-1"><b>D5ing all logic</b></font><br>
+<a href="/perl/chessgame?gid=1943574">Anand vs Mamedyarov,&nbsp;2019</a><br>
+<p>
+<font size="-1">Aug-17</font><br>
+<font size="-1"><b>Mata of Life and Death</b></font><br>
+<a href="/perl/chessgame?gid=1139400">A Matanovic vs Tal,&nbsp;1958</a><br>
+<p>
+<font size="-1">Aug-16</font><br>
+<font size="-1"><b>The Bloody Hole Story</b></font><br>
+<a href="/perl/chessgame?gid=1565395">A Flaata vs O Hole,&nbsp;1994</a><br>
+<p>
+<font size="-1">Aug-15</font><br>
+<font size="-1"><b>Sammour Please!</b></font><br>
+<a href="/perl/chessgame?gid=1499199">A Passov vs J Sammour-Hasbun,&nbsp;1991</a><br>
+<p>
+<font size="-1">Aug-14</font><br>
+<font size="-1"><b>Pins, but not Safety Pins</b></font><br>
+<a href="/perl/chessgame?gid=2557604">Duda vs Caruana,&nbsp;2023</a><br>
+<p>
+<font size="-1">Aug-13</font><br>
+<font size="-1"><b>What the Heck?</b></font><br>
+<a href="/perl/chessgame?gid=1242864">T Casper vs K Heckert,&nbsp;1975</a><br>
+<p>
+<font size="-1">Aug-12</font><br>
+<font size="-1"><b>White Goose Chase</b></font><br>
+<a href="/perl/chessgame?gid=1076230">Capablanca vs A Chase,&nbsp;1922</a><br>
+<p>
+<font size="-1">Aug-11</font><br>
+<font size="-1"><b>Hrair Raising Experience</b></font><br>
+<a href="/perl/chessgame?gid=1595430">T L Petrosian vs H Simonian,&nbsp;2008</a><br>
+<p>
+<font size="-1">Aug-10</font><br>
+<font size="-1"><b>I Left My Harut In San Francisco</b></font><br>
+<a href="/perl/chessgame?gid=1011410">V Bhat vs H Akopyan,&nbsp;1999</a><br>
+<p>
+<font size="-1">Aug-09</font><br>
+<font size="-1"><b>Baker's Dozen</b></font><br>
+<a href="/perl/chessgame?gid=2554048">P Lalic vs C W Baker,&nbsp;2023</a><br>
+<p>
+<font size="-1">Aug-08</font><br>
+<font size="-1"><b>Femme Fatal</b></font><br>
+<a href="/perl/chessgame?gid=2554091">W Ju vs U Fataliyeva,&nbsp;2023</a><br>
+<p>
+<font size="-1">Aug-07</font><br>
+<font size="-1"><b>Javokhir Causin' Havoc Here</b></font><br>
+<a href="/perl/chessgame?gid=2554068">Vachier-Lagrave vs Sindarov,&nbsp;2023</a><br>
+<p>
+<font size="-1">Aug-06</font><br>
+<font size="-1"><b>Sarin Attack</b></font><br>
+<a href="/perl/chessgame?gid=2553311">Bachmann vs N Sarin,&nbsp;2023</a><br>
+<p>
+<font size="-1">Aug-05</font><br>
+<font size="-1"><b>It Happens</b></font><br>
+<a href="/perl/chessgame?gid=2552963">Shankland vs I Schitco,&nbsp;2023</a><br>
+<p>
+<font size="-1">Aug-04</font><br>
+<font size="-1"><b>Pragging Rights</b></font><br>
+<a href="/perl/chessgame?gid=2552972">M Lagarde vs R Praggnanandhaa,&nbsp;2023</a><br>
+<p>
+<font size="-1">Aug-03</font><br>
+<font size="-1"><b>Discount Queen Warehouse</b></font><br>
+<a href="/perl/chessgame?gid=1105154">Pachman vs Timman,&nbsp;1977</a><br>
+<p>
+<font size="-1">Aug-02</font><br>
+<font size="-1"><b>There Is A Knight That Never Goes Out</b></font><br>
+<a href="/perl/chessgame?gid=2032806">C F Smith vs Moffatt,&nbsp;1850</a><br>
+<p>
+<font size="-1">Aug-01</font><br>
+<font size="-1"><b>Play Like a Gurel</b></font><br>
+<a href="/perl/chessgame?gid=2550825">E Gurel vs V Ivic,&nbsp;2023</a><br>
+<p>
+<font size="-1">Jul-31</font><br>
+<font size="-1"><b>Goldberg Complications</b></font><br>
+<a href="/perl/chessgame?gid=1315088">Polugaevsky vs G Goldberg,&nbsp;1954</a><br>
+<p>
+<font size="-1">Jul-30</font><br>
+<font size="-1"><b>The Brazilian Karpov</b></font><br>
+<a href="/perl/chessgame?gid=2332659">E Barbosa vs F de Cresce El Debs,&nbsp;2011</a><br>
+<p>
+<font size="-1">Jul-29</font><br>
+<font size="-1"><b>Antom's Apple</b></font><br>
+<a href="/perl/chessgame?gid=1312624">M Kawuma vs G Antoms,&nbsp;2004</a><br>
+<p>
+<font size="-1">Jul-28</font><br>
+<font size="-1"><b>The Hart is a Lonely Hunter</b></font><br>
+<a href="/perl/chessgame?gid=1754091">P W Power vs R Hart,&nbsp;1983</a><br>
+<p>
+<font size="-1">Jul-27</font><br>
+<font size="-1"><b>Do you know da wei?</b></font><br>
+<a href="/perl/chessgame?gid=1908523">Wei Yi vs G Jones,&nbsp;2018</a><br>
+<p>
+<font size="-1">Jul-25</font><br>
+<font size="-1"><b>Schwaninger's Rat</b></font><br>
+<a href="/perl/chessgame?gid=1752342">S Siebrecht vs W Schwaninger,&nbsp;2007</a><br>
+<p>
+<font size="-1">Jul-24</font><br>
+<font size="-1"><b>The War on Vodka</b></font><br>
+<a href="/perl/chessgame?gid=1450253">I Smirnov vs D Kutuzov,&nbsp;2007</a><br>
+<p>
+<font size="-1">Jul-23</font><br>
+<font size="-1"><b>A Day Late and a Dollar Short</b></font><br>
+<a href="/perl/chessgame?gid=1070682">Short vs Kasparov,&nbsp;1993</a><br>
+<p>
+<font size="-1">Jul-22</font><br>
+<font size="-1"><b>Far Side of Crazy</b></font><br>
+<a href="/perl/chessgame?gid=1758666">Karjakin vs Carlsen,&nbsp;2014</a><br>
+<p>
+<font size="-1">Jul-21</font><br>
+<font size="-1"><b>Now I Am Become Blind</b></font><br>
+<a href="/perl/chessgame?gid=1529601">Breyer vs Oppenheimer,&nbsp;1921</a><br>
+<p>
+<font size="-1">Jul-20</font><br>
+<font size="-1"><b>Safe, Legal, and Rare</b></font><br>
+<a href="/perl/chessgame?gid=1143003">A Beliavsky vs Timman,&nbsp;1986</a><br>
+<p>
+<font size="-1">Jul-19</font><br>
+<font size="-1"><b>JOHT This Down</b></font><br>
+<a href="/perl/chessgame?gid=1337260">J O H Taylor vs NN,&nbsp;1874</a><br>
+<p>
+<font size="-1">Jul-18</font><br>
+<font size="-1"><b>The Maroczy Blind</b></font><br>
+<a href="/perl/chessgame?gid=1746612">Maroczy vs G Beihoff,&nbsp;1926</a><br>
+<p>
+<font size="-1">Jul-17</font><br>
+<font size="-1"><b>A Banner With the Strange De Veauce: Excelsior!</b></font><br>
+<a href="/perl/chessgame?gid=1743505">L De Veauce vs Speelman,&nbsp;1975</a><br>
+<p>
+<font size="-1">Jul-16</font><br>
+<font size="-1"><b>In The Firing Line</b></font><br>
+<a href="/perl/chessgame?gid=1849666">J R Adair vs S Franklin,&nbsp;2016</a><br>
+<p>
+<font size="-1">Jul-15</font><br>
+<font size="-1"><b>Lekhine on the Sixth with a Diamond</b></font><br>
+<a href="/perl/chessgame?gid=1119839">Rubinstein vs Alekhine,&nbsp;1926</a><br>
+<p>
+<font size="-1">Jul-14</font><br>
+<font size="-1"><b>Take A Sad Pawn And Make It Benter</b></font><br>
+<a href="/perl/chessgame?gid=1318254">Larsen vs J Acers,&nbsp;1968</a><br>
+<p>
+<font size="-1">Jul-13</font><br>
+<font size="-1"><b>Hey Jude, don't make Bc8 bad...</b></font><br>
+<a href="/perl/chessgame?gid=2288553">Browne vs J Acers,&nbsp;1967</a><br>
+<p>
+<font size="-1">Jul-12</font><br>
+<font size="-1"><b>Grandmaster Norm</b></font><br>
+<a href="/perl/chessgame?gid=1789605">Capablanca vs N Whitaker,&nbsp;1909</a><br>
+<p>
+<font size="-1">Jul-11</font><br>
+<font size="-1"><b>Harry Zirn Floored</b></font><br>
+<a href="/perl/chessgame?gid=1794848">Capablanca vs H Zirn,&nbsp;1912</a><br>
+<p>
+<font size="-1">Jul-10</font><br>
+<font size="-1"><b>Talkin' 'Bout my Variation</b></font><br>
+<a href="/perl/chessgame?gid=1049943">Geller vs Sveshnikov,&nbsp;1978</a><br>
+<p>
+<font size="-1">Jul-09</font><br>
+<font size="-1"><b>When Harry Met Savielly</b></font><br>
+<a href="/perl/chessgame?gid=1619451">Tartakower vs Golombek,&nbsp;1949</a><br>
+<p>
+<font size="-1">Jul-08</font><br>
+<font size="-1"><b>Mora less a draw</b></font><br>
+<a href="/perl/chessgame?gid=1135784">J Mora Corbera vs Suttles,&nbsp;1964</a><br>
+<p>
+<font size="-1">Jul-07</font><br>
+<font size="-1"><b>Sufferin' Zukertort</b></font><br>
+<a href="/perl/chessgame?gid=1075704">W Kornfeld vs Zukertort,&nbsp;1865</a><br>
+<p>
+<font size="-1">Jul-06</font><br>
+<font size="-1"><b>Abel Was I Ere I Saw Duda</b></font><br>
+<a href="/perl/chessgame?gid=1802882">Duda vs D Abel,&nbsp;2015</a><br>
+<p>
+<font size="-1">Jul-05</font><br>
+<font size="-1"><b>Don't Let the Name Fool You</b></font><br>
+<a href="/perl/chessgame?gid=1076882">Bijl vs Remis,&nbsp;1975</a><br>
+<p>
+<font size="-1">Jul-04</font><br>
+<font size="-1"><b>The Lyon King</b></font><br>
+<a href="/perl/chessgame?gid=1070712">A Shneider vs Kasparov,&nbsp;1994</a><br>
+<p>
+<font size="-1">Jul-03</font><br>
+<font size="-1"><b>Tobler Owned</b></font><br>
+<a href="/perl/chessgame?gid=1251445">P Zimmermann vs D Tobler,&nbsp;1990</a><br>
+<p>
+<font size="-1">Jul-02</font><br>
+<font size="-1"><b>No Checks Please, We're British</b></font><br>
+<a href="/perl/chessgame?gid=1014159">Adams vs Short,&nbsp;1992</a><br>
+<p>
+<font size="-1">Jul-01</font><br>
+<font size="-1"><b>Danger Ray Robson!</b></font><br>
+<a href="/perl/chessgame?gid=1560941">Robson vs Y Hou,&nbsp;2004</a><br>
+<p>
+<font size="-1">Jun-30</font><br>
+<font size="-1"><b>You and Me, Dupre</b></font><br>
+<a href="/perl/chessgame?gid=2476234">P Dupre vs P Lalic,&nbsp;2023</a><br>
+<p>
+<font size="-1">Jun-29</font><br>
+<font size="-1"><b>Burying the Pede</b></font><br>
+<a href="/perl/chessgame?gid=1359311">Keene vs B Eley,&nbsp;1964</a><br>
+<p>
+<font size="-1">Jun-28</font><br>
+<font size="-1"><b>Bill and Ed's Excellent Adventure</b></font><br>
+<a href="/perl/chessgame?gid=1092917">E Mednis vs Lombardy,&nbsp;1978</a><br>
+<p>
+<font size="-1">Jun-27</font><br>
+<font size="-1"><b>Gufeld's Evergreen</b></font><br>
+<a href="/perl/chessgame?gid=1139464">Gufeld vs Tal,&nbsp;1959</a><br>
+<p>
+<font size="-1">Jun-26</font><br>
+<font size="-1"><b>One percent inspiration and 99% przepiration</b></font><br>
+<a href="/perl/chessgame?gid=1280571">D Przepiorka vs Nimzowitsch,&nbsp;1930</a><br>
+<p>
+<font size="-1">Jun-25</font><br>
+<font size="-1"><b>Ukraine Girls Really Knock Me Out</b></font><br>
+<a href="/perl/chessgame?gid=1306778">A Ushenina vs Lagno,&nbsp;2001</a><br>
+<p>
+<font size="-1">Jun-24</font><br>
+<font size="-1"><b>Rough Justus</b></font><br>
+<a href="/perl/chessgame?gid=1775304">J D Williams vs S Azarov,&nbsp;2014</a><br>
+<p>
+<font size="-1">Jun-23</font><br>
+<font size="-1"><b>Bogo Cop</b></font><br>
+<a href="/perl/chessgame?gid=1013241">Bogoljubov vs Alekhine,&nbsp;1937</a><br>
+<p>
+<font size="-1">Jun-22</font><br>
+<font size="-1"><b>Man of the Match</b></font><br>
+<a href="/perl/chessgame?gid=1070878">Deep Blue vs Kasparov,&nbsp;1996</a><br>
+<p>
+<font size="-1">Jun-21</font><br>
+<font size="-1"><b>Royal Flush</b></font><br>
+<a href="/perl/chessgame?gid=2521409">T Beerdsen vs S Royal,&nbsp;2022</a><br>
+<p>
+<font size="-1">Jun-20</font><br>
+<font size="-1"><b>Leysens to Kill</b></font><br>
+<a href="/perl/chessgame?gid=2220293">Kashdan vs M Leysens,&nbsp;1932</a><br>
+<p>
+<font size="-1">Jun-19</font><br>
+<font size="-1"><b>Lender Bender</b></font><br>
+<a href="/perl/chessgame?gid=1876391">A Liang vs Lenderman,&nbsp;2017</a><br>
+<p>
+<font size="-1">Jun-18</font><br>
+<font size="-1"><b>Suleymanli the Magnificent</b></font><br>
+<a href="/perl/chessgame?gid=1992175">A Suleymanli vs Indjic,&nbsp;2020</a><br>
+<p>
+<font size="-1">Jun-17</font><br>
+<font size="-1"><b>Karpov Bombing</b></font><br>
+<a href="/perl/chessgame?gid=1068138">Karpov vs Van der Wiel,&nbsp;1980</a><br>
+<p>
+<font size="-1">Jun-16</font><br>
+<font size="-1"><b>We Will Rok You</b></font><br>
+<a href="/perl/chessgame?gid=1454564">R Hrzica vs J Armas,&nbsp;2007</a><br>
+<p>
+<font size="-1">Jun-15</font><br>
+<font size="-1"><b>No Kost Too Great</b></font><br>
+<a href="/perl/chessgame?gid=2079662">Kosteniuk vs I Krush,&nbsp;2021</a><br>
+<p>
+<font size="-1">Jun-14</font><br>
+<font size="-1"><b>Snape, Crackle and Pop</b></font><br>
+<a href="/perl/chessgame?gid=1907557">C Rice vs I Snape,&nbsp;2017</a><br>
+<p>
+<font size="-1">Jun-13</font><br>
+<font size="-1"><b>Classico unReal</b></font><br>
+<a href="/perl/chessgame?gid=1583706">Barcza vs O Troianescu,&nbsp;1948</a><br>
+<p>
+<font size="-1">Jun-12</font><br>
+<font size="-1"><b>Knap, Crackle and Pop</b></font><br>
+<a href="/perl/chessgame?gid=2516484">C Knapton vs Gunsberg,&nbsp;1884</a><br>
+<p>
+<font size="-1">Jun-11</font><br>
+<font size="-1"><b>Much Ado About Notkin</b></font><br>
+<a href="/perl/chessgame?gid=2172228">M Notkin vs A Rychagov,&nbsp;1996</a><br>
+<p>
+<font size="-1">Jun-10</font><br>
+<font size="-1"><b>Death Takes a Holliday</b></font><br>
+<a href="/perl/chessgame?gid=2477609">J K Holliday vs A Ghasi,&nbsp;2023</a><br>
+<p>
+<font size="-1">Jun-09</font><br>
+<font size="-1"><b>Stopped in His Trax</b></font><br>
+<a href="/perl/chessgame?gid=1227401">V Beznosikov vs I Koba,&nbsp;1995</a><br>
+<p>
+<font size="-1">Jun-08</font><br>
+<font size="-1"><b>The Sign of Zorro</b></font><br>
+<a href="/perl/chessgame?gid=1529302">Kashdan vs J Gonzalez de Vega,&nbsp;1951</a><br>
+<p>
+<font size="-1">Jun-07</font><br>
+<font size="-1"><b>Memento Mori</b></font><br>
+<a href="/perl/chessgame?gid=2511385">P H Mori vs C Duarte,&nbsp;1966</a><br>
+<p>
+<font size="-1">Jun-05</font><br>
+<font size="-1"><b>Cumming Through the Ruy</b></font><br>
+<a href="/perl/chessgame?gid=1983113">O Pollack vs R Cumming,&nbsp;2019</a><br>
+<p>
+<font size="-1">Jun-04</font><br>
+<font size="-1"><b>Valar Morgulis</b></font><br>
+<a href="/perl/chessgame?gid=1228721">Bronstein vs L Morgulis,&nbsp;1940</a><br>
+<p>
+<font size="-1">Jun-03</font><br>
+<font size="-1"><b>Natural Bjorn Tiller</b></font><br>
+<a href="/perl/chessgame?gid=1554557">G Prakken vs B Tiller,&nbsp;2009</a><br>
+<p>
+<font size="-1">Jun-02</font><br>
+<font size="-1"><b>The Diary of Anne Haast</b></font><br>
+<a href="/perl/chessgame?gid=1590514">N Paikidze vs A Haast,&nbsp;2004</a><br>
+<p>
+<font size="-1">Jun-01</font><br>
+<font size="-1"><b>OMG, Hay killed Kennedy!</b></font><br>
+<a href="/perl/chessgame?gid=2504967">A Hay vs H Kennedy,&nbsp;1861</a><br>
+<p>
+<font size="-1">May-31</font><br>
+<font size="-1"><b>Trial and Error</b></font><br>
+<a href="/perl/chessgame?gid=1272951">F Nuernberg vs K Junge,&nbsp;1941</a><br>
+<p>
+<font size="-1">May-30</font><br>
+<font size="-1"><b>Manik Depression</b></font><br>
+<a href="/perl/chessgame?gid=1027226">Benjamin vs M Manik,&nbsp;1993</a><br>
+<p>
+<font size="-1">May-29</font><br>
+<font size="-1"><b>Same Oll, Same Oll</b></font><br>
+<a href="/perl/chessgame?gid=1018390">Oll vs Anand,&nbsp;1993</a><br>
+<p>
+<font size="-1">May-28</font><br>
+<font size="-1"><b>Oh, Susanna, Don't You Cry for Xie</b></font><br>
+<a href="/perl/chessgame?gid=2036772">J Xie vs S Lalic,&nbsp;1996</a><br>
+<p>
+<font size="-1">May-27</font><br>
+<font size="-1"><b>Oh, Vienna!</b></font><br>
+<a href="/perl/chessgame?gid=1229198">Martin Perez vs Catalan,&nbsp;1981</a><br>
+<p>
+<font size="-1">May-26</font><br>
+<font size="-1"><b>Rook van Wely</b></font><br>
+<a href="/perl/chessgame?gid=1448483">Van Wely vs Svidler,&nbsp;2007</a><br>
+<p>
+<font size="-1">May-25</font><br>
+<font size="-1"><b>Ke2 Brute?</b></font><br>
+<a href="/perl/chessgame?gid=1649035">Nakamura vs Ivanchuk,&nbsp;2011</a><br>
+<p>
+<font size="-1">May-24</font><br>
+<font size="-1"><b>The Trouble with Triples</b></font><br>
+<a href="/perl/chessgame?gid=1943543">Gledura vs V Kovalev,&nbsp;2019</a><br>
+<p>
+<font size="-1">May-23</font><br>
+<font size="-1"><b>Hot Systhéme</b></font><br>
+<a href="/perl/chessgame?gid=2187445">T Kosintseva vs N Kosintseva,&nbsp;1997</a><br>
+<p>
+<font size="-1">May-22</font><br>
+<font size="-1"><b>Wojt is OK!</b></font><br>
+<a href="/perl/chessgame?gid=2503860">Wojtaszek vs Carlsen,&nbsp;2023</a><br>
+<p>
+<font size="-1">May-21</font><br>
+<font size="-1"><b>Black is KO!</b></font><br>
+<a href="/perl/chessgame?gid=1016110">Adorjan vs B Kouatly,&nbsp;1982</a><br>
+<p>
+<font size="-1">May-20</font><br>
+<font size="-1"><b>Malicious File</b></font><br>
+<a href="/perl/chessgame?gid=1125510">Smyslov vs C Kottnauer,&nbsp;1946</a><br>
+<p>
+<font size="-1">May-19</font><br>
+<font size="-1"><b>Come into my parlour</b></font><br>
+<a href="/perl/chessgame?gid=1908845">Nakamura vs N Grandelius,&nbsp;2018</a><br>
+<p>
+<font size="-1">May-18</font><br>
+<font size="-1"><b>Hot Poperty</b></font><br>
+<a href="/perl/chessgame?gid=2501036">W M Popert vs McDonnell,&nbsp;1834</a><br>
+<p>
+<font size="-1">May-17</font><br>
+<font size="-1"><b>Just a Flesch Wound</b></font><br>
+<a href="/perl/chessgame?gid=1015737">Adorjan vs J Flesch,&nbsp;1975</a><br>
+<p>
+<font size="-1">May-16</font><br>
+<font size="-1"><b>The Colle-culator</b></font><br>
+<a href="/perl/chessgame?gid=1279187">Colle vs Gruenfeld,&nbsp;1926</a><br>
+<p>
+<font size="-1">May-15</font><br>
+<font size="-1"><b>Viennese Whirl</b></font><br>
+<a href="/perl/chessgame?gid=1121226">Spielmann vs Schlechter,&nbsp;1914</a><br>
+<p>
+<font size="-1">May-14</font><br>
+<font size="-1"><b>Black is OK Forever!</b></font><br>
+<a href="/perl/chessgame?gid=1016765">G Giorgadze vs Adorjan,&nbsp;1992</a><br>
+<p>
+<font size="-1">May-13</font><br>
+<font size="-1"><b>Dark Side of the Munoz</b></font><br>
+<a href="/perl/chessgame?gid=1684419">J L Munoz vs Grischuk,&nbsp;2012</a><br>
+<p>
+<font size="-1">May-12</font><br>
+<font size="-1"><b>Tricks Up My Sliwa</b></font><br>
+<a href="/perl/chessgame?gid=1278136">Sliwa vs G Stoltz,&nbsp;1953</a><br>
+<p>
+<font size="-1">May-11</font><br>
+<font size="-1"><b>Pulling a Fast One</b></font><br>
+<a href="/perl/chessgame?gid=2031577">W Pulling vs J O'Sullivan,&nbsp;1845</a><br>
+<p>
+<font size="-1">May-10</font><br>
+<font size="-1"><b>Oh My Darling, Clemenz Fine.</b></font><br>
+<a href="/perl/chessgame?gid=1043707">Fine vs A Simonson,&nbsp;1932</a><br>
+<p>
+<font size="-1">May-09</font><br>
+<font size="-1"><b>Siege of Milan</b></font><br>
+<a href="/perl/chessgame?gid=2176055">M Kolesar vs O Sikorova,&nbsp;1998</a><br>
+<p>
+<font size="-1">May-08</font><br>
+<font size="-1"><b>Palme of Victory</b></font><br>
+<a href="/perl/chessgame?gid=1272938">R Palme vs K Junge,&nbsp;1941</a><br>
+<p>
+<font size="-1">May-07</font><br>
+<font size="-1"><b>Nez saw doom. Mood was zen.</b></font><br>
+<a href="/perl/chessgame?gid=1102158">R Nezhmetdinov vs E Paoli,&nbsp;1954</a><br>
+<p>
+<font size="-1">May-06</font><br>
+<font size="-1"><b>Milking the GOAT</b></font><br>
+<a href="/perl/chessgame?gid=1044387">Fischer vs Spassky,&nbsp;1992</a><br>
+<p>
+<font size="-1">May-05</font><br>
+<font size="-1"><b>Leave it to Bever</b></font><br>
+<a href="/perl/chessgame?gid=1676502">V W Bever vs R P Allen,&nbsp;1948</a><br>
+<p>
+<font size="-1">May-04</font><br>
+<font size="-1"><b>Browne Girl in the Ring</b></font><br>
+<a href="/perl/chessgame?gid=1110082">S Polgar vs Browne,&nbsp;1986</a><br>
+<p>
+<font size="-1">May-03</font><br>
+<font size="-1"><b>Levon in America</b></font><br>
+<a href="/perl/chessgame?gid=2269613">Dominguez Perez vs Aronian,&nbsp;2022</a><br>
+<p>
+<font size="-1">May-02</font><br>
+<font size="-1"><b>Tsay It Loud, I'm Black and I'm Proud</b></font><br>
+<a href="/perl/chessgame?gid=2055543">A Diulger vs V Tsay,&nbsp;2020</a><br>
+<p>
+<font size="-1">May-01</font><br>
+<font size="-1"><b>King Liren</b></font><br>
+<a href="/perl/chessgame?gid=2488997">Nepomniachtchi vs Ding Liren,&nbsp;2023</a><br>
+<p>
+<font size="-1">Apr-30</font><br>
+<font size="-1"><b>The GG Spot</b></font><br>
+<a href="/perl/chessgame?gid=2453794">Giri vs D Gukesh,&nbsp;2023</a><br>
+<p>
+<font size="-1">Apr-29</font><br>
+<font size="-1"><b>The 27 Club</b></font><br>
+<a href="/perl/chessgame?gid=1628178">R Smellie vs J A Boucher,&nbsp;1916</a><br>
+<p>
+<font size="-1">Apr-28</font><br>
+<font size="-1"><b>Riders On The Strom</b></font><br>
+<a href="/perl/chessgame?gid=1565167">M Yudovich Jr vs Strom,&nbsp;1961</a><br>
+<p>
+<font size="-1">Apr-27</font><br>
+<font size="-1"><b>Fire on Nord</b></font><br>
+<a href="/perl/chessgame?gid=1479215">Shirov vs Carlsen,&nbsp;2007</a><br>
+<p>
+<font size="-1">Apr-26</font><br>
+<font size="-1"><b>Double Lutz</b></font><br>
+<a href="/perl/chessgame?gid=1584471">C Lutz vs M Tratar,&nbsp;1996</a><br>
+<p>
+<font size="-1">Apr-25</font><br>
+<font size="-1"><b>Butchering the King's English</b></font><br>
+<a href="/perl/chessgame?gid=1879834">Carlsen vs Vachier-Lagrave,&nbsp;2017</a><br>
+<p>
+<font size="-1">Apr-24</font><br>
+<font size="-1"><b>The straight line belongs to man, the curve to God.</b></font><br>
+<a href="/perl/chessgame?gid=1266493">Lasker vs Albin,&nbsp;1893</a><br>
+<p>
+<font size="-1">Apr-23</font><br>
+<font size="-1"><b>Yuggernaut</b></font><br>
+<a href="/perl/chessgame?gid=1590010">A Nicifor vs E Kramer,&nbsp;1921</a><br>
+<p>
+<font size="-1">Apr-22</font><br>
+<font size="-1"><b>The Nepostman Always Dings Twice</b></font><br>
+<a href="/perl/chessgame?gid=2476852">Nepomniachtchi vs Ding Liren,&nbsp;2023</a><br>
+<p>
+<font size="-1">Apr-21</font><br>
+<font size="-1"><b>Et tu, Georgi?</b></font><br>
+<a href="/perl/chessgame?gid=1305191">G Tringov vs C Juliao,&nbsp;1974</a><br>
+<p>
+<font size="-1">Apr-20</font><br>
+<font size="-1"><b>The woods are lovely, dark and deep</b></font><br>
+<a href="/perl/chessgame?gid=1097504">Tal vs Miles,&nbsp;1983</a><br>
+<p>
+<font size="-1">Apr-19</font><br>
+<font size="-1"><b>French Disconnection</b></font><br>
+<a href="/perl/chessgame?gid=2479640">Nepomniachtchi vs Ding Liren,&nbsp;2023</a><br>
+<p>
+<font size="-1">Apr-18</font><br>
+<font size="-1"><b>Making Armenia Great Again</b></font><br>
+<a href="/perl/chessgame?gid=1883748">Aronian vs Navara,&nbsp;2017</a><br>
+<p>
+<font size="-1">Apr-17</font><br>
+<font size="-1"><b>Too Quick on the Draw</b></font><br>
+<a href="/perl/chessgame?gid=1571289">Shirov vs Dominguez Perez,&nbsp;2010</a><br>
+<p>
+<font size="-1">Apr-16</font><br>
+<font size="-1"><b>Bakre worse than his Bite</b></font><br>
+<a href="/perl/chessgame?gid=1358096">T Bakre vs B Zawadzka,&nbsp;2004</a><br>
+<p>
+<font size="-1">Apr-15</font><br>
+<font size="-1"><b>The Brother from Another Planet</b></font><br>
+<a href="/perl/chessgame?gid=1018218">Anand vs Ivanchuk,&nbsp;1991</a><br>
+<p>
+<font size="-1">Apr-14</font><br>
+<font size="-1"><b>Making Plans for Nigel</b></font><br>
+<a href="/perl/chessgame?gid=1070681">Kasparov vs Short,&nbsp;1993</a><br>
+<p>
+<font size="-1">Apr-13</font><br>
+<font size="-1"><b>Perfect Tenner</b></font><br>
+<a href="/perl/chessgame?gid=1459256">O Tenner vs O Chajes,&nbsp;1923</a><br>
+<p>
+<font size="-1">Apr-12</font><br>
+<font size="-1"><b>Bull in a China Shop</b></font><br>
+<a href="/perl/chessgame?gid=2473637">Ding Liren vs Nepomniachtchi,&nbsp;2023</a><br>
+<p>
+<font size="-1">Apr-11</font><br>
+<font size="-1"><b>Spassibo</b></font><br>
+<a href="/perl/chessgame?gid=1128417">Spassky vs A Reshko,&nbsp;1959</a><br>
+<p>
+<font size="-1">Apr-10</font><br>
+<font size="-1"><b>Why does it always rain on me?</b></font><br>
+<a href="/perl/chessgame?gid=1744236">E Rains vs H Bennett,&nbsp;2014</a><br>
+<p>
+<font size="-1">Apr-09</font><br>
+<font size="-1"><b>Peace, Peace, Thou Hippopotamus!</b></font><br>
+<a href="/perl/chessgame?gid=1984146">Nepomniachtchi vs Wei Yi,&nbsp;2019</a><br>
+<p>
+<font size="-1">Apr-08</font><br>
+<font size="-1"><b>Castle Early and Often?</b></font><br>
+<a href="/perl/chessgame?gid=1442124">Negi vs Lagno,&nbsp;2006</a><br>
+<p>
+<font size="-1">Apr-07</font><br>
+<font size="-1"><b>The Long Good Friday</b></font><br>
+<a href="/perl/chessgame?gid=2468296">T Foster vs P Lalic,&nbsp;2023</a><br>
+<p>
+<font size="-1">Apr-06</font><br>
+<font size="-1"><b>You Picked a Fine Line to Beat Me, Lucille</b></font><br>
+<a href="/perl/chessgame?gid=1785154">W M Byland vs L Kellner,&nbsp;1958</a><br>
+<p>
+<font size="-1">Apr-05</font><br>
+<font size="-1"><b>Ginger Spice</b></font><br>
+<a href="/perl/chessgame?gid=2467913">S Williams vs A Rakhmangulova,&nbsp;2023</a><br>
+<p>
+<font size="-1">Apr-04</font><br>
+<font size="-1"><b>Stormy Daniels</b></font><br>
+<a href="/perl/chessgame?gid=2470091">NN vs E Daniels,&nbsp;1842</a><br>
+<p>
+<font size="-1">Apr-03</font><br>
+<font size="-1"><b>Veni, Vidi, WC</b></font><br>
+<a href="/perl/chessgame?gid=1431154">Kramnik vs Topalov,&nbsp;2006</a><br>
+<p>
+<font size="-1">Apr-02</font><br>
+<font size="-1"><b>Flight Risk</b></font><br>
+<a href="/perl/chessgame?gid=1028146">Bird vs Lasker,&nbsp;1890</a><br>
+<p>
+<font size="-1">Apr-01</font><br>
+<font size="-1"><b>You Give Love a Bad Name</b></font><br>
+<a href="/perl/chessgame?gid=1536628">A J Love vs K Jensen,&nbsp;1979</a><br>
+<p>
+<font size="-1">Mar-31</font><br>
+<font size="-1"><b>Gestalt Mode</b></font><br>
+<a href="/perl/chessgame?gid=1007914">Bogoljubov vs Nimzowitsch,&nbsp;1930</a><br>
+<p>
+<font size="-1">Mar-30</font><br>
+<font size="-1"><b>Hararikiri</b></font><br>
+<a href="/perl/chessgame?gid=1740861">C Crouch vs Z Harari,&nbsp;2013</a><br>
+<p>
+<font size="-1">Mar-29</font><br>
+<font size="-1"><b>Prosecute F Ouchi</b></font><br>
+<a href="/perl/chessgame?gid=2069349">E L Dayton vs F Ouchi,&nbsp;1952</a><br>
+<p>
+<font size="-1">Mar-28</font><br>
+<font size="-1"><b>Jack the Ripper</b></font><br>
+<a href="/perl/chessgame?gid=1092894">J Peters vs Lombardy,&nbsp;1977</a><br>
+<p>
+<font size="-1">Mar-27</font><br>
+<font size="-1"><b>Fully Maxinated</b></font><br>
+<a href="/perl/chessgame?gid=1017722">Dlugy vs Alburt,&nbsp;1991</a><br>
+<p>
+<font size="-1">Mar-26</font><br>
+<font size="-1"><b>Twilight of the Idols</b></font><br>
+<a href="/perl/chessgame?gid=1044749">Spassky vs Fischer,&nbsp;1992</a><br>
+<p>
+<font size="-1">Mar-25</font><br>
+<font size="-1"><b>Via Dolorosa</b></font><br>
+<a href="/perl/chessgame?gid=1116661">Ragozin vs Boleslavsky,&nbsp;1953</a><br>
+<p>
+<font size="-1">Mar-24</font><br>
+<font size="-1"><b>Oh, What A Tangled Webb We Weave</b></font><br>
+<a href="/perl/chessgame?gid=1485734">M Stean vs S Webb,&nbsp;1976</a><br>
+<p>
+<font size="-1">Mar-23</font><br>
+<font size="-1"><b>Veni, Vidi, Vincius!</b></font><br>
+<a href="/perl/chessgame?gid=1561555">T Lehtimaki vs M Goncalves,&nbsp;2009</a><br>
+<p>
+<font size="-1">Mar-22</font><br>
+<font size="-1"><b>Bobby Fischer Teaches Czech</b></font><br>
+<a href="/perl/chessgame?gid=1044613">Pachman vs Fischer,&nbsp;1966</a><br>
+<p>
+<font size="-1">Mar-21</font><br>
+<font size="-1"><b>Orange Man Bad!</b></font><br>
+<a href="/perl/chessgame?gid=1808337">Capablanca vs J Orange,&nbsp;1919</a><br>
+<p>
+<font size="-1">Mar-20</font><br>
+<font size="-1"><b>Living Dangerously</b></font><br>
+<a href="/perl/chessgame?gid=2377838">H Hauptmann vs W Nitsche,&nbsp;1955</a><br>
+<p>
+<font size="-1">Mar-19</font><br>
+<font size="-1"><b>Smothering Sunday</b></font><br>
+<a href="/perl/chessgame?gid=1542143">H Reefschlaeger vs C Astengo,&nbsp;2008</a><br>
+<p>
+<font size="-1">Mar-18</font><br>
+<font size="-1"><b>The Way of Walter</b></font><br>
+<a href="/perl/chessgame?gid=1035176">Browne vs V Kovacevic,&nbsp;1970</a><br>
+<p>
+<font size="-1">Mar-17</font><br>
+<font size="-1"><b>Bishop, oh sib</b></font><br>
+<a href="/perl/chessgame?gid=1785254">D Byrne vs R Byrne,&nbsp;1958</a><br>
+<p>
+<font size="-1">Mar-16</font><br>
+<font size="-1"><b>Duda saw part Q trap was a dud</b></font><br>
+<a href="/perl/chessgame?gid=1824739">Duda vs G Gajewski,&nbsp;2016</a><br>
+<p>
+<font size="-1">Mar-15</font><br>
+<font size="-1"><b>K-march vs Q-parade</b></font><br>
+<a href="/perl/chessgame?gid=2460526">Gledura vs G Quparadze,&nbsp;2023</a><br>
+<p>
+<font size="-1">Mar-14</font><br>
+<font size="-1"><b>The Price is Wrong</b></font><br>
+<a href="/perl/chessgame?gid=2360559">A Zapolskis vs G Price,&nbsp;2022</a><br>
+<p>
+<font size="-1">Mar-13</font><br>
+<font size="-1"><b>Kuzubov Cooks Zubov</b></font><br>
+<a href="/perl/chessgame?gid=1778935">Kuzubov vs Zubov,&nbsp;2014</a><br>
+<p>
+<font size="-1">Mar-12</font><br>
+<font size="-1"><b>An American in Paris</b></font><br>
+<a href="/perl/chessgame?gid=1336767">Morphy vs de Riviere,&nbsp;1863</a><br>
+<p>
+<font size="-1">Mar-11</font><br>
+<font size="-1"><b>The Baby Smiles</b></font><br>
+<a href="/perl/chessgame?gid=1013489">L Rellstab vs Alekhine,&nbsp;1942</a><br>
+<p>
+<font size="-1">Mar-10</font><br>
+<font size="-1"><b>London Blitzkrieg</b></font><br>
+<a href="/perl/chessgame?gid=1780428">Nakamura vs Giri,&nbsp;2014</a><br>
+<p>
+<font size="-1">Mar-09</font><br>
+<font size="-1"><b>Braun Over Brain</b></font><br>
+<a href="/perl/chessgame?gid=1565845">A Braun vs S Siebrecht,&nbsp;2005</a><br>
+<p>
+<font size="-1">Mar-08</font><br>
+<font size="-1"><b>Stuck in the Middle with Yue</b></font><br>
+<a href="/perl/chessgame?gid=1652882">D Howell vs Y Wang,&nbsp;2012</a><br>
+<p>
+<font size="-1">Mar-07</font><br>
+<font size="-1"><b>In the Year 25 25</b></font><br>
+<a href="/perl/chessgame?gid=1007272">Nimzowitsch vs S Rosselli del Turco,&nbsp;1925</a><br>
+<p>
+<font size="-1">Mar-06</font><br>
+<font size="-1"><b>Yikes!</b></font><br>
+<a href="/perl/chessgame?gid=1243195">Ikes vs Groncki,&nbsp;1960</a><br>
+<p>
+<font size="-1">Mar-05</font><br>
+<font size="-1"><b>Snooker Lupi</b></font><br>
+<a href="/perl/chessgame?gid=1723570">F Lupi vs W Winter,&nbsp;1946</a><br>
+<p>
+<font size="-1">Mar-04</font><br>
+<font size="-1"><b>Lie Back and Think of England</b></font><br>
+<a href="/perl/chessgame?gid=2459722">P Lalic vs A Lundback,&nbsp;2021</a><br>
+<p>
+<font size="-1">Mar-03</font><br>
+<font size="-1"><b>A Win, But Not a Safety Win</b></font><br>
+<a href="/perl/chessgame?gid=1068463">Karpov vs Timman,&nbsp;1986</a><br>
+<p>
+<font size="-1">Mar-02</font><br>
+<font size="-1"><b>Restrain, Blockade and Lose</b></font><br>
+<a href="/perl/chessgame?gid=1102350">Nimzowitsch vs Capablanca,&nbsp;1911</a><br>
+<p>
+<font size="-1">Mar-01</font><br>
+<font size="-1"><b>Unseen b4</b></font><br>
+<a href="/perl/chessgame?gid=1467756">Carlsen vs Onischuk,&nbsp;2007</a><br>
+<p>
+<font size="-1">Feb-28</font><br>
+<font size="-1"><b>All the Pretty Horses</b></font><br>
+<a href="/perl/chessgame?gid=2459740">G Szabo vs N Stepanencu,&nbsp;2023</a><br>
+<p>
+<font size="-1">Feb-27</font><br>
+<font size="-1"><b>Ransom Demands</b></font><br>
+<a href="/perl/chessgame?gid=1380249">Lasker vs H R Bigelow,&nbsp;1926</a><br>
+<p>
+<font size="-1">Feb-26</font><br>
+<font size="-1"><b>Still Kiiking myself</b></font><br>
+<a href="/perl/chessgame?gid=1140805">K Kiik vs Tal,&nbsp;1985</a><br>
+<p>
+<font size="-1">Feb-25</font><br>
+<font size="-1"><b>The Platz thickens!</b></font><br>
+<a href="/perl/chessgame?gid=1044211">Fischer vs J Platz,&nbsp;1964</a><br>
+<p>
+<font size="-1">Feb-24</font><br>
+<font size="-1"><b>Peak Troff</b></font><br>
+<a href="/perl/chessgame?gid=1709061">P Vorontsov vs K Troff,&nbsp;2012</a><br>
+<p>
+<font size="-1">Feb-23</font><br>
+<font size="-1"><b>Ice Cold in Alex</b></font><br>
+<a href="/perl/chessgame?gid=2457700">M Warmerdam vs A Donchenko,&nbsp;2023</a><br>
+<p>
+<font size="-1">Feb-22</font><br>
+<font size="-1"><b>The chess artist formerly known as Prince</b></font><br>
+<a href="/perl/chessgame?gid=1224600">Prince Dadian vs M Bitcham,&nbsp;1892</a><br>
+<p>
+<font size="-1">Feb-21</font><br>
+<font size="-1"><b>German Stock Exchange</b></font><br>
+<a href="/perl/chessgame?gid=1479921">Westerinen vs J Dueball,&nbsp;1971</a><br>
+<p>
+<font size="-1">Feb-20</font><br>
+<font size="-1"><b>Fight to the Finnish</b></font><br>
+<a href="/perl/chessgame?gid=1521609">Nyback vs Carlsen,&nbsp;2008</a><br>
+<p>
+<font size="-1">Feb-19</font><br>
+<font size="-1"><b>'Guly, Adly, Deeply</b></font><br>
+<a href="/perl/chessgame?gid=1702970">Ganguly vs A Adly,&nbsp;2012</a><br>
+<p>
+<font size="-1">Feb-18</font><br>
+<font size="-1"><b>Patty Peper Pinned a Peck of Pearce's Pieces</b></font><br>
+<a href="/perl/chessgame?gid=1224709">Patricia Peper vs G E Pearce,&nbsp;1944</a><br>
+<p>
+<font size="-1">Feb-17</font><br>
+<font size="-1"><b>The Game is Afoot!</b></font><br>
+<a href="/perl/chessgame?gid=1148904">J L Watson vs Z Fayvinov,&nbsp;1993</a><br>
+<p>
+<font size="-1">Feb-16</font><br>
+<font size="-1"><b>LilienFall</b></font><br>
+<a href="/perl/chessgame?gid=1102169">Lilienthal vs R Nezhmetdinov,&nbsp;1954</a><br>
+<p>
+<font size="-1">Feb-15</font><br>
+<font size="-1"><b>I'll Be Bek</b></font><br>
+<a href="/perl/chessgame?gid=2457779">Abdusattorov vs J van Foreest,&nbsp;2023</a><br>
+<p>
+<font size="-1">Feb-14</font><br>
+<font size="-1"><b>Jenay on the Block</b></font><br>
+<a href="/perl/chessgame?gid=1279049">E Jenay vs Steinitz,&nbsp;1860</a><br>
+<p>
+<font size="-1">Feb-13</font><br>
+<font size="-1"><b>When the Ballon goes up...</b></font><br>
+<a href="/perl/chessgame?gid=1140882">Tal vs G Ballon,&nbsp;1986</a><br>
+<p>
+<font size="-1">Feb-12</font><br>
+<font size="-1"><b>Dieterminator</b></font><br>
+<a href="/perl/chessgame?gid=1494242">Nisipeanu vs Carlsen,&nbsp;2008</a><br>
+<p>
+<font size="-1">Feb-11</font><br>
+<font size="-1"><b>Homage to Catalonia</b></font><br>
+<a href="/perl/chessgame?gid=1330538">Tartakower vs J Torres Caravaca,&nbsp;1929</a><br>
+<p>
+<font size="-1">Feb-10</font><br>
+<font size="-1"><b>Stupak Shaker</b></font><br>
+<a href="/perl/chessgame?gid=1435412">C Ponizil vs K Stupak,&nbsp;2006</a><br>
+<p>
+<font size="-1">Feb-09</font><br>
+<font size="-1"><b>Leko of the Passed</b></font><br>
+<a href="/perl/chessgame?gid=1628261">Ivanchuk vs Leko,&nbsp;2011</a><br>
+<p>
+<font size="-1">Feb-08</font><br>
+<font size="-1"><b>The Female is Deadlier Than the Male</b></font><br>
+<a href="/perl/chessgame?gid=1751274">R M Bruce vs R Bruce,&nbsp;1957</a><br>
+<p>
+<font size="-1">Feb-07</font><br>
+<font size="-1"><b>White Fang</b></font><br>
+<a href="/perl/chessgame?gid=1147526">J Fang vs Van Wely,&nbsp;1993</a><br>
+<p>
+<font size="-1">Feb-06</font><br>
+<font size="-1"><b>Starry, Starry Knight</b></font><br>
+<a href="/perl/chessgame?gid=1845100">V Skatchkov vs Keymer,&nbsp;2016</a><br>
+<p>
+<font size="-1">Feb-05</font><br>
+<font size="-1"><b>Justin Time</b></font><br>
+<a href="/perl/chessgame?gid=2442071">V Kovalev vs Carlsen,&nbsp;2022</a><br>
+<p>
+<font size="-1">Feb-04</font><br>
+<font size="-1"><b>Moose on the loose</b></font><br>
+<a href="/perl/chessgame?gid=2131750">H Berliner vs H Bullwinkel,&nbsp;1955</a><br>
+<p>
+<font size="-1">Feb-03</font><br>
+<font size="-1"><b>RIP Van Wynkele</b></font><br>
+<a href="/perl/chessgame?gid=1079861">H Van de Wynkele vs S Semina,&nbsp;1997</a><br>
+<p>
+<font size="-1">Feb-02</font><br>
+<font size="-1"><b>Barnes & Noble</b></font><br>
+<a href="/perl/chessgame?gid=1258271">T Barnes vs Morphy,&nbsp;1858</a><br>
+<p>
+</font></td></tr></table>
+
+<p>
+<center>
+<i>You</i> can help us find good games (and puns!) to use for our<br>Game of the Day.
+See our <a href="/perl/submitpun">Pun Submission Page</a> for more information.
+</center>
+<p>
+
+</center>
+<div data-aaad='true' data-aa-adunit='/21722279357/970x250_OB_Chessgames'></div>
+	<div class="cgc-ns1 xsm mw-100pct b1s000000 bc-FFFFEE tc-000000 center tcenter tbm10" style="padding:2px;">
+<a href="/index.html">Home</a> |
+<a href="/chessabout.html">About</a> |
+<a href="/perl/chesslogin.pl">Login</a> |
+<a href="/perl/chesslogout.pl">Logout</a> |
+<a href="/chesshelp.html">F.A.Q.</a> |
+<a href="/perl/chessuser">Profile</a> |
+<a href="/perl/chessprofile.pl">Preferences</a> |
+<a href="/perl/chessmembers">Premium&nbsp;Membership</a> |
+<a href="/perl/chessforum.pl">Kibitzer's&nbsp;Caf&eacute;</a> |
+<a href="/perl/bistro.pl">Biographer's&nbsp;Bistro</a> |
+<a href="/perl/chessnew">New&nbsp;Kibitzing</a> |
+<a href="/perl/chessnew?chessforums=1">Chessforums</a> |
+<a href="/perl/tournaments">Tournament Index</a> |
+<a href="/directory/">Player&nbsp;Directory</a> |
+<a href="/perl/goat.pl">Notable&nbsp;Games</a> |
+<a href="/wcc.html">World&nbsp;Chess&nbsp;Championships</a> |
+<a href="/perl/explorer">Opening&nbsp;Explorer</a> |
+<a href="/perl/guessthemove">Guess&nbsp;the&nbsp;Move</a> |
+<a href="/perl/collections">Game&nbsp;Collections</a> |
+<a href="/bookie.html">ChessBookie&nbsp;Game</a> |
+<a href="/perl/challenge">Chessgames Challenge</a> |
+<a href="https://store.chessgames.com">Store</a> |
+<a href="/chessprivacy.html">Privacy&nbsp;Notice</a> |
+<a href="mailto:chess@chessgames.com">Contact&nbsp;Us</a></div>
+<p class="cgc-ns1 center tcenter xxsm tbm5">Copyright 2001-2024, Chessgames Services LLC</p>
+
+<pre>
+
+
+
+
+
+
+
+
+
+
+
+</pre>
+
+</body>
+</html>
