@@ -21,7 +21,8 @@
     "cheerio": "^1.0.0-rc.2",
     "copy": "^0.3.1",
     "del": "^3.0.0",
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "puppeteer": "^22.0.0"
   },
   "dependencies": {
     "undici": "^5.10.0"
