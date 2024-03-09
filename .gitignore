@@ -20,3 +20,4 @@ selenium-debug.log
 /*.zip
 
 package-lock.json
+pnpm-lock.yaml

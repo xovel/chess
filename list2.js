@@ -22,7 +22,7 @@ async function fetchList() {
 
   const page = await browser.newPage();
 
-  for (item of list) {
+  for (const item of list) {
 
     const curFile = path.join(__dirname, 'pgn', `${item.date}-${item.id}.pgn`);
 
