@@ -1,0 +1,29 @@
+[Event "Budapest Tungsram"]
+[Site "Budapest HUN"]
+[Date "1975.03.??"]
+[EventDate "1975.03.00"]
+[Round "5"]
+[Result "0-1"]
+[White "Ivan Farago"]
+[Black "Pertti Poutiainen"]
+[ECO "A89"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1. d4 {Notes by Florian from Informant} g6 2. c4 f5 3. g3 Nf6
+4. Bg2 Bg7 5. Nf3 O-O 6. Nc3 d6 7. O-O Nc6 8. d5 Ne5 9. Nxe5
+dxe5 10. e4 f4 11. b4 g5 12. Re1 a6 13. Bb2 Qe8 14. Rc1 Ng4
+15. Rc2 Qh5 16. h3 f3 {!!} 17. Bxf3 {17. hxg4 Bxg4 18 Bh1 Rf6
+-+; 17. Bf1 Nh6 18 Re3 (18. Kh2 Bxh3; 18. Bg2 Bxh3 19. Bh1
+Bf1!! 20. Bxf3 Rxf3 21. Rxf1 Ng4 22. Kg2 Rxg3+! 23. Kxg3 Qh2+
+24. Kf3 Rf8+ 25. Ke2 Rxf2+ 26. Ke1 Rxf1+ 27. Kxf1 Ne3+ 28. Ke1
+Nxc2+ 29. Kf1 Ne3+) Bxh3 19. Bxh3 Qxh3 20. Rxf3 Ng4 21. Qd3
+Qh2+ 22. Kf1 Qh1+ 23. Ke2 Nxf2! 24. Rxf2 (24. Kxf2 Rf3+
+25. Qf3 Rf8) Rxf2+ 25. Kxf2 Rf8+ 26. Ke2 g4! 27. Nd1 (27. Rc1
+Qg2+ 28. Kd1 Bh6 29. Qe2 Rf1+ 30. Kc2 Rf2) Qg2+ 28. Ke1 Qg1+
+29. Kd2 Rf3 -+} Qxh3 18. Qd3 {18. a4 Qh2+ 19. Kf1 Rxf3!!
+20. Qxf3 Nf6 21. g4 (21. Bc1 Bg4 22. Qg2 Bh3) Bxg4 22. Qg3
+Qh1+ 23. Qg1 Qh3+ 24. Qg2 Qd3+ 25. Kg1 (25. Ree2 Bh3) Qc2 -+}
+Nxf2 {!} 19. Rxf2 {19.Kxf2? Qh2+ 20.Ke3 Rxf3+!! 21.Kxf3 g4+
+22.Ke3 Bh6#} Qxg3+ 20. Kf1 Bh3+ 21. Ke2 g4 0-1

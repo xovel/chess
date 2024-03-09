@@ -1,0 +1,17 @@
+[Event "Internet exhibition game"]
+[Site "Berlin GER / New York, NY USA"]
+[Date "2000.03.15"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Boris Becker"]
+[Black "Garry Kasparov"]
+[ECO "C20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "35"]
+
+1.e4 e5 2.Qh5 Nc6 3.Qf3 Nd4 4.Qc3 Nf6 5.f3 g6 6.Ne2 c5 7.Nxd4
+cxd4 8.Qb3 Bg7 9.Bc4 O-O 10.c3 d5 11.Be2 d3 12.Bxd3 dxe4
+13.Bxe4 Nxe4 14.fxe4 Qh4+ 15.Kd1 Qxe4 16.Re1 Bg4+ 17.Re2 Qxe2+
+18.Kc2 0-1

@@ -1,0 +1,17 @@
+[Event "Cordoba"]
+[Site "Cordoba ESP"]
+[Date "1991.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Lincoln R Maiztegui Casas"]
+[Black "Santiago Bellido Gonzalez"]
+[ECO "C55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "33"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 d6 5.Ng5 d5 6.exd5 Nxd5
+7.Nxf7 Kxf7 8.Qf3+ Ke6 9.Nc3 Nxd4 10.Bxd5+ Kd6 11.Qf7 Bf5
+12.b3 Bg6 13.Ba3+ c5 14.Qxb7 Rb8 15.Nb5+ Nxb5 16.Qc6+ Ke7
+17.Qe6# 1-0

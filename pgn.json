@@ -1,6 +1,182 @@
 {
-  "update": "2024-02-17",
+  "update": "2024-03-09",
   "list": [
+    {
+      "date": "2024-03-09",
+      "year": "2013",
+      "players": "D Klein vs Romanishin",
+      "link": "/perl/chessgame?gid=1705191",
+      "id": "1705191",
+      "note": "D Klein and Fall of the Roman Empire"
+    },
+    {
+      "date": "2024-03-08",
+      "year": "2000",
+      "players": "B Becker vs Kasparov",
+      "link": "/perl/chessgame?gid=1313969",
+      "id": "1313969",
+      "note": "The Taking of Parham 123"
+    },
+    {
+      "date": "2024-03-07",
+      "year": "2020",
+      "players": "Nepomniachtchi vs Carlsen",
+      "link": "/perl/chessgame?gid=2003467",
+      "id": "2003467",
+      "note": "Ethnic Champion"
+    },
+    {
+      "date": "2024-03-06",
+      "year": "1896",
+      "players": "Schiffers vs Pillsbury",
+      "link": "/perl/chessgame?gid=1109113",
+      "id": "1109113",
+      "note": "Schiffers Regal"
+    },
+    {
+      "date": "2024-03-05",
+      "year": "1975",
+      "players": "I Farago vs P Poutiainen",
+      "link": "/perl/chessgame?gid=1450514",
+      "id": "1450514",
+      "note": "You Better Not Pout"
+    },
+    {
+      "date": "2024-03-04",
+      "year": "1911",
+      "players": "Capablanca vs Janowski",
+      "link": "/perl/chessgame?gid=1064741",
+      "id": "1064741",
+      "note": "Goliath Beats David"
+    },
+    {
+      "date": "2024-03-03",
+      "year": "2024",
+      "players": "V Finek vs E Gurel",
+      "link": "/perl/chessgame?gid=2668320",
+      "id": "2668320",
+      "note": "The Young Turk"
+    },
+    {
+      "date": "2024-03-02",
+      "year": "1909",
+      "players": "Spielmann vs Rubinstein",
+      "link": "/perl/chessgame?gid=1130714",
+      "id": "1130714",
+      "note": "Witchcraft!"
+    },
+    {
+      "date": "2024-03-01",
+      "year": "2008",
+      "players": "P Acs vs Vachier-Lagrave",
+      "link": "/perl/chessgame?gid=1499366",
+      "id": "1499366",
+      "note": "Acs Murderer"
+    },
+    {
+      "date": "2024-02-29",
+      "year": "2000",
+      "players": "I Akimov vs A Pridorozhni",
+      "link": "/perl/chessgame?gid=2336543",
+      "id": "2336543",
+      "note": "Go Long!"
+    },
+    {
+      "date": "2024-02-28",
+      "year": "1983",
+      "players": "Karpov vs Yusupov",
+      "link": "/perl/chessgame?gid=1068393",
+      "id": "1068393",
+      "note": "Bringing a Knight to a Gunfight"
+    },
+    {
+      "date": "2024-02-27",
+      "year": "1972",
+      "players": "R Stoutenborough vs L Gilden",
+      "link": "/perl/chessgame?gid=1434512",
+      "id": "1434512",
+      "note": "Gilden the Lily"
+    },
+    {
+      "date": "2024-02-26",
+      "year": "2015",
+      "players": "Timman vs A Haast",
+      "link": "/perl/chessgame?gid=1782599",
+      "id": "1782599",
+      "note": "Haasta La Vista, Baby!"
+    },
+    {
+      "date": "2024-02-25",
+      "year": "1991",
+      "players": "L Maiztegui vs S Bellido Gonzalez",
+      "link": "/perl/chessgame?gid=1226136",
+      "id": "1226136",
+      "note": "The Lincoln Memorial"
+    },
+    {
+      "date": "2024-02-24",
+      "year": "1916",
+      "players": "A Evenson vs Alekhine",
+      "link": "/perl/chessgame?gid=1011981",
+      "id": "1011981",
+      "note": "We're not Even, son"
+    },
+    {
+      "date": "2024-02-23",
+      "year": "1885",
+      "players": "E Schallopp vs W Pollock",
+      "link": "/perl/chessgame?gid=1756538",
+      "id": "1756538",
+      "note": "There's Always a Bigger Fish"
+    },
+    {
+      "date": "2024-02-22",
+      "year": "2015",
+      "players": "T Nabaty vs E Alekseev",
+      "link": "/perl/chessgame?gid=1786426",
+      "id": "1786426",
+      "note": "O Jerusalem!"
+    },
+    {
+      "date": "2024-02-21",
+      "year": "1929",
+      "players": "H Mattison vs Rubinstein",
+      "link": "/perl/chessgame?gid=1066873",
+      "id": "1066873",
+      "note": "Exchange student"
+    },
+    {
+      "date": "2024-02-20",
+      "year": "2021",
+      "players": "Mamedyarov vs Shankland",
+      "link": "/perl/chessgame?gid=2070202",
+      "id": "2070202",
+      "note": "Wham Sam, Thank You Mam!"
+    },
+    {
+      "date": "2024-02-20",
+      "year": "2011",
+      "players": "Onischuk vs I Ivanisevic",
+      "link": "/perl/chessgame?gid=1633041",
+      "id": "1633041",
+      "note": "Gorin' Ivanisevic"
+    },
+    {
+      "date": "2024-02-19",
+      "year": "1877",
+      "players": "Paulsen / Goring / Metger vs Anderssen / Zukertort / Schmid",
+      "link": "/perl/chessgame?gid=1459094",
+      "id": "1459094",
+      "note": "They have the geniuses, we have the nincompoops."
+    },
+    {
+      "date": "2024-02-18",
+      "year": "1931",
+      "players": "Capablanca vs Park Avenue CC",
+      "link": "/perl/chessgame?gid=1793355",
+      "id": "1793355",
+      "note": "You Had to Be A Big Shot, Didn't You?"
+    },
     {
       "date": "2024-02-17",
       "year": "1854",
