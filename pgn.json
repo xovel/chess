@@ -1,6 +1,118 @@
 {
-  "update": "2024-03-09",
+  "update": "2024-03-23",
   "list": [
+    {
+      "date": "2024-03-23",
+      "year": "2019",
+      "players": "Caruana vs Nepomniachtchi",
+      "link": "/perl/chessgame?gid=1971637",
+      "id": "1971637",
+      "note": "B2 or not b2. That is the Qa7."
+    },
+    {
+      "date": "2024-03-22",
+      "year": "1931",
+      "players": "J Addicks vs Duchamp",
+      "link": "/perl/chessgame?gid=1606294",
+      "id": "1606294",
+      "note": "The Artist's Geometry"
+    },
+    {
+      "date": "2024-03-21",
+      "year": "2016",
+      "players": "Lupulescu vs G Papp",
+      "link": "/perl/chessgame?gid=1847766",
+      "id": "1847766",
+      "note": "The Gift of Gab"
+    },
+    {
+      "date": "2024-03-20",
+      "year": "1970",
+      "players": "Fischer vs Huebner",
+      "link": "/perl/chessgame?gid=1044306",
+      "id": "1044306",
+      "note": "The Other Bobby"
+    },
+    {
+      "date": "2024-03-19",
+      "year": "1988",
+      "players": "J Tisdall vs Polgar",
+      "link": "/perl/chessgame?gid=1110785",
+      "id": "1110785",
+      "note": "T'isdall She Wrote"
+    },
+    {
+      "date": "2024-03-18",
+      "year": "1900",
+      "players": "T Physick vs S Passmore",
+      "link": "/perl/chessgame?gid=1710355",
+      "id": "1710355",
+      "note": "Quantum Physick"
+    },
+    {
+      "date": "2024-03-17",
+      "year": "2019",
+      "players": "A Moiseenko vs K Korley",
+      "link": "/perl/chessgame?gid=1968792",
+      "id": "1968792",
+      "note": "Mi Kassa Su Kassa"
+    },
+    {
+      "date": "2024-03-16",
+      "year": "2013",
+      "players": "S Jensen vs F Urkedal",
+      "link": "/perl/chessgame?gid=1710911",
+      "id": "1710911",
+      "note": "Those Who Forget Theory"
+    },
+    {
+      "date": "2024-03-15",
+      "year": "1909",
+      "players": "F Lazard vs A Gibaud",
+      "link": "/perl/chessgame?gid=1281613",
+      "id": "1281613",
+      "note": "Lazard Precision"
+    },
+    {
+      "date": "2024-03-14",
+      "year": "2002",
+      "players": "Lagno vs D Howell",
+      "link": "/perl/chessgame?gid=1306838",
+      "id": "1306838",
+      "note": "Kat Man Do"
+    },
+    {
+      "date": "2024-03-13",
+      "year": "1982",
+      "players": "H Cording vs H Schuh",
+      "link": "/perl/chessgame?gid=1413674",
+      "id": "1413674",
+      "note": "Wil's Taming of the Schuh"
+    },
+    {
+      "date": "2024-03-12",
+      "year": "2001",
+      "players": "M Golubev vs V Podinic",
+      "link": "/perl/chessgame?gid=1203548",
+      "id": "1203548",
+      "note": "The Poisoned Exchange Game"
+    },
+    {
+      "date": "2024-03-11",
+      "year": "1902",
+      "players": "J Mason vs Janowski",
+      "link": "/perl/chessgame?gid=1064609",
+      "id": "1064609",
+      "note": "Who But Mason?"
+    },
+    {
+      "date": "2024-03-10",
+      "year": "1968",
+      "players": "D Welsh vs J Dunning",
+      "link": "/perl/chessgame?gid=1586750",
+      "id": "1586750",
+      "note": "Welsh Rare Bits"
+    },
     {
       "date": "2024-03-09",
       "year": "2013",

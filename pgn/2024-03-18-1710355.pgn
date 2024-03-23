@@ -1,0 +1,20 @@
+[Event "London"]
+[Site "London ENG"]
+[Date "1900.04.20"]
+[EventDate "1900.04.05"]
+[Round "6"]
+[Result "1-0"]
+[White "Thomas Physick"]
+[Black "Samuel Passmore"]
+[ECO "C11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "57"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. exd5 exd5 5. Bd3 Bd6 6. Qe2+
+Qe7 7. Nb5 Bb4+ 8. c3 Qxe2+ 9. Nxe2 Ba5 10. Bf4 Na6 11. b4 Bb6
+12. a4 c6 13. Nd6+ Ke7 14. b5 Nb8 15. Ng3 Ba5 16. Kd2 Rd8
+17. Nxc8+ Rxc8 18. Nf5+ Kf8 19. Bd6+ Ke8 20. Rhe1+ Kd8
+21. Nxg7 Nbd7 22. Be7+ Kc7 23. bxc6 bxc6 24. Bxf6 Nxf6
+25. Re7+ Nd7 26. Bf5 Rd8 27. Rxf7 Kd6 28. Ne8+ Rxe8 29. Rxd7#
+1-0

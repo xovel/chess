@@ -20,7 +20,14 @@ async function fetchList() {
     headless: false,
   });
 
-  const page = await browser.newPage();
+  let page;
+  const pages = await browser.pages();
+
+  if (pages[0]) {
+    page = pages[0]
+  } else {
+    page = await browser.newPage();
+  }
 
   for (const item of list) {
 
