@@ -1,0 +1,17 @@
+[Event "Odessa"]
+[Site "Odessa URS"]
+[Date "1976.08.??"]
+[EventDate "?"]
+[Round "9"]
+[Result "0-1"]
+[White "Enrico Paoli"]
+[Black "David Bronstein"]
+[ECO "C09"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "40"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 exd5 5.Ngf3 Nc6 6.Bb5 Bd6
+7.O-O Nge7 8.dxc5 Bxc5 9.Nb3 Bd6 10.Nbd4 O-O 11.Bg5 f6 12.Bh4
+Qb6 13.Re1 Nxd4 14.Nxd4 Ng6 15.Bg3 Be5 16.c3 Bxd4 17.Bd3 Be5
+18.Bxg6 hxg6 19.Qxd5+ Be6 20.Qe4 Bxg3 0-1

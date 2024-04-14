@@ -1,0 +1,17 @@
+[Event "London"]
+[Site "London ENG"]
+[Date "1918.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Charles Wreford Brown"]
+[Black "Gibbs"]
+[ECO "C55"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "British Chess Magazine, September 1939, p.405"]
+[PlyCount "29"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.O-O Nf6 5.d4 exd4 6.e5 d5 7.exf6
+dxc4 8.Re1+ Kf8 9.Bg5 gxf6 10.Bh6+ Kg8 11.Nc3 Bg4 12.Ne4 Bb6
+13.Qe2 Ne5 14.Nxe5 Bxe2 15.Nd7 1-0
