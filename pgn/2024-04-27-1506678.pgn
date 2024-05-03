@@ -1,0 +1,40 @@
+[Event "Open Chrudim-92"]
+[Site "Chrudim CSR"]
+[Date "1992.08.12"]
+[EventDate "?"]
+[Round "5"]
+[Result "1-0"]
+[White "Varlam Vepkhvishvili"]
+[Black "Sikovsky"]
+[ECO "B74"]
+[WhiteElo "2359"]
+[BlackElo "?"]
+[PlyCount "279"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be2 Bg7 7.O-O
+O-O 8.Be3 Nc6 9.Nb3 a5 10.a4 Be6 11.f4 Rc8 12.f5 Bd7 13.g4 Kh8
+14.g5 Ng8 15.Nd5 Bxb2 16.Rb1 Be5 17.Nb6 Rb8 18.fxg6 hxg6
+19.Bg4 e6 20.Nc5 Bc8 21.Nd3 Bd4 22.Bxd4+ Nxd4 23.Nf2 Qxg5
+24.Nxc8 e5 25.Nxd6 f5 26.exf5 gxf5 27.c3 Nc6 28.h4 Qg7 29.Rb5
+fxg4 30.Qxg4 Nh6 31.Qxg7+ Kxg7 32.Nfe4 Rxf1+ 33.Kxf1 Kg6
+34.Nxb7 Kh5 35.Ned6 Kxh4 36.Rc5 Nd8 37.Nxa5 Rb1+ 38.Ke2 Ra1
+39.Rc4+ Kg3 40.Nb3 Ra2+ 41.Kd3 Ne6 42.Ne4+ Kg2 43.Rb4 Ng4
+44.a5 Nf4+ 45.Kc4 Ne3+ 46.Kb5 Nfd5 47.a6 Nxb4 48.cxb4 Rxa6
+49.Kxa6 Nd5 50.b5 Nc7+ 51.Kb6 Nxb5 52.Kxb5 Kf3 53.Nbc5 Kf4
+54.Kc4 Kf5 55.Kd3 Kf4 56.Ke2 Kf5 57.Kf3 Kg6 58.Kg4 Kf7 59.Kf5
+Ke7 60.Kg6 Kd8 61.Kf6 Kc7 62.Ke6 Kc6 63.Nd3 Kb5 64.Kd5 Kb6
+65.Kd6 Kb5 66.Nb2 Kb4 67.Kd5 Kb5 68.Nc4 Kb4 69.Ncd6 Kb3 70.Kc5
+Kc2 71.Kc4 Kd1 72.Kd3 Ke1 73.Nf5 Kf1 74.Kd2 Kg1 75.Ke3 Kf1
+76.Nh4 Ke1 77.Ng2+ Kd1 78.Kd3 Kc1 79.Ne3 Kb2 80.Kc4 Ka3 81.Nd5
+Kb2 82.Nb4 Ka3 83.Kb5 Kb3 84.Nd5 Kc2 85.Kc4 Kb2 86.Ne3 Ka3
+87.Nd1 Ka4 88.Nb2+ Ka5 89.Kc5 Ka6 90.Nc4 Kb7 91.Kd6 Kc8 92.Na5
+Kd8 93.Nb7+ Ke8 94.Ke6 Kf8 95.Nbd6 Kg7 96.Ne8+ Kg6 97.N8f6 Kg7
+98.Kf5 Kf7 99.Nd5 Kg7 100.Ng5 e4 101.Ne3 Kf8 102.Ke6 Kg7
+103.Nf7 Kg6 104.Nd6 Kg5 105.Ke5 Kg6 106.Ne8 Kg5 107.Nf6 Kg6
+108.Nfd5 Kf7 109.Kd6 Kg7 110.Ke6 Kg6 111.Nf4+ Kg5 112.Ke5 Kh4
+113.Ne2 Kg5 114.Nd4 Kg6 115.Ne6 Kf7 116.Kd6 Kf6 117.Nd8 Kg5
+118.Ke5 Kg6 119.Nc6 Kf7 120.Kf5 Kg7 121.Nd8 Kf8 122.Ke6 Kg7
+123.Nc6 Kf8 124.Ne5 Kg7 125.Ke7 Kg8 126.Nd7 Kg7 127.Nf8 Kh6
+128.Kf6 Kh5 129.Ng6 Kh6 130.Nf4 Kh7 131.Ne6 Kh6 132.Ng7 Kh7
+133.Ngf5 Kg8 134.Ke7 Kh8 135.Kf8 Kh7 136.Kf7 Kh8 137.Ne7 Kh7
+138.Ng8 Kh8 139.Nf5 e3 140.Nf6 1-0

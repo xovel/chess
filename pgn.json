@@ -1,6 +1,166 @@
 {
-  "update": "2024-04-14",
+  "update": "2024-05-03",
   "list": [
+    {
+      "date": "2024-05-03",
+      "year": "1994",
+      "players": "A Gokhale vs A Deshmukh",
+      "link": "/perl/chessgame?gid=2674072",
+      "id": "2674072",
+      "note": "Pun: \"Anupama: 'I Won! Now I Am A Pun, Anup!'\""
+    },
+    {
+      "date": "2024-05-02",
+      "year": "2013",
+      "players": "B Hague vs M Steadman",
+      "link": "/perl/chessgame?gid=1704613",
+      "id": "1704613",
+      "note": "Feast in Time of Hague"
+    },
+    {
+      "date": "2024-05-01",
+      "year": "1996",
+      "players": "F Rhine vs A Boerkoel",
+      "link": "/perl/chessgame?gid=1485520",
+      "id": "1485520",
+      "note": "Das Rhinegold"
+    },
+    {
+      "date": "2024-04-30",
+      "year": "1989",
+      "players": "Chiburdanidze vs Miles",
+      "link": "/perl/chessgame?gid=1098065",
+      "id": "1098065",
+      "note": "A Miss Is As Good As a Miles"
+    },
+    {
+      "date": "2024-04-29",
+      "year": "1969",
+      "players": "Tal vs I Platonov",
+      "link": "/perl/chessgame?gid=1109269",
+      "id": "1109269",
+      "note": "The Tal Err They Come"
+    },
+    {
+      "date": "2024-04-28",
+      "year": "2021",
+      "players": "V Erdos vs Firouzja",
+      "link": "/perl/chessgame?gid=2099629",
+      "id": "2099629",
+      "note": "Got Erdos Number"
+    },
+    {
+      "date": "2024-04-27",
+      "year": "1992",
+      "players": "V Vepkhvishvili vs Sikovsky",
+      "link": "/perl/chessgame?gid=1506678",
+      "id": "1506678",
+      "note": "Varlam Renaissance"
+    },
+    {
+      "date": "2024-04-26",
+      "year": "1986",
+      "players": "Shirov vs Sakaev",
+      "link": "/perl/chessgame?gid=1123099",
+      "id": "1123099",
+      "note": "London Is Burning"
+    },
+    {
+      "date": "2024-04-25",
+      "year": "1992",
+      "players": "P Delekta vs Geller",
+      "link": "/perl/chessgame?gid=1050591",
+      "id": "1050591",
+      "note": "In Flagrante Delekta"
+    },
+    {
+      "date": "2024-04-24",
+      "year": "1967",
+      "players": "Timman vs Huebner",
+      "link": "/perl/chessgame?gid=1141748",
+      "id": "1141748",
+      "note": "Whatever Happened to Baby Jan?"
+    },
+    {
+      "date": "2024-04-23",
+      "year": "2023",
+      "players": "N Sarin vs Aronian",
+      "link": "/perl/chessgame?gid=2562343",
+      "id": "2562343",
+      "note": "Nihal Diamond, Lev on the Rocks"
+    },
+    {
+      "date": "2024-04-22",
+      "year": "2014",
+      "players": "Aronian vs Van Wely",
+      "link": "/perl/chessgame?gid=1744586",
+      "id": "1744586",
+      "note": "Double Dutch"
+    },
+    {
+      "date": "2024-04-21",
+      "year": "1968",
+      "players": "Browne vs K Bachmann",
+      "link": "/perl/chessgame?gid=1701210",
+      "id": "1701210",
+      "note": "The Prospect of Whitby"
+    },
+    {
+      "date": "2024-04-20",
+      "year": "2016",
+      "players": "J Tomczak vs Navara",
+      "link": "/perl/chessgame?gid=1825186",
+      "id": "1825186",
+      "note": "A Lublin Drubbin'"
+    },
+    {
+      "date": "2024-04-19",
+      "year": "1862",
+      "players": "J Taylor vs NN",
+      "link": "/perl/chessgame?gid=1336733",
+      "id": "1336733",
+      "note": "Highway to Hell"
+    },
+    {
+      "date": "2024-04-18",
+      "year": "1923",
+      "players": "O Tenner vs R T Black",
+      "link": "/perl/chessgame?gid=1459259",
+      "id": "1459259",
+      "note": "The Black Queen's Immortal"
+    },
+    {
+      "date": "2024-04-17",
+      "year": "1856",
+      "players": "T Loyd vs I Loyd",
+      "link": "/perl/chessgame?gid=1336386",
+      "id": "1336386",
+      "note": "O Brother, Where art thou?"
+    },
+    {
+      "date": "2024-04-16",
+      "year": "2014",
+      "players": "G Jones vs J Le Roux",
+      "link": "/perl/chessgame?gid=1763589",
+      "id": "1763589",
+      "note": "The Rolling Jones"
+    },
+    {
+      "date": "2024-04-15",
+      "year": "2021",
+      "players": "Mamedyarov vs Shankland",
+      "link": "/perl/chessgame?gid=2070202",
+      "id": "2070202",
+      "note": "Wham Sam, Thank You Mam!"
+    },
+    {
+      "date": "2024-04-15",
+      "year": "1932",
+      "players": "Von Feilitzsch vs Keres",
+      "link": "/perl/chessgame?gid=1073520",
+      "id": "1073520",
+      "note": "En Prised Wide Open"
+    },
     {
       "date": "2024-04-14",
       "year": "2024",
