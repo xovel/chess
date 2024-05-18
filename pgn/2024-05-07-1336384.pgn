@@ -1,0 +1,18 @@
+[Event "Odds game"]
+[Site "USA"]
+[Date "1855.??.??"]
+[Round "?"]
+[White "Alexander Beaufort Meek"]
+[Black "NN"]
+[Result "1-0"]
+[Source "(American) Chess Monthly, vol.i, September 1857, p.280"]
+[SourceNote "No date or location"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/1NBQKBNR w Kkq - 0 1"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "13"]
+
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. Nc3 dxe4 5. Nxe4 Bg4 6. Qe2 Bxf3 7. Nf6# 1-0

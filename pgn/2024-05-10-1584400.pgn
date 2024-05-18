@@ -1,0 +1,17 @@
+[Event "Boeblingen Open"]
+[Site "Boeblingen GER"]
+[Date "1997.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Martin Sinner"]
+[Black "Normunds Miezis"]
+[ECO "B28"]
+[WhiteElo "?"]
+[BlackElo "2555"]
+[PlyCount "40"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bc4 Nf6 6.Nc3 b5 7.Bb3
+b4 8.e5 bxc3 9.exf6 Qxf6 10.bxc3 Bb7 11.Qg4 Qe5+ 12.Be3 h5
+13.Qh3 g5 14.O-O g4 15.Qg3 Qe4 16.Bg5 h4 17.f3 Qxd4+ 18.cxd4
+hxg3 19.d5 Bc5+ 20.Kh1 Rxh2# 0-1

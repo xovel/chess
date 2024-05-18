@@ -1,6 +1,126 @@
 {
-  "update": "2024-05-03",
+  "update": "2024-05-18",
   "list": [
+    {
+      "date": "2024-05-18",
+      "year": "2013",
+      "players": "G P Arnaudov vs E Moser",
+      "link": "/perl/chessgame?gid=2012995",
+      "id": "2012995",
+      "note": "Low GPA"
+    },
+    {
+      "date": "2024-05-17",
+      "year": "1923",
+      "players": "NN vs R Crepeaux",
+      "link": "/perl/chessgame?gid=1242918",
+      "id": "1242918",
+      "note": "Jeepers Crepeaux"
+    },
+    {
+      "date": "2024-05-16",
+      "year": "2014",
+      "players": "Van Wely vs L'Ami",
+      "link": "/perl/chessgame?gid=1761744",
+      "id": "1761744",
+      "note": "Loek at this miniature!"
+    },
+    {
+      "date": "2024-05-15",
+      "year": "1989",
+      "players": "D Anic vs Larsen",
+      "link": "/perl/chessgame?gid=1318825",
+      "id": "1318825",
+      "note": "Dark Antic"
+    },
+    {
+      "date": "2024-05-14",
+      "year": "1934",
+      "players": "Stahlberg vs Alekhine",
+      "link": "/perl/chessgame?gid=1008094",
+      "id": "1008094",
+      "note": "Stahl Crazy After All These Years"
+    },
+    {
+      "date": "2024-05-13",
+      "year": "2005",
+      "players": "D Howell vs J Levitt",
+      "link": "/perl/chessgame?gid=1358286",
+      "id": "1358286",
+      "note": "Levitt to Beaver"
+    },
+    {
+      "date": "2024-05-12",
+      "year": "1912",
+      "players": "K Raush vs I Rabinovich",
+      "link": "/perl/chessgame?gid=1590037",
+      "id": "1590037",
+      "note": "Baron Rausch's Narrative of his Marvellous Travels and Campaigns in Russia"
+    },
+    {
+      "date": "2024-05-11",
+      "year": "1977",
+      "players": "Kasparov vs A Negulescu",
+      "link": "/perl/chessgame?gid=1069630",
+      "id": "1069630",
+      "note": "Yo Adrian - I did it!"
+    },
+    {
+      "date": "2024-05-10",
+      "year": "1997",
+      "players": "M Sinner vs N Miezis",
+      "link": "/perl/chessgame?gid=1584400",
+      "id": "1584400",
+      "note": "Love the Sin, Mate the Sinner"
+    },
+    {
+      "date": "2024-05-09",
+      "year": "2018",
+      "players": "K Kamer vs D Arcuti",
+      "link": "/perl/chessgame?gid=1936350",
+      "id": "1936350",
+      "note": "Davide and Conquer"
+    },
+    {
+      "date": "2024-05-08",
+      "year": "1973",
+      "players": "Miles vs Dake",
+      "link": "/perl/chessgame?gid=1434754",
+      "id": "1434754",
+      "note": "Breakin' Down The Walls Of Art Dake"
+    },
+    {
+      "date": "2024-05-07",
+      "year": "1855",
+      "players": "A Meek vs NN",
+      "link": "/perl/chessgame?gid=1336384",
+      "id": "1336384",
+      "note": "The Meek Shall Inherit"
+    },
+    {
+      "date": "2024-05-06",
+      "year": "1963",
+      "players": "Portisch vs K Honfi",
+      "link": "/perl/chessgame?gid=1113049",
+      "id": "1113049",
+      "note": "A Taste of Honfi"
+    },
+    {
+      "date": "2024-05-05",
+      "year": "1879",
+      "players": "Bird vs Blackburne",
+      "link": "/perl/chessgame?gid=1028044",
+      "id": "1028044",
+      "note": "Birdie Num Num"
+    },
+    {
+      "date": "2024-05-04",
+      "year": "1872",
+      "players": "J O Bourne vs C G Heydon",
+      "link": "/perl/chessgame?gid=1739412",
+      "id": "1739412",
+      "note": "The Bourne Nemesis"
+    },
     {
       "date": "2024-05-03",
       "year": "1994",
