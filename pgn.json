@@ -1,6 +1,78 @@
 {
-  "update": "2024-05-18",
+  "update": "2024-05-26",
   "list": [
+    {
+      "date": "2024-05-26",
+      "year": "1985",
+      "players": "Suba vs S Kindermann",
+      "link": "/perl/chessgame?gid=1133851",
+      "id": "1133851",
+      "note": "Suba-Mann"
+    },
+    {
+      "date": "2024-05-25",
+      "year": "2015",
+      "players": "Ding Liren vs Giri",
+      "link": "/perl/chessgame?gid=1807350",
+      "id": "1807350",
+      "note": "Checkmate now or forever hold your piece"
+    },
+    {
+      "date": "2024-05-24",
+      "year": "2011",
+      "players": "McShane vs Wojtaszek",
+      "link": "/perl/chessgame?gid=1604464",
+      "id": "1604464",
+      "note": "May the Fork be With You"
+    },
+    {
+      "date": "2024-05-23",
+      "year": "1971",
+      "players": "K Winterton vs L Day",
+      "link": "/perl/chessgame?gid=1495767",
+      "id": "1495767",
+      "note": "Oh My God! Day Killed Kenny!"
+    },
+    {
+      "date": "2024-05-22",
+      "year": "2007",
+      "players": "Korchnoi vs Y Hou",
+      "link": "/perl/chessgame?gid=1469358",
+      "id": "1469358",
+      "note": "Hou On 'til The Knight"
+    },
+    {
+      "date": "2024-05-21",
+      "year": "2001",
+      "players": "M Mascheroni vs M Salami",
+      "link": "/perl/chessgame?gid=1202270",
+      "id": "1202270",
+      "note": "Cold Cuts Before Pasta"
+    },
+    {
+      "date": "2024-05-20",
+      "year": "2021",
+      "players": "Mamedyarov vs Shankland",
+      "link": "/perl/chessgame?gid=2070202",
+      "id": "2070202",
+      "note": "Wham Sam, Thank You Mam!"
+    },
+    {
+      "date": "2024-05-20",
+      "year": "1925",
+      "players": "F Bohatirchuk vs N Zubarev",
+      "link": "/perl/chessgame?gid=1100009",
+      "id": "1100009",
+      "note": "Church And State"
+    },
+    {
+      "date": "2024-05-19",
+      "year": "2024",
+      "players": "V Fedoseev vs A R Saleh Salem",
+      "link": "/perl/chessgame?gid=2704079",
+      "id": "2704079",
+      "note": "Work in Ne5(what a way to make a killin')"
+    },
     {
       "date": "2024-05-18",
       "year": "2013",
