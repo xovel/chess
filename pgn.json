@@ -1,6 +1,174 @@
 {
-  "update": "2024-05-26",
+  "update": "2024-06-15",
   "list": [
+    {
+      "date": "2024-06-15",
+      "year": "1960",
+      "players": "W Pietzsch vs W Golz",
+      "link": "/perl/chessgame?gid=1480757",
+      "id": "1480757",
+      "note": "We Wo'n. Ze Goalz were Peaches"
+    },
+    {
+      "date": "2024-06-14",
+      "year": "1936",
+      "players": "K Richter vs G G Alexandrescu",
+      "link": "/perl/chessgame?gid=1484927",
+      "id": "1484927",
+      "note": "9 on the Richter Scale"
+    },
+    {
+      "date": "2024-06-13",
+      "year": "2001",
+      "players": "Kramnik vs Sadvakasov",
+      "link": "/perl/chessgame?gid=1164552",
+      "id": "1164552",
+      "note": "Sad But True"
+    },
+    {
+      "date": "2024-06-12",
+      "year": "1882",
+      "players": "J Mason vs Dr. S",
+      "link": "/perl/chessgame?gid=1709119",
+      "id": "1709119",
+      "note": "Lord of the Rings"
+    },
+    {
+      "date": "2024-06-11",
+      "year": "1970",
+      "players": "Fischer vs C Garcia Palermo",
+      "link": "/perl/chessgame?gid=1279196",
+      "id": "1279196",
+      "note": "A Whiter Shade of Pale"
+    },
+    {
+      "date": "2024-06-10",
+      "year": "1943",
+      "players": "Smyslov vs Kotov",
+      "link": "/perl/chessgame?gid=1084144",
+      "id": "1084144",
+      "note": "Think Like a World Champion"
+    },
+    {
+      "date": "2024-06-09",
+      "year": "2000",
+      "players": "U Rasmussen vs R Andersen",
+      "link": "/perl/chessgame?gid=1232533",
+      "id": "1232533",
+      "note": "In Praise Uff Folly (Bye Rasmus)"
+    },
+    {
+      "date": "2024-06-08",
+      "year": "2011",
+      "players": "Leko vs Shankland",
+      "link": "/perl/chessgame?gid=1632999",
+      "id": "1632999",
+      "note": "The Samshank Redemption"
+    },
+    {
+      "date": "2024-06-07",
+      "year": "1959",
+      "players": "Benko vs Petrosian",
+      "link": "/perl/chessgame?gid=1106464",
+      "id": "1106464",
+      "note": "Breaking the Benk"
+    },
+    {
+      "date": "2024-06-06",
+      "year": "1939",
+      "players": "Botvinnik vs I Kan",
+      "link": "/perl/chessgame?gid=1031978",
+      "id": "1031978",
+      "note": "Kick The Kan"
+    },
+    {
+      "date": "2024-06-05",
+      "year": "1985",
+      "players": "E Kengis vs Shabalov",
+      "link": "/perl/chessgame?gid=1121258",
+      "id": "1121258",
+      "note": "Kengis Can!"
+    },
+    {
+      "date": "2024-06-04",
+      "year": "1907",
+      "players": "H Wolf vs Rubinstein",
+      "link": "/perl/chessgame?gid=1003775",
+      "id": "1003775",
+      "note": "And The Wolf Drew and Drew"
+    },
+    {
+      "date": "2024-06-03",
+      "year": "2021",
+      "players": "Mamedyarov vs Shankland",
+      "link": "/perl/chessgame?gid=2070202",
+      "id": "2070202",
+      "note": "Wham Sam, Thank You Mam!"
+    },
+    {
+      "date": "2024-06-03",
+      "year": "2015",
+      "players": "A Fier vs R Gao",
+      "link": "/perl/chessgame?gid=1787145",
+      "id": "1787145",
+      "note": "Don't Let the Fier-Gao Out"
+    },
+    {
+      "date": "2024-06-02",
+      "year": "1930",
+      "players": "Saemisch vs Nimzowitsch",
+      "link": "/perl/chessgame?gid=1280626",
+      "id": "1280626",
+      "note": "The Shrinking Box"
+    },
+    {
+      "date": "2024-06-01",
+      "year": "2000",
+      "players": "B Jerratsch vs T Korn",
+      "link": "/perl/chessgame?gid=1234760",
+      "id": "1234760",
+      "note": "Popping Korn"
+    },
+    {
+      "date": "2024-05-31",
+      "year": "2001",
+      "players": "C El Idrissi vs A Laaroussi",
+      "link": "/perl/chessgame?gid=1185074",
+      "id": "1185074",
+      "note": "A Pin, Or Is It?"
+    },
+    {
+      "date": "2024-05-30",
+      "year": "2001",
+      "players": "C Cadman vs S A Taylor",
+      "link": "/perl/chessgame?gid=1198450",
+      "id": "1198450",
+      "note": "Hi, I'm Chucky. Wanna play?"
+    },
+    {
+      "date": "2024-05-29",
+      "year": "1968",
+      "players": "A Planinc vs D Gliksman",
+      "link": "/perl/chessgame?gid=1296931",
+      "id": "1296931",
+      "note": "Hello Darko, My Old Friend"
+    },
+    {
+      "date": "2024-05-28",
+      "year": "2009",
+      "players": "P Maletin vs A Lastin",
+      "link": "/perl/chessgame?gid=1542993",
+      "id": "1542993",
+      "note": "A Lastin Impression"
+    },
+    {
+      "date": "2024-05-27",
+      "year": "1916",
+      "players": "Lasker vs W Preiswerk",
+      "link": "/perl/chessgame?gid=1380220",
+      "id": "1380220",
+      "note": "Preis for the great werk against Lasker"
+    },
     {
       "date": "2024-05-26",
       "year": "1985",

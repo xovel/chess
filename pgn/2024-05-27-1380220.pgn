@@ -1,0 +1,21 @@
+[Event "Simul, 25b"]
+[Site "Zuerich SUI"]
+[Date "1916.04.07"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Emanuel Lasker"]
+[Black "Walter Preiswerk"]
+[ECO "D33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "78"]
+
+1.d4 d5 2.Nf3 e6 3.c4 c5 4.cxd5 exd5 5.Nc3 Nc6 6.g3 cxd4
+7.Nxd4 Bc5 8.Nb3 Bb4 9.Bg2 Nge7 10.O-O Bxc3 11.bxc3 O-O 12.Rb1
+Be6 13.Nc5 b6 14.Nxe6 fxe6 15.c4 dxc4 16.Qc2 Rc8 17.Rd1 Nd4
+18.Qd2 e5 19.Qe1 c3 20.Rd3 Qc7 21.e3 Qc4 22.Qf1 Qxa2 23.exd4
+Qxb1 24.dxe5 Rfd8 25.Re3 c2 26.Re1 Rd1 27.Bf3 Rxe1 28.Qxe1 Rd8
+29.Kg2 Rd1 30.Qe4 Qxc1 31.Qa8+ Kf7 32.Bh5+ g6 33.Qf3+ Ke8
+34.e6 Rg1+ 35.Kh3 Qf1+ 36.Kh4 Qc4+ 37.Bg4 Nf5+ 38.Kg5 c1=Q+
+39.Kf6 Qd4+ 0-1
