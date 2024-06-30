@@ -1,6 +1,126 @@
 {
-  "update": "2024-06-15",
+  "update": "2024-06-30",
   "list": [
+    {
+      "date": "2024-06-30",
+      "year": "1928",
+      "players": "L Steiner vs K Helling",
+      "link": "/perl/chessgame?gid=1280329",
+      "id": "1280329",
+      "note": "The Devil Is in the Detail"
+    },
+    {
+      "date": "2024-06-29",
+      "year": "1999",
+      "players": "R Hart vs S Conquest",
+      "link": "/perl/chessgame?gid=1477888",
+      "id": "1477888",
+      "note": "Be Still, my Beaten Heart"
+    },
+    {
+      "date": "2024-06-28",
+      "year": "1925",
+      "players": "A Rueb vs Euwe",
+      "link": "/perl/chessgame?gid=1042181",
+      "id": "1042181",
+      "note": "Rueb Euwe Out"
+    },
+    {
+      "date": "2024-06-27",
+      "year": "1992",
+      "players": "Kramnik vs E Ubilava",
+      "link": "/perl/chessgame?gid=1085773",
+      "id": "1085773",
+      "note": "Vlad, Save the Queen!"
+    },
+    {
+      "date": "2024-06-26",
+      "year": "2000",
+      "players": "I Rogers vs H van Riemsdijk",
+      "link": "/perl/chessgame?gid=1591503",
+      "id": "1591503",
+      "note": "Pawnstorm over the South Seas"
+    },
+    {
+      "date": "2024-06-25",
+      "year": "2009",
+      "players": "Carlsen vs Kosteniuk",
+      "link": "/perl/chessgame?gid=1563977",
+      "id": "1563977",
+      "note": "Niuk, Niuk, Niuk"
+    },
+    {
+      "date": "2024-06-24",
+      "year": "1982",
+      "players": "S Bouaziz vs Karpov",
+      "link": "/perl/chessgame?gid=1068279",
+      "id": "1068279",
+      "note": "The Camera Adds 10 Pounds"
+    },
+    {
+      "date": "2024-06-23",
+      "year": "1995",
+      "players": "M Weiss vs M Burschowsky",
+      "link": "/perl/chessgame?gid=2024868",
+      "id": "2024868",
+      "note": "Orgy for g4"
+    },
+    {
+      "date": "2024-06-22",
+      "year": "1963",
+      "players": "S Brzozka vs Bronstein",
+      "link": "/perl/chessgame?gid=1262289",
+      "id": "1262289",
+      "note": "Rook goes Br"
+    },
+    {
+      "date": "2024-06-21",
+      "year": "1957",
+      "players": "Santasiere vs Fischer",
+      "link": "/perl/chessgame?gid=1044453",
+      "id": "1044453",
+      "note": "Santasiere's Jolly"
+    },
+    {
+      "date": "2024-06-20",
+      "year": "2010",
+      "players": "Short vs Nakamura",
+      "link": "/perl/chessgame?gid=1569858",
+      "id": "1569858",
+      "note": "Shortcut by Village Genius"
+    },
+    {
+      "date": "2024-06-19",
+      "year": "1974",
+      "players": "K Rogoff vs Evans",
+      "link": "/perl/chessgame?gid=1344162",
+      "id": "1344162",
+      "note": "Diminishing Returns"
+    },
+    {
+      "date": "2024-06-18",
+      "year": "2011",
+      "players": "J Snuverink vs M Apicella",
+      "link": "/perl/chessgame?gid=1611155",
+      "id": "1611155",
+      "note": "Squaring Off"
+    },
+    {
+      "date": "2024-06-17",
+      "year": "2013",
+      "players": "C Li vs Aronian",
+      "link": "/perl/chessgame?gid=1738116",
+      "id": "1738116",
+      "note": "Ciao Chao"
+    },
+    {
+      "date": "2024-06-16",
+      "year": "1950",
+      "players": "Euwe vs V Nestler",
+      "link": "/perl/chessgame?gid=1042762",
+      "id": "1042762",
+      "note": "Feather your own Nestler"
+    },
     {
       "date": "2024-06-15",
       "year": "1960",
