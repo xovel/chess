@@ -1,6 +1,230 @@
 {
-  "update": "2024-06-30",
+  "update": "2024-07-28",
   "list": [
+    {
+      "date": "2024-07-28",
+      "year": "1997",
+      "players": "F Halwick vs Roberto Pe Ang",
+      "link": "/perl/chessgame?gid=1305961",
+      "id": "1305961",
+      "note": "Dead Letter"
+    },
+    {
+      "date": "2024-07-27",
+      "year": "1925",
+      "players": "Duchamp vs R Crepeaux",
+      "link": "/perl/chessgame?gid=1742681",
+      "id": "1742681",
+      "note": "The Disaster Artist"
+    },
+    {
+      "date": "2024-07-26",
+      "year": "1973",
+      "players": "W Heidenfeld vs N Kerins",
+      "link": "/perl/chessgame?gid=2024861",
+      "id": "2024861",
+      "note": "Five Rings"
+    },
+    {
+      "date": "2024-07-25",
+      "year": "1993",
+      "players": "A Ivanov vs Yermolinsky",
+      "link": "/perl/chessgame?gid=1151006",
+      "id": "1151006",
+      "note": "Parsley, sage, and rosemary, but no time."
+    },
+    {
+      "date": "2024-07-24",
+      "year": "1886",
+      "players": "Lipschutz vs W Pollock",
+      "link": "/perl/chessgame?gid=2059120",
+      "id": "2059120",
+      "note": "Twixt Cup and Lip"
+    },
+    {
+      "date": "2024-07-23",
+      "year": "2014",
+      "players": "C Rugabira vs Baby Edna Mission",
+      "link": "/perl/chessgame?gid=1771998",
+      "id": "1771998",
+      "note": "Nobody puts Baby in a corner."
+    },
+    {
+      "date": "2024-07-22",
+      "year": "1967",
+      "players": "Hort vs Korchnoi",
+      "link": "/perl/chessgame?gid=1057115",
+      "id": "1057115",
+      "note": "Beat of My Hort"
+    },
+    {
+      "date": "2024-07-21",
+      "year": "1973",
+      "players": "Spassky vs O Averkin",
+      "link": "/perl/chessgame?gid=1128940",
+      "id": "1128940",
+      "note": "No Rest for 0rest"
+    },
+    {
+      "date": "2024-07-20",
+      "year": "1957",
+      "players": "L Hill vs Fischer",
+      "link": "/perl/chessgame?gid=1044441",
+      "id": "1044441",
+      "note": "The Miseducation of Leonard Hill"
+    },
+    {
+      "date": "2024-07-19",
+      "year": "1992",
+      "players": "P Wang vs A Maric",
+      "link": "/perl/chessgame?gid=1536666",
+      "id": "1536666",
+      "note": "A Pin but not a safety pin"
+    },
+    {
+      "date": "2024-07-18",
+      "year": "2003",
+      "players": "B Finegold vs J Shahade",
+      "link": "/perl/chessgame?gid=1259713",
+      "id": "1259713",
+      "note": "Bennifer"
+    },
+    {
+      "date": "2024-07-17",
+      "year": "2012",
+      "players": "A Hunt vs Y Hou",
+      "link": "/perl/chessgame?gid=1654605",
+      "id": "1654605",
+      "note": "Madam I'm Adam"
+    },
+    {
+      "date": "2024-07-16",
+      "year": "1990",
+      "players": "V M Vehi Bach vs K Shirazi",
+      "link": "/perl/chessgame?gid=1123016",
+      "id": "1123016",
+      "note": "The Bach of Chess"
+    },
+    {
+      "date": "2024-07-15",
+      "year": "2011",
+      "players": "Carlsen vs Nepomniachtchi",
+      "link": "/perl/chessgame?gid=1604549",
+      "id": "1604549",
+      "note": "Nepo saw K was open"
+    },
+    {
+      "date": "2024-07-14",
+      "year": "1972",
+      "players": "M Mukhin vs Tal",
+      "link": "/perl/chessgame?gid=1140038",
+      "id": "1140038",
+      "note": "Mukhin love out of nothing @Tal"
+    },
+    {
+      "date": "2024-07-13",
+      "year": "2020",
+      "players": "L Trent vs T Abergel",
+      "link": "/perl/chessgame?gid=1990883",
+      "id": "1990883",
+      "note": "This Is How Chess Works"
+    },
+    {
+      "date": "2024-07-12",
+      "year": "2018",
+      "players": "A Esipenko vs Shirov",
+      "link": "/perl/chessgame?gid=1919180",
+      "id": "1919180",
+      "note": "Fried on Board"
+    },
+    {
+      "date": "2024-07-11",
+      "year": "2005",
+      "players": "Shabalov vs G Garcia",
+      "link": "/perl/chessgame?gid=1358964",
+      "id": "1358964",
+      "note": "Bring Me the Head of Gildardo Garcia"
+    },
+    {
+      "date": "2024-07-10",
+      "year": "2023",
+      "players": "R Makarian vs F Oro",
+      "link": "/perl/chessgame?gid=2629426",
+      "id": "2629426",
+      "note": "Golden Boy"
+    },
+    {
+      "date": "2024-07-09",
+      "year": "1996",
+      "players": "Polgar vs Leko",
+      "link": "/perl/chessgame?gid=1111317",
+      "id": "1111317",
+      "note": "The Hungary Games"
+    },
+    {
+      "date": "2024-07-08",
+      "year": "1929",
+      "players": "Alekhine vs D Danczowski",
+      "link": "/perl/chessgame?gid=1870528",
+      "id": "1870528",
+      "note": "Object of Desire"
+    },
+    {
+      "date": "2024-07-07",
+      "year": "1970",
+      "players": "Krogius vs O Chernikov",
+      "link": "/perl/chessgame?gid=1443701",
+      "id": "1443701",
+      "note": "Russian Roulette"
+    },
+    {
+      "date": "2024-07-06",
+      "year": "2019",
+      "players": "M Bagi vs Zvjaginsev",
+      "link": "/perl/chessgame?gid=1979973",
+      "id": "1979973",
+      "note": "A Big Mate"
+    },
+    {
+      "date": "2024-07-05",
+      "year": "1907",
+      "players": "Maroczy vs J Perlis",
+      "link": "/perl/chessgame?gid=1148813",
+      "id": "1148813",
+      "note": "Roczy and Roll!"
+    },
+    {
+      "date": "2024-07-04",
+      "year": "2011",
+      "players": "Van Kampen vs M van der Werf",
+      "link": "/perl/chessgame?gid=1604492",
+      "id": "1604492",
+      "note": "Holy Pawn Roller, Batman!"
+    },
+    {
+      "date": "2024-07-03",
+      "year": "1885",
+      "players": "Steinitz vs A Sellman",
+      "link": "/perl/chessgame?gid=1262409",
+      "id": "1262409",
+      "note": "Buy High, Sell Low"
+    },
+    {
+      "date": "2024-07-02",
+      "year": "1955",
+      "players": "R G Wade vs F Parr",
+      "link": "/perl/chessgame?gid=1441456",
+      "id": "1441456",
+      "note": "Parranoia"
+    },
+    {
+      "date": "2024-07-01",
+      "year": "1999",
+      "players": "G Bailey vs E Fischvogt",
+      "link": "/perl/chessgame?gid=1433185",
+      "id": "1433185",
+      "note": "Bail Me Out"
+    },
     {
       "date": "2024-06-30",
       "year": "1928",
