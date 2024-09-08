@@ -1,0 +1,17 @@
+[Event "72nd US Open"]
+[Site "Ventura, CA USA"]
+[Date "1971.08.13"]
+[EventDate "?"]
+[Round "6.65"]
+[Result "0-1"]
+[White "John D Fritsvold"]
+[Black "Homer W Jones"]
+[ECO "D09"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "40"]
+
+1.d4 d5 2.c4 e5 3.dxe5 d4 4.Nf3 Nc6 5.g3 f6 6.exf6 Nxf6 7.Bg2
+Bc5 8.a3 a5 9.Qc2 O-O 10.O-O Bg4 11.Rd1 Qe8 12.Bf4 Ne4 13.Nxd4
+Nxd4 14.Qxe4 Nxe2+ 15.Kh1 Qxe4 16.Bxe4 Nxf4 17.f3 Nh3 18.Kg2
+Nf2 19.Bd5+ Kh8 20.Rd2 Bh3+ 0-1

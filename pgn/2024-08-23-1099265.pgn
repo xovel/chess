@@ -1,0 +1,19 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo MNC"]
+[Date "1902.02.14"]
+[EventDate "1902.??.??"]
+[Round "8"]
+[Result "1-0"]
+[White "Carl Schlechter"]
+[Black "William Ewart Napier"]
+[ECO "D05"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1. d4 d5 2. Nf3 c5 3. e3 Nf6 4. c3 e6 5. Bd3 Bd7 6. Nbd2 Bc6
+7. dxc5 Bxc5 8. b4 Bd6 9. b5 Bd7 10. O-O a6 11. c4 O-O 12. Bb2
+axb5 13. cxb5 Qe7 14. Ne5 Be8 15. a4 Nbd7 16. Nxd7 Bxd7 17. e4
+e5 18. exd5 Nxd5 19. Nc4 Rfd8 20. Re1 Nf4 21. Nxd6 Qg5 22. Be4
+Bf5 23. Nxf5 Rxd1 24. Raxd1 h5 25. Bxe5 Nxg2 26. Bxg2 Qxf5
+27. a5 Re8 28. a6 bxa6 29. bxa6 h4 30. a7 Qg6 31. Bb8 1-0

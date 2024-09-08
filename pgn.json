@@ -1,6 +1,342 @@
 {
-  "update": "2024-07-28",
+  "update": "2024-09-08",
   "list": [
+    {
+      "date": "2024-09-08",
+      "year": "1981",
+      "players": "A Haik vs S Skembris",
+      "link": "/perl/chessgame?gid=1276332",
+      "id": "1276332",
+      "note": "Rhythm of the Knight"
+    },
+    {
+      "date": "2024-09-07",
+      "year": "2005",
+      "players": "Shredder vs C Garcia Palermo",
+      "link": "/perl/chessgame?gid=1352352",
+      "id": "1352352",
+      "note": "Silicon Dioxide"
+    },
+    {
+      "date": "2024-09-06",
+      "year": "1965",
+      "players": "A Planinc vs Matulovic",
+      "link": "/perl/chessgame?gid=1296920",
+      "id": "1296920",
+      "note": "The Masterplan"
+    },
+    {
+      "date": "2024-09-05",
+      "year": "2007",
+      "players": "M Lee vs B Wall",
+      "link": "/perl/chessgame?gid=1472993",
+      "id": "1472993",
+      "note": "Gone Fishin'"
+    },
+    {
+      "date": "2024-09-04",
+      "year": "1992",
+      "players": "Short vs Karpov",
+      "link": "/perl/chessgame?gid=1068949",
+      "id": "1068949",
+      "note": "Worrall There's a Will, There's a Way"
+    },
+    {
+      "date": "2024-09-03",
+      "year": "1847",
+      "players": "Dufresne vs Harrwitz",
+      "link": "/perl/chessgame?gid=1055870",
+      "id": "1055870",
+      "note": "Oops!... I Did It Dufresne"
+    },
+    {
+      "date": "2024-09-02",
+      "year": "1986",
+      "players": "Miles vs Ljubojevic",
+      "link": "/perl/chessgame?gid=1092195",
+      "id": "1092195",
+      "note": "Nice Troy But No Thanks"
+    },
+    {
+      "date": "2024-09-01",
+      "year": "1903",
+      "players": "Lasker vs NN",
+      "link": "/perl/chessgame?gid=1075948",
+      "id": "1075948",
+      "note": "Central Dominance"
+    },
+    {
+      "date": "2024-08-31",
+      "year": "2004",
+      "players": "S Iuldachev vs Aronian",
+      "link": "/perl/chessgame?gid=1312787",
+      "id": "1312787",
+      "note": "Never Iuld the Initiative!"
+    },
+    {
+      "date": "2024-08-30",
+      "year": "2019",
+      "players": "Aronian vs Carlsen",
+      "link": "/perl/chessgame?gid=1963950",
+      "id": "1963950",
+      "note": "Armageddon outa here"
+    },
+    {
+      "date": "2024-08-29",
+      "year": "2016",
+      "players": "J Hendrix vs R Stern",
+      "link": "/perl/chessgame?gid=1854795",
+      "id": "1854795",
+      "note": "All Along the Watched Towers"
+    },
+    {
+      "date": "2024-08-28",
+      "year": "1978",
+      "players": "Kuznetsov vs D Losev",
+      "link": "/perl/chessgame?gid=1546177",
+      "id": "1546177",
+      "note": "The Two Bishops"
+    },
+    {
+      "date": "2024-08-27",
+      "year": "2016",
+      "players": "J Lampert vs F Levin",
+      "link": "/perl/chessgame?gid=1848288",
+      "id": "1848288",
+      "note": "Doing the Lampert Walk"
+    },
+    {
+      "date": "2024-08-26",
+      "year": "1858",
+      "players": "S Boden vs J Owen",
+      "link": "/perl/chessgame?gid=1266601",
+      "id": "1266601",
+      "note": "Overpromotion"
+    },
+    {
+      "date": "2024-08-25",
+      "year": "1980",
+      "players": "Dzindzichashvili vs B Larsen",
+      "link": "/perl/chessgame?gid=1040187",
+      "id": "1040187",
+      "note": "Dzindzi Vitus"
+    },
+    {
+      "date": "2024-08-24",
+      "year": "1783",
+      "players": "J Bruehl vs Philidor",
+      "link": "/perl/chessgame?gid=1257922",
+      "id": "1257922",
+      "note": "Bruehl and Unusual Punishment"
+    },
+    {
+      "date": "2024-08-23",
+      "year": "1902",
+      "players": "Schlechter vs W Napier",
+      "link": "/perl/chessgame?gid=1099265",
+      "id": "1099265",
+      "note": "The Return of the Queen"
+    },
+    {
+      "date": "2024-08-22",
+      "year": "2000",
+      "players": "Hodgson vs M Godena",
+      "link": "/perl/chessgame?gid=1306174",
+      "id": "1306174",
+      "note": "Difesa, Good On Ya"
+    },
+    {
+      "date": "2024-08-21",
+      "year": "1907",
+      "players": "E Cohn vs A Nimzowitsch",
+      "link": "/perl/chessgame?gid=1003747",
+      "id": "1003747",
+      "note": "Cwned"
+    },
+    {
+      "date": "2024-08-20",
+      "year": "2017",
+      "players": "A Saveliev vs D Sin",
+      "link": "/perl/chessgame?gid=1977038",
+      "id": "1977038",
+      "note": "Overcoming Sin Requires Sacrifice"
+    },
+    {
+      "date": "2024-08-19",
+      "year": "2013",
+      "players": "M Andersen vs K Szabo",
+      "link": "/perl/chessgame?gid=1954755",
+      "id": "1954755",
+      "note": "The Most Incredible Thing"
+    },
+    {
+      "date": "2024-08-18",
+      "year": "1983",
+      "players": "K Burger vs Nunn",
+      "link": "/perl/chessgame?gid=1071110",
+      "id": "1071110",
+      "note": "Nothing Burger"
+    },
+    {
+      "date": "2024-08-17",
+      "year": "1942",
+      "players": "E Michelsen vs L Isaacs",
+      "link": "/perl/chessgame?gid=2051703",
+      "id": "2051703",
+      "note": "The Sacrifice of Isaacs"
+    },
+    {
+      "date": "2024-08-16",
+      "year": "1971",
+      "players": "B Malich vs J Kort",
+      "link": "/perl/chessgame?gid=1361206",
+      "id": "1361206",
+      "note": "With Malich Aforethought"
+    },
+    {
+      "date": "2024-08-15",
+      "year": "1974",
+      "players": "V Gazarian vs Kasparov",
+      "link": "/perl/chessgame?gid=2012699",
+      "id": "2012699",
+      "note": "Best of Baku"
+    },
+    {
+      "date": "2024-08-14",
+      "year": "2006",
+      "players": "Navara vs Svidler",
+      "link": "/perl/chessgame?gid=1415899",
+      "id": "1415899",
+      "note": "Navara c4 caravan"
+    },
+    {
+      "date": "2024-08-13",
+      "year": "1971",
+      "players": "J Fritsvold vs H Jones",
+      "link": "/perl/chessgame?gid=1443351",
+      "id": "1443351",
+      "note": "2, 4, 6, 8, Homer's Win Was Very Great!"
+    },
+    {
+      "date": "2024-08-12",
+      "year": "1900",
+      "players": "R Kendall vs J McGrouther",
+      "link": "/perl/chessgame?gid=2262499",
+      "id": "2262499",
+      "note": "Out, out, brief Kendall."
+    },
+    {
+      "date": "2024-08-11",
+      "year": "1904",
+      "players": "R MacDonald vs H Jacobs",
+      "link": "/perl/chessgame?gid=1365404",
+      "id": "1365404",
+      "note": "Ba-Da-Ba-Ba-Ba, I'm Losin' It"
+    },
+    {
+      "date": "2024-08-10",
+      "year": "2005",
+      "players": "Nakamura vs Sasikiran",
+      "link": "/perl/chessgame?gid=1337354",
+      "id": "1337354",
+      "note": "A Scholarly Rebuke"
+    },
+    {
+      "date": "2024-08-09",
+      "year": "1997",
+      "players": "Ivanchuk vs Kasparov",
+      "link": "/perl/chessgame?gid=1070923",
+      "id": "1070923",
+      "note": "Shampion Soup"
+    },
+    {
+      "date": "2024-08-08",
+      "year": "2021",
+      "players": "M Muzychuk vs Kosteniuk",
+      "link": "/perl/chessgame?gid=2066519",
+      "id": "2066519",
+      "note": "Release Your Inner Petrosian"
+    },
+    {
+      "date": "2024-08-07",
+      "year": "2017",
+      "players": "A Virkud vs S Foisor",
+      "link": "/perl/chessgame?gid=1870518",
+      "id": "1870518",
+      "note": "The Lady is a Champ"
+    },
+    {
+      "date": "2024-08-06",
+      "year": "1943",
+      "players": "Najdorf vs C Guimard",
+      "link": "/perl/chessgame?gid=1100869",
+      "id": "1100869",
+      "note": "Getting Ziggy with Miggy"
+    },
+    {
+      "date": "2024-08-05",
+      "year": "1843",
+      "players": "Staunton vs Saint-Amant",
+      "link": "/perl/chessgame?gid=1271906",
+      "id": "1271906",
+      "note": "Howard Asks: \"A Draw, Oh?\""
+    },
+    {
+      "date": "2024-08-04",
+      "year": "1961",
+      "players": "Botvinnik vs Tal",
+      "link": "/perl/chessgame?gid=1262414",
+      "id": "1262414",
+      "note": "King Crimson"
+    },
+    {
+      "date": "2024-08-03",
+      "year": "2019",
+      "players": "O Bronstein vs M A Botvinnik",
+      "link": "/perl/chessgame?gid=2241318",
+      "id": "2241318",
+      "note": "Impost-Or Syndrome"
+    },
+    {
+      "date": "2024-08-02",
+      "year": "1905",
+      "players": "Lasker vs A Goldberg",
+      "link": "/perl/chessgame?gid=1380120",
+      "id": "1380120",
+      "note": "Rube Goldberg Machine"
+    },
+    {
+      "date": "2024-08-01",
+      "year": "1994",
+      "players": "O Karpeshov vs Vasiukov",
+      "link": "/perl/chessgame?gid=1369174",
+      "id": "1369174",
+      "note": "It's a Karpov, It's a Kasparov, It's Karpeshov!"
+    },
+    {
+      "date": "2024-07-31",
+      "year": "2001",
+      "players": "Pg Hj Jaafar Pg Omar Baki vs Pg Hj Mohd Limbang",
+      "link": "/perl/chessgame?gid=1181744",
+      "id": "1181744",
+      "note": "Rated PG"
+    },
+    {
+      "date": "2024-07-30",
+      "year": "1968",
+      "players": "Fischer vs S Hamann",
+      "link": "/perl/chessgame?gid=1044283",
+      "id": "1044283",
+      "note": "Diamonds Are Forever"
+    },
+    {
+      "date": "2024-07-29",
+      "year": "1995",
+      "players": "Kramnik vs A Beliavsky",
+      "link": "/perl/chessgame?gid=1085997",
+      "id": "1085997",
+      "note": "Brilliancy in Belgrade"
+    },
     {
       "date": "2024-07-28",
       "year": "1997",
