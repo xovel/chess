@@ -1,0 +1,17 @@
+[Event "Unknown"]
+[Site "USA"]
+[Date "1856.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Benjamin Raphael"]
+[Black "Hardman Philips Montgomery"]
+[ECO "C30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Illustrated London News, 1856.07.26, p.104"]
+[PlyCount "23"]
+
+1. e4 c5 2. f4 e5 3. Nf3 Nc6 4. Bc4 d6 5. d3 Bg4 6. O-O Nd4
+7. Bxf7+ Ke7 8. fxe5 Bxf3 9. Bg5+ Kd7 10. e6+ Kc6 11. Bxd8
+Bxd1 12. Be8# 1-0

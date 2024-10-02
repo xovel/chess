@@ -1,0 +1,18 @@
+[Event "USA-ch"]
+[Site "Seattle, WA USA"]
+[Date "2003.01.16"]
+[EventDate "2003.01.09"]
+[Round "7"]
+[Result "1-0"]
+[White "Marc Esserman"]
+[Black "Cindy Tsai"]
+[ECO "B90"]
+[WhiteElo "2282"]
+[BlackElo "2162"]
+[PlyCount "45"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6
+7. O-O b5 8. Bb3 Be7 9. f4 O-O 10. Be3 Bd7 11. e5 dxe5
+12. fxe5 Ne8 13. Qf3 Nc7 14. Rad1 Qe8 15. Ne4 Bc6 16. Nxc6
+Qxc6 17. Qg4 h5 18. Qf3 a5 19. Rd4 a4 20. Qxh5 axb3 21. Nf6+
+Bxf6 22. exf6 Qb6 23. fxg7 1-0

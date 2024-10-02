@@ -1,6 +1,206 @@
 {
-  "update": "2024-09-08",
+  "update": "2024-10-02",
   "list": [
+    {
+      "date": "2024-10-02",
+      "year": "2006",
+      "players": "Nepomniachtchi vs S Hautot",
+      "link": "/perl/chessgame?gid=1432491",
+      "id": "1432491",
+      "note": "Nepo Man"
+    },
+    {
+      "date": "2024-10-01",
+      "year": "1992",
+      "players": "Fischer vs Spassky",
+      "link": "/perl/chessgame?gid=1044388",
+      "id": "1044388",
+      "note": "De Virtuosi. Robert: I did it! (Re: Boris Outrived)"
+    },
+    {
+      "date": "2024-09-30",
+      "year": "1985",
+      "players": "Tal vs S Saeed",
+      "link": "/perl/chessgame?gid=1140817",
+      "id": "1140817",
+      "note": "Top Saeed"
+    },
+    {
+      "date": "2024-09-29",
+      "year": "1920",
+      "players": "P Romanovsky vs Levenfish",
+      "link": "/perl/chessgame?gid=1553268",
+      "id": "1553268",
+      "note": "Damn the Kibitzers! Full Speed Ahead!"
+    },
+    {
+      "date": "2024-09-28",
+      "year": "1992",
+      "players": "Granda Zuniga vs Polgar",
+      "link": "/perl/chessgame?gid=1052858",
+      "id": "1052858",
+      "note": "Judit with the Head of Julio Ernesto"
+    },
+    {
+      "date": "2024-09-27",
+      "year": "1984",
+      "players": "Ftacnik vs J Sikora-Lerch",
+      "link": "/perl/chessgame?gid=1045681",
+      "id": "1045681",
+      "note": "Kingside Ftac"
+    },
+    {
+      "date": "2024-09-26",
+      "year": "2024",
+      "players": "N Yan vs G Rorrer",
+      "link": "/perl/chessgame?gid=2764167",
+      "id": "2764167",
+      "note": "Rorrer Schach Test"
+    },
+    {
+      "date": "2024-09-25",
+      "year": "1988",
+      "players": "H A Machado Jr vs A Resende",
+      "link": "/perl/chessgame?gid=2038357",
+      "id": "2038357",
+      "note": "Machado Man"
+    },
+    {
+      "date": "2024-09-24",
+      "year": "2008",
+      "players": "A Zatonskih vs E Epstein",
+      "link": "/perl/chessgame?gid=1493369",
+      "id": "1493369",
+      "note": "Epstein Didn't Kill Herself"
+    },
+    {
+      "date": "2024-09-23",
+      "year": "1978",
+      "players": "Spassky vs Korchnoi",
+      "link": "/perl/chessgame?gid=1082390",
+      "id": "1082390",
+      "note": "Pins in Boxes"
+    },
+    {
+      "date": "2024-09-22",
+      "year": "2007",
+      "players": "Onischuk vs Grischuk",
+      "link": "/perl/chessgame?gid=1466590",
+      "id": "1466590",
+      "note": "How much Gris could Onischuk Chuck?"
+    },
+    {
+      "date": "2024-09-21",
+      "year": "2003",
+      "players": "M Esserman vs C Tsai",
+      "link": "/perl/chessgame?gid=1609656",
+      "id": "1609656",
+      "note": "Every Girl Crazy ‘Bout a Sharp Esserman"
+    },
+    {
+      "date": "2024-09-20",
+      "year": "2001",
+      "players": "M Gluzman vs Bareev",
+      "link": "/perl/chessgame?gid=1209554",
+      "id": "1209554",
+      "note": "Dancing in the Dark (Squares)"
+    },
+    {
+      "date": "2024-09-19",
+      "year": "1968",
+      "players": "Fischer vs U Geller",
+      "link": "/perl/chessgame?gid=1044281",
+      "id": "1044281",
+      "note": "You Are NOT That Geller, But I'M The Fischer"
+    },
+    {
+      "date": "2024-09-18",
+      "year": "2016",
+      "players": "M Mbo vs V Exler",
+      "link": "/perl/chessgame?gid=1830035",
+      "id": "1830035",
+      "note": "The Exlercist"
+    },
+    {
+      "date": "2024-09-18",
+      "year": "2015",
+      "players": "Svidler vs Khismatullin",
+      "link": "/perl/chessgame?gid=1799484",
+      "id": "1799484",
+      "note": "Khismat"
+    },
+    {
+      "date": "2024-09-17",
+      "year": "1856",
+      "players": "B Raphael vs H P Montgomery",
+      "link": "/perl/chessgame?gid=1250619",
+      "id": "1250619",
+      "note": "Ungentle Ben"
+    },
+    {
+      "date": "2024-09-16",
+      "year": "2017",
+      "players": "Aronian vs Ding Liren",
+      "link": "/perl/chessgame?gid=1886361",
+      "id": "1886361",
+      "note": "Easy peasy Levon in Tbilisi"
+    },
+    {
+      "date": "2024-09-15",
+      "year": "1974",
+      "players": "D Barlov vs E Rayner",
+      "link": "/perl/chessgame?gid=1622347",
+      "id": "1622347",
+      "note": "Enter the Dragan"
+    },
+    {
+      "date": "2024-09-14",
+      "year": "2024",
+      "players": "T Sachdev vs G Watson",
+      "link": "/perl/chessgame?gid=2769400",
+      "id": "2769400",
+      "note": "Elementary, My Dear Watson"
+    },
+    {
+      "date": "2024-09-13",
+      "year": "2024",
+      "players": "A Mendez Machado vs Aronian",
+      "link": "/perl/chessgame?gid=2769044",
+      "id": "2769044",
+      "note": "Great Escape"
+    },
+    {
+      "date": "2024-09-12",
+      "year": "1976",
+      "players": "J A Campbell vs M Kennefick",
+      "link": "/perl/chessgame?gid=1453496",
+      "id": "1453496",
+      "note": "He Speaks of the Pompatus of Love"
+    },
+    {
+      "date": "2024-09-11",
+      "year": "1974",
+      "players": "Vaganian vs Kupreichik",
+      "link": "/perl/chessgame?gid=1087157",
+      "id": "1087157",
+      "note": "Tromp-ed All Over"
+    },
+    {
+      "date": "2024-09-10",
+      "year": "2014",
+      "players": "M Socko vs N Batsiashvili",
+      "link": "/perl/chessgame?gid=1761785",
+      "id": "1761785",
+      "note": "El Niño"
+    },
+    {
+      "date": "2024-09-09",
+      "year": "1972",
+      "players": "V Faibisovich vs A Reshko",
+      "link": "/perl/chessgame?gid=1288632",
+      "id": "1288632",
+      "note": "Not quite Reshcued"
+    },
     {
       "date": "2024-09-08",
       "year": "1981",
