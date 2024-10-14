@@ -1,6 +1,102 @@
 {
-  "update": "2024-10-02",
+  "update": "2024-10-14",
   "list": [
+    {
+      "date": "2024-10-14",
+      "year": "2015",
+      "players": "Svidler vs Khismatullin",
+      "link": "/perl/chessgame?gid=1799484",
+      "id": "1799484",
+      "note": "Khismat"
+    },
+    {
+      "date": "2024-10-13",
+      "year": "1974",
+      "players": "N Alexandria vs M Litynska",
+      "link": "/perl/chessgame?gid=1333669",
+      "id": "1333669",
+      "note": "The Light Horse of Alexandria"
+    },
+    {
+      "date": "2024-10-12",
+      "year": "2015",
+      "players": "M Kobalia vs S Lu",
+      "link": "/perl/chessgame?gid=1788962",
+      "id": "1788962",
+      "note": "Skip to my Lu"
+    },
+    {
+      "date": "2024-10-11",
+      "year": "1996",
+      "players": "A Skripchenko vs P Cramling",
+      "link": "/perl/chessgame?gid=2202437",
+      "id": "2202437",
+      "note": "Win one for the Gaw Paw"
+    },
+    {
+      "date": "2024-10-10",
+      "year": "1950",
+      "players": "L Barden vs Rossolimo",
+      "link": "/perl/chessgame?gid=1262405",
+      "id": "1262405",
+      "note": "Big Yellow Taxi"
+    },
+    {
+      "date": "2024-10-09",
+      "year": "2018",
+      "players": "Aronian vs Mamedyarov",
+      "link": "/perl/chessgame?gid=1929021",
+      "id": "1929021",
+      "note": "When You're Good to Mamed"
+    },
+    {
+      "date": "2024-10-08",
+      "year": "2020",
+      "players": "Svidler vs Carlsen",
+      "link": "/perl/chessgame?gid=1995395",
+      "id": "1995395",
+      "note": "Like Deja Vu All Over Again"
+    },
+    {
+      "date": "2024-10-07",
+      "year": "2003",
+      "players": "Karjakin vs Kosteniuk",
+      "link": "/perl/chessgame?gid=1260283",
+      "id": "1260283",
+      "note": "Jack of All Trades"
+    },
+    {
+      "date": "2024-10-06",
+      "year": "1954",
+      "players": "A Bulat vs A Lukic",
+      "link": "/perl/chessgame?gid=2785003",
+      "id": "2785003",
+      "note": "Downing the Ante"
+    },
+    {
+      "date": "2024-10-05",
+      "year": "1914",
+      "players": "Alekhine vs Tarrasch",
+      "link": "/perl/chessgame?gid=1011901",
+      "id": "1011901",
+      "note": "A Knightmare on Ulmenweg"
+    },
+    {
+      "date": "2024-10-04",
+      "year": "2024",
+      "players": "Duda vs Vidit S Gujrathi",
+      "link": "/perl/chessgame?gid=2784235",
+      "id": "2784235",
+      "note": "Duda Did It"
+    },
+    {
+      "date": "2024-10-03",
+      "year": "2020",
+      "players": "So vs Anand",
+      "link": "/perl/chessgame?gid=1990228",
+      "id": "1990228",
+      "note": "The Old Man and the So"
+    },
     {
       "date": "2024-10-02",
       "year": "2006",
