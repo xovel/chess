@@ -1,0 +1,28 @@
+[Event "Ding - Gukesh World Championship Match"]
+[Site "Singapore SIN"]
+[Date "2024.12.09"]
+[EventDate "2024.11.25"]
+[Round "12.1"]
+[White "Ding, Liren"]
+[Black "Gukesh D"]
+[Result "1-0"]
+[WhiteElo "2728"]
+[WhiteTitle "GM"]
+[WhiteFideId "8603677"]
+[BlackElo "2783"]
+[BlackTitle "GM"]
+[BlackFideId "46616543"]
+[ECO "A13"]
+[Opening "English Opening: Agincourt Defense"]
+[StudyName "Game 12"]
+[ChapterName "Ding, Liren - Gukesh D"]
+[Source "Lichess"]
+
+1. c4 e6 2. g3 d5 3. Bg2 Nf6 4. Nf3 d4 5. O-O Nc6
+6. e3 Be7 7. d3 dxe3 8. Bxe3 e5 9. Nc3 O-O 10. Re1 h6
+11. a3 a5 12. h3 Be6 13. Kh2 Rb8 14. Qc2 Re8 15. Nb5 Bf5
+16. Rad1 Nd7 17. Qd2 Bg6 18. d4 e4 19. Ng1 Nb6 20. Qc3 Bf6
+21. Qc2 a4 22. Ne2 Bg5 23. Nf4 Bxf4 24. Bxf4 Rc8 25. Qc3 Nb8
+26. d5 Qd7 27. d6 c5 28. Nc7 Rf8 29. Bxe4 Nc6 30. Bg2 Rcd8
+31. Nd5 Nxd5 32. cxd5 Nb8 33. Qxc5 Rc8 34. Qd4 Na6 35. Re7 Qb5
+36. d7 Rc4 37. Qe3 Rc2 38. Bd6 f6 39. Rxg7+ 1-0

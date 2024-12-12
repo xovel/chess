@@ -1,6 +1,486 @@
 {
-  "update": "2024-10-14",
+  "update": "2024-12-12",
   "list": [
+    {
+      "date": "2024-12-12",
+      "year": "1989",
+      "players": "P K Wells vs I Farago",
+      "link": "/perl/chessgame?gid=2161041",
+      "id": "2161041",
+      "note": "Wells Farago"
+    },
+    {
+      "date": "2024-12-11",
+      "year": "2007",
+      "players": "NN vs M Wahlund",
+      "link": "/perl/chessgame?gid=1751384",
+      "id": "1751384",
+      "note": "Fearful Symmetry"
+    },
+    {
+      "date": "2024-12-10",
+      "year": "2024",
+      "players": "Ding Liren vs D Gukesh",
+      "link": "/perl/chessgame?gid=2810903",
+      "id": "2810903",
+      "note": "The Dingmaster"
+    },
+    {
+      "date": "2024-12-09",
+      "year": "1983",
+      "players": "Kasparov vs Korchnoi",
+      "link": "/perl/chessgame?gid=1070046",
+      "id": "1070046",
+      "note": "Pass the Torch, Korch."
+    },
+    {
+      "date": "2024-12-08",
+      "year": "1962",
+      "players": "Keres vs Fischer",
+      "link": "/perl/chessgame?gid=1044010",
+      "id": "1044010",
+      "note": "The Heat of Battle"
+    },
+    {
+      "date": "2024-12-07",
+      "year": "2018",
+      "players": "Wei Yi vs So",
+      "link": "/perl/chessgame?gid=1908544",
+      "id": "1908544",
+      "note": "Wei So Serious?"
+    },
+    {
+      "date": "2024-12-06",
+      "year": "2012",
+      "players": "D Rogozenco vs G Fish",
+      "link": "/perl/chessgame?gid=1701482",
+      "id": "1701482",
+      "note": "Dorian White"
+    },
+    {
+      "date": "2024-12-05",
+      "year": "1961",
+      "players": "Fischer vs F Olafsson",
+      "link": "/perl/chessgame?gid=1044140",
+      "id": "1044140",
+      "note": "Heracles and The Hydra"
+    },
+    {
+      "date": "2024-12-04",
+      "year": "1946",
+      "players": "Petrosian vs Y Kotkov",
+      "link": "/perl/chessgame?gid=1106132",
+      "id": "1106132",
+      "note": "Hanging Around"
+    },
+    {
+      "date": "2024-12-03",
+      "year": "1997",
+      "players": "H Groffen vs G Horvath",
+      "link": "/perl/chessgame?gid=1912503",
+      "id": "1912503",
+      "note": "Gyula My Dreams"
+    },
+    {
+      "date": "2024-12-02",
+      "year": "1859",
+      "players": "Anderssen vs M Lange",
+      "link": "/perl/chessgame?gid=1019074",
+      "id": "1019074",
+      "note": "The Notebook"
+    },
+    {
+      "date": "2024-12-01",
+      "year": "2010",
+      "players": "D Howell vs S Feller",
+      "link": "/perl/chessgame?gid=1593823",
+      "id": "1593823",
+      "note": "Foul Play"
+    },
+    {
+      "date": "2024-11-30",
+      "year": "2010",
+      "players": "Le Quang Liem vs X Bu",
+      "link": "/perl/chessgame?gid=1572792",
+      "id": "1572792",
+      "note": "Grande Arche de Le Défense"
+    },
+    {
+      "date": "2024-11-29",
+      "year": "1990",
+      "players": "Smyslov vs F El Taher",
+      "link": "/perl/chessgame?gid=1127016",
+      "id": "1127016",
+      "note": "Reign of Taher"
+    },
+    {
+      "date": "2024-11-28",
+      "year": "1900",
+      "players": "Marshall vs M Brody",
+      "link": "/perl/chessgame?gid=1000144",
+      "id": "1000144",
+      "note": "He Ain’t Heavy. He’s M Brody"
+    },
+    {
+      "date": "2024-11-27",
+      "year": "2012",
+      "players": "V Malakhov vs Movsesian",
+      "link": "/perl/chessgame?gid=1663403",
+      "id": "1663403",
+      "note": "Radioactive Man"
+    },
+    {
+      "date": "2024-11-26",
+      "year": "1915",
+      "players": "C H Erickson vs D D Barkuloo",
+      "link": "/perl/chessgame?gid=1626821",
+      "id": "1626821",
+      "note": "Who Dares Wins"
+    },
+    {
+      "date": "2024-11-25",
+      "year": "2023",
+      "players": "Ding Liren vs Nepomniachtchi",
+      "link": "/perl/chessgame?gid=2484715",
+      "id": "2484715",
+      "note": "Gunga Ding!"
+    },
+    {
+      "date": "2024-11-24",
+      "year": "2012",
+      "players": "Kamsky vs R Prasca Sosa",
+      "link": "/perl/chessgame?gid=1685548",
+      "id": "1685548",
+      "note": "Double Your Pleasure, Double Your Fun"
+    },
+    {
+      "date": "2024-11-23",
+      "year": "1917",
+      "players": "J C Reeders vs O Nauta",
+      "link": "/perl/chessgame?gid=1228601",
+      "id": "1228601",
+      "note": "Reeders, I mated him."
+    },
+    {
+      "date": "2024-11-22",
+      "year": "1974",
+      "players": "W Hartston vs A Whiteley",
+      "link": "/perl/chessgame?gid=1441008",
+      "id": "1441008",
+      "note": "Electric Bill"
+    },
+    {
+      "date": "2024-11-21",
+      "year": "1970",
+      "players": "Hermelin vs Swan",
+      "link": "/perl/chessgame?gid=1075399",
+      "id": "1075399",
+      "note": "Swan Song"
+    },
+    {
+      "date": "2024-11-20",
+      "year": "1919",
+      "players": "Capablanca vs G Page",
+      "link": "/perl/chessgame?gid=1824073",
+      "id": "1824073",
+      "note": "Pun: Submission, Page"
+    },
+    {
+      "date": "2024-11-19",
+      "year": "2002",
+      "players": "R Schmaltz vs A Vouldis",
+      "link": "/perl/chessgame?gid=1836342",
+      "id": "1836342",
+      "note": "Windmill-Savvy Errant Knight"
+    },
+    {
+      "date": "2024-11-18",
+      "year": "1911",
+      "players": "M Bab vs F Duz-Khotimirsky",
+      "link": "/perl/chessgame?gid=1481954",
+      "id": "1481954",
+      "note": "The Queen of the Dead"
+    },
+    {
+      "date": "2024-11-17",
+      "year": "1958",
+      "players": "A Bisguier vs R Toran",
+      "link": "/perl/chessgame?gid=1028393",
+      "id": "1028393",
+      "note": "The Birthday Boys"
+    },
+    {
+      "date": "2024-11-16",
+      "year": "1983",
+      "players": "D Shirley vs J Kay",
+      "link": "/perl/chessgame?gid=1225259",
+      "id": "1225259",
+      "note": "And Don't Call Me Shirley"
+    },
+    {
+      "date": "2024-11-15",
+      "year": "2012",
+      "players": "N Chapman vs M Burgermeister",
+      "link": "/perl/chessgame?gid=2799373",
+      "id": "2799373",
+      "note": "Moribund The Burgermeister"
+    },
+    {
+      "date": "2024-11-14",
+      "year": "1989",
+      "players": "M Cardinali vs S Polgar",
+      "link": "/perl/chessgame?gid=1110295",
+      "id": "1110295",
+      "note": "Polgarheist II: The Cardinal Sin"
+    },
+    {
+      "date": "2024-11-13",
+      "year": "1989",
+      "players": "B Kouatly vs Kasparov",
+      "link": "/perl/chessgame?gid=1070438",
+      "id": "1070438",
+      "note": "The Envy of Evry"
+    },
+    {
+      "date": "2024-11-12",
+      "year": "1911",
+      "players": "Capablanca vs M McGuire",
+      "link": "/perl/chessgame?gid=1912485",
+      "id": "1912485",
+      "note": "Going Down to the McGuire"
+    },
+    {
+      "date": "2024-11-12",
+      "year": "2015",
+      "players": "Svidler vs Khismatullin",
+      "link": "/perl/chessgame?gid=1799484",
+      "id": "1799484",
+      "note": "Khismat"
+    },
+    {
+      "date": "2024-11-11",
+      "year": "1982",
+      "players": "Tal vs K Grigorian",
+      "link": "/perl/chessgame?gid=1140675",
+      "id": "1140675",
+      "note": "Grigorian No-Chance"
+    },
+    {
+      "date": "2024-11-10",
+      "year": "1930",
+      "players": "Alekhine vs Rubinstein",
+      "link": "/perl/chessgame?gid=1007968",
+      "id": "1007968",
+      "note": "Fool Me Twice..."
+    },
+    {
+      "date": "2024-11-09",
+      "year": "1990",
+      "players": "T Ernst vs Shirov",
+      "link": "/perl/chessgame?gid=1123262",
+      "id": "1123262",
+      "note": "Don't Feed the Trolls"
+    },
+    {
+      "date": "2024-11-08",
+      "year": "2024",
+      "players": "B Munguntuul vs Goryachkina",
+      "link": "/perl/chessgame?gid=2799215",
+      "id": "2799215",
+      "note": "Aleksandra the Great"
+    },
+    {
+      "date": "2024-11-07",
+      "year": "2007",
+      "players": "L Tito Ausan Jr vs M Maga",
+      "link": "/perl/chessgame?gid=1631011",
+      "id": "1631011",
+      "note": "Maga!"
+    },
+    {
+      "date": "2024-11-06",
+      "year": "1994",
+      "players": "Khalifman vs E Ermenkov",
+      "link": "/perl/chessgame?gid=1074321",
+      "id": "1074321",
+      "note": "Calm B4 The Storm"
+    },
+    {
+      "date": "2024-11-05",
+      "year": "1942",
+      "players": "K Junge vs J Rejfir",
+      "link": "/perl/chessgame?gid=1274714",
+      "id": "1274714",
+      "note": "The Jos That Bites, The Klaus That Catches"
+    },
+    {
+      "date": "2024-11-04",
+      "year": "2004",
+      "players": "Carlsen vs Dolmatov",
+      "link": "/perl/chessgame?gid=1274856",
+      "id": "1274856",
+      "note": "The Computer Wore Tennis Shoes"
+    },
+    {
+      "date": "2024-11-03",
+      "year": "1993",
+      "players": "J Hohmeister vs T Frank",
+      "link": "/perl/chessgame?gid=1281617",
+      "id": "1281617",
+      "note": "Immoral Draw"
+    },
+    {
+      "date": "2024-11-02",
+      "year": "1994",
+      "players": "G M Kovacs vs R Barth",
+      "link": "/perl/chessgame?gid=1778939",
+      "id": "1778939",
+      "note": "The thin white line"
+    },
+    {
+      "date": "2024-11-01",
+      "year": "1887",
+      "players": "R Barnett vs H Gwinner",
+      "link": "/perl/chessgame?gid=2230794",
+      "id": "2230794",
+      "note": "We Have a Gwinner!"
+    },
+    {
+      "date": "2024-10-31",
+      "year": "1930",
+      "players": "F Bethge vs Legal",
+      "link": "/perl/chessgame?gid=1250691",
+      "id": "1250691",
+      "note": "Legal Brief"
+    },
+    {
+      "date": "2024-10-30",
+      "year": "2010",
+      "players": "D Lima vs B Esen",
+      "link": "/perl/chessgame?gid=1567936",
+      "id": "1567936",
+      "note": "On the Horns of a D Lima"
+    },
+    {
+      "date": "2024-10-29",
+      "year": "1988",
+      "players": "N Murshed vs Psakhis",
+      "link": "/perl/chessgame?gid=1115276",
+      "id": "1115276",
+      "note": "Send Him Psakhing"
+    },
+    {
+      "date": "2024-10-28",
+      "year": "1937",
+      "players": "V Makogonov vs V Chekhover",
+      "link": "/perl/chessgame?gid=1313055",
+      "id": "1313055",
+      "note": "Chekh and Over"
+    },
+    {
+      "date": "2024-10-27",
+      "year": "1859",
+      "players": "J Gocher vs Harrwitz",
+      "link": "/perl/chessgame?gid=1055967",
+      "id": "1055967",
+      "note": "Witz End"
+    },
+    {
+      "date": "2024-10-26",
+      "year": "2005",
+      "players": "Kamsky vs D Pruess",
+      "link": "/perl/chessgame?gid=1338828",
+      "id": "1338828",
+      "note": "Attacking Pruess"
+    },
+    {
+      "date": "2024-10-25",
+      "year": "1983",
+      "players": "A Rombaldoni vs E Arlandi",
+      "link": "/perl/chessgame?gid=2180937",
+      "id": "2180937",
+      "note": "Rombaldoni Devices"
+    },
+    {
+      "date": "2024-10-24",
+      "year": "1863",
+      "players": "A Steinkuehler vs Blackburne",
+      "link": "/perl/chessgame?gid=1028832",
+      "id": "1028832",
+      "note": "Paint it Black"
+    },
+    {
+      "date": "2024-10-23",
+      "year": "1981",
+      "players": "Smirnov vs S Polgar",
+      "link": "/perl/chessgame?gid=1109959",
+      "id": "1109959",
+      "note": "Simply Susan"
+    },
+    {
+      "date": "2024-10-22",
+      "year": "2009",
+      "players": "B Amin vs TransWarp",
+      "link": "/perl/chessgame?gid=1560133",
+      "id": "1560133",
+      "note": "Forever and Ever, Amin"
+    },
+    {
+      "date": "2024-10-21",
+      "year": "2008",
+      "players": "H Wang vs E Inarkiev",
+      "link": "/perl/chessgame?gid=1497124",
+      "id": "1497124",
+      "note": "Live Wang and Prosper"
+    },
+    {
+      "date": "2024-10-20",
+      "year": "1986",
+      "players": "de Firmian vs K Shirazi",
+      "link": "/perl/chessgame?gid=1038161",
+      "id": "1038161",
+      "note": "Sultan of Swindle"
+    },
+    {
+      "date": "2024-10-19",
+      "year": "1997",
+      "players": "E Tate vs Yudasin",
+      "link": "/perl/chessgame?gid=1272524",
+      "id": "1272524",
+      "note": "It’s Late, It’s Tate, It’s Great"
+    },
+    {
+      "date": "2024-10-18",
+      "year": "2024",
+      "players": "C Yoo vs Caruana",
+      "link": "/perl/chessgame?gid=2793213",
+      "id": "2793213",
+      "note": "Fist of Fury"
+    },
+    {
+      "date": "2024-10-17",
+      "year": "1987",
+      "players": "S Bowles vs M Jerichow",
+      "link": "/perl/chessgame?gid=1077982",
+      "id": "1077982",
+      "note": "The Fall of Jerichow"
+    },
+    {
+      "date": "2024-10-16",
+      "year": "2024",
+      "players": "I Krush vs C Yip",
+      "link": "/perl/chessgame?gid=2791885",
+      "id": "2791885",
+      "note": "Yip, Yip, Hurray!"
+    },
+    {
+      "date": "2024-10-15",
+      "year": "2024",
+      "players": "F Oro vs E Sos Andreu",
+      "link": "/perl/chessgame?gid=2790619",
+      "id": "2790619",
+      "note": "SOS Golden Cross"
+    },
     {
       "date": "2024-10-14",
       "year": "2015",

@@ -1,0 +1,17 @@
+[Event "Casual game"]
+[Site "London ENG"]
+[Date "1859.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "John Gocher"]
+[Black "Daniel Harrwitz"]
+[ECO "C39"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Chess Player's Chronicle, 1859, p.301"]
+[PlyCount "30"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 Nf6 6.Nxg4 Nxe4 7.d3
+Ng3 8.Bxf4 Qe7+ 9.Kf2 Nxh1+ 10.Kg1 Bg7 11.Nc3 h5 12.Nd5 hxg4
+13.Nxe7 Bd4+ 14.Kxh1 Rxh4+ 15.Bh2 g3 0-1

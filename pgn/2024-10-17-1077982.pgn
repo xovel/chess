@@ -1,0 +1,17 @@
+[Event "cr"]
+[Site "corr"]
+[Date "1987.??.??"]
+[EventDate "1987.??.??"]
+[Round "?"]
+[Result "1-0"]
+[White "S Bowles"]
+[Black "Michael Jerichow"]
+[ECO "C34"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "35"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6 4. d4 g5 5. h4 g4 6. Ng1 Bh6
+7. Ne2 Qf6 8. Nbc3 c6 9. g3 f3 10. Nf4 Ne7 11. e5 dxe5 12. Ne4
+Qg7 13. Nh5 Qg6 14. Nef6+ Kf8 15. dxe5 Nd7 16. Bd3 Nf5
+17. Bxf5 Qxf5 18. Qd6# 1-0

@@ -1,0 +1,23 @@
+[Event "Chess Olympiad"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2010.09.25"]
+[EventDate "2010.09.21"]
+[Round "5"]
+[Result "0-1"]
+[White "David Howell"]
+[Black "Sebastien Feller"]
+[ECO "C05"]
+[WhiteElo "2616"]
+[BlackElo "2649"]
+[PlyCount "96"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6
+7. Ne2 cxd4 8. cxd4 Qb6 9. Nf3 f6 10. exf6 Nxf6 11. O-O Bd6
+12. b3 O-O 13. Bb2 Bd7 14. Nc3 Rac8 15. Na4 Qa5 16. Ne5 Nb4
+17. Bb1 Bxa4 18. bxa4 Qc7 19. a3 Nc2 20. Ra2 Bxe5 21. dxe5 Ne4
+22. Bc1 Nxf2 23. Qxc2 Nh3+ 24. gxh3 Qb6+ 25. Kg2 Rxc2+
+26. Bxc2 Rxf1 27. Kxf1 Qc7 28. Rb2 d4 29. Ke2 Qxe5+ 30. Kd1
+Qh5+ 31. Kd2 Qg5+ 32. Kd1 Qg1+ 33. Kd2 Qxh2+ 34. Kd3 Qg1
+35. Rb1 Qg6+ 36. Kd2 Qg2+ 37. Kd3 Qg6+ 38. Kd2 Qg2+ 39. Kd3 e5
+40. Rb2 Qf1+ 41. Kd2 Qf2+ 42. Kd3 Qf3+ 43. Kd2 e4 44. Bb3+ Kf8
+45. Ke1 Qh1+ 46. Kd2 Qg2+ 47. Ke1 Qg1+ 48. Kd2 Qf2+ 0-1

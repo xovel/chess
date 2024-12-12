@@ -1,0 +1,17 @@
+[Event "Analysis"]
+[Site "Breslau POL (Prussian Empire)"]
+[Date "1859.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Adolf Anderssen"]
+[Black "Max Lange"]
+[ECO "C61"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "38"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nd4 4.Nxd4 exd4 5.Bc4 Nf6 6.e5 d5
+7.Bb3 Bg4 8.f3 Ne4 9.O-O d3 10.fxg4 Bc5+ 11.Kh1 Ng3+ 12.hxg3
+Qg5 13.Rf5 h5 14.gxh5 Qxf5 15.g4 Rxh5+ 16.gxh5 Qe4 17.Qf3 Qh4+
+18.Qh3 Qe1+ 19.Kh2 Bg1+ 0-1
