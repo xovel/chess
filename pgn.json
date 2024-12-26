@@ -1,6 +1,118 @@
 {
-  "update": "2024-12-12",
+  "update": "2024-12-26",
   "list": [
+    {
+      "date": "2024-12-26",
+      "year": "2014",
+      "players": "Y Hou vs N Dzagnidze",
+      "link": "/perl/chessgame?gid=1752560",
+      "id": "1752560",
+      "note": "Ho, Ho, Hou!"
+    },
+    {
+      "date": "2024-12-25",
+      "year": "2009",
+      "players": "N Studer vs D Borner",
+      "link": "/perl/chessgame?gid=2289209",
+      "id": "2289209",
+      "note": "Joyeux Noel"
+    },
+    {
+      "date": "2024-12-24",
+      "year": "2018",
+      "players": "F Rhine vs NN",
+      "link": "/perl/chessgame?gid=1947572",
+      "id": "1947572",
+      "note": "'Twas the Night Before Christmas"
+    },
+    {
+      "date": "2024-12-23",
+      "year": "1990",
+      "players": "B Snow vs P Mueckenberger",
+      "link": "/perl/chessgame?gid=2386066",
+      "id": "2386066",
+      "note": "Let It Snow"
+    },
+    {
+      "date": "2024-12-22",
+      "year": "2003",
+      "players": "R Song vs C Morrison",
+      "link": "/perl/chessgame?gid=1565045",
+      "id": "1565045",
+      "note": "Chris Misses Song"
+    },
+    {
+      "date": "2024-12-21",
+      "year": "2007",
+      "players": "B de Jong-Muhren vs A Rudolph",
+      "link": "/perl/chessgame?gid=1458799",
+      "id": "1458799",
+      "note": "Rudolph the red knows pain, dear."
+    },
+    {
+      "date": "2024-12-20",
+      "year": "1993",
+      "players": "C Lakdawala vs W Boctor",
+      "link": "/perl/chessgame?gid=2539943",
+      "id": "2539943",
+      "note": "Call the Boctor"
+    },
+    {
+      "date": "2024-12-19",
+      "year": "1998",
+      "players": "T Wall vs D Ippolito",
+      "link": "/perl/chessgame?gid=1080290",
+      "id": "1080290",
+      "note": "Dean of Students"
+    },
+    {
+      "date": "2024-12-18",
+      "year": "1993",
+      "players": "Dlugy vs D Sheppard",
+      "link": "/perl/chessgame?gid=1581261",
+      "id": "1581261",
+      "note": "Pun: Dore's Box"
+    },
+    {
+      "date": "2024-12-17",
+      "year": "2024",
+      "players": "Carlsen vs Niemann",
+      "link": "/perl/chessgame?gid=2677729",
+      "id": "2677729",
+      "note": "Deus won. Now sued."
+    },
+    {
+      "date": "2024-12-16",
+      "year": "2024",
+      "players": "P Galperin vs J Hector",
+      "link": "/perl/chessgame?gid=2749975",
+      "id": "2749975",
+      "note": "Lost to Achilles, but not to Plato"
+    },
+    {
+      "date": "2024-12-15",
+      "year": "1980",
+      "players": "Browne vs Benjamin",
+      "link": "/perl/chessgame?gid=1026452",
+      "id": "1026452",
+      "note": "Browne v. the Board"
+    },
+    {
+      "date": "2024-12-14",
+      "year": "2022",
+      "players": "D Gukesh vs Carlsen",
+      "link": "/perl/chessgame?gid=2391991",
+      "id": "2391991",
+      "note": "The boy who would be King"
+    },
+    {
+      "date": "2024-12-13",
+      "year": "2024",
+      "players": "Ding Liren vs D Gukesh",
+      "link": "/perl/chessgame?gid=2811859",
+      "id": "2811859",
+      "note": "Nobody Puts Bishop in the Corner"
+    },
     {
       "date": "2024-12-12",
       "year": "1989",
