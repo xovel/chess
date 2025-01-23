@@ -1,6 +1,238 @@
 {
-  "update": "2024-12-26",
+  "update": "2025-01-23",
   "list": [
+    {
+      "date": "2025-01-23",
+      "year": "2015",
+      "players": "So vs B van der Zwet",
+      "link": "/perl/chessgame?gid=1784835",
+      "id": "1784835",
+      "note": "Bart of Darkness"
+    },
+    {
+      "date": "2025-01-22",
+      "year": "1925",
+      "players": "Alekhine vs Colle",
+      "link": "/perl/chessgame?gid=1325132",
+      "id": "1325132",
+      "note": "Colle it a Wrap"
+    },
+    {
+      "date": "2025-01-21",
+      "year": "1989",
+      "players": "Hodgson vs S Polgar",
+      "link": "/perl/chessgame?gid=1109518",
+      "id": "1109518",
+      "note": "Trompomania Running Wild, Sister!"
+    },
+    {
+      "date": "2025-01-20",
+      "year": "1960",
+      "players": "Tal vs Botvinnik",
+      "link": "/perl/chessgame?gid=1032530",
+      "id": "1032530",
+      "note": "Dubious, Therefore Best"
+    },
+    {
+      "date": "2025-01-19",
+      "year": "2010",
+      "players": "Jobava vs Carlsen",
+      "link": "/perl/chessgame?gid=1593272",
+      "id": "1593272",
+      "note": "Jobravo!"
+    },
+    {
+      "date": "2025-01-18",
+      "year": "1998",
+      "players": "J Canibal vs H Schorra",
+      "link": "/perl/chessgame?gid=1322341",
+      "id": "1322341",
+      "note": "Fine Young Canibal"
+    },
+    {
+      "date": "2025-01-17",
+      "year": "2022",
+      "players": "Mamedyarov vs Giri",
+      "link": "/perl/chessgame?gid=2390948",
+      "id": "2390948",
+      "note": "Shakhespearean Sonnet"
+    },
+    {
+      "date": "2025-01-16",
+      "year": "2024",
+      "players": "Carlsen vs A Tari",
+      "link": "/perl/chessgame?gid=2816616",
+      "id": "2816616",
+      "note": "The Jeaned Genie"
+    },
+    {
+      "date": "2025-01-15",
+      "year": "1956",
+      "players": "Fischer vs J Fermoselle-Bacardi Sr",
+      "link": "/perl/chessgame?gid=2019964",
+      "id": "2019964",
+      "note": "Bacardi on ice"
+    },
+    {
+      "date": "2025-01-14",
+      "year": "1978",
+      "players": "V Dydyshko vs Kasparov",
+      "link": "/perl/chessgame?gid=1069736",
+      "id": "1069736",
+      "note": "Venit VD Vicit"
+    },
+    {
+      "date": "2025-01-13",
+      "year": "2016",
+      "players": "J Torres Santiago vs T Kahn",
+      "link": "/perl/chessgame?gid=1831694",
+      "id": "1831694",
+      "note": "The Morra the Merrier"
+    },
+    {
+      "date": "2025-01-12",
+      "year": "2002",
+      "players": "I Nataf vs Karpov",
+      "link": "/perl/chessgame?gid=1250089",
+      "id": "1250089",
+      "note": "Kanndemonium"
+    },
+    {
+      "date": "2025-01-11",
+      "year": "2010",
+      "players": "V Bhat vs Kudrin",
+      "link": "/perl/chessgame?gid=1582305",
+      "id": "1582305",
+      "note": "From Bhat to Worse"
+    },
+    {
+      "date": "2025-01-10",
+      "year": "1969",
+      "players": "Ivkov vs R Hartoch",
+      "link": "/perl/chessgame?gid=1757873",
+      "id": "1757873",
+      "note": "Hard Target"
+    },
+    {
+      "date": "2025-01-09",
+      "year": "2010",
+      "players": "M Erdogdu vs Morozevich",
+      "link": "/perl/chessgame?gid=1567846",
+      "id": "1567846",
+      "note": "La Cosa Nostra"
+    },
+    {
+      "date": "2025-01-08",
+      "year": "1911",
+      "players": "G Schories vs H Pinkerton",
+      "link": "/perl/chessgame?gid=1994501",
+      "id": "1994501",
+      "note": "Spanish Knights"
+    },
+    {
+      "date": "2025-01-07",
+      "year": "1979",
+      "players": "Tal vs Huebner",
+      "link": "/perl/chessgame?gid=1140433",
+      "id": "1140433",
+      "note": "Nervous Energy"
+    },
+    {
+      "date": "2025-01-06",
+      "year": "2015",
+      "players": "Svidler vs Khismatullin",
+      "link": "/perl/chessgame?gid=1799484",
+      "id": "1799484",
+      "note": "Khismat"
+    },
+    {
+      "date": "2025-01-06",
+      "year": "1970",
+      "players": "A Prameshuber vs Huebner",
+      "link": "/perl/chessgame?gid=1484015",
+      "id": "1484015",
+      "note": "Deutschland Huebner Alex"
+    },
+    {
+      "date": "2025-01-05",
+      "year": "2024",
+      "players": "Ivanchuk vs Naroditsky",
+      "link": "/perl/chessgame?gid=2819917",
+      "id": "2819917",
+      "note": "The Crying Game"
+    },
+    {
+      "date": "2025-01-04",
+      "year": "2012",
+      "players": "W Doudou vs Q Guo",
+      "link": "/perl/chessgame?gid=1663246",
+      "id": "1663246",
+      "note": "In Deep Doudou"
+    },
+    {
+      "date": "2025-01-03",
+      "year": "1975",
+      "players": "Panno vs H Bravo Sedamanos",
+      "link": "/perl/chessgame?gid=1443555",
+      "id": "1443555",
+      "note": "Bravo!"
+    },
+    {
+      "date": "2025-01-02",
+      "year": "2024",
+      "players": "Caruana vs N Theodorou",
+      "link": "/perl/chessgame?gid=2812759",
+      "id": "2812759",
+      "note": "The Greek Geek"
+    },
+    {
+      "date": "2025-01-01",
+      "year": "2024",
+      "players": "Carlsen vs Nepomniachtchi",
+      "link": "/perl/chessgame?gid=2821678",
+      "id": "2821678",
+      "note": "I'll Take Manhattan"
+    },
+    {
+      "date": "2024-12-31",
+      "year": "2006",
+      "players": "J Polgar vs Kasparov",
+      "link": "/perl/chessgame?gid=1427170",
+      "id": "1427170",
+      "note": "Last Kasp"
+    },
+    {
+      "date": "2024-12-30",
+      "year": "1965",
+      "players": "C van den Berg vs J H Donner",
+      "link": "/perl/chessgame?gid=1450586",
+      "id": "1450586",
+      "note": "Blitzin' Donner"
+    },
+    {
+      "date": "2024-12-29",
+      "year": "1912",
+      "players": "J O'Hanlon vs J Waterman",
+      "link": "/perl/chessgame?gid=1863888",
+      "id": "1863888",
+      "note": "Happy Chrismas"
+    },
+    {
+      "date": "2024-12-28",
+      "year": "1960",
+      "players": "J Diez del Corral vs J Rodriguez Gonzalez",
+      "link": "/perl/chessgame?gid=1997868",
+      "id": "1997868",
+      "note": "Jesus' Gift of Ubiquity"
+    },
+    {
+      "date": "2024-12-27",
+      "year": "2020",
+      "players": "Z Tanenbaum vs T Shi",
+      "link": "/perl/chessgame?gid=1996233",
+      "id": "1996233",
+      "note": "O Tanenbaum"
+    },
     {
       "date": "2024-12-26",
       "year": "2014",
