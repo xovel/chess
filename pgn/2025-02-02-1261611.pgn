@@ -1,0 +1,20 @@
+[Event "Paris Unofficial Olympiad final-B"]
+[Site "Paris FRA"]
+[Date "1924.07.16"]
+[EventDate "Paris f-B Paris"]
+[Round "2"]
+[Result "0-1"]
+[White "Ion Gudju"]
+[Black "Karl Behting"]
+[ECO "C40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "64"]
+
+1.e4 e5 2.Nf3 f5 3.Bc4 fxe4 4.Nxe5 Qg5 5.Nf7 Qxg2 6.Rf1 d5
+7.Bxd5 Nf6 8.Nxh8 Bh3 9.Bc4 Nc6 10.c3 Ne5 11.d4 O-O-O 12.Be2
+Nf3+ 13.Bxf3 Qxf1+ 14.Kd2 Qxf2+ 15.Be2 e3+ 16.Kc2 Bf5+ 17.Kb3
+Be6+ 18.c4 Bc5 19.d5 Nxd5 20.Bg4 Nf4 21.Bxe6+ Nxe6 22.Qg4 Qf6
+23.Nc3 Kb8 24.Ne4 Qd4 25.a3 Qd3+ 26.Ka2 Qxc4+ 27.b3 Rd2+
+28.Bb2 Rxb2+ 29.Kxb2 Bd4+ 30.Kb1 Qxb3+ 31.Kc1 Bb2+ 32.Kb1
+Bxa3# 0-1

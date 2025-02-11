@@ -1,0 +1,20 @@
+[Event "Odds game (Ng1)"]
+[Site "London ENG"]
+[Date "1871.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Joseph Blackburne"]
+[Black "Younger"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Westminster Papers, vol.iv, 1871.09.01, p.83"]
+[PlyCount "50"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKB1R w KQkq - 0 1"]
+
+1. e4 e6 2. d4 d5 3. Nc3 c5 4. exd5 exd5 5. dxc5 d4 6. Ne4 Qe7 7. Bb5+ Bd7 8.
+O-O Bxb5 9. Re1 Kd8 10. Bg5 f6 11. Nxf6 gxf6 12. Rxe7 Bxe7 13. Qxd4+ Nd7 14. b4
+h6 15. Bf4 Bc6 16. Rd1 Kc8 17. c4 b6 18. cxb6 Bxb4 19. Qb2 Bc5 20. b7+ Bxb7 21.
+Rxd7 Bb6 22. Qb5 f5 23. Rc7+ Bxc7 24. Qe8+ Bd8 25. Qe6# 1-0

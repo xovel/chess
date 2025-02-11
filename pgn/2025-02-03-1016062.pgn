@@ -1,0 +1,23 @@
+[Event "Elekes Memorial"]
+[Site "Budapest HUN"]
+[Date "1982.06.??"]
+[EventDate "?"]
+[Round "6"]
+[Result "1-0"]
+[White "Andras Adorjan"]
+[Black "Gabor Glatt"]
+[ECO "A29"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "47"]
+
+1.c4 {Nots by Adorjan from Informant} e5 2.Nc3 Nf6 3.Nf3 Nc6
+4.g3 Bb4 5.Nd5 Bd6 6.Bg2 Nxd5 7.cxd5 Ne7 8.e4 c6 9.O-O cxd5
+10.d4 dxe4 11.Nxe5 Qc7 12.Bf4 f6 13.Rc1 Qb8 14.Bxe4 fxe5
+15.dxe5 Bc7 16.Qh5+ g6 17.Qh6 Bxe5 18.Rxc8+ {!!} Nxc8
+{18...Qxc8 19 Bxe5 +-} 19.Bxg6+ hxg6 20.Qxg6+ Kd8 {20...Kf8 21
+Qf5+ +-; 20...Ke7 21 Re1! d6 22 Qg7+ Ke6 23 Qxh8 Ne7 (23...Nb6
+24 Qh6+ Kf7 25 Qh7+ Kf6 26 h4!) 24 Qh6+ Kf7 (24...Kd7 25 Bxe5
+dxe5 26 Rd1+ Ke8 27 Rd6! +-) 25 Qh7+ Ke6 (25...Kf6 26 h4 +-)
+26 Bg5 with the idea of f4 +-} 21.Qg5+ Ne7 22.Bxe5 Rg8 23.Qf4
+Qc8 24.Rc1 1-0

@@ -1,0 +1,20 @@
+[Event "Budapest Olympiad"]
+[Site "Budapest HUN"]
+[Date "2024.09.13"]
+[EventDate "2024.09.11"]
+[Round "3.81"]
+[Result "1-0"]
+[White "David Navara"]
+[Black "Rodrigue-Lemieux, Shawn"]
+[ECO "B12"]
+[WhiteElo "2681"]
+[BlackElo "2509"]
+[Source "Lichess"]
+[PlyCount "54"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5
+6. Be3 Qb6 7. Nc3 Nc6 8. Bb5 c4 9. O-O Ne7 10. b3 a6
+11. Ba4 Qa5 12. Bd2 Qd8 13. bxc4 dxc4 14. Bg5 Qa5 15. Rb1 Qxc3
+16. Rxb7 Be4 17. d5 Bxd5 18. Bxe7 Qa5 19. c3 Bxe7 20. Bxc6+ Kf8
+21. Bxd5 Rd8 22. Bxc4 Rxd1 23. Rxd1 g5 24. Rdd7 Bd8 25. Nd4 Kg7
+26. Rxf7+ Kh6 27. Bd3 1-0

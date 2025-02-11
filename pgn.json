@@ -1,6 +1,158 @@
 {
-  "update": "2025-01-23",
+  "update": "2025-02-11",
   "list": [
+    {
+      "date": "2025-02-11",
+      "year": "2012",
+      "players": "S Bargan vs K Rathnakaran",
+      "link": "/perl/chessgame?gid=1669938",
+      "id": "1669938",
+      "note": "Bargan Hunter"
+    },
+    {
+      "date": "2025-02-10",
+      "year": "2024",
+      "players": "Navara vs S Rodrigue-Lemieux",
+      "link": "/perl/chessgame?gid=2770564",
+      "id": "2770564",
+      "note": "Navara's Immortal"
+    },
+    {
+      "date": "2025-02-09",
+      "year": "2012",
+      "players": "K Mona vs L Schut",
+      "link": "/perl/chessgame?gid=1675408",
+      "id": "1675408",
+      "note": "Giuoco Giocondo"
+    },
+    {
+      "date": "2025-02-08",
+      "year": "1871",
+      "players": "Blackburne vs Younger",
+      "link": "/perl/chessgame?gid=2838249",
+      "id": "2838249",
+      "note": "A little bit of Morphy."
+    },
+    {
+      "date": "2025-02-07",
+      "year": "2024",
+      "players": "C Yip vs G Tokhirjonova",
+      "link": "/perl/chessgame?gid=2793217",
+      "id": "2793217",
+      "note": "Yippee Ki Yay!"
+    },
+    {
+      "date": "2025-02-06",
+      "year": "1987",
+      "players": "D Donchev vs S Nikolov",
+      "link": "/perl/chessgame?gid=1459003",
+      "id": "1459003",
+      "note": "Hurts, Donchev?"
+    },
+    {
+      "date": "2025-02-05",
+      "year": "2022",
+      "players": "Carlsen vs M Baldauf",
+      "link": "/perl/chessgame?gid=2388148",
+      "id": "2388148",
+      "note": "Marco So Low"
+    },
+    {
+      "date": "2025-02-04",
+      "year": "1959",
+      "players": "F Olafsson vs Fischer",
+      "link": "/perl/chessgame?gid=1043998",
+      "id": "1043998",
+      "note": "KID Vicious"
+    },
+    {
+      "date": "2025-02-03",
+      "year": "1982",
+      "players": "Adorjan vs G Glatt",
+      "link": "/perl/chessgame?gid=1016062",
+      "id": "1016062",
+      "note": "All Around Good Guy"
+    },
+    {
+      "date": "2025-02-02",
+      "year": "1924",
+      "players": "I Gudju vs K Behting",
+      "link": "/perl/chessgame?gid=1261611",
+      "id": "1261611",
+      "note": "Bye-bye, birdies!"
+    },
+    {
+      "date": "2025-02-01",
+      "year": "1955",
+      "players": "Forintos vs Portisch",
+      "link": "/perl/chessgame?gid=2835003",
+      "id": "2835003",
+      "note": "Buda Pests"
+    },
+    {
+      "date": "2025-01-31",
+      "year": "1975",
+      "players": "E Dury vs Jensen",
+      "link": "/perl/chessgame?gid=1076879",
+      "id": "1076879",
+      "note": "Hung Dury"
+    },
+    {
+      "date": "2025-01-30",
+      "year": "2019",
+      "players": "D Howell vs Grischuk",
+      "link": "/perl/chessgame?gid=1977197",
+      "id": "1977197",
+      "note": "Hedgehog Roast"
+    },
+    {
+      "date": "2025-01-29",
+      "year": "1932",
+      "players": "Alekhine vs A Aviles",
+      "link": "/perl/chessgame?gid=1012878",
+      "id": "1012878",
+      "note": "Dance of the Knights"
+    },
+    {
+      "date": "2025-01-28",
+      "year": "2022",
+      "players": "Rapport vs Mamedyarov",
+      "link": "/perl/chessgame?gid=2391156",
+      "id": "2391156",
+      "note": "Constantinople Falling"
+    },
+    {
+      "date": "2025-01-27",
+      "year": "1951",
+      "players": "H W Scarlett vs B Hayden",
+      "link": "/perl/chessgame?gid=2814782",
+      "id": "2814782",
+      "note": "A Study in Scarlett"
+    },
+    {
+      "date": "2025-01-26",
+      "year": "1941",
+      "players": "Panke vs Kranenberg",
+      "link": "/perl/chessgame?gid=2601950",
+      "id": "2601950",
+      "note": "The Unknown Immortal"
+    },
+    {
+      "date": "2025-01-25",
+      "year": "1993",
+      "players": "S Polgar vs Averbakh",
+      "link": "/perl/chessgame?gid=1109755",
+      "id": "1109755",
+      "note": "The Girl With the Dragon Snafu"
+    },
+    {
+      "date": "2025-01-24",
+      "year": "1972",
+      "players": "C Bloodgood vs H Erwin",
+      "link": "/perl/chessgame?gid=1272255",
+      "id": "1272255",
+      "note": "Frizzel Fry"
+    },
     {
       "date": "2025-01-23",
       "year": "2015",
