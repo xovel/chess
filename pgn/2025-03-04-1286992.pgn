@@ -1,0 +1,18 @@
+[Event "Club Game"]
+[Site "Prague AUH"]
+[Date "1900.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Vitacek"]
+[Black "Oldrich Duras"]
+[ECO "C22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "52"]
+
+1.e4 e5 2.d4 exd4 3.Qxd4 Nc6 4.Qe3 d6 5.Nc3 Be7 6.Bd2 f5
+7.O-O-O Nf6 8.h3 fxe4 9.Nxe4 Nxe4 10.Qxe4 O-O 11.Bd3 g6 12.g4
+Bf6 13.f4 Re8 14.Qf3 Nd4 15.Qg3 Be6 16.f5 Bxa2 17.fxg6 hxg6
+18.g5 Bh8 19.Bxg6 Re2 20.Qh4 Qe7 21.Qh6 Rf8 22.Bc3 Qe3+ 23.Bd2
+Qxd2+ 24.Rxd2 Rf1+ 25.Rd1 Nb3+ 26.cxb3 Bxb2# 0-1

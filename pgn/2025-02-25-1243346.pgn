@@ -1,0 +1,15 @@
+[Event "HMC"]
+[Site "HMC"]
+[Date "1978.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Hans Quint"]
+[Black "Pieter A Goossens"]
+[ECO "B02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "18"]
+
+1.e4 Nf6 2.Nc3 d5 3.exd5 Nxd5 4.Bc4 Nb6 5.Bb3 Nc6 6.Nf3 Bg4
+7.Bxf7+ Kd7 8.Qe2 e6 9.h3 Bxf3 1-0

@@ -1,0 +1,17 @@
+[Event "Simul, 12b"]
+[Site "Nugent's Dept. Store, St Louis, MO USA"]
+[Date "1921.08.25"]
+[EventDate "1921.??.??"]
+[Round "?"]
+[Result "0-1"]
+[White "Samuel Reshevsky"]
+[Black "Edward D Duncan"]
+[ECO "C40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "34"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 e4 4. Qe2 Nf6 5. Nc3 Bc5 6. Nxe4
+O-O 7. Nxf6+ Qxf6 8. c3 Bd7 9. d4 Bd6 10. Be3 Bf5 11. Nd2 Nd7
+12. g3 Rfe8 13. Bg2 Qg6 14. O-O-O c5 15. dxc6 bxc6 16. Bxc6
+Rac8 17. Bxd7 Rxc3+ 0-1

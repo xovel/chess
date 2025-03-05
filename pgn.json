@@ -1,6 +1,190 @@
 {
-  "update": "2025-02-11",
+  "update": "2025-03-05",
   "list": [
+    {
+      "date": "2025-03-05",
+      "year": "1938",
+      "players": "I Ash vs A Regen",
+      "link": "/perl/chessgame?gid=2664561",
+      "id": "2664561",
+      "note": "Ash Wednesday"
+    },
+    {
+      "date": "2025-03-04",
+      "year": "1900",
+      "players": "Vitacek vs Duras",
+      "link": "/perl/chessgame?gid=1286992",
+      "id": "1286992",
+      "note": "Under Duras"
+    },
+    {
+      "date": "2025-03-03",
+      "year": "1979",
+      "players": "S Bouaziz vs Miles",
+      "link": "/perl/chessgame?gid=1097235",
+      "id": "1097235",
+      "note": "The Ballad of Gay Tony"
+    },
+    {
+      "date": "2025-03-02",
+      "year": "2022",
+      "players": "Aronian vs R Praggnanandhaa",
+      "link": "/perl/chessgame?gid=2358807",
+      "id": "2358807",
+      "note": "Disappearing Assets"
+    },
+    {
+      "date": "2025-03-01",
+      "year": "1969",
+      "players": "Spassky vs Petrosian",
+      "link": "/perl/chessgame?gid=1106849",
+      "id": "1106849",
+      "note": "Passed but not forgotten"
+    },
+    {
+      "date": "2025-02-28",
+      "year": "2025",
+      "players": "N Yakubboev vs R Vaishali",
+      "link": "/perl/chessgame?gid=2830051",
+      "id": "2830051",
+      "note": "She's a maniac, maniac..."
+    },
+    {
+      "date": "2025-02-27",
+      "year": "1921",
+      "players": "Reshevsky vs E D Duncan",
+      "link": "/perl/chessgame?gid=1462331",
+      "id": "1462331",
+      "note": "The Elephant in the Room"
+    },
+    {
+      "date": "2025-02-26",
+      "year": "1990",
+      "players": "G Kallai vs D Laurain",
+      "link": "/perl/chessgame?gid=2294141",
+      "id": "2294141",
+      "note": "My Queen, Dom, for a Horse"
+    },
+    {
+      "date": "2025-02-25",
+      "year": "1978",
+      "players": "H Quint vs P Goossens",
+      "link": "/perl/chessgame?gid=1243346",
+      "id": "1243346",
+      "note": "You're Gonna Need a Bigger Boat"
+    },
+    {
+      "date": "2025-02-24",
+      "year": "1948",
+      "players": "Spassky vs Shman",
+      "link": "/perl/chessgame?gid=1583003",
+      "id": "1583003",
+      "note": "Shman Magic"
+    },
+    {
+      "date": "2025-02-23",
+      "year": "2013",
+      "players": "A Zatonskih vs P Dukaczewski",
+      "link": "/perl/chessgame?gid=1705447",
+      "id": "1705447",
+      "note": "Out for a Duk"
+    },
+    {
+      "date": "2025-02-22",
+      "year": "2012",
+      "players": "G Lasya vs D S Shashaank",
+      "link": "/perl/chessgame?gid=2847627",
+      "id": "2847627",
+      "note": "Redemption!"
+    },
+    {
+      "date": "2025-02-21",
+      "year": "1964",
+      "players": "Fischer vs L Noderer",
+      "link": "/perl/chessgame?gid=1546213",
+      "id": "1546213",
+      "note": "Lawrence Fisch Burn"
+    },
+    {
+      "date": "2025-02-20",
+      "year": "2011",
+      "players": "S Williams vs G Jones",
+      "link": "/perl/chessgame?gid=1662720",
+      "id": "1662720",
+      "note": "Hillbilly Elegy"
+    },
+    {
+      "date": "2025-02-19",
+      "year": "1994",
+      "players": "Anand vs Kamsky",
+      "link": "/perl/chessgame?gid=1018564",
+      "id": "1018564",
+      "note": "Hanging by a pin"
+    },
+    {
+      "date": "2025-02-18",
+      "year": "2010",
+      "players": "V Laznicka vs Short",
+      "link": "/perl/chessgame?gid=1597100",
+      "id": "1597100",
+      "note": "To the Viktor go the spoils"
+    },
+    {
+      "date": "2025-02-17",
+      "year": "1949",
+      "players": "Golombek vs Brown",
+      "link": "/perl/chessgame?gid=1503206",
+      "id": "1503206",
+      "note": "Hash Brown"
+    },
+    {
+      "date": "2025-02-16",
+      "year": "1987",
+      "players": "J Polgar vs L Gutman",
+      "link": "/perl/chessgame?gid=1110739",
+      "id": "1110739",
+      "note": "Headbanger"
+    },
+    {
+      "date": "2025-02-15",
+      "year": "2006",
+      "players": "Karpov vs V Akopian",
+      "link": "/perl/chessgame?gid=1410232",
+      "id": "1410232",
+      "note": "I nail a dim Karpov"
+    },
+    {
+      "date": "2025-02-14",
+      "year": "1996",
+      "players": "V Arbakov vs Kupreichik",
+      "link": "/perl/chessgame?gid=1088324",
+      "id": "1088324",
+      "note": "Valentin's Day"
+    },
+    {
+      "date": "2025-02-13",
+      "year": "1979",
+      "players": "Lobron vs Dzindzichashvili",
+      "link": "/perl/chessgame?gid=1040176",
+      "id": "1040176",
+      "note": "My Pet Fish, Eric"
+    },
+    {
+      "date": "2025-02-12",
+      "year": "2007",
+      "players": "D Rensch vs Z Young",
+      "link": "/perl/chessgame?gid=1464761",
+      "id": "1464761",
+      "note": "Why must the good die, Young?"
+    },
+    {
+      "date": "2025-02-12",
+      "year": "1988",
+      "players": "E Hintikka vs T Pirttimaki",
+      "link": "/perl/chessgame?gid=1381900",
+      "id": "1381900",
+      "note": "That Check-Hintikka Massacre is Pirtti Spicy"
+    },
     {
       "date": "2025-02-11",
       "year": "2012",
