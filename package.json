@@ -25,6 +25,6 @@
     "puppeteer": "^22.0.0"
   },
   "dependencies": {
-    "undici": "^5.10.0"
+    "undici": "^6.23.0"
   }
 }
