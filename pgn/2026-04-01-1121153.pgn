@@ -1,0 +1,44 @@
+[Event "Lasker - Schlechter World Championship Match"]
+[Site "Berlin GER"]
+[Date "1910.01.30"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Carl Schlechter"]
+[Black "Emanuel Lasker"]
+[ECO "B32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "96"]
+
+1. e4 {Notes by J. R. Capablanca.} c5 2. Nf3 Nc6 3. d4 cxd4
+4. Nxd4 Nf6 5. Nc3 g6 6. Bc4 d6 7. Nxc6 bxc6 8. e5 Ng4 {Of
+course if 8...dxe5 9.Bxf7+.} 9. e6 {The advance of this pawnso
+early in the game is at least very risky. Black's game is
+perfectly safe, while White hto struggle to protect this
+advanced pawn.} f5 10. O-O Bg7 11. Bf4 Qb6 {If 11...d5 12.Nxd5
+cxd5 13.Qxd5 winning.} 12. Bb3 Ba6 13. Na4 Qd4 14. Qxd4 Bxd4
+15. c4 O-O $1 16. Rad1 Bf6 {16...c5 was the alternative ; in
+which case White would probably play 17.Nc3 Bxc3 18.bxc3 Kg7
+19.Rfe1, and White's game seems good.} $1 17. Rfe1 $6 g5
+18. Bxd6 {Played with very fine judgement. The pawn at e6
+which was weak becomes very strong now.} $1 18... exd6
+19. Rxd6 Be5 20. c5 {Fine. If 20...Bxd6 21.cxd6 and the two
+white pawns would become irresistable. This is one of the
+finest games of the match. Black has to play with great
+caution to avoid White's many threats.} Rfe8 21. g3 {If 21.h3
+Bh2+ 22.Kh1 Bxd6 23.cxd6 Nxf2+ 24.Kh2 Ne4, and if 21.f3 Bxh2+
+22.Kh1 Bg3, or perhaps 22.Bxd6 23.cxd6 Nf2+ 24.Kh2 Nd3.} $1
+Bf6 22. Rxc6 Bb7 {Black might have played here 22...Bb5 23.Rd6
+Rac8, with what appears to be a very good game. If in answer
+to 22...Bb5 23.Rc7 then 23...Re7, or if 23.e7+ in answer to
+22...Bb5 then 23...Kg7 24.Rc7 Ne5 25.Re3 f4 26.Re4 Nf3+ 27.Kg2
+Nd2 and Black's game looks very good.} 23. Rc7 Be4 24. Nc3
+Bxc3 25. bxc3 Ne5 26. Rd1 Nf3+ 27. Kf1 Nxh2+ 28. Ke1 Nf3+
+29. Ke2 Ne5 30. Rdd7 30... f4 31. Rg7+ Kh8 32. Rxg5 Bd3+
+33. Kd1 fxg3 $1 34. fxg3 Ng6 {All this play is very
+fine. Unfortunately for Black, he has no pawns left by the
+time the attack is over.} 35. Rd5 Be4 36. Rd6 Bf5 37. Bd5 Rab8
+38. c6 Nf8 39. Rb7 Rbc8 40. e7 Ng6 41. Bf7 Rxe7 42. Bxg6 Bg4+
+43. Kc1 Re1+ 44. Kb2 hxg6 45. Rxg6 Bf5 46. Rf6 Be4 47. Rxa7
+Rb1+ 48. Ka3 Bxc6 1/2-1/2

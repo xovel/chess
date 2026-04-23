@@ -1,0 +1,18 @@
+[Event "Aeroflot Open"]
+[Site "Moscow RUS"]
+[Date "2009.02.22"]
+[EventDate "2009.02.17"]
+[Round "6"]
+[Result "0-1"]
+[White "Shakhriyar Mamedyarov"]
+[Black "Igor Kurnosov"]
+[ECO "D70"]
+[WhiteElo "2724"]
+[BlackElo "2602"]
+[PlyCount "42"]
+
+1. d4 Nf6 2. c4 g6 3. f3 d5 4. cxd5 Nxd5 5. e4 Nb6 6. Nc3 Bg7
+7. Be3 O-O 8. Qd2 Nc6 9. O-O-O f5 10. h4 fxe4 11. h5 gxh5
+12. d5 Ne5 13. Bh6 Nec4 14. Qg5 Rf7 15. Bxc4 Nxc4 16. Rd4 Qd6
+17. Bxg7 Rxg7 18. Qxh5 Qf4+ 19. Kb1 Bf5 20. fxe4 Bg4 21. Nge2
+Qd2 0-1

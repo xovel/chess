@@ -1,0 +1,16 @@
+[Event "Ostend"]
+[Site "Ostend BEL"]
+[Date "1906.06.07"]
+[EventDate "1906.06.05"]
+[Round "3"]
+[Result "1-0"]
+[White "Jacques Mieses"]
+[Black "Mikhail Chigorin"]
+[ECO "C23"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "29"]
+
+1. e4 e5 2. Nc3 Nc6 3. Bc4 Bc5 4. Qg4 Qf6 5. Nd5 Qxf2+ 6. Kd1
+Kf8 7. Nh3 Qd4 8. d3 d6 9. Qh4 Bxh3 10. Qxh3 Na5 11. Rf1 Nxc4
+12. Qd7 f6 13. Nxf6 Qf2 14. Rxf2 Bxf2 15. Nh5 1-0

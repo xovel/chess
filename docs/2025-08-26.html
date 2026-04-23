@@ -1,0 +1,200 @@
+<html>
+
+<head>
+  <meta name="keywords" content="chess, chess games, ajedrez, scacchi, schach, PGN">
+  <title>O Vodep vs Robatsch (1961) What A Load Of Robatsch</title>
+
+  <style type="text/css">
+    HR {
+      size: 1
+    }
+
+    A {
+      text-decoration: none
+    }
+
+    A:hover {
+      color: #FF0000;
+      text-decoration: underline
+    }
+
+    SELECT {
+      background: #DDDDDD;
+      font-family: Verdana, Arial, Helvetica;
+      font-size: 8pt;
+      border-color: #FFFFFF #777777 #777777 #FFFFFF;
+    }
+
+    .fixedText {
+      width: 344px;
+      padding: 1px;
+      border-style: solid;
+      border-color: #996633;
+      border-width: 1px;
+      background-color: #FFFFDD;
+      font-family: Verdana, Arial, Helvetica, sans-serif;
+      font-size: 9px
+    }
+  </style>
+
+  <!-- start OLGA header -->
+  <!-- meta charset="utf-8" -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <div id="olga-data" sessid="1" color_light="#FFCC99" color_dark="#CC9966" labels="Y" pgn='[Event "Graz 1st"]
+[Site "Graz AUT"]
+[Date "1961.08.20"]
+[EventDate "?"]
+[Round "8"]
+[Result "0-1"]
+[White "Otto Vodep"]
+[Black "Karl Robatsch"]
+[ECO "B93"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "200"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. f4 Nc6 7. Bc4 Qb6 8. Nxc6 bxc6 9. Qd3 e6 10. Be3 Qa5 11. O-O d5 12. Bb3 Bc5 13. Bxc5 Qxc5+ 14. Kh1 O-O 15. e5 Ng4 16. Nd1 f5 17. h3 Nh6 18. c3 a5 19. Qd4 Qe7 20. Rg1 c5 21. Qf2 Bb7 22. Kh2 Kh8 23. Ne3 g5 24. g3 g4 25. h4 Rfd8 26. Ba4 Ba6 27. Bb3 Bb7 28. Ba4 Ng8 29. Rgd1 Qc7 30. Rd2 Ne7 31. Bc2 Bc6 32. Bd1 h5 33. Nc2 Bb7 34. Ne1 Qc6 35. Ng2 d4 36. c4 Rdb8 37. a4 Rd8 38. Bc2 Qb6 39. b3 Nc6 40. Ne1 Nb4 41. Nd3 Na6 42. Rb1 Rab8 43. Qe1 Rd7 44. Re2 Bf3 45. Rf2 Be4 46. Rb2 Rdb7 47. Nc1 Bc6 48. Bb1 Rd7 49. Rbd2 Nb4 50. Kg1 Ba8 51. Kh2 Qc6 52. Rf1 d3 53. Qf2 Rbd8 54. Re1 Nc2 55. Red1 Nb4 56. Rf1 Rd4 57. Rfd1 Qb7 58. Qf1 Qb6 59. Qf2 Bf3 60. Rg1 Be4 61. Rgd1 R4d7 62. Kg1 Bf3 63. Rf1 Ba8 64. Kh2 Qc6 65. Rg1 Qb6 66. Rf1 Be4 67. Rfd1 Qc7 68. Kg1 Kg7 69. Kh2 Nc2 70. Nxd3 Nd4 71. Ne1 Ba8 72. Rd3 Nc6 73. Rxd7+ Rxd7 74. Rxd7+ Qxd7 75. Bc2 Nd4 76. Bd1 Qb7 77. Qg2 Qb8 78. Qd2 Qb6 79. Kg1 Kg6 80. Kf2 Be4 81. Nd3 Qc6 82. Ne1 Qb6 83. Nd3 Bb7 84. Qb2 Qc6 85. Ne1 Qh1 86. Qc3 Qh2+ 87. Kf1 Bf3 88. Bxf3 gxf3 89. Qe3 Qxg3 90. Qg1 Qg4 91. Nd3 Ne2 92. Qh2 Ng3+ 93. Ke1 Ne4 94. Kf1 Kf7 95. Nf2 Ng3+ 96. Kg1 Qxf4 97. Nh3 Ne2+ 98. Kh1 Qc1+ 99. Ng1 Qf1 100. Qxe2 Qxe2 0-1' ratio="80" notes='[]'>
+  </div>
+  <script src="https://cdn.bootcss.com/chess.js/0.10.2/chess.js"></script>
+  <link href="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.css" rel="stylesheet">
+  <link href="./assets/chessboard.min.css" rel="stylesheet">
+  <script src="https://cdn.bootcss.com/jquery/3.6.4/jquery.js"></script>
+  <script src="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.js"></script>
+  <script src="./assets/chessboard.min.js"></script>
+  <script src="./assets/olga.js"></script>
+  <link rel="stylesheet" href="./assets/olga.css">
+  <style>
+    .ui-widget-content {
+      background: #cedc98;
+      border: 1px solid #DDDDDD;
+      color: #333333;
+    }
+  </style>
+  <script type="text/javascript">
+    var startLoading = function () {
+      $.prototype.offset = function () {
+        return {
+          left: this[0].offsetLeft,
+          top: this[0].offsetTop
+        };
+      };
+      var board = ChessBoard("board", {
+        draggable: false,
+        position: ''
+      });
+      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status',
+        'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
+    }
+  </script>
+  <!-- end OLGA header -->
+  <script type="text/javascript">
+    function OpenWin(pagename) {
+      SmallWin = window.open(pagename, 'popup', 'scrollbars,resizable,toolbar=no,height=394,width=412,left=200,top=200');
+      if (window.focus) {
+        SmallWin.focus();
+      }
+    }
+  </script>
+</head>
+
+<body bgcolor="#FFFFFF" vlink="#9900FF" link="#0000FF" onload="startLoading();">
+  <center>
+    <font face="verdana,arial,helvetica" size=+1>
+      <B>O Vodep</B>
+      <font color=#333333>vs</font>
+      <B>Robatsch</B>
+    </font>
+    <br>
+    <font face="georgia,palatino,times new roman,times" size=-1>
+      <B>"What A Load Of Robatsch"</B>
+      <font size=-2>(game of the day 2025-08-26)</font>
+      <br> Graz 1st (1961.08.20), Graz AUT
+      <br> Sicilian, Najdorf, 6.f4(B93)
+      <B>&#183;</B>&nbsp; 0-1
+    </font>
+  </center>
+  <font size="2">
+
+    <!--beginolga-->
+    <div id="board_container" class="totem">
+      <div id="board" style="margin:auto;"></div>
+      <div id="pgn_buttons" class="button_row">
+        <button id="startB" type="button" class="pgn_buttonc">&#171;</button>
+        <button id="prevB" type="button" class="pgn_buttona">&lt;</button>
+        <button id="nextB" type="button" class="pgn_buttonb">&gt;</button>
+        <button id="endB" type="button" class="pgn_buttonc">&#187;</button>
+        <button id="autoB" type="button" class="pgn_buttonc">+</button>
+      </div>
+      <div id="status_t"></div>
+    </div>
+    <div id="variations" class="totem-toggle variations">
+      <div class="analysis_t">ANALYSIS
+        <a id="ab" onclick="exitVariation();">[
+          <font style="color:#0000ff;font-weight:bold;">x</font>]</a>
+      </div>
+      <div id="vb" class="variation_box" tabindex="0" onmouseup="disableShortcutKeysAndStoreStatus();" onblur="restoreShortcutKeysStatus();"
+        onfocusout="restoreShortcutKeysStatus();"></div>
+    </div>
+    <div id="lower_container" class="totem">
+      <div id="notes" class="note_box"></div>
+      <div id="score_box" class="score_box"></div>
+      <br/>
+      <div id="board-options" style="display:none">
+        <div class="col-1" style="width:14%;float:left;margin-left: 4%;">
+          <p style="text-align: center; font-size:1.0em; margin-bottom: 2px;">Light
+            <br/>Squares</p>
+          <input type='color' id='lightColor' class="option_item" onInput="setLightColor(this.value);delayedNotify();" />
+        </div>
+        <div class="col-2" style="width:14%;float:left; margin-left:1%;">
+          <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">Dark
+            <br/>Squares</p>
+          <input type='color' id='darkColor' class="option_item" onInput="setDarkColor(this.value);delayedNotify();" />
+        </div>
+        <div class="col-3" style="width:13%;float:left; margin-left:1%;">
+          <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">Flip
+            <br/>Board</p>
+          <input type="image" src="./assets/img/orientation.png" class="option_item" onclick="flipOrientation();" />
+        </div>
+        <div class="col-4" style="width:32px; height:32px;float:left; margin-left: 2%;">
+          <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">&nbsp;
+            <br>Labels</p>
+          <button name="notation" class="option_item" id="notation" onclick="toggleNotation();delayedNotify();">&nbsp;ON&nbsp;</button>
+        </div>
+        <div class="col-5" style="width:8%;float:left; margin-left:4%;">
+          <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">&nbsp;
+            <br>Shrink</p>
+          <input type="image" src="./assets/img/Pawn_sm.png" class="option_item" onclick="downscaleOLGA();delayedNotify();" />
+        </div>
+        <div class="col-6" style="width:8%;float:left; margin-left:4%;">
+          <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">&nbsp;
+            <br>Grow</p>
+          <input type="image" src="./assets/img/Pawn_big.png" class="option_item" onclick="upscaleOLGA();delayedNotify();" />
+        </div>
+        <div class="col-6" style="width:13%;float:left; margin-left:3%;">
+          <p style="text-align: center;font-size:1.0em;margin-bottom:2px;">&nbsp;
+            <br>Copy</p>
+          <input id="cpy_fen_btn" type="image" src="./assets/img/fen.png" class="option_item" style="border:solid black 1px;" onclick="copyFEN();"
+          />
+        </div>
+      </div>
+
+    </div>
+
+    <div id="status" class="status_toggle">
+      <button class="options_link" onclick="toggleOptions();">
+        <img id="cog_img" src="./assets/img/cog.png" />&nbsp;SETTINGS</button>
+
+      <button class="engine_button" onclick="sendForAnalysis();">
+        <img id="cog_img" src="./assets/img/new_window.png" />&nbsp;ENGINE&nbsp;&nbsp;&nbsp;&nbsp;</button>
+      <div id="fb" class="fen_box"></div>
+    </div>
+    <div id="snackbar">FEN COPIED</div>
+    <!--endolga-->
+
+  </font>
+
+</body>
+
+</html>

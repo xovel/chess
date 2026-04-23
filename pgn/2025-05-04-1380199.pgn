@@ -1,0 +1,19 @@
+[Event "Simul, 29b"]
+[Site "Washington, D.C. USA"]
+[Date "1910.04.21"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Emanuel Lasker"]
+[Black "Rudolph L Sze"]
+[ECO "C40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "54"]
+
+1.e4 e5 2.Nf3 f5 3.exf5 d6 4.d4 e4 5.Bg5 Be7 6.Bxe7 Qxe7
+7.Nfd2 Bxf5 8.Nc3 Nf6 9.Be2 O-O 10.Nc4 d5 11.Ne3 Be6 12.O-O
+Nbd7 13.Nb5 Nb6 14.c3 c6 15.Na3 Rf7 16.Nac2 Nbd7 17.Qd2 Nf8
+18.Rae1 Ng6 19.f3 Nf4 20.Nd1 N6h5 21.fxe4 Qg5 22.Nce3 Nxg2
+23.Kh1 Nxe1 24.Rxe1 Raf8 25.Rg1 Qh4 26.exd5 Bxd5+ 27.Nxd5 Qe4+
+0-1

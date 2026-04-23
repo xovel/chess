@@ -1,0 +1,18 @@
+[Event "Bern Open"]
+[Site "Bern SUI"]
+[Date "1990.??.??"]
+[EventDate "1990.02.09"]
+[Round "6"]
+[Result "1-0"]
+[White "D Flury"]
+[Black "V Kost"]
+[ECO "C30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "41"]
+
+1. e4 e5 2. f4 d6 3. Nf3 Qf6 4. fxe5 dxe5 5. Bc4 Bc5 6. d3 h6
+7. Nc3 c6 8. Na4 Qd6 9. Nxc5 Qxc5 10. Qe2 Qd6 11. O-O Nf6
+12. Nh4 O-O 13. Qf2 Nbd7 14. Nf5 Qc7 15. Qg3 Nh5 16. Qg6 Ndf6
+17. Nxh6+ Kh8 18. Nxf7+ Kg8 19. Rxf6 Nxf6 20. Bh6 Rxf7
+21. Qxg7# 1-0

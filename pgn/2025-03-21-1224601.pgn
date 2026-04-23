@@ -1,0 +1,17 @@
+[Event "Consultation simul, 5b"]
+[Site "Buffalo, NY USA"]
+[Date "1893.03.15"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "William Henry Krause Pollock"]
+[Black "S Langleben / F Colson"]
+[ECO "C56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Nxe4 6.Re1 d5
+7.Bxd5 Qxd5 8.Nc3 Qf5 9.Nxe4 Be6 10.Nxd4 Nxd4 11.Qxd4 h6 12.b3
+a6 13.Bb2 a5 14.Rad1 f6 15.Qd7+ Bxd7 16.Nd6+ Kd8 17.Nf7+ Kc8
+18.Re8+ Bxe8 19.Rd8# 1-0

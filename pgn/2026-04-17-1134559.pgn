@@ -1,0 +1,17 @@
+[Event "URS-ch sf Leningrad"]
+[Site "Leningrad URS"]
+[Date "1957.12.08"]
+[EventDate "1957.11.11"]
+[Round "18"]
+[Result "0-1"]
+[White "Josif Israel Zilber"]
+[Black "Alexey Suetin"]
+[ECO "A10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "34"]
+
+1.c4 g6 2.d4 Bg7 3.e4 d6 4.f4 c5 5.dxc5 Qa5+ 6.Nc3 Bxc3+
+7.bxc3 Nf6 8.cxd6 Nxe4 9.Qd4 O-O 10.dxe7 Re8 11.Qe5 Nc5+
+12.Be3 Nc6 13.Qxc5 Qxc3+ 14.Kf2 Qxa1 15.Nf3 Nxe7 16.Be2 Qxh1
+17.Qe5 Bh3 0-1

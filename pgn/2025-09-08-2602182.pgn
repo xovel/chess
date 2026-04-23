@@ -1,0 +1,21 @@
+[Event "FIDE Grand Swiss"]
+[Site "Douglas, IOM"]
+[Date "2023.11.04"]
+[EventDate "2023.10.25"]
+[Round "10.39"]
+[Result "1-0"]
+[White "Abhimanyu Mishra"]
+[Black "Vasyl Ivanchuk"]
+[ECO "B66"]
+[WhiteElo "2592"]
+[BlackElo "2653"]
+[Source "Lichess"]
+[PlyCount "62"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6
+6. Bg5 e6 7. Qd2 a6 8. Nxc6 bxc6 9. O-O-O d5 10. Qe3 Be7
+11. Bxf6 gxf6 12. Bc4 Bb7 13. Rhe1 h5 14. exd5 cxd5 15. Bxd5 exd5
+16. Nxd5 Bxd5 17. Rxd5 Qc7 18. Rc5 Qd8 19. Rd5 Qc7 20. Rc5 Qd8
+21. Qf3 Kf8 22. Rxh5 Rxh5 23. Qxh5 Kg7 24. Re3 Bd6 25. Qg4+ Kf8
+26. Rh3 Ke7 27. Qe4+ Kd7 28. Qb7+ Ke8 29. Rh8+ Bf8 30. Rh7 Be7
+31. Qc6+ 1-0

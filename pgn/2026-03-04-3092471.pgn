@@ -1,0 +1,24 @@
+[Event "Prague Masters"]
+[Site "Prague CZE"]
+[Date "2026.03.01"]
+[EventDate "2026.02.25"]
+[Round "5.2"]
+[Result "1-0"]
+[White "David Navara"]
+[Black "Nodirbek Yakubboev"]
+[ECO "E08"]
+[WhiteElo "2628"]
+[BlackElo "2691"]
+[Source "Lichess"]
+[PlyCount "96"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O
+6. O-O Nbd7 7. Qc2 a5 8. Bg5 h6 9. Bxf6 Nxf6 10. Nc3 c6
+11. Rfd1 b6 12. e4 dxc4 13. Ne5 Bb7 14. Nxc4 b5 15. Ne3 Rc8
+16. Rac1 Qb6 17. e5 Nd5 18. Ne4 Nb4 19. Qe2 Nxa2 20. Ra1 Nb4
+21. Nf6+ Bxf6 22. exf6 Qd8 23. fxg7 Kxg7 24. Ng4 Ra8 25. Qe5+ f6
+26. Qxe6 Bc8 27. Qe2 Qd6 28. Ne3 Bd7 29. d5 c5 30. Qxb5 Nc2
+31. Qc6 Qe7 32. Qc7 Nxe3 33. d6 Qe6 34. Re1 Ra6 35. Rad1 Qg4
+36. h3 Qa4 37. b3 Qxb3 38. Qxd7+ Rf7 39. Qxf7+ Kxf7 40. d7 Nxg2
+41. Re7+ Kxe7 42. d8=Q+ Kf7 43. Rd7+ Kg6 44. Qe8+ Kg5 45. Qe4 f5
+46. Rg7+ Rg6 47. h4+ Kf6 48. Qe7# 1-0

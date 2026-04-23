@@ -1,0 +1,22 @@
+[Event "Odds game"]
+[Site "Riga RUE"]
+[Date "1884.05.31"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Lindenberg"]
+[Black "Andreas Ascharin"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "Baltische Schachblatter no.5, p.66"]
+[PlyCount "56"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 Bg4 4. Nf3 Qd7 5. Bc4 Nc6 6. Bb5 a6
+7. Ba4 b5 8. Nxb5 axb5 9. Bxb5 Rb8 10. a4 e6 11. d5 exd5
+12. exd5 Rxb5 13. axb5 Nd8 14. O-O Be7 15. c4 O-O 16. Ra7 Ne8
+17. b6 Qc8 18. Qe1 Bf6 19. bxc7 Nxc7 20. Qe4 Bxf3 21. gxf3 Nf7
+22. f4 Qb8 23. Be3 Re8 24. Qd3 Nh6 25. Kh1 Ng4 26. Bd4 Re7
+27. Rg1 Bxd4 28. Qxd4 Re4 0-1

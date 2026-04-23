@@ -1,0 +1,19 @@
+[Event "Source: Quarterly"]
+[Site "Source: 1871 Quarterly"]
+[Date "1871.06.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Samuel Rosenthal"]
+[Black "Count Isouard"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "31"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. O-O gxf3 6. Qxf3
+Qf6 7. e5 Qxe5 8. Bxf7+ Kxf7 9. d4 Qf6 10. Bxf4 Bg7 11. Qh5+
+Qg6 12. Bd6+ Ke8 13. Qe5+ Qe6 14. Qxg7 Qxd6 15. Rae1+ Qe7
+16. Qf8# 1-0

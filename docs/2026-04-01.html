@@ -1,0 +1,200 @@
+<html>
+
+<head>
+  <meta name="keywords" content="chess, chess games, ajedrez, scacchi, schach, PGN">
+  <title>Schlechter vs Lasker (1910) Kings of Infinite Space</title>
+
+  <style type="text/css">
+    HR {
+      size: 1
+    }
+
+    A {
+      text-decoration: none
+    }
+
+    A:hover {
+      color: #FF0000;
+      text-decoration: underline
+    }
+
+    SELECT {
+      background: #DDDDDD;
+      font-family: Verdana, Arial, Helvetica;
+      font-size: 8pt;
+      border-color: #FFFFFF #777777 #777777 #FFFFFF;
+    }
+
+    .fixedText {
+      width: 344px;
+      padding: 1px;
+      border-style: solid;
+      border-color: #996633;
+      border-width: 1px;
+      background-color: #FFFFDD;
+      font-family: Verdana, Arial, Helvetica, sans-serif;
+      font-size: 9px
+    }
+  </style>
+
+  <!-- start OLGA header -->
+  <!-- meta charset="utf-8" -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <div id="olga-data" sessid="1" color_light="#FFCC99" color_dark="#CC9966" labels="Y" pgn='[Event "Lasker - Schlechter World Championship Match"]
+[Site "Berlin GER"]
+[Date "1910.01.30"]
+[EventDate "?"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Carl Schlechter"]
+[Black "Emanuel Lasker"]
+[ECO "B32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "96"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Bc4 d6 7. Nxc6 bxc6 8. e5 Ng4 9. e6 f5 10. O-O Bg7 11. Bf4 Qb6 12. Bb3 Ba6 13. Na4 Qd4 14. Qxd4 Bxd4 15. c4 O-O $1 16. Rad1 Bf6 $1 17. Rfe1 $6 g5 18. Bxd6 $1 18... exd6 19. Rxd6 Be5 20. c5 Rfe8 21. g3 $1 Bf6 22. Rxc6 Bb7 23. Rc7 Be4 24. Nc3 Bxc3 25. bxc3 Ne5 26. Rd1 Nf3+ 27. Kf1 Nxh2+ 28. Ke1 Nf3+ 29. Ke2 Ne5 30. Rdd7 30... f4 31. Rg7+ Kh8 32. Rxg5 Bd3+ 33. Kd1 fxg3 $1 34. fxg3 Ng6 35. Rd5 Be4 36. Rd6 Bf5 37. Bd5 Rab8 38. c6 Nf8 39. Rb7 Rbc8 40. e7 Ng6 41. Bf7 Rxe7 42. Bxg6 Bg4+ 43. Kc1 Re1+ 44. Kb2 hxg6 45. Rxg6 Bf5 46. Rf6 Be4 47. Rxa7 Rb1+ 48. Ka3 Bxc6 1/2-1/2' ratio="80" notes='[0,"Notes by J. R. Capablanca.",15,"Of course if 8...dxe5 9.Bxf7+.",16,"The advance of this pawnso early in the game is at least very risky. Black&rsquo;s game is perfectly safe, while White hto struggle to protect this advanced pawn.",21,"If 11...d5 12.Nxd5 cxd5 13.Qxd5 winning.",31,"16...c5 was the alternative ; in which case White would probably play 17.Nc3 Bxc3 18.bxc3 Kg7 19.Rfe1, and White&rsquo;s game seems good.",34,"Played with very fine judgement. The pawn at e6 which was weak becomes very strong now.",38,"Fine. If 20...Bxd6 21.cxd6 and the two white pawns would become irresistable. This is one of the finest games of the match. Black has to play with great caution to avoid White&rsquo;s many threats.",40,"If 21.h3 Bh2+ 22.Kh1 Bxd6 23.cxd6 Nxf2+ 24.Kh2 Ne4, and if 21.f3 Bxh2+ 22.Kh1 Bg3, or perhaps 22.Bxd6 23.cxd6 Nf2+ 24.Kh2 Nd3.",43,"Black might have played here 22...Bb5 23.Rd6 Rac8, with what appears to be a very good game. If in answer to 22...Bb5 23.Rc7 then 23...Re7, or if 23.e7+ in answer to 22...Bb5 then 23...Kg7 24.Rc7 Ne5 25.Re3 f4 26.Re4 Nf3+ 27.Kg2 Nd2 and Black&rsquo;s game looks very good.",67,"All this play is very fine. Unfortunately for Black, he has no pawns left by the time the attack is over."]'>
+  </div>
+  <script src="https://cdn.bootcss.com/chess.js/0.10.2/chess.js"></script>
+  <link href="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.css" rel="stylesheet">
+  <link href="./assets/chessboard.min.css" rel="stylesheet">
+  <script src="https://cdn.bootcss.com/jquery/3.6.4/jquery.js"></script>
+  <script src="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.js"></script>
+  <script src="./assets/chessboard.min.js"></script>
+  <script src="./assets/olga.js"></script>
+  <link rel="stylesheet" href="./assets/olga.css">
+  <style>
+    .ui-widget-content {
+      background: #cedc98;
+      border: 1px solid #DDDDDD;
+      color: #333333;
+    }
+  </style>
+  <script type="text/javascript">
+    var startLoading = function () {
+      $.prototype.offset = function () {
+        return {
+          left: this[0].offsetLeft,
+          top: this[0].offsetTop
+        };
+      };
+      var board = ChessBoard("board", {
+        draggable: false,
+        position: ''
+      });
+      setTimeout(initializeOLGA('board_container', 'board', 'notes', 'score_box', 'variations', 'vb', 'status',
+        'status_t', 'auto_button', 'alpha-d2270', 'numeric-fc462'), 5);
+    }
+  </script>
+  <!-- end OLGA header -->
+  <script type="text/javascript">
+    function OpenWin(pagename) {
+      SmallWin = window.open(pagename, 'popup', 'scrollbars,resizable,toolbar=no,height=394,width=412,left=200,top=200');
+      if (window.focus) {
+        SmallWin.focus();
+      }
+    }
+  </script>
+</head>
+
+<body bgcolor="#FFFFFF" vlink="#9900FF" link="#0000FF" onload="startLoading();">
+  <center>
+    <font face="verdana,arial,helvetica" size=+1>
+      <B>Schlechter</B>
+      <font color=#333333>vs</font>
+      <B>Lasker</B>
+    </font>
+    <br>
+    <font face="georgia,palatino,times new roman,times" size=-1>
+      <B>"Kings of Infinite Space"</B>
+      <font size=-2>(game of the day 2026-04-01)</font>
+      <br> Lasker - Schlechter World Championship Match (1910.01.30), Berlin GER
+      <br> Sicilian(B32)
+      <B>&#183;</B>&nbsp; 1/2-1/2
+    </font>
+  </center>
+  <font size="2">
+
+    <!--beginolga-->
+    <div id="board_container" class="totem">
+      <div id="board" style="margin:auto;"></div>
+      <div id="pgn_buttons" class="button_row">
+        <button id="startB" type="button" class="pgn_buttonc">&#171;</button>
+        <button id="prevB" type="button" class="pgn_buttona">&lt;</button>
+        <button id="nextB" type="button" class="pgn_buttonb">&gt;</button>
+        <button id="endB" type="button" class="pgn_buttonc">&#187;</button>
+        <button id="autoB" type="button" class="pgn_buttonc">+</button>
+      </div>
+      <div id="status_t"></div>
+    </div>
+    <div id="variations" class="totem-toggle variations">
+      <div class="analysis_t">ANALYSIS
+        <a id="ab" onclick="exitVariation();">[
+          <font style="color:#0000ff;font-weight:bold;">x</font>]</a>
+      </div>
+      <div id="vb" class="variation_box" tabindex="0" onmouseup="disableShortcutKeysAndStoreStatus();" onblur="restoreShortcutKeysStatus();"
+        onfocusout="restoreShortcutKeysStatus();"></div>
+    </div>
+    <div id="lower_container" class="totem">
+      <div id="notes" class="note_box"></div>
+      <div id="score_box" class="score_box"></div>
+      <br/>
+      <div id="board-options" style="display:none">
+        <div class="col-1" style="width:14%;float:left;margin-left: 4%;">
+          <p style="text-align: center; font-size:1.0em; margin-bottom: 2px;">Light
+            <br/>Squares</p>
+          <input type='color' id='lightColor' class="option_item" onInput="setLightColor(this.value);delayedNotify();" />
+        </div>
+        <div class="col-2" style="width:14%;float:left; margin-left:1%;">
+          <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">Dark
+            <br/>Squares</p>
+          <input type='color' id='darkColor' class="option_item" onInput="setDarkColor(this.value);delayedNotify();" />
+        </div>
+        <div class="col-3" style="width:13%;float:left; margin-left:1%;">
+          <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">Flip
+            <br/>Board</p>
+          <input type="image" src="./assets/img/orientation.png" class="option_item" onclick="flipOrientation();" />
+        </div>
+        <div class="col-4" style="width:32px; height:32px;float:left; margin-left: 2%;">
+          <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">&nbsp;
+            <br>Labels</p>
+          <button name="notation" class="option_item" id="notation" onclick="toggleNotation();delayedNotify();">&nbsp;ON&nbsp;</button>
+        </div>
+        <div class="col-5" style="width:8%;float:left; margin-left:4%;">
+          <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">&nbsp;
+            <br>Shrink</p>
+          <input type="image" src="./assets/img/Pawn_sm.png" class="option_item" onclick="downscaleOLGA();delayedNotify();" />
+        </div>
+        <div class="col-6" style="width:8%;float:left; margin-left:4%;">
+          <p style="text-align: center;font-size:1.0em;margin-bottom: 2px;">&nbsp;
+            <br>Grow</p>
+          <input type="image" src="./assets/img/Pawn_big.png" class="option_item" onclick="upscaleOLGA();delayedNotify();" />
+        </div>
+        <div class="col-6" style="width:13%;float:left; margin-left:3%;">
+          <p style="text-align: center;font-size:1.0em;margin-bottom:2px;">&nbsp;
+            <br>Copy</p>
+          <input id="cpy_fen_btn" type="image" src="./assets/img/fen.png" class="option_item" style="border:solid black 1px;" onclick="copyFEN();"
+          />
+        </div>
+      </div>
+
+    </div>
+
+    <div id="status" class="status_toggle">
+      <button class="options_link" onclick="toggleOptions();">
+        <img id="cog_img" src="./assets/img/cog.png" />&nbsp;SETTINGS</button>
+
+      <button class="engine_button" onclick="sendForAnalysis();">
+        <img id="cog_img" src="./assets/img/new_window.png" />&nbsp;ENGINE&nbsp;&nbsp;&nbsp;&nbsp;</button>
+      <div id="fb" class="fen_box"></div>
+    </div>
+    <div id="snackbar">FEN COPIED</div>
+    <!--endolga-->
+
+  </font>
+
+</body>
+
+</html>

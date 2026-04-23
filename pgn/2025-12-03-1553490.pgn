@@ -1,0 +1,17 @@
+[Event "Hungarian Championship"]
+[Site "Budapest HUN"]
+[Date "1970.12.13"]
+[EventDate "1970.12.01"]
+[Round "11"]
+[Result "1-0"]
+[White "Istvan Polgar"]
+[Black "Bela Toth"]
+[ECO "B09"]
+[WhiteElo "2425"]
+[BlackElo "2365"]
+[PlyCount "43"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.f4 Bg7 5.Nf3 O-O 6.Bd3 Nc6 7.e5
+Ng4 8.h3 Nh6 9.g4 b6 10.O-O Bb7 11.Be4 Qd7 12.f5 gxf5 13.gxf5
+Nxf5 14.Ng5 e6 15.Nxh7 Kxh7 16.Rxf5 exf5 17.Qh5+ Kg8 18.Nd5
+fxe4 19.Nf6+ Bxf6 20.exf6 Ne5 21.Qg5+ Ng6 22.Qh6 1-0

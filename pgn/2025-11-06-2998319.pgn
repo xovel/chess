@@ -1,0 +1,31 @@
+[Event "FIDE World Cup"]
+[Site "Goa IND"]
+[Date "2025.11.05"]
+[EventDate "2025.11.01"]
+[Round "2.2"]
+[Result "1-0"]
+[White "Titas Stremavicius"]
+[Black "Wesley So"]
+[ECO "D37"]
+[WhiteElo "2544"]
+[BlackElo "2764"]
+[Source "Lichess"]
+[PlyCount "144"]
+[WhiteTeam "Lithuania"]
+[BlackTeam "USA"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Be7 5. cxd5 exd5
+6. Bf4 c6 7. h3 Qb6 8. Qc2 g6 9. e3 Bf5 10. Qc1 O-O
+11. g4 Be4 12. Be2 Nbd7 13. O-O Bxf3 14. Bxf3 Qd8 15. Qc2 Ne8
+16. e4 dxe4 17. Bxe4 Ndf6 18. Rad1 Nc7 19. Bg2 Qd7 20. Qb3 Ncd5
+21. Be5 Rfe8 22. g5 Nxc3 23. gxf6 Nxd1 24. fxe7 Nxf2 25. Bf6 Rxe7
+26. Bxe7 Qxe7 27. Rxf2 Rd8 28. d5 cxd5 29. Bxd5 Qg5+ 30. Bg2 Rd7
+31. Qc3 Qe7 32. Rf1 b6 33. Re1 Qd8 34. Qe5 Rd1 35. Rxd1 Qxd1+
+36. Kh2 h5 37. a3 h4 38. Qe8+ Kg7 39. Qe3 Kg8 40. Qf2 Qd8
+41. Kg1 Qg5 42. Qd4 Qg3 43. Kf1 Kh7 44. Qc3 Qg5 45. Bc6 Qe7
+46. Bf3 Qd6 47. Be2 Qf4+ 48. Ke1 f5 49. Kd1 Kh6 50. Qd2 Kg5
+51. Bb5 Qxd2+ 52. Kxd2 Kf4 53. Be8 g5 54. Bd7 g4 55. hxg4 fxg4
+56. Ke2 g3 57. Bc6 Ke5 58. Ke3 h3 59. Bd7 h2 60. Bc6 Kd6
+61. Bg2 Kc5 62. b3 a5 63. Kd3 b5 64. Bf3 Kd6 65. Kd4 Ke6
+66. Be4 Kf6 67. Kd5 Kg5 68. Ke5 Kg4 69. Bg2 Kg5 70. a4 b4
+71. Ke4 Kg4 72. Ke3 1-0

@@ -2,7 +2,7 @@
 
 module.exports = function parsePGN(pgnText) {
 
-  const regText = /(\d+)\. ?([^ ]+ )(\{([^}]+)\} )?([^ ]+ )(\{([^}]+)\} )?/g;
+  const regText = /(\d+)\. ?([^ ]+ +)(\{([^}]+)\} +)?([^ ]+ +)(\{([^}]+)\} +)?/g;
   const regText2 = new RegExp(regText.source);
   const regProp = /\[(\w+) "([^"]+)"\]/g;
   const regProp2 = new RegExp(regProp.source);

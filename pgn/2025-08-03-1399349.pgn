@@ -1,0 +1,16 @@
+[Event "Paris"]
+[Site "Paris FRA"]
+[Date "1937.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Ossip Bernstein"]
+[Black "Savielly Tartakower"]
+[ECO "C41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "26"]
+
+1.e4 e5 2.Nf3 d6 3.d4 Nf6 4.dxe5 Nxe4 5.Bc4 Be6 6.Bxe6 fxe6
+7.Qe2 d5 8.Qb5+ Nc6 9.Nd4 Qd7 10.Qxb7 Bb4+ 11.c3 Nxd4 12.Qxa8+
+Kf7 13.Qxh8 Qb5 0-1

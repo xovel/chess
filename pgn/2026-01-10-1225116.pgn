@@ -1,0 +1,17 @@
+[Event "San Francisco"]
+[Site "San Francisco, CA USA"]
+[Date "1979.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "J Cesena"]
+[Black "J Dyke"]
+[ECO "C57"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "38"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 Bc5 5.Nxf7 Bxf2+ 6.Kf1 Qe7
+7.Nxh8 d5 8.exd5 Bg4 9.Be2 Bxe2+ 10.Qxe2 Nd4 11.Qxf2 O-O-O
+12.c3 Rf8 13.cxd4 Ng4 14.Qxf8+ Qxf8+ 15.Ke1 Qf2+ 16.Kd1 exd4
+17.Re1 d3 18.h3 Qf3+ 19.gxf3 Nf2# 0-1

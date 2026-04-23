@@ -1,0 +1,16 @@
+[Event "Lucerne Olympiad"]
+[Site "Lucerne SUI"]
+[Date "1982.11.08"]
+[EventDate "1982.10.30"]
+[Round "9"]
+[Result "1-0"]
+[White "Alexander Beliavsky"]
+[Black "Michael Francis Stean"]
+[ECO "B97"]
+[WhiteElo "2620"]
+[BlackElo "2420"]
+[PlyCount "29"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4
+Qb6 8.Qd2 Qxb2 9.Nb3 Nbd7 10.Bd3 b5 11.O-O Nc5 12.Nxc5 dxc5
+13.Bxf6 gxf6 14.Rab1 Qa3 15.Nxb5 1-0
