@@ -9,6 +9,10 @@ const cheerio = require('cheerio');
 const wFile = require('./util/wFile');
 const dateFormat = require('./util/dateFormat');
 
+if (!fs.existsSync('temp')) {
+  fs.mkdirSync('temp');
+}
+
 const now = new Date();
 
 const mapMonth = {
@@ -77,6 +81,9 @@ async function updatePGNJson() {
   const result = await page.evaluate(async function () {
     return await fetch('https://www.chessgames.com/perl/gamesoftheday').then(res => res.text());
   });
+
+  const tempFilePath = path.join(__dirname, 'temp', `god-${curDate}-${Date.now()}.html`);
+  await wFile(tempFilePath, result);
 
   const $ = cheerio.load(result);
   const $list = $('a[href^="/perl/chessgame"]');
