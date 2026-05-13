@@ -1,6 +1,166 @@
 {
-  "update": "2026-04-23",
+  "update": "2026-05-13",
   "list": [
+    {
+      "date": "2026-05-13",
+      "year": "1989",
+      "players": "A Hoffmann vs A Wojtkiewicz",
+      "link": "/perl/chessgame?gid=1149065",
+      "id": "1149065",
+      "note": "Steal This Game"
+    },
+    {
+      "date": "2026-05-12",
+      "year": "1989",
+      "players": "Clark vs G Burgess",
+      "link": "/perl/chessgame?gid=1751383",
+      "id": "1751383",
+      "note": "Clark Can't"
+    },
+    {
+      "date": "2026-05-11",
+      "year": "1990",
+      "players": "S Mariotti vs A Testa",
+      "link": "/perl/chessgame?gid=1093435",
+      "id": "1093435",
+      "note": "When in Rome Do as Armando"
+    },
+    {
+      "date": "2026-05-10",
+      "year": "2011",
+      "players": "Morozevich vs Vitiugov",
+      "link": "/perl/chessgame?gid=1641841",
+      "id": "1641841",
+      "note": "Look at my horse, my horse is amazing!"
+    },
+    {
+      "date": "2026-05-09",
+      "year": "1965",
+      "players": "I Zarcula vs Calugaru",
+      "link": "/perl/chessgame?gid=1076616",
+      "id": "1076616",
+      "note": "Das Matingnet for Doktor Calugaru"
+    },
+    {
+      "date": "2026-05-08",
+      "year": "1958",
+      "players": "F Olafsson vs Fischer",
+      "link": "/perl/chessgame?gid=1044472",
+      "id": "1044472",
+      "note": "The Corduroy Killer"
+    },
+    {
+      "date": "2026-05-07",
+      "year": "2026",
+      "players": "P Anand vs S Movahed",
+      "link": "/perl/chessgame?gid=3148964",
+      "id": "3148964",
+      "note": "Beast of Baku"
+    },
+    {
+      "date": "2026-05-06",
+      "year": "1996",
+      "players": "M Porubszky-Angyalosine vs S Biro",
+      "link": "/perl/chessgame?gid=2382204",
+      "id": "2382204",
+      "note": "Pen Commandments"
+    },
+    {
+      "date": "2026-05-05",
+      "year": "1943",
+      "players": "Saemisch vs A Medina Garcia",
+      "link": "/perl/chessgame?gid=1120259",
+      "id": "1120259",
+      "note": "Funky Cool Opening, Medina"
+    },
+    {
+      "date": "2026-05-04",
+      "year": "1995",
+      "players": "Gipslis vs P Issing",
+      "link": "/perl/chessgame?gid=1051530",
+      "id": "1051530",
+      "note": "P Issing down"
+    },
+    {
+      "date": "2026-05-03",
+      "year": "1947",
+      "players": "J Foltys vs Golombek",
+      "link": "/perl/chessgame?gid=1259463",
+      "id": "1259463",
+      "note": "The Trouble With Harry"
+    },
+    {
+      "date": "2026-05-02",
+      "year": "1971",
+      "players": "T Oim vs Tal",
+      "link": "/perl/chessgame?gid=1139998",
+      "id": "1139998",
+      "note": "Things Tal Apart; The Centre Cannot Hold"
+    },
+    {
+      "date": "2026-05-01",
+      "year": "1979",
+      "players": "G Cabrilo vs I Lovass",
+      "link": "/perl/chessgame?gid=2248039",
+      "id": "2248039",
+      "note": "Bum Steer"
+    },
+    {
+      "date": "2026-04-30",
+      "year": "1946",
+      "players": "C J Corte vs J Bolbochan",
+      "link": "/perl/chessgame?gid=1031149",
+      "id": "1031149",
+      "note": "Corte the Killer"
+    },
+    {
+      "date": "2026-04-29",
+      "year": "1953",
+      "players": "Spassky vs Smyslov",
+      "link": "/perl/chessgame?gid=1125697",
+      "id": "1125697",
+      "note": "In Soviet Russia, Boris Beats You"
+    },
+    {
+      "date": "2026-04-28",
+      "year": "1874",
+      "players": "A P Barnes vs NN",
+      "link": "/perl/chessgame?gid=3061175",
+      "id": "3061175",
+      "note": "Odds and NNs"
+    },
+    {
+      "date": "2026-04-27",
+      "year": "1974",
+      "players": "A McCarthy vs L Penny",
+      "link": "/perl/chessgame?gid=1453285",
+      "id": "1453285",
+      "note": "Penny Dreadful"
+    },
+    {
+      "date": "2026-04-26",
+      "year": "1994",
+      "players": "J Carleton vs G Pyrich",
+      "link": "/perl/chessgame?gid=1722668",
+      "id": "1722668",
+      "note": "Pyrich Victory"
+    },
+    {
+      "date": "2026-04-25",
+      "year": "1993",
+      "players": "Aronian vs I Khamrakulova",
+      "link": "/perl/chessgame?gid=1397162",
+      "id": "1397162",
+      "note": "The 99 Percent"
+    },
+    {
+      "date": "2026-04-24",
+      "year": "1845",
+      "players": "S Dubois vs W G Moore",
+      "link": "/perl/chessgame?gid=1278825",
+      "id": "1278825",
+      "note": "Let's hear it for Dubois!"
+    },
     {
       "date": "2026-04-23",
       "year": "1921",

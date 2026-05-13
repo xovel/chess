@@ -1,0 +1,17 @@
+[Event "Rome"]
+[Site "Rome ITA"]
+[Date "1845.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Serafino Dubois"]
+[Black "Moore"]
+[ECO "C51"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.O-O Bb6 7.d4
+exd4 8.cxd4 d6 9.d5 Na5 10.Nc3 Nxc4 11.Qa4+ Bd7 12.Qxc4 Nf6
+13.e5 dxe5 14.Ba3 c6 15.Rfe1 Qc7 16.Rxe5+ Kd8 17.d6 Qc8 18.Ng5
+Bxf2+ 19.Kxf2 Ng4+ 20.Qxg4 Bxg4 21.Nxf7+ Kd7 22.Re7# 1-0

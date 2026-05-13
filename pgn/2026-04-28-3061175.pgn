@@ -1,0 +1,19 @@
+[Event "Odds game (Ra1, Nb1)"]
+[Site "Jersey City, NJ USA"]
+[Date "1874.??.??"]
+[EventDate "1874.??.??"]
+[Round "?"]
+[Result "1-0"]
+[White "Albert P Barnes"]
+[Black "NN"]
+[ECO "000"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Source "The Spirit of the Times (New York), 1874.12.26, p483"]
+[PlyCount "24"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/2BQKBNR w Kkq - 0 1"]
+
+1.e4 e5 2.d4 exd4 3.c3 dxc3 4.Bc4 Nc6 5.a3 Nce7  6.Nf3 a6 7.O-O b5
+8.Ba2 c6 9.Ng5 Nh6 10.Qb3 Qa5 11.Re1 cxb2 12.Rd1 bxc1=Q {White
+announced mate in three moves.} 1-0
